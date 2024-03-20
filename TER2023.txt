@@ -1,0 +1,61 @@
+3 Goals :
+Sensation ?
+Action ? 
+objectif
+
+different de supervised learning car le supervised donne un set de données avec les réponses avec , permettant d'entrainer le prog à généraliser
+Unsupervised learning =/= maximiser une val positive plutot que de deceler des correspondances.
+(objectif numéro uno)
+Problème notable : Pour maximiser le prog doit à la foit exploiter ce qu'il sait d'efficace, mais incité à explorer pour decouvrir des choix plus opti
+exploitation-exploration dilemna;
+Important de définir les problèmes et sous problèmes pour son agent
+Naviguer avec l'incertitude
+Connaissance de l'évolution de la tâche
+4 éléments : 
+policy => comportement a un moment donné
+reward signal => valeur attribuée à un choix de l'agent avec pour objectif de recompenser les meilleurs choix 
+value function => long term value et defini les choix
+model
+Point principal => bien determiner la value
+choix d'explorations => permet d'agrandir les connaissances 
+rafiner les value overtime
+La généralisation permet au programme d'être efficace sur un très large panel de donné sans pour autant les connaitres
+( cf 10^123 parties d'echec possible)
+
+
+// Relation extraction
+Comment determiner les relations : les mots en eux mêmes , ce qui les sépare dans la phrase, leur type, 
+Méthode noyau : 2 phrases, calcule leur ressemblance en regardant leurs sous-séquences de mots en commun
+Tree kernels :
+arbres syntaxiques partiels + précis
+si deux entité partage un sous arbre elles sont en lien
+
+
+// RDV 
+split en tableaux de mots 
+reconnu dans jdm?
+A => B 
+Algo : split txt 
+on recupere dans jdm les ID 
+Ca permet d'avoir le type du mot
+( on garde en cache la value )
+schéma = chaine de caractères
+r_is_a
+
+r_aspart
+r_processusvertagent
+r_can_eat
+r_as_symptom
+r_time ( aussi event)
+object_matter
+r_own
+r_domain 
+r_lieu
+r_instrument
+r_telic_role
+r_agentif_role : érige une statue
+r_has_conseq
+r_has_causatif
+r_make
+
+inférence = si 'je sais pas' => 

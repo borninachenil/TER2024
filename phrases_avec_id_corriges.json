@@ -1,0 +1,5223 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "142263"
+        },
+        {
+            "mot": "rhinopharyngite",
+            "id": "1402"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "nasopharyngite",
+            "id": "274260"
+        },
+        {
+            "mot": "communément"
+        },
+        {
+            "mot": "nommée"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "banal",
+            "id": "91304"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "infection",
+            "id": "11126"
+        },
+        {
+            "mot": "fréquente"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "généralement"
+        },
+        {
+            "mot": "bénigne"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "voies",
+            "id": "6052"
+        },
+        {
+            "mot": "aériennes"
+        },
+        {
+            "mot": "supérieures"
+        },
+        {
+            "mot": "cavité"
+        },
+        {
+            "mot": "nasale",
+            "id": "149268"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "pharynx",
+            "id": "88035"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "souvent",
+            "id": "120282"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "famille",
+            "id": "98300"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "picornaviridés"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "inclut",
+            "id": "2047705"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "rhinovirus",
+            "id": "1924676"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "adénovirus"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "coronavirus",
+            "id": "265692"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "principaux",
+            "id": "399629"
+        },
+        {
+            "mot": "symptômes"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "banal",
+            "id": "91304"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "rhinite",
+            "id": "130951"
+        },
+        {
+            "mot": "éternuements"
+        },
+        {
+            "mot": "congestion",
+            "id": "9878"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "écoulement"
+        },
+        {
+            "mot": "nasal",
+            "id": "54954"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "mucus",
+            "id": "62819"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "toux",
+            "id": "114904"
+        },
+        {
+            "mot": "sèche"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "productive",
+            "id": "398812"
+        },
+        {
+            "mot": "peu",
+            "id": "39409"
+        },
+        {
+            "mot": "fréquente"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "tardive",
+            "id": "162903"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "pharyngite",
+            "id": "97856"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "conjonctivite",
+            "id": "10533"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "myalgies",
+            "id": "2231359"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "fatigue",
+            "id": "146295"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "maux",
+            "id": "153407"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "tête"
+        },
+        {
+            "mot": "mais",
+            "id": "54228"
+        },
+        {
+            "mot": "généralement"
+        },
+        {
+            "mot": "pas",
+            "id": "27672"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "fièvre"
+        },
+        {
+            "mot": "quand",
+            "id": "55676"
+        },
+        {
+            "mot": "il",
+            "id": "87252"
+        },
+        {
+            "mot": "y",
+            "id": "112765"
+        },
+        {
+            "mot": "a",
+            "id": "143767"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "fièvre"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "ce",
+            "id": "48804"
+        },
+        {
+            "mot": "surtout",
+            "id": "20938"
+        },
+        {
+            "mot": "chez",
+            "id": "115973"
+        },
+        {
+            "mot": "l'enfant",
+            "id": "251252600"
+        },
+        {
+            "mot": "où"
+        },
+        {
+            "mot": "elle",
+            "id": "47186"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "fréquente"
+        },
+        {
+            "mot": "elle",
+            "id": "47186"
+        },
+        {
+            "mot": "ne",
+            "id": "145410"
+        },
+        {
+            "mot": "dépasse"
+        },
+        {
+            "mot": "pas",
+            "id": "27672"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "-",
+            "id": "265163"
+        },
+        {
+            "mot": "°C"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "perte",
+            "id": "47286"
+        },
+        {
+            "mot": "d’appétit"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "douleurs",
+            "id": "147831"
+        },
+        {
+            "mot": "diffuses",
+            "id": "403716"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "moitié"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "cas)"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "173174"
+        },
+        {
+            "mot": "s’agit"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "l’infection"
+        },
+        {
+            "mot": "respiratoire",
+            "id": "23461"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "fréquente"
+        },
+        {
+            "mot": "chez",
+            "id": "115973"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "jeunes",
+            "id": "19177"
+        },
+        {
+            "mot": "enfants",
+            "id": "34527"
+        }
+    ],
+    [
+        {
+            "mot": "Étymologie"
+        },
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "mot",
+            "id": "32132"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "emprunté"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "bas",
+            "id": "13910"
+        },
+        {
+            "mot": "latin",
+            "id": "102382"
+        },
+        {
+            "mot": "rheuma"
+        },
+        {
+            "mot": "signifiant",
+            "id": "33808"
+        },
+        {
+            "mot": "flux",
+            "id": "52044"
+        },
+        {
+            "mot": "marin",
+            "id": "39621"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "catarrhe",
+            "id": "48230"
+        },
+        {
+            "mot": "terme",
+            "id": "144149"
+        },
+        {
+            "mot": "lui-même"
+        },
+        {
+            "mot": "emprunté"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "grec",
+            "id": "126963"
+        },
+        {
+            "mot": "rheuma"
+        },
+        {
+            "mot": "signifiant",
+            "id": "33808"
+        },
+        {
+            "mot": "eau",
+            "id": "65012"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "coule",
+            "id": "140265"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "s'est"
+        },
+        {
+            "mot": "spécialisé"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "médecine"
+        },
+        {
+            "mot": "initialement",
+            "id": "68665"
+        },
+        {
+            "mot": "pour",
+            "id": "69714"
+        },
+        {
+            "mot": "tout",
+            "id": "136232"
+        },
+        {
+            "mot": "type",
+            "id": "15235"
+        },
+        {
+            "mot": "d'écoulement"
+        },
+        {
+            "mot": "corporel",
+            "id": "41151"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "mot",
+            "id": "32132"
+        },
+        {
+            "mot": "dérive"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "grec",
+            "id": "126963"
+        },
+        {
+            "mot": "rhein"
+        },
+        {
+            "mot": "couler",
+            "id": "44726"
+        },
+        {
+            "mot": "qu'on",
+            "id": "12048673"
+        },
+        {
+            "mot": "retrouve",
+            "id": "2117693"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "suffixe",
+            "id": "140566"
+        },
+        {
+            "mot": "-rrhée"
+        },
+        {
+            "mot": "cf",
+            "id": "43206"
+        }
+    ],
+    [
+        {
+            "mot": "diarrhée)"
+        }
+    ],
+    [
+        {
+            "mot": "Outre",
+            "id": "415019"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "rhinopharyngite",
+            "id": "1402"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "terme",
+            "id": "144149"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "aussi",
+            "id": "127553"
+        },
+        {
+            "mot": "désigner"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "rhinite",
+            "id": "130951"
+        },
+        {
+            "mot": "ayant",
+            "id": "147459"
+        },
+        {
+            "mot": "pour",
+            "id": "69714"
+        },
+        {
+            "mot": "cause",
+            "id": "28044"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "foins",
+            "id": "148176"
+        },
+        {
+            "mot": "rhinite",
+            "id": "130951"
+        },
+        {
+            "mot": "allergique",
+            "id": "114299"
+        },
+        {
+            "mot": "l'allergie"
+        },
+        {
+            "mot": "aux",
+            "id": "114644"
+        },
+        {
+            "mot": "pollens",
+            "id": "420506"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "cerveau",
+            "id": "39031"
+        },
+        {
+            "mot": "coryza",
+            "id": "11083"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "aussi",
+            "id": "127553"
+        },
+        {
+            "mot": "d’autres"
+        },
+        {
+            "mot": "types",
+            "id": "223792"
+        },
+        {
+            "mot": "d’infections"
+        },
+        {
+            "mot": "comme",
+            "id": "66765"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "synovite",
+            "id": "99658"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "hanche)"
+        }
+    ],
+    [
+        {
+            "mot": "Mode",
+            "id": "153749"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "transmission",
+            "id": "52396"
+        },
+        {
+            "mot": "L'infection"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "rhinovirus",
+            "id": "1924676"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "cause",
+            "id": "28044"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "fréquente"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "infections",
+            "id": "431312"
+        },
+        {
+            "mot": "respiratoires",
+            "id": "398669"
+        },
+        {
+            "mot": "bénignes"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "autres",
+            "id": "252578"
+        },
+        {
+            "mot": "étant"
+        },
+        {
+            "mot": "dues",
+            "id": "423891"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "divers",
+            "id": "123927"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "coronavirus",
+            "id": "265692"
+        },
+        {
+            "mot": "adénovirus"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "respiratoire",
+            "id": "23461"
+        },
+        {
+            "mot": "syncytial",
+            "id": "26170"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "influenza",
+            "id": "18531"
+        },
+        {
+            "mot": "responsable",
+            "id": "109771"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "grippe",
+            "id": "142599"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "para",
+            "id": "17334"
+        },
+        {
+            "mot": "influenza",
+            "id": "18531"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "responsables",
+            "id": "398630"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "banal",
+            "id": "91304"
+        },
+        {
+            "mot": "se",
+            "id": "37671"
+        },
+        {
+            "mot": "transmettent",
+            "id": "2100895"
+        },
+        {
+            "mot": "entre",
+            "id": "112624"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "individus",
+            "id": "161164"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "deux",
+            "id": "5292"
+        },
+        {
+            "mot": "façons"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "aérosol"
+        },
+        {
+            "mot": "engendré"
+        },
+        {
+            "mot": "lors",
+            "id": "40797"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "toux",
+            "id": "114904"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "l’éternuement"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "contact",
+            "id": "83098"
+        },
+        {
+            "mot": "avec",
+            "id": "91719"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "salive",
+            "id": "106554"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "sécrétions"
+        },
+        {
+            "mot": "nasales",
+            "id": "400507"
+        },
+        {
+            "mot": "contaminées"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "inhalé"
+        },
+        {
+            "mot": "contamine",
+            "id": "2157063"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "cellules",
+            "id": "154814"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "nasopharynx",
+            "id": "9321"
+        },
+        {
+            "mot": "l’espace"
+        },
+        {
+            "mot": "situé"
+        },
+        {
+            "mot": "entre",
+            "id": "112624"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "nez",
+            "id": "107477"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "gorge",
+            "id": "145569"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "se",
+            "id": "37671"
+        },
+        {
+            "mot": "multiplie",
+            "id": "2230612"
+        },
+        {
+            "mot": "rapidement",
+            "id": "31576"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "points",
+            "id": "6955"
+        },
+        {
+            "mot": "d’entrée"
+        },
+        {
+            "mot": "principaux",
+            "id": "399629"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "nez",
+            "id": "107477"
+        },
+        {
+            "mot": "mais",
+            "id": "54228"
+        },
+        {
+            "mot": "aussi",
+            "id": "127553"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "yeux",
+            "id": "77008"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "ce",
+            "id": "48804"
+        },
+        {
+            "mot": "cas",
+            "id": "34848"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "contamination",
+            "id": "30330"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "nasopharynx",
+            "id": "9321"
+        },
+        {
+            "mot": "s’effectue"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "drainage",
+            "id": "92399"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "liquide",
+            "id": "140315"
+        },
+        {
+            "mot": "via",
+            "id": "107495"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "canal",
+            "id": "68128"
+        },
+        {
+            "mot": "lacrymonasal)"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "142263"
+        },
+        {
+            "mot": "période"
+        },
+        {
+            "mot": "d'incubation"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "général"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "deux",
+            "id": "5292"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "cinq",
+            "id": "82552"
+        },
+        {
+            "mot": "jours",
+            "id": "33727"
+        },
+        {
+            "mot": "parfois",
+            "id": "76340"
+        },
+        {
+            "mot": "moins",
+            "id": "111397"
+        }
+    ],
+    [
+        {
+            "mot": "Mode",
+            "id": "153749"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "propagation",
+            "id": "36040"
+        },
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "se",
+            "id": "37671"
+        },
+        {
+            "mot": "manifeste",
+            "id": "97611"
+        },
+        {
+            "mot": "souvent",
+            "id": "120282"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "temps",
+            "id": "13861"
+        },
+        {
+            "mot": "froid",
+            "id": "49803"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "périodicité"
+        },
+        {
+            "mot": "s’explique"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "40653"
+        },
+        {
+            "mot": "phénomènes"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "promiscuité"
+        },
+        {
+            "mot": "due",
+            "id": "6902"
+        },
+        {
+            "mot": "aux",
+            "id": "114644"
+        },
+        {
+            "mot": "comportements",
+            "id": "221291"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "hiver",
+            "id": "75068"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "transports",
+            "id": "63192"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "commun",
+            "id": "55834"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "restaurants",
+            "id": "30260"
+        },
+        {
+            "mot": "lors",
+            "id": "40797"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "rentrée"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "classes",
+            "id": "58809"
+        },
+        {
+            "mot": "où"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "enfants",
+            "id": "34527"
+        },
+        {
+            "mot": "constituent",
+            "id": "2156712"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "réservoir"
+        },
+        {
+            "mot": "naturel",
+            "id": "38982859"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "favorisant",
+            "id": "82999"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "transmission",
+            "id": "52396"
+        },
+        {
+            "mot": "virale",
+            "id": "155536"
+        },
+        {
+            "mot": "l’air"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "sec",
+            "id": "63619"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "hiver",
+            "id": "75068"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "muqueuse",
+            "id": "73385"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "nez",
+            "id": "107477"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "ainsi",
+            "id": "65002"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "fragile",
+            "id": "90307"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "conséquent"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "vulnérable"
+        },
+        {
+            "mot": "aux",
+            "id": "114644"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "air",
+            "id": "146025"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "sec",
+            "id": "63619"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "microparticules",
+            "id": "246372468"
+        },
+        {
+            "mot": "souvent",
+            "id": "120282"
+        },
+        {
+            "mot": "composées"
+        },
+        {
+            "mot": "d’eau"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "transportent",
+            "id": "2101683"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "légères"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "volatiles",
+            "id": "2098674"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "ainsi",
+            "id": "65002"
+        },
+        {
+            "mot": "aux",
+            "id": "114644"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "se",
+            "id": "37671"
+        },
+        {
+            "mot": "répandre"
+        },
+        {
+            "mot": "beaucoup",
+            "id": "120123"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "facilement",
+            "id": "38277"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "l’air"
+        },
+        {
+            "mot": "ambiant.La"
+        },
+        {
+            "mot": "croyance",
+            "id": "29672"
+        },
+        {
+            "mot": "populaire",
+            "id": "19960"
+        },
+        {
+            "mot": "attribue",
+            "id": "1993286"
+        },
+        {
+            "mot": "aux",
+            "id": "114644"
+        },
+        {
+            "mot": "conditions",
+            "id": "79461"
+        },
+        {
+            "mot": "hivernales",
+            "id": "2044742"
+        },
+        {
+            "mot": "–"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "pluie",
+            "id": "91046"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "froid",
+            "id": "49803"
+        },
+        {
+            "mot": "–"
+        },
+        {
+            "mot": "l'origine",
+            "id": "242332794"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "rhumes",
+            "id": "2118756"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "142263"
+        },
+        {
+            "mot": "plupart",
+            "id": "35937"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "études"
+        },
+        {
+            "mot": "scientifiques",
+            "id": "219798"
+        },
+        {
+            "mot": "suggèrent"
+        },
+        {
+            "mot": "que",
+            "id": "136224"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "hausse",
+            "id": "139785"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "nombre",
+            "id": "125695"
+        },
+        {
+            "mot": "d'infections"
+        },
+        {
+            "mot": "durant",
+            "id": "143649"
+        },
+        {
+            "mot": "l'hiver",
+            "id": "255609972"
+        },
+        {
+            "mot": "serait",
+            "id": "426966"
+        },
+        {
+            "mot": "due",
+            "id": "6902"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "changements",
+            "id": "162346"
+        },
+        {
+            "mot": "comportementaux",
+            "id": "391279"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "qu'une",
+            "id": "16508316"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "grande",
+            "id": "151711"
+        },
+        {
+            "mot": "promiscuité"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "séjours"
+        },
+        {
+            "mot": "prolongés"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "lieux",
+            "id": "135956"
+        },
+        {
+            "mot": "confinés,,,"
+        }
+    ],
+    [
+        {
+            "mot": "Toutefois",
+            "id": "14670793"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "décembre"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "équipe"
+        },
+        {
+            "mot": "rattachée"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "l'université"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "Harvard",
+            "id": "83924"
+        },
+        {
+            "mot": "propose",
+            "id": "435827"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "explication",
+            "id": "41382"
+        },
+        {
+            "mot": "complémentaire"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "établissant"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "baisse",
+            "id": "143339"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "production",
+            "id": "13444"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "vésicules"
+        },
+        {
+            "mot": "extracellulaires",
+            "id": "6084590"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "muqueuses",
+            "id": "573031"
+        },
+        {
+            "mot": "nasales",
+            "id": "400507"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "cas",
+            "id": "34848"
+        },
+        {
+            "mot": "d'exposition"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "froid,,"
+        }
+    ],
+    [
+        {
+            "mot": "Néanmoins"
+        },
+        {
+            "mot": "Sheldon",
+            "id": "81730"
+        },
+        {
+            "mot": "Cohen",
+            "id": "142001"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "professeur",
+            "id": "36568"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "psychologie",
+            "id": "8924"
+        },
+        {
+            "mot": "a",
+            "id": "143767"
+        },
+        {
+            "mot": "constaté"
+        },
+        {
+            "mot": "que",
+            "id": "136224"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "personnes",
+            "id": "101498"
+        },
+        {
+            "mot": "ayant",
+            "id": "147459"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "cercle",
+            "id": "142537"
+        },
+        {
+            "mot": "social",
+            "id": "3143"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "important",
+            "id": "9518"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "diversifié"
+        },
+        {
+            "mot": "ont",
+            "id": "160892"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "l'ordre",
+            "id": "7903358"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "fois",
+            "id": "38021"
+        },
+        {
+            "mot": "moins",
+            "id": "111397"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "probabilités"
+        },
+        {
+            "mot": "d'être"
+        },
+        {
+            "mot": "contaminées"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "que",
+            "id": "136224"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "personnes",
+            "id": "101498"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "isolées"
+        },
+        {
+            "mot": "socialement",
+            "id": "8316"
+        }
+    ],
+    [
+        {
+            "mot": "Prévention"
+        },
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "être"
+        },
+        {
+            "mot": "prévenu"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "l'hygiène"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "lavage",
+            "id": "58314"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "main",
+            "id": "81934"
+        },
+        {
+            "mot": "l'éviction"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "personnes",
+            "id": "101498"
+        },
+        {
+            "mot": "malades",
+            "id": "154374"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "distanciation",
+            "id": "79903"
+        },
+        {
+            "mot": "physique",
+            "id": "43504"
+        }
+    ],
+    [
+        {
+            "mot": "Traitement",
+            "id": "414353"
+        },
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "bénigne"
+        },
+        {
+            "mot": "chez",
+            "id": "115973"
+        },
+        {
+            "mot": "l’adulte"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "guérit"
+        },
+        {
+            "mot": "généralement"
+        },
+        {
+            "mot": "spontanément"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "173174"
+        },
+        {
+            "mot": "n’existe"
+        },
+        {
+            "mot": "aucun",
+            "id": "100646"
+        },
+        {
+            "mot": "traitement",
+            "id": "74419"
+        },
+        {
+            "mot": "médicamenteux"
+        },
+        {
+            "mot": "antiviral",
+            "id": "132110"
+        },
+        {
+            "mot": "reconnu",
+            "id": "29202"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "agisse",
+            "id": "1984999"
+        },
+        {
+            "mot": "sur",
+            "id": "106251"
+        },
+        {
+            "mot": "l’agent"
+        },
+        {
+            "mot": "responsable",
+            "id": "109771"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "banal",
+            "id": "91304"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "antibiotiques",
+            "id": "62894"
+        },
+        {
+            "mot": "ne",
+            "id": "145410"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "ailleurs",
+            "id": "79014"
+        },
+        {
+            "mot": "pas",
+            "id": "27672"
+        },
+        {
+            "mot": "indiqués"
+        },
+        {
+            "mot": "n’ayant"
+        },
+        {
+            "mot": "aucun",
+            "id": "100646"
+        },
+        {
+            "mot": "effet",
+            "id": "90236"
+        },
+        {
+            "mot": "sur",
+            "id": "106251"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "traitement",
+            "id": "74419"
+        },
+        {
+            "mot": "médical"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "revanche",
+            "id": "110460"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "soulager",
+            "id": "56441"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "symptômes"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "congestion",
+            "id": "9878"
+        },
+        {
+            "mot": "nasale",
+            "id": "149268"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "maux",
+            "id": "153407"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "tête"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "traitement",
+            "id": "74419"
+        },
+        {
+            "mot": "préventif"
+        },
+        {
+            "mot": "consiste",
+            "id": "2156146"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "limiter",
+            "id": "104168"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "propagation",
+            "id": "36040"
+        },
+        {
+            "mot": "virale",
+            "id": "155536"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "appliquant",
+            "id": "1989625"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "mesures",
+            "id": "35394"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "comportements-barrière"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "d’hygiène"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "mains",
+            "id": "152543"
+        },
+        {
+            "mot": "afin",
+            "id": "85236"
+        },
+        {
+            "mot": "d’empêcher"
+        },
+        {
+            "mot": "toute",
+            "id": "151036"
+        },
+        {
+            "mot": "diffusion",
+            "id": "49390"
+        },
+        {
+            "mot": "manuportée"
+        }
+    ],
+    [
+        {
+            "mot": "Des",
+            "id": "145021"
+        },
+        {
+            "mot": "dizaines",
+            "id": "271757"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "remèdes"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "grand-mère"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "attestés"
+        },
+        {
+            "mot": "pour",
+            "id": "69714"
+        },
+        {
+            "mot": "soigner",
+            "id": "72805"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "rhumes",
+            "id": "2118756"
+        },
+        {
+            "mot": "mais",
+            "id": "54228"
+        },
+        {
+            "mot": "aucun",
+            "id": "100646"
+        },
+        {
+            "mot": "n'a"
+        },
+        {
+            "mot": "fait",
+            "id": "104957"
+        },
+        {
+            "mot": "ses",
+            "id": "111750"
+        },
+        {
+            "mot": "preuves",
+            "id": "159643"
+        },
+        {
+            "mot": "lors",
+            "id": "40797"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "évaluations"
+        },
+        {
+            "mot": "médicales"
+        }
+    ],
+    [
+        {
+            "mot": "Parmi",
+            "id": "2931856"
+        },
+        {
+            "mot": "ceux-ci",
+            "id": "146983"
+        },
+        {
+            "mot": "on",
+            "id": "102073"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "citer",
+            "id": "27194"
+        },
+        {
+            "mot": "certains",
+            "id": "86318"
+        },
+        {
+            "mot": "remèdes"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "base",
+            "id": "72257"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "plante",
+            "id": "145941"
+        },
+        {
+            "mot": "comme",
+            "id": "66765"
+        },
+        {
+            "mot": "l'échinacée"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "curcuma",
+            "id": "133098"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "soupe",
+            "id": "117152"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "poulet",
+            "id": "146261"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "idées"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "farfelues",
+            "id": "1999330"
+        },
+        {
+            "mot": "comme",
+            "id": "66765"
+        },
+        {
+            "mot": "l'insertion"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "gousses",
+            "id": "277673"
+        },
+        {
+            "mot": "d'ail",
+            "id": "214263739"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "nez",
+            "id": "107477"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "vitamines",
+            "id": "119873"
+        },
+        {
+            "mot": "C",
+            "id": "142716"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "dont",
+            "id": "128170"
+        },
+        {
+            "mot": "l'absorption",
+            "id": "14474845"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "naturellement",
+            "id": "64554"
+        },
+        {
+            "mot": "réduite"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "saison",
+            "id": "30886"
+        },
+        {
+            "mot": "hivernale",
+            "id": "148498"
+        },
+        {
+            "mot": "semblent",
+            "id": "2090270"
+        },
+        {
+            "mot": "pouvoir",
+            "id": "7804"
+        },
+        {
+            "mot": "présenter"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "très"
+        },
+        {
+            "mot": "léger"
+        },
+        {
+            "mot": "effet",
+            "id": "90236"
+        },
+        {
+            "mot": "préventif"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "curatif",
+            "id": "74791"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "64681"
+        },
+        {
+            "mot": "symptomatique",
+            "id": "45117"
+        },
+        {
+            "mot": "mais",
+            "id": "54228"
+        },
+        {
+            "mot": "elles",
+            "id": "72845"
+        },
+        {
+            "mot": "ne",
+            "id": "145410"
+        },
+        {
+            "mot": "combattent",
+            "id": "2151373"
+        },
+        {
+            "mot": "pas",
+            "id": "27672"
+        },
+        {
+            "mot": "directement",
+            "id": "93143"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        },
+        {
+            "mot": "responsable",
+            "id": "109771"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "dont",
+            "id": "128170"
+        },
+        {
+            "mot": "seul",
+            "id": "25090"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "système"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "venir",
+            "id": "77822"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "bout",
+            "id": "56924"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "ailleurs",
+            "id": "79014"
+        },
+        {
+            "mot": "il",
+            "id": "87252"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "déconseillé"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "se",
+            "id": "37671"
+        },
+        {
+            "mot": "survitaminer",
+            "id": "2293097"
+        },
+        {
+            "mot": "l'absorption",
+            "id": "14474845"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "trop",
+            "id": "6226"
+        },
+        {
+            "mot": "grande",
+            "id": "151711"
+        },
+        {
+            "mot": "quantité"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "vitamines",
+            "id": "119873"
+        },
+        {
+            "mot": "pouvant",
+            "id": "1971842"
+        },
+        {
+            "mot": "provoquer",
+            "id": "12134"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "hypervitaminose",
+            "id": "55971"
+        },
+        {
+            "mot": "bien",
+            "id": "114700"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "dangereuse",
+            "id": "153758"
+        },
+        {
+            "mot": "que",
+            "id": "136224"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "soigner",
+            "id": "72805"
+        }
+    ],
+    [
+        {
+            "mot": "De",
+            "id": "2504031"
+        },
+        {
+            "mot": "même"
+        },
+        {
+            "mot": "l'idée"
+        },
+        {
+            "mot": "répandue"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "médias"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "publicité"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "booster",
+            "id": "69284"
+        },
+        {
+            "mot": "son",
+            "id": "51528"
+        },
+        {
+            "mot": "système"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "n'a"
+        },
+        {
+            "mot": "aucun",
+            "id": "100646"
+        },
+        {
+            "mot": "sens",
+            "id": "30369"
+        },
+        {
+            "mot": "médical"
+        },
+        {
+            "mot": "il",
+            "id": "87252"
+        },
+        {
+            "mot": "n'existe"
+        },
+        {
+            "mot": "aucun",
+            "id": "100646"
+        },
+        {
+            "mot": "stade",
+            "id": "134065"
+        },
+        {
+            "mot": "au-dessus",
+            "id": "130688"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "simple",
+            "id": "53269"
+        },
+        {
+            "mot": "bonne",
+            "id": "1154"
+        },
+        {
+            "mot": "santé"
+        },
+        {
+            "mot": "assurée"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "alimentation",
+            "id": "113902"
+        },
+        {
+            "mot": "saine",
+            "id": "154198"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "exercice",
+            "id": "81843"
+        },
+        {
+            "mot": "physique",
+            "id": "43504"
+        },
+        {
+            "mot": "régulier"
+        }
+    ],
+    [
+        {
+            "mot": "Complications",
+            "id": "16785054"
+        },
+        {
+            "mot": "Bien",
+            "id": "394867"
+        },
+        {
+            "mot": "que",
+            "id": "136224"
+        },
+        {
+            "mot": "bénignes"
+        },
+        {
+            "mot": "ces",
+            "id": "2021414"
+        },
+        {
+            "mot": "infections",
+            "id": "431312"
+        },
+        {
+            "mot": "présentent"
+        },
+        {
+            "mot": "toutefois",
+            "id": "119109"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "risque",
+            "id": "146003"
+        },
+        {
+            "mot": "chez",
+            "id": "115973"
+        },
+        {
+            "mot": "certains",
+            "id": "86318"
+        },
+        {
+            "mot": "sujets",
+            "id": "425672"
+        },
+        {
+            "mot": "asthmatique",
+            "id": "14632"
+        },
+        {
+            "mot": "insuffisant",
+            "id": "49629"
+        },
+        {
+            "mot": "respiratoire",
+            "id": "23461"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "fragilisés"
+        },
+        {
+            "mot": "enfants",
+            "id": "34527"
+        },
+        {
+            "mot": "personnes",
+            "id": "101498"
+        },
+        {
+            "mot": "âgées"
+        },
+        {
+            "mot": "fumeurs)"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "complications",
+            "id": "78506"
+        },
+        {
+            "mot": "principales",
+            "id": "416154"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "surinfection",
+            "id": "71448"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "co-infection",
+            "id": "81382"
+        },
+        {
+            "mot": "bactérienne"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "pneumocoques",
+            "id": "2247524"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "sinusite",
+            "id": "106201"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "décompensation"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "bronchite",
+            "id": "104902"
+        },
+        {
+            "mot": "chronique",
+            "id": "99635"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "emphysème"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "comme",
+            "id": "66765"
+        },
+        {
+            "mot": "toute",
+            "id": "151036"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "virale",
+            "id": "155536"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "causer",
+            "id": "102640"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "inflammation",
+            "id": "35345"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "64681"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "muscles",
+            "id": "149242"
+        },
+        {
+            "mot": "lisses",
+            "id": "400239"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "corps",
+            "id": "74846"
+        },
+        {
+            "mot": "dont",
+            "id": "128170"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "intestins",
+            "id": "44659"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "myocarde",
+            "id": "119021"
+        },
+        {
+            "mot": "myocardite",
+            "id": "116900"
+        },
+        {
+            "mot": "virale)"
+        }
+    ],
+    [
+        {
+            "mot": "Malgré"
+        },
+        {
+            "mot": "son",
+            "id": "51528"
+        },
+        {
+            "mot": "caractère"
+        },
+        {
+            "mot": "courant",
+            "id": "98082"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "généralement"
+        },
+        {
+            "mot": "bénin"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "s'avérer"
+        },
+        {
+            "mot": "mortel",
+            "id": "89581"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "cas",
+            "id": "34848"
+        },
+        {
+            "mot": "extrêmes"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "chez",
+            "id": "115973"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "patients",
+            "id": "155333"
+        },
+        {
+            "mot": "totalement",
+            "id": "19882"
+        },
+        {
+            "mot": "immunodéprimés"
+        },
+        {
+            "mot": "comme",
+            "id": "66765"
+        },
+        {
+            "mot": "ceux",
+            "id": "191746"
+        },
+        {
+            "mot": "ayant",
+            "id": "147459"
+        },
+        {
+            "mot": "fait",
+            "id": "104957"
+        },
+        {
+            "mot": "l'objet",
+            "id": "142781"
+        },
+        {
+            "mot": "d'une",
+            "id": "14883708"
+        },
+        {
+            "mot": "destruction",
+            "id": "33698"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "leur",
+            "id": "59778"
+        },
+        {
+            "mot": "moelle",
+            "id": "119571"
+        },
+        {
+            "mot": "osseuse",
+            "id": "164025"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "vue",
+            "id": "102816"
+        },
+        {
+            "mot": "d'une",
+            "id": "14883708"
+        },
+        {
+            "mot": "greffe",
+            "id": "36686"
+        },
+        {
+            "mot": "ultérieure"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "exemple",
+            "id": "104671"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "cas",
+            "id": "34848"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "malades",
+            "id": "154374"
+        },
+        {
+            "mot": "atteints",
+            "id": "1992801"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "leucémie"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "suivant",
+            "id": "16809"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "chimiothérapie"
+        },
+        {
+            "mot": "agressive",
+            "id": "147269"
+        },
+        {
+            "mot": "lymphome",
+            "id": "132771"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "autres",
+            "id": "252578"
+        },
+        {
+            "mot": "cancers)"
+        }
+    ],
+    [
+        {
+            "mot": "Chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'enfant",
+            "id": "251252600"
+        },
+        {
+            "mot": "Description",
+            "id": "414393"
+        },
+        {
+            "mot": "Il",
+            "id": "173174"
+        },
+        {
+            "mot": "s’agit"
+        },
+        {
+            "mot": "d’une"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "très"
+        },
+        {
+            "mot": "courante",
+            "id": "45130"
+        },
+        {
+            "mot": "provoquée"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "l’adaptation"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "système"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "l’environnement"
+        },
+        {
+            "mot": "rempli",
+            "id": "377"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "germes",
+            "id": "399673"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "virus",
+            "id": "65149"
+        }
+    ],
+    [
+        {
+            "mot": "Transmise",
+            "id": "17051395"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "voie",
+            "id": "19219"
+        },
+        {
+            "mot": "aérienne"
+        },
+        {
+            "mot": "on",
+            "id": "102073"
+        },
+        {
+            "mot": "ne",
+            "id": "145410"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "trouve",
+            "id": "398556"
+        },
+        {
+            "mot": "pas",
+            "id": "27672"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "premiers",
+            "id": "398566"
+        },
+        {
+            "mot": "mois",
+            "id": "107120"
+        },
+        {
+            "mot": "car",
+            "id": "40380"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "anticorps",
+            "id": "60568"
+        },
+        {
+            "mot": "maternels",
+            "id": "399188"
+        },
+        {
+            "mot": "défendent"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "l’enfant"
+        },
+        {
+            "mot": "après"
+        },
+        {
+            "mot": "sa",
+            "id": "166271"
+        },
+        {
+            "mot": "naissance",
+            "id": "79042"
+        }
+    ],
+    [
+        {
+            "mot": "Écoulements"
+        },
+        {
+            "mot": "nasaux",
+            "id": "573844"
+        },
+        {
+            "mot": "fièvre"
+        },
+        {
+            "mot": "inflammation",
+            "id": "35345"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "tympans",
+            "id": "2107357"
+        },
+        {
+            "mot": "marquent",
+            "id": "2222678"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "crise",
+            "id": "45221"
+        },
+        {
+            "mot": "typique",
+            "id": "133589"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "cette",
+            "id": "248092"
+        },
+        {
+            "mot": "pathologie",
+            "id": "111166"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "guérit"
+        },
+        {
+            "mot": "spontanément"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "moins",
+            "id": "111397"
+        },
+        {
+            "mot": "d’une"
+        },
+        {
+            "mot": "semaine",
+            "id": "8465"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "parfois",
+            "id": "76340"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "jour",
+            "id": "88543"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Une",
+            "id": "397251"
+        },
+        {
+            "mot": "laryngite",
+            "id": "64650"
+        },
+        {
+            "mot": "striduleuse",
+            "id": "401428"
+        },
+        {
+            "mot": "apparaît"
+        },
+        {
+            "mot": "parfois",
+            "id": "76340"
+        }
+    ],
+    [
+        {
+            "mot": "Des",
+            "id": "145021"
+        },
+        {
+            "mot": "formes",
+            "id": "60767"
+        },
+        {
+            "mot": "chroniques",
+            "id": "61086"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "surinfection",
+            "id": "71448"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "compliquer",
+            "id": "47122"
+        },
+        {
+            "mot": "cette",
+            "id": "248092"
+        },
+        {
+            "mot": "pathologie",
+            "id": "111166"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "4075108"
+        },
+        {
+            "mot": "cellules",
+            "id": "154814"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "l'intérieur"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "nez",
+            "id": "107477"
+        },
+        {
+            "mot": "produisent",
+            "id": "2252297"
+        },
+        {
+            "mot": "un",
+            "id": "42271"
+        },
+        {
+            "mot": "liquide",
+            "id": "140315"
+        },
+        {
+            "mot": "visqueux",
+            "id": "49853"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "mucus",
+            "id": "62819"
+        },
+        {
+            "mot": "plein",
+            "id": "78445"
+        },
+        {
+            "mot": "d'anticorps"
+        },
+        {
+            "mot": "qui",
+            "id": "114890"
+        },
+        {
+            "mot": "emprisonnent",
+            "id": "2025740"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "microbes.[réf"
+        }
+    ],
+    [
+        {
+            "mot": "nécessaire"
+        },
+        {
+            "mot": "Traitement",
+            "id": "414353"
+        },
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "traitement",
+            "id": "74419"
+        },
+        {
+            "mot": "médical"
+        },
+        {
+            "mot": "courant",
+            "id": "98082"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "symptomatique",
+            "id": "45117"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "173174"
+        },
+        {
+            "mot": "consiste",
+            "id": "2156146"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "bonne",
+            "id": "1154"
+        },
+        {
+            "mot": "hydratation",
+            "id": "8404"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "l’enfant"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "désobstruction"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhinopharynx",
+            "id": "127682"
+        },
+        {
+            "mot": "régulière"
+        },
+        {
+            "mot": "mouchage",
+            "id": "98221"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "éventuel"
+        },
+        {
+            "mot": "lavage",
+            "id": "58314"
+        },
+        {
+            "mot": "nasal)"
+        }
+    ],
+    [
+        {
+            "mot": "Une",
+            "id": "397251"
+        },
+        {
+            "mot": "fièvre"
+        },
+        {
+            "mot": "élevée"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "nécessiter"
+        },
+        {
+            "mot": "l’administration"
+        },
+        {
+            "mot": "d’antipyrétique"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "cas",
+            "id": "34848"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "surinfection",
+            "id": "71448"
+        },
+        {
+            "mot": "bactérienne"
+        },
+        {
+            "mot": "on",
+            "id": "102073"
+        },
+        {
+            "mot": "utilisera",
+            "id": "2087084"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "antibiotiques",
+            "id": "62894"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "142263"
+        },
+        {
+            "mot": "prévention"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "récidives"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "forme",
+            "id": "142000"
+        },
+        {
+            "mot": "chronique",
+            "id": "99635"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "se",
+            "id": "37671"
+        },
+        {
+            "mot": "faire",
+            "id": "87528"
+        },
+        {
+            "mot": "avec",
+            "id": "91719"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "immunostimulants",
+            "id": "6270440"
+        },
+        {
+            "mot": "une",
+            "id": "114787"
+        },
+        {
+            "mot": "oligothérapie"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "cures",
+            "id": "264268"
+        },
+        {
+            "mot": "thermales",
+            "id": "400797"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "146277"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "forme",
+            "id": "142000"
+        },
+        {
+            "mot": "chronique",
+            "id": "99635"
+        },
+        {
+            "mot": "l’ablation"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "végétations"
+        },
+        {
+            "mot": "peut",
+            "id": "399787"
+        },
+        {
+            "mot": "être"
+        },
+        {
+            "mot": "indiquée"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "173174"
+        },
+        {
+            "mot": "existe",
+            "id": "45446"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "nombreux",
+            "id": "101896"
+        },
+        {
+            "mot": "traitements",
+            "id": "117655"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "médecine"
+        },
+        {
+            "mot": "traditionnelle",
+            "id": "154338"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "populaire",
+            "id": "19960"
+        }
+    ],
+    [
+        {
+            "mot": "Épidémiologie"
+        },
+        {
+            "mot": "Il",
+            "id": "173174"
+        },
+        {
+            "mot": "s'agit"
+        },
+        {
+            "mot": "d'une",
+            "id": "14883708"
+        },
+        {
+            "mot": "affection",
+            "id": "14624"
+        },
+        {
+            "mot": "très"
+        },
+        {
+            "mot": "fréquente"
+        },
+        {
+            "mot": "chaque",
+            "id": "115060"
+        },
+        {
+            "mot": "adulte",
+            "id": "18302"
+        },
+        {
+            "mot": "a",
+            "id": "143767"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "moyenne",
+            "id": "116610"
+        },
+        {
+            "mot": "chaque",
+            "id": "115060"
+        },
+        {
+            "mot": "année"
+        },
+        {
+            "mot": "environ",
+            "id": "55014"
+        },
+        {
+            "mot": "quatre",
+            "id": "116345"
+        },
+        {
+            "mot": "épisodes"
+        },
+        {
+            "mot": "infectieux",
+            "id": "13733"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "voies",
+            "id": "6052"
+        },
+        {
+            "mot": "aériennes"
+        }
+    ],
+    [
+        {
+            "mot": "Ils",
+            "id": "427503"
+        },
+        {
+            "mot": "sont",
+            "id": "403297"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "fréquents"
+        },
+        {
+            "mot": "chez",
+            "id": "115973"
+        },
+        {
+            "mot": "l'enfant",
+            "id": "251252600"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "140508"
+        },
+        {
+            "mot": "coût"
+        },
+        {
+            "mot": "résultant"
+        },
+        {
+            "mot": "est",
+            "id": "144236"
+        },
+        {
+            "mot": "très"
+        },
+        {
+            "mot": "important",
+            "id": "9518"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "milliards",
+            "id": "402557"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "dollars",
+            "id": "155625"
+        },
+        {
+            "mot": "par",
+            "id": "33153"
+        },
+        {
+            "mot": "an",
+            "id": "81759"
+        },
+        {
+            "mot": "aux",
+            "id": "114644"
+        },
+        {
+            "mot": "États-Unis"
+        }
+    ],
+    [
+        {
+            "mot": "Histoire",
+            "id": "267"
+        },
+        {
+            "mot": "Bien",
+            "id": "394867"
+        },
+        {
+            "mot": "que",
+            "id": "136224"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "causes",
+            "id": "298142"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "aient",
+            "id": "1985549"
+        },
+        {
+            "mot": "été"
+        },
+        {
+            "mot": "découvertes"
+        },
+        {
+            "mot": "durant",
+            "id": "143649"
+        },
+        {
+            "mot": "les",
+            "id": "143442"
+        },
+        {
+            "mot": "années"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "maladie",
+            "id": "130400"
+        },
+        {
+            "mot": "suit",
+            "id": "421719"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "réalité"
+        },
+        {
+            "mot": "l'humanité"
+        },
+        {
+            "mot": "depuis",
+            "id": "131219"
+        },
+        {
+            "mot": "l'Antiquité"
+        },
+        {
+            "mot": "en",
+            "id": "53388"
+        },
+        {
+            "mot": "mutant",
+            "id": "120501"
+        },
+        {
+            "mot": "fortement",
+            "id": "43958"
+        }
+    ],
+    [
+        {
+            "mot": "Ses",
+            "id": "4277829"
+        },
+        {
+            "mot": "symptômes"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "traitements",
+            "id": "117655"
+        },
+        {
+            "mot": "ont",
+            "id": "160892"
+        },
+        {
+            "mot": "été"
+        },
+        {
+            "mot": "décrits"
+        },
+        {
+            "mot": "dans",
+            "id": "120684"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "papyrus",
+            "id": "45424"
+        },
+        {
+            "mot": "Ebers",
+            "id": "75223"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "ancien",
+            "id": "57904"
+        },
+        {
+            "mot": "texte",
+            "id": "66372"
+        },
+        {
+            "mot": "médical"
+        },
+        {
+            "mot": "rédigé"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "XVIe",
+            "id": "119652"
+        },
+        {
+            "mot": "siècle"
+        },
+        {
+            "mot": "av",
+            "id": "2471239"
+        }
+    ],
+    [
+        {
+            "mot": "J.-C",
+            "id": "31146"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "274244"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "références"
+        },
+        {
+            "mot": "Annexes",
+            "id": "15808840"
+        },
+        {
+            "mot": "Bibliographie",
+            "id": "425876"
+        },
+        {
+            "mot": "Maël"
+        },
+        {
+            "mot": "Lemoine",
+            "id": "112437"
+        },
+        {
+            "mot": "Petite",
+            "id": "38999"
+        },
+        {
+            "mot": "philosophie",
+            "id": "38867"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "ou",
+            "id": "140025"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "remède"
+        },
+        {
+            "mot": "pour",
+            "id": "69714"
+        },
+        {
+            "mot": "ne",
+            "id": "145410"
+        },
+        {
+            "mot": "plus",
+            "id": "1759"
+        },
+        {
+            "mot": "jamais",
+            "id": "74984"
+        },
+        {
+            "mot": "\"attraper"
+        },
+        {
+            "mot": "froid\""
+        },
+        {
+            "mot": "Hermann",
+            "id": "22995"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "Zinc",
+            "id": "12776127"
+        },
+        {
+            "mot": "nutriment",
+            "id": "20413"
+        },
+        {
+            "mot": "Économie"
+        },
+        {
+            "mot": "du",
+            "id": "145381"
+        },
+        {
+            "mot": "rhume",
+            "id": "141018"
+        },
+        {
+            "mot": "Liens",
+            "id": "409339"
+        },
+        {
+            "mot": "externes",
+            "id": "400817"
+        },
+        {
+            "mot": "Ressources",
+            "id": "5570515"
+        },
+        {
+            "mot": "relatives",
+            "id": "400525"
+        },
+        {
+            "mot": "à"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "santé"
+        },
+        {
+            "mot": "Classification",
+            "id": "273455"
+        },
+        {
+            "mot": "internationale",
+            "id": "148682"
+        },
+        {
+            "mot": "des",
+            "id": "78302"
+        },
+        {
+            "mot": "soins",
+            "id": "111830"
+        },
+        {
+            "mot": "primaires",
+            "id": "232230"
+        },
+        {
+            "mot": "Diseases",
+            "id": "416182"
+        },
+        {
+            "mot": "Ontology",
+            "id": "5785141"
+        },
+        {
+            "mot": "DiseasesDB",
+            "id": "14677438"
+        },
+        {
+            "mot": "ICD-"
+        },
+        {
+            "mot": "Version",
+            "id": "5534183"
+        },
+        {
+            "mot": "Internetmedicin"
+        },
+        {
+            "mot": "MalaCards"
+        },
+        {
+            "mot": "Medical",
+            "id": "403193"
+        },
+        {
+            "mot": "Subject",
+            "id": "403194"
+        },
+        {
+            "mot": "Headings",
+            "id": "403195"
+        },
+        {
+            "mot": "MedlinePlus",
+            "id": "9944495"
+        },
+        {
+            "mot": "NCI",
+            "id": "16871633"
+        },
+        {
+            "mot": "Thesaurus",
+            "id": "429968"
+        },
+        {
+            "mot": "PatientLikeMe"
+        },
+        {
+            "mot": "Store",
+            "id": "419967"
+        },
+        {
+            "mot": "medisinske"
+        },
+        {
+            "mot": "leksikon",
+            "id": "11120841"
+        },
+        {
+            "mot": "Refroidissement",
+            "id": "119929846"
+        },
+        {
+            "mot": "…"
+        },
+        {
+            "mot": "le",
+            "id": "140509"
+        },
+        {
+            "mot": "froid",
+            "id": "49803"
+        },
+        {
+            "mot": "vraiment",
+            "id": "1"
+        },
+        {
+            "mot": "Daniel",
+            "id": "85278"
+        },
+        {
+            "mot": "Genné"
+        },
+        {
+            "mot": "et",
+            "id": "19945"
+        },
+        {
+            "mot": "Christian",
+            "id": "128633"
+        },
+        {
+            "mot": "Chuard",
+            "id": "171014513"
+        },
+        {
+            "mot": "Revue",
+            "id": "409672"
+        },
+        {
+            "mot": "médicale"
+        },
+        {
+            "mot": "suisse",
+            "id": "14759"
+        }
+    ],
+    [
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "médecine"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "140932"
+        },
+        {
+            "mot": "la",
+            "id": "142265"
+        },
+        {
+            "mot": "virologie",
+            "id": "87800"
+        }
+    ]
+]
