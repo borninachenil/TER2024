@@ -1,14 +1,23 @@
 import wikipediaapi
 import json
+import os
 import sys
 
 def wikipedia(page_title):
-    wiki_wiki = wikipediaapi.Wikipedia(
-        language='fr',
-        user_agent='SemanticExplorers/1.0 (theo.flament@etu.umontpellier.fr)'
-    )
-    page = wiki_wiki.page(page_title)
-    return page.text if page.exists() else "La page n'existe pas."
+    chemin_fichier_texte = f"wikipedia/{page_title}.txt"
+    if os.path.exists(chemin_fichier_texte):
+        with open(chemin_fichier_texte, 'r', encoding='utf-8') as fichier:
+            print("La page existe déjà dans nos fichiers")
+            return fichier.read()
+    else:
+        wiki_wiki = wikipediaapi.Wikipedia(language='fr', user_agent='SemanticExplorers/1.0 (theo.flament@etu.umontpellier.fr)')
+        page = wiki_wiki.page(page_title)
+        if page.exists():
+            with open(chemin_fichier_texte, 'w', encoding='utf-8') as fichier:
+                fichier.write(page.text)
+            return page.text
+        else:
+            return "La page n'existe pas."
 
 def clean(mot):
     corrections = {
@@ -23,7 +32,7 @@ def clean(mot):
     return mot if mot else None
 
 def toMot(texte):
-    mots = texte.replace("\n", " ").split(" ")
+    mots = texte.replace("\n", " ").replace("'", " ").split(" ")
     mots_nettoyes = [clean(mot) for mot in mots if mot]
     return [mot_nettoye for mot_nettoye in mots_nettoyes if mot_nettoye is not None]
 
@@ -50,8 +59,14 @@ if __name__ == "__main__":
     mots = toMot(page_content)
     dictionnaire_termes = Dictionnaire('dictionnaire.txt')
     mots_avec_id = id(mots, dictionnaire_termes)
-    
+    if not os.path.exists('wikipedia'):
+        os.makedirs('wikipedia')
+    if not os.path.exists('json'):
+        os.makedirs('json')
     nom_fichier_sans_espaces = page_title.replace(" ", "_").replace("(", "").replace(")", "").replace("/", "_")
-    nom_fichier_json = f"{nom_fichier_sans_espaces}_resultat_final.json"
-    with open(nom_fichier_json, 'w', encoding='utf-8') as fichier_json:
+    chemin_fichier_texte = f"wikipedia/{nom_fichier_sans_espaces}.txt"
+    chemin_fichier_json = f"json/{nom_fichier_sans_espaces}.json"
+    with open(chemin_fichier_texte, 'w', encoding='utf-8') as fichier_texte:
+        fichier_texte.write(page_content)
+    with open(chemin_fichier_json, 'w', encoding='utf-8') as fichier_json:
         json.dump(mots_avec_id, fichier_json, ensure_ascii=False, indent=4)
