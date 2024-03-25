@@ -74,7 +74,7 @@ def extraire_mots_intermediaires(json_filename, relations_filename, paires, resu
 
 
 def enregistrer_resultats(resultats_existant, fichier_template):
-    lignes = [f"{mots_intermediaires};{relation};{occurrences}\n" for ((mots_intermediaires, relation), occurrences) in resultats_existant.items()]
+    lignes = [f"{mots_intermediaires};{relation.split('\\')[-1]};{occurrences}\n" for ((mots_intermediaires, relation), occurrences) in resultats_existant.items()]
     with open(fichier_template, 'w', encoding='utf-8') as f:
         f.writelines(lignes)
 
