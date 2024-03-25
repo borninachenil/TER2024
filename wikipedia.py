@@ -75,7 +75,7 @@ def Dictionnaire(chemin):
             elements = ligne.strip().split(';')
             if len(elements) >= 2:
                 id_, terme = elements[0], elements[1].strip('"')
-                dico[terme.lower()] = id_  # Stocker les termes en minuscules pour la comparaison
+                dico[terme.lower()] = id_
     return dico
 
 def id(mots, dictionnaire):
