@@ -1,0 +1,191 @@
+La spectrométrie de masse est une technique physique d'analyse permettant de détecter et d'identifier des molécules d’intérêt par mesure de leur masse, et de caractériser leur structure chimique. Son principe réside dans la séparation en phase gazeuse de molécules chargées (ions) en fonction de leur rapport masse/charge (m/z). Elle est utilisée dans pratiquement tous les domaines scientifiques : physique, astrophysique, chimie en phase gazeuse, chimie organique, dosages, biologie, médecine, archéologie, etc. Le temps de détection est très rapide.
+
+Structure d'un spectromètre de masse
+Le spectromètre de masse, initialement conçu par le Britannique Joseph John Thomson, comporte une source d'ionisation suivie d'un ou plusieurs analyseurs qui séparent les ions produits selon leur rapport m/z, d'un détecteur qui compte les ions et amplifie le signal, et enfin d'un système informatique pour traiter le signal. Le résultat obtenu est un spectre de masse représentant les rapports m/z, où m représente la masse et z la valence (ou m/q, q représentant la charge) des ions détectés selon l'axe des abscisses et l'abondance relative de ces ions selon l'axe des ordonnées.
+Le spectromètre de masse se compose de quatre parties :
+
+le système d’introduction de l’échantillon : l’échantillon peut être introduit directement dans la source, sous forme gazeuse, liquide (infusion directe) ou solide (canne d’introduction directe, dépôt sur plaque MALDI…) ou encore par l'association à une méthode séparative (chromatographie en phase liquide, chromatographie en phase gazeuse, électrophorèse capillaire, etc.) ;
+la source d'ionisation : elle consiste à vaporiser les molécules et à les ioniser. Une source d'ionisation peut être utilisée soit en mode positif pour étudier les ions positifs, soit en mode négatif pour étudier les ions négatifs. Plusieurs types de sources existent et sont utilisés en fonction du résultat recherché et des molécules analysées :
+l'ionisation électronique (EI), l'ionisation chimique (CI) et la désorption-ionisation chimique (DCI),
+le bombardement par atomes rapides (FAB), atomes métastables (MAB) ou ions (SIMS, LSIMS),
+le couplage plasma inductif (ICP),
+l'ionisation chimique à pression atmosphérique (APCI) et la photo-ionisation à pression atmosphérique (APPI),
+l'électronébulisation ou électrospray (ESI),
+la désorption-ionisation laser assistée par matrice (MALDI), activée par une surface (SELDI) ou sur silicium (DIOS),
+l'ionisation-désorption par interaction avec espèces métastables (DART),
+la désorption-ionisation sur silicium (DIOS) ;
+l’analyseur : il sépare les ions en fonction de leur rapport masse/charge (m/z). Il existe des analyseurs basse résolution : le quadripôle ou quadrupôle (Q), le piège à ions 3D (IT) ou linéaire (LIT), et des analyseurs haute résolution, permettant de mesurer la masse exacte des analytes : le secteur magnétique couplé à un secteur électrique, le temps de vol (TOF), la résonance cyclotronique ionique à transformée de Fourier (FTICR) et l'Orbitrap. Ces analyseurs peuvent être couplés entre eux pour réaliser des expériences de spectrométrie de masse en tandem (MS/MS). En général, un premier analyseur sépare les ions, une cellule de collision permet de fragmenter les ions, et un second analyseur sépare les ions fragments. Certains analyseurs, comme les pièges à ions ou le FT-ICR, constituent plusieurs analyseurs en un et permettent de fragmenter les ions et d'analyser les fragments directement ;
+le détecteur et système de traitement : le détecteur transforme les ions en signal électrique. Plus les ions sont nombreux, plus le courant est important. De plus, le détecteur amplifie le signal obtenu pour qu'il puisse être traité informatiquement.
+
+Utilisation
+Identification :
+suivant le type d'ionisation utilisé ; un spectre de masse peut être caractéristique d'une molécule. Ainsi en le comparant avec le contenu de banques de spectres, il est possible d'identifier la molécule ;
+lors de l'utilisation d'un analyseur haute résolution (TOF, secteur magnétique, FTICR, Orbitrap), la spectrométrie de masse permet de mesurer avec précision la masse mono-isotopique d'un ion et d'en déduire sa formule brute.
+Analyse structurale :
+la parité de la masse mesurée est fonction de la parité du nombre d’atomes d’azote que possède une molécule (règle de l’azote) ;
+chaque atome possède un ou plusieurs isotopes qui sont de masses différentes par définition. Ainsi, la proportion de chaque isotope observé sur un spectre de masse, c'est-à-dire le massif isotopique, est caractéristique de la présence de certains atomes et de leur nombre dans l'ion mesuré (en particulier les éléments Cl, et Br, qui présentent des isotopes M et M+2 en quantité notable) ;
+les ions peuvent se fragmenter dans un spectromètre de masse : dans la source d'ionisation, dans l'analyseur ou dans une cellule de collision. Comme les fragmentations respectent des lois précises de chimie en phase gazeuse, l'étude de ces fragments permet de déterminer la structure des ions.
+Quantification :
+un spectromètre de masse est un détecteur universel et très sensible. Sa gamme linéaire va de trois à sept ordres de grandeur, d'où la possibilité d'obtenir une quantification fiable sur un domaine large.
+Imagerie :
+l'analyse point par point d'une surface par spectrométrie de masse avec ionisation adéquate (MALDI, SIMS, DESI) permet de générer des images ioniques, représentant la répartition de chaque ion issu de cette surface. Cette technique d'imagerie est très utilisée pour la recherche de biomarqueurs (identification dans une coupe de tissu de composés spécifiques d'une région définie).
+
+Source d'ionisation
+Les ionisations EI et CI, qui nécessitent un certain niveau de vide, sont préférentiellement utilisées en couplage avec la chromatographie en phase gazeuse (la CI fonctionnant à partir d'une source EI). En revanche, les deux sources à pression atmosphérique (électrospray et APCI) dites à « ionisation douce », sont principalement utilisées en couplage avec la chromatographie en phase liquide.
+
+Ionisation électronique (EI)
+Des électrons émis par un filament rencontrent les molécules qui entrent dans la source : lors de la rencontre, si l'énergie cinétique des électrons est suffisante, un électron est arraché de la molécule M, la transformant en un ion radical M+o. Celui-ci peut ensuite se fragmenter suivant son énergie interne. L'EI conduit ainsi à un spectre assez fourni, avec de nombreux fragments, très riche en informations structurales.
+
+Ionisation chimique (CI)
+En plus du dispositif EI ci-dessus, un gaz réactif est introduit dans la source et ionisé par impact électronique. S'ensuit une série de réactions qui donne naissance à des ions pouvant réagir avec les molécules d'analyte arrivant dans la source. Ce type de réactions ions-molécules produit principalement (en mode positif) des ions [MH]+, et [M+adduit+H]+, permettant ainsi d'accéder à la masse moléculaire de l'analyte.
+Le méthane, l'isobutane et l'ammoniac sont parmi les gaz d'ionisation chimique les plus utilisés.
+Pour la détection de molécules globalement électronégatives, comportant des parties halogénées, on peut faire appel à l'ionisation chimique négative. Le principe est de charger négativement ces molécules en les bombardant d'électrons qui seront capturés par les atomes électroattracteurs. Du fait de la forte probabilité de capture de l'électron, ce type d'ionisation peut être mille fois plus sensible que l'ionisation chimique positive.
+
+Ionisation par bombardement d'atomes rapides (FAB)
+Elle permet d'analyser des molécules non vaporisables sous vide (grosses molécules biologiques). L'ionisation est effectuée par expulsion en phase vapeur des ions contenus dans un échantillon liquide à la suite d'un bombardement d'atomes rapides (Ar ou Xe). Les molécules ainsi ionisées n'ont pas beaucoup d'énergie interne, la fragmentation est donc faible mais l'ion moléculaire est facilement reconnaissable et la masse moléculaire est facile à déterminer.
+L'échantillon est mélangé en solution à une matrice liquide non volatile (glycérol, thioglycérine, alcool m-nitrobenzylique). Un faisceau à haute énergie (de l'ordre de 4 à 10 keV) d'atomes neutres (Ar ou Xe) est envoyé sur l'échantillon et la matrice dans la chambre de collision causant ainsi les phénomènes de désorption et d'ionisation. Les ions préexistants en solution sont expulsés en phase gazeuse et accélérés vers l'analyseur.
+
+Ionisation par électronébulisation (electrospray ionisation, ESI)
+Son principe est le suivant : à pression atmosphérique, les gouttelettes de solutés sont formées à l'extrémité d'un fin capillaire porté à un potentiel élevé. Le champ électrique intense leur confère une densité de charge importante. Sous l'effet de ce champ et grâce à l'assistance éventuelle d'un courant d'air coaxial, l'effluent liquide est transformé en nuage de fines gouttelettes (spray) chargées suivant le mode d'ionisation. Sous l'effet d'un second courant d'air chauffé, les gouttelettes s'évaporent progressivement. Leur densité de charge devenant trop importante, les gouttelettes explosent en libérant des microgouttelettes constituées de molécules protonées ou déprotonées de l'analyte, porteuses d'un nombre de charges variable.
+Les ions ainsi formés sont ensuite guidés à l'aide de potentiels électriques appliqués sur deux cônes d'échantillonnage successifs faisant office de barrières avec les parties en aval maintenues sous un vide poussé (<10−5 Torr). Durant ce parcours à pression élevée, les ions subissent de multiples collisions avec les molécules de gaz et de solvant, ce qui complète leur désolvatation. En faisant varier les potentiels électriques appliqués dans la source il est possible de provoquer des fragmentations plus ou moins importantes.
+L'avantage de cette méthode d'ionisation comme pour l'APCI est l'obtention d'ions multichargés, pour les macromolécules, polymères. Elle permet d'autre part de générer une ionisation « douce » : des ions moléculaires sont formés en majorité.
+
+Ionisation chimique à pression atmosphérique (APCI)
+Les échantillons liquides sont directement introduits dans un nébuliseur pneumatique. Sous l'effet d'un jet d'air ou d'azote, le liquide est transformé en fin brouillard. Un chauffage assure la désolvatation des composés. Ces derniers sont ensuite ionisés chimiquement à pression atmosphérique : en général, la phase mobile vaporisée joue le rôle de gaz d'ionisation et les électrons sont obtenus à partir de décharges d'électrode couronne. L'ionisation des composés est très favorisée lors de ces techniques car la fréquence des collisions est élevée à pression atmosphérique.
+L'APCI est une technique analogue à l'ionisation chimique (CI), elle fait appel à des réactions ions-molécules en phase gazeuse, mais à pression atmosphérique et conduit essentiellement à la formation d'ions [MH]+ ou [M-H]−.
+
+Désorption-ionisation laser assistée par matrice (MALDI)
+Un faisceau laser pulsé est utilisé, généralement dans le domaine des ultraviolets, pour désorber et ioniser un mélange matrice/échantillon cocristallisé sur une surface métallique, la cible.
+ Les molécules de matrice absorbent l'énergie transmise par le laser sous forme de photons UV, s'excitent et s'ionisent. L'énergie absorbée par la matrice provoque sa dissociation et son passage en phase gazeuse. Les molécules de matrice ionisées transfèrent leur charge à l'échantillon. L'expansion de la matrice entraîne l'échantillon au sein de la phase gazeuse dense où il va finir de s'ioniser.
+L'ionisation de l'échantillon a donc lieu soit dans la phase solide avant la désorption, soit par transfert de charge lors de collisions avec la matrice excitée après désorption. Elle conduit à la formation d'ions monochargés et multichargés de type [M+nH]n+, avec une nette prépondérance pour les monochargés.
+
+Ionisation thermique (TIMS)
+Le chauffage de l'échantillon désorbe des atomes qui se présentent alors sous forme ionisée sous l'effet de la chaleur. Des lentilles électromagnétiques focalisent les ions en faisceaux individualisés en fonction du ratio masse / charge. Des variations de cette technique existent sous la forme ID-TIMS (pour l'anglais Isotope Dilution) et CA-TIMS (pour l'anglais Chemical Abrasion).
+
+Analyseur
+Les analyseurs se différencient par leur principe de mesure du rapport m/z des ions, qui est :
+
+la dispersion des ions, fondée sur leur moment ou leur énergie cinétique (instruments à secteur magnétique ou électrique) ;
+la séparation dans le temps, fondée sur la vitesse des ions (TOF) ;
+la transmission des ions traversant un champ électrodynamique (quadripôle) ;
+le mouvement périodique dans un champ magnétique ou électrodynamique (pièges ou trappes à ions).
+
+Analyseur quadripolaire
+Un quadripôle (ou quadrupôle) est constitué de quatre électrodes parallèles de section hyperbolique ou cylindrique. Les électrodes opposées distantes de 2r0{\displaystyle r_{0}} sont reliées entre elles et soumises au même potentiel.
+
+Les électrodes adjacentes sont portées à des potentiels de même valeur, mais opposés de sorte que l'écart de potentiel soit égal à ϕ0{\displaystyle \phi _{0}}.
+Ce potentiel ϕ0{\displaystyle \phi _{0}} résulte de la combinaison de tensions, l'une continue (U) l'autre alternative (V) de haute fréquence f : ϕ0=U−V⋅cos⁡(2πft){\displaystyle \phi _{0}=U-V\cdot \cos(2\pi ft)}.
+En appliquant cette différence de potentiel entre chaque paire d'électrodes, il se crée un champ électrique quadripolaire. Un point de coordonnées (x, y, z) situé dans le champ électrique sera alors soumis au potentiel : ϕ=ϕ0⋅x2−y2r02{\displaystyle \phi =\phi _{0}\cdot {\frac {x^{2}-y^{2}}{r_{0}^{2}}}}
+
+La trajectoire d'un ion pénétrant dans le quadripôle sera donc uniforme selon l'axe z et décrite par les équations de Mathieu selon les deux autres axes. Il est possible de définir en fonction des valeurs U et V des zones de stabilité telles que les coordonnées x et y de l'ion restent strictement inférieures à r0{\displaystyle r_{0}}. L'une d'entre elles est exploitée en spectrométrie de masse (voir figure) (Les ions qui se trouvent dans cette zone auront donc une trajectoire stable dans le quadripôle et seront détectés). En gardant constant le rapport U/V, on obtient une droite de fonctionnement de l'analyseur. Un balayage de U avec U/V constant permet l'observation successive de tous les ions dont la zone de stabilité est coupée par la droite de fonctionnement. La résolution entre ces ions est d'autant plus grande que la pente de la droite est élevée.
+
+En l'absence de tension continue, tous les ions de rapports m/z supérieurs à celui fixé par la valeur de V appliquée auront une trajectoire stable (x et y < r0{\displaystyle r_{0}}), le quadripôle est alors dit « transparent » et sert de focalisateur d'ions.
+Les principaux avantages du spectromètre quadripolaire résident dans sa souplesse d'utilisation, sa résolution unitaire sur toute sa gamme de masse, sa vitesse de balayage satisfaisante, ainsi que son adaptabilité à différentes interfaces permettant le couplage avec la chromatographie en phase gazeuse ou liquide.
+
+Hexapoles et octopoles
+Semblables à l'analyseur quadripolaire mais avec six et huit électrodes respectivement, ils ne peuvent servir d'analyseurs (ils ne peuvent séparer les ions selon leur rapport masse/charge) : leur rôle est de guider et de focaliser les ions jusqu'à l'analyseur suivant.
+
+Piège ionique quadripolaire (« piège à ions »)
+C'est un piège ionique où la préparation, l'analyse et la détection des ions s'effectuent dans un même espace, suivant des séquences temporelles successives.
+Le piège est constitué de trois électrodes à section hyperbolique : une électrode annulaire encadrée par deux électrodes-chapeaux (d'entrée et de sortie) qui forment les calottes supérieure et inférieure du dispositif. Une tension en radiofréquence V⋅cos⁡(2πft){\displaystyle V\cdot \cos(2\pi ft)} combinée ou non à une tension continue U est appliquée entre l'électrode centrale et les deux électrodes calottes. Le champ résultant est alors tridimensionnel.
+Les domaines de stabilité des ions sont à nouveau déterminés par les équations de Mathieu. Celui exploité est défini tel que lorsque les ions en sortent, leur trajectoire radiale reste stable contrairement à celle selon l'axe des z. Un balayage de l'amplitude de la radiofréquence V entraînera donc l'expulsion des ions piégés selon cet axe, vers le détecteur,. Les trajectoires stables des ions, au sein du champ quadripolaire résultant sont tridimensionnelles, en forme de huit.
+
+Temps de vol
+L'analyseur à temps de vol consiste à mesurer le temps que met un ion, accéléré préalablement par une tension, à parcourir une distance donnée. Le rapport masse sur charge est directement mesurable à partir du temps de vol.
+
+Un analyseur à temps de vol se compose d'une zone d'accélération où est appliquée la tension accélératrice, et d'une zone appelée « tube de vol », libre de champ. Les ions accélérés pénètrent dans le tube de vol libre de tout champ. La séparation des ions ne va donc dépendre que de la vitesse acquise lors de la phase d'accélération. Les ions de rapport m/z le plus petit parviendront au détecteur les premiers. Pour chaque groupe d'ions de même rapport m/z, un signal est enregistré au niveau du détecteur sous la forme d'une fonction temps/intensité.
+Ce mode de détection comporte cependant certaines limitations en termes de résolution : ainsi deux ions identiques, de même vitesse initiale, mais localisés à deux points différents, entreront dans le tube de vol à des vitesses et des temps différents. Celui le plus loin du détecteur à l'origine sera accéléré plus longtemps et aura donc un temps de vol plus court, d'où une dispersion en temps et en énergie. Le mode réflectron permet de pallier ce phénomène.
+
+En mode réflectron, un miroir électrostatique impose un champ électrique de direction opposée à celle du champ accélérateur initial, et donc du mouvement des ions. Ces derniers voient ainsi leur trajectoire modifiée : ils pénètrent dans le réflectron et en ressortent avec une vitesse longitudinale de sens opposé à leur vitesse initiale. Les ions les plus énergétiques arrivent les premiers au niveau du réflectron et vont y pénétrer plus profondément, ils seront donc réfléchis dans un temps plus long. De cette façon, tous les ions de même rapport m/z se trouvent focalisés sur un même plan, le détecteur du réflectron étant placé sur le plan de focalisation de ces ions. En outre, le réflectron permet d'allonger la distance de vol sans pour autant augmenter la taille de l'analyseur : les ions mettent plus de temps pour atteindre le détecteur, et réduisent aussi leur dispersion en temps, la résolution s'en trouve donc grandement améliorée.
+
+FT-ICR
+L’analyseur à résonance cyclotronique d’ion se compose d’une cellule ICR (de configuration cubique par exemple) qui comporte notamment six plaques sous tension, isolées les unes des autres.
+L’application d’un champ magnétostatique B suivant l’axe z soumet les ions à la force de Lorentz F=eZ⋅v∧B{\displaystyle F=eZ\cdot v\land B}. Leur mouvement dans le plan (x,y) est alors « cyclotronique », c’est-à-dire circulaire uniforme de fréquence f=eB2πmz{\displaystyle f={\frac {eB}{2\pi {\frac {m}{z}}}}}. Les ions sont par ailleurs confinés suivant l’axe z par un champ électrostatique imposé par les deux plaques parallèles au plan (Oxy), résultant de l’application d’une tension faible.
+
+Une fois piégés dans la cellule, les ions ont donc la même trajectoire mais pas la même position à un instant déterminé (a). Il convient donc de donner aux ions de même m/z un mouvement d’ensemble en les mettant en phase, par résonance cyclotronique. Pour cela, les ions m/z sont excités par un champ alternatif de fréquence correspondant à leur fréquence cyclotron : pour exciter tous les ions d’une certaine gamme de m/z, une tension contenant toutes les fréquences cyclotron correspondantes est imposée. Les ions sont alors accélérés, mis en phase et voient le rayon de leur orbite augmenter (b).
+Le courant induit par le mouvement cohérent des ions de même m/z sera mesuré sur les plaques de détection (c) : ce sera une sinusoïde amorti de fréquence cyclotronique. Le courant induit total mesuré sera donc la somme de sinusoïdes amorties des fréquences cyclotroniques correspondant aux ions de m/z excités par résonance. La fréquence cyclotron étant proportionnelle à 1/(m/z), l’inverse de la transformée de Fourier du courant obtenu permet d’aboutir au spectre de masse en m/z.
+Cet analyseur a l’une des meilleures résolutions qui soient (Rs>100 000), dès lors le spectre MS a une plus grande capacité de pics, ce qui maximise la quantité d’informations pour l’analyse de mélanges complexes. Cependant, la largeur des pics étant proportionnelle à (m/z)2, la résolution est meilleure aux m/z inférieures à 5 000 Th. L’excellente précision du FT-ICR sur la mesure de masse (5-10 ppm) lève ou diminue les ambiguïtés sur l’identification des composés.
+La gamme de masse dépend de la valeur du champ magnétique, elle s’étend jusque 27 000 Da pour un champ de 7 T. En revanche, la gamme dynamique est assez restreinte, avec deux-trois décades, car cet analyseur par confinement souffre du même défaut que le piège quadripolaire, la coexistence possible d’un nombre limité d’ions. Dès lors, les pics très minoritaires dans le spectre de masse présenteront une mesure de masse moins précise.
+Le FT-ICR permet l’analyse en MS/MS dans la cellule même, avec possibilités variées d’activation des ions et donc de fragmentations sélectives.
+
+Orbitrap
+L’orbitrap se compose d’une électrode creuse, à l’intérieur de laquelle est placée coaxialement une électrode en forme de fuseau. La forme particulière de ces deux électrodes permet l’imposition d’un champ électrostatique quadro-logarithmique avec la tension :
+ U(r,z)=k2⋅(z2−r22)+k2⋅Rm2⋅ln⁡(rRm)+C{\displaystyle \ U(r,z)={\frac {k}{2}}\cdot \left(z^{2}-{\frac {r^{2}}{2}}\right)+{\frac {k}{2}}\cdot Rm^{2}\cdot \ln \left({\frac {r}{Rm}}\right)+C}.
+avec Rm le rayon caractéristique de l’électrode centrale, k la courbure du champ et C une constante.
+Le champ est en particulier quadripolaire suivant l’axe z des électrodes. Les ions sont injectés tangentiellement à l’électrode centrale et piégés autour d’elle par la force électrostatique qui compense les forces centrifuges. Le mouvement des ions se décompose alors ainsi : un mouvement circulaire autour de l’électrode centrale dans le plan (xy) et un mouvement oscillatoire de va-et-vient selon l’axe z. En particulier, les ions d’un m/z donné seront sur la même trajectoire circulaire qui oscille axialement avec une fréquence f. f est indépendante de la vitesse ou de l’énergie des ions et s’exprime comme 12πkmz{\displaystyle {\frac {1}{2\pi {\sqrt {k{\frac {m}{z}}}}}}}. De la même façon que pour le FT-ICR, le courant induit par ces oscillations permet par une transformée de Fourier d’accéder aux m/z.
+La précision des mesures de m/z est particulièrement bonne (1-2 ppm) et la résolution (jusque 100 000) rivalise avec celle du FT-ICR, d’autant qu’étant proportionnelle à 1/√(m/z), elle diminue moins vite avec le rapport m/z que dans le cas du FT-ICR. La gamme dynamique est satisfaisante (> trois décades). L’orbitrap est principalement utilisée en spectrométrie de masse en tandem, associée à un piège linéaire.
+
+Analyseur à secteur magnétique
+L'ion est éjecté dans un milieu dans lequel règne un champ magnétique uniforme perpendiculaire au plan de la trajectoire. Du fait de la force de Lorentz, la trajectoire se courbe, et le point d'impact de l'ion (donc sa déviation) permet de connaître sa masse à partir de la charge.
+En effet, soit B→{\displaystyle {\vec {B}}\,} le champ magnétique (dirigeant Oz→{\displaystyle {\overrightarrow {Oz}}}) de coordonnées (00B){\displaystyle {\begin{pmatrix}0\\0\\B\end{pmatrix}}} et v→0{\displaystyle {\vec {v}}_{0}\,} la vitesse initiale orthogonale à B→{\displaystyle {\vec {B}}\,}, elle dirige Ox→{\displaystyle {\overrightarrow {Ox}}}.
+On a alors :
+qv→∧B→=(qBy˙−qBx˙0){\displaystyle q{\vec {v}}\wedge {\vec {B}}={\begin{pmatrix}qB{\dot {y}}\\-qB{\dot {x}}\\0\end{pmatrix}}}.
+D'où, en écrivant la relation fondamentale de la dynamique :
+{mx¨=qBy˙my¨=−qBx˙{\displaystyle \left\{{\begin{matrix}m{\ddot {x}}=qB{\dot {y}}\\m{\ddot {y}}=-qB{\dot {x}}\end{matrix}}\right.}.
+Soit :
+{x¨−ω0y˙=0y¨+ω0x˙=0{\displaystyle \left\{{\begin{matrix}{\ddot {x}}-\omega _{0}{\dot {y}}=0\\{\ddot {y}}+\omega _{0}{\dot {x}}=0\end{matrix}}\right.} où ω0=qBm{\displaystyle \omega _{0}={\frac {qB}{m}}}.
+Posons V~=x˙+iy˙{\displaystyle {\tilde {V}}={\dot {x}}+i{\dot {y}}}.
+On a alors V~˙+iω0V~=0{\displaystyle {\dot {\tilde {V}}}+i\omega _{0}{\tilde {V}}=0}.
+En résolvant, V~(t)=v0e−iω0t=v0cos⁡(ω0t)−v0isin⁡(ω0t){\displaystyle {\tilde {V}}(t)=v_{0}e^{-i\omega _{0}t}=v_{0}\cos(\omega _{0}t)-v_{0}i\sin(\omega _{0}t)}.
+Et donc : 
+{x˙(t)=v0cos⁡(ω0t)y˙(t)=−v0sin⁡(ω0t){\displaystyle \left\{{\begin{matrix}{\dot {x}}(t)=v_{0}\cos(\omega _{0}t)\\{\dot {y}}(t)=-v_{0}\sin(\omega _{0}t)\end{matrix}}\right.}
+{x(t)=v0ω0sin⁡(ω0t)y(t)=v0ω0cos⁡(ω0t)−mv0qB{\displaystyle \left\{{\begin{matrix}x(t)={\frac {v_{0}}{\omega _{0}}}\sin(\omega _{0}t)\\y(t)={\frac {v_{0}}{\omega _{0}}}\cos(\omega _{0}t)-{\frac {mv_{0}}{qB}}\end{matrix}}\right.} (à l'aide des conditions initiales).
+Il s'agit bien de l'équation paramétrique d'un cercle de rayon 
+Rc=mv0|qB|{\displaystyle R_{c}={\frac {mv_{0}}{\left|qB\right|}}}.
+Le spectromètre mesure ensuite les distances d'impact lorsque la particule a effectué un demi-cercle. La distance au point d'origine correspond au diamètre donc au double du rayon donné par la dernière formule. La charge de la particule permet donc d'en déduire sa masse.
+
+Détecteur
+Comme les analyseurs et les sources, il existe différents types de détecteurs. Ils sont tous basés sur des principes physiques différents, mais leur rôle reste le même, compter les ions. C'est une partie placée sous vide (10−5 - 10−7 Torr).
+
+Les plaques photographiques sont le détecteur historique. La plaque est enduite d'une émulsion de bromure d'argent, son noircissement donne une valeur relative de l'intensité du flux (quantité d'ions). Cette technique est très peu sensible.
+Le cylindre de Faraday a pour principe le suivant : le transfert de charge de l'ion est détecté sur une surface conductrice, puis le signal est amplifié. Cette technique est précise mais peu sensible, avec une certaine lenteur de mesure et un bruit de fond important.
+Le multiplicateur d'électrons est le détecteur le plus courant. Le signal est amplifié par la formation d'électrons secondaires à l'aide de tubes en verre dopés au plomb (dynode). Il possède une bonne sensibilité, avec une amplification forte mais il est moins précis que le cylindre de Faraday. Il a en outre une durée de vie limitée. La galette de microcanaux, autre détecteur, peut être considérée comme assemblage de multiplicateurs d'électrons.
+Le multiplicateur de photons est dérivé du multiplicateur d'électrons : le signal est amplifié par la formation d'électrons secondaires à l'aide de tubes en verre dopés au plomb (dynode). Ces électrons sont accélérés vers un écran phosphorescent où ils sont convertis en photons. Ces photons sont ensuite détectés par le photomultiplicateur. Il présente une bonne sensibilité, avec amplification forte mais le balayage est moins rapide qu'avec un multiplicateur d'électrons.
+
+Spectrométrie de masse en tandem (MS/MS)
+Voir aussi : Séquençage par spectrométrie de masse
+
+La spectrométrie de masse en tandem consiste à sélectionner un ion par une première spectrométrie de masse, à le fragmenter, puis à effectuer une deuxième spectrométrie de masse sur les fragments ainsi générés.
+Elle peut être réalisée à l'aide de nombreux appareils combinant des secteurs magnétiques, électriques, quadripolaires ou des temps de vol, mais également au sein d'un même analyseur dans le cas d'une trappe d'ions.
+
+Triple quadripôle
+Un triple quadripôle résulte de l'association de deux analyseurs quadripolaires en série, séparés par une cellule de collision souvent constituée d'un quadripôle plus court. Cette combinaison de quadripôles permet de travailler en MS simple ou en tandem. Pour réaliser une acquisition en MS, il suffit de n'appliquer qu'une tension alternative à l'un des analyseurs pour le rendre « transparent » comme la cellule de collision, celle-ci ne contenant alors pas de gaz.
+Lors d'une acquisition en MS/MS, la cellule de collision est remplie d'un gaz inerte (argon par exemple) sous une pression relativement élevée (10−2 Torr). L'énergie cinétique de l'ion sélectionné est convertie lors de ses collisions successives en énergie interne. La dissociation de l'ion se réalisera lorsque son énergie interne sera devenue supérieure à l'énergie d'activation nécessaire à la fragmentation. Cette technique de dissociation activée par collision (CAD ou CID : Collision Induced Dissociation) peut être amplifiée en augmentant l'énergie cinétique des ions sélectionnées par application d'une différence de potentiel entre la source et la cellule de collision.
+L'analyse MS/MS peut être menée selon quatre modes différents selon l'information recherchée : le mode descendant est le plus utilisé pour obtenir des informations structurales, les deux modes (ascendant et perte de neutre) sont d'un usage plus restreint et permettent de mettre en évidence des ions ayant des particularités communes. Le quatrième mode (Multiple Reaction Monitoring ou MRM), dérivé du mode descendant, est voué à la quantification.
+
+En mode descendant, l'ion à étudier est sélectionné en focalisant le premier analyseur sur son rapport m/z. Les fragments formés dans la cellule de collision sont séparés par le deuxième analyseur et analysés. Le spectre obtenu présente à la fois l'ion précurseur (ou ion parent) et ses ions fragments (ou ions produits).
+En mode ascendant, le premier analyseur balaie une gamme de masse tandis que le deuxième est focalisé sur un seul rapport m/z. Tous les ions générés en source et capables de donner un fragment de même rapport m/z seront donc ainsi détectés.
+En mode perte de neutre, les deux analyseurs balaient une gamme de masse simultanément et avec un décalage de masse constant. Le spectre établi présentera alors tous les ions parents capables de se fragmenter en générant un neutre de masse égale au décalage imposé.
+En mode MRM, l'ion parent à étudier est sélectionné par le premier analyseur et fragmenté dans la cellule de collision, comme en mode descendant. En revanche, le second analyseur est focalisé sur l'ion produit. Ce mode de fonctionnement présente une double sélectivité, au niveau des sélections de l'ion parent et de l'ion produit. En outre les deux analyseurs étant fixées à des tensions constantes, la sensibilité de détection est améliorée par rapport à d'autres modes de balayage, faisant de la MRM un mode de choix pour la quantification.
+
+Piège à ions quadripolaire
+Au sein d'un piège à ions quadripolaire (parfois appelé « trappe d'ions » en raison d'une mauvaise traduction de l'anglais ion trap), l'analyse en tandem se réalise dans un premier temps par sélection d'ions dont la valeur m/z est choisie. Ces ions piégés vont ensuite se fragmenter par collisions (acquisition d'énergie interne, excitation vibrationnelle)  à l'aide d'une tension RF (radiofréquence) correspondant à leur fréquence de résonance, et les ions produits formés sont à leur tour piégés. Une éjection sélective en masse des ions produits (fragments) peut alors être réalisée en vue de leur analyse. Le gaz de collision est généralement de l'hélium présent en permanence dans le piège et a pour rôle également de focaliser les ions aux centre de l'analyseur.
+L'obtention d'ions de générations supérieures est possible par simple renouvellement du processus (sélection d'un ion produit, fragmentation, sélection d'un ion produit de 2e génération, fragmentation, etc.). Cette séquence est appelée « MSn », n étant le nombre de générations d'ions. Ainsi la MS2 est la MS-MS et ainsi de suite.
+
+Hybride
+Associer plusieurs types d'analyseur dans un spectromètre de masse en tandem permet de combiner les points forts des deux types d'analyseurs.
+
+Quadripôle-temps de vol :
+Ces appareils appelés « Q-TOF » sont constitués d'un double quadripôle (1er analyseur + cellule de collision) et d'un analyseur à temps de vol comme second analyseur. Le quadripôle procure ainsi une grande efficacité au processus MS/MS, tandis que le TOF apporte son excellente sensibilité, sa grande rapidité d'analyse et ses résolutions et précision en masse bien meilleure sur les ions produits, par rapport à une configuration triple quadripôle. Cependant ces instruments sont limités par la faible gamme dynamique du TOF.
+
+Quadripôle/piège à ions quadripolaire :Cette combinaison permet d'éviter les problèmes de charge d'espace associés aux pièges à ions. Le piège apporte une meilleure sensibilité et une vitesse d'analyse plus rapide. En outre, par rapport à un piège simple, cette combinaison autorise tous les modes d'acquisition MS/MS du triple quadripôle (perte de neutre et mode ascendant).
+
+Piège à ions quadripolaire-temps de vol :L'association d'un piège à ions et d'un TOF permet d'accéder à une analyse structurale très poussée par MSn grâce au piège, mais présente aussi une grande précision en masse sur les ions précurseurs et produits pour la détermination des formules brutes, complétant ainsi l'identification. Cet appareil hybride est ainsi principalement destiné à l'identification et à l'analyse structurale.
+
+Piège à ions/FT-ICR ou Piège à ions/Orbitrap :Le but de ce genre de couplage est d'obtenir une précision en masse et une résolution, qui soient encore meilleures qu'avec un TOF comme deuxième analyseur, et permettent l'établissement de formules brutes sans ambiguïté et donc une identification facilitée. Ces appareils représentent cependant un investissement bien supérieur, comparés à un piège à ions-temps de vol.
+
+Voir aussi
+Articles connexes
+Biophysique
+Spectroscopie
+Spectromètre de masse à attachement d'ions
+Spectrométrie de masse par accélérateur (en)
+
+Liens externes
+Ressource relative à la santé : Medical Subject Headings 
+
+Datation radiocarbone par spectrométrie de masse par accélérateur, sur radiocarbon.com.
+
+Notes et références
+
+ Portail de la physique   Portail de la biochimie   Portail de la chimie

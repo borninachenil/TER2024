@@ -1,0 +1,101 @@
+La thermodynamique chimique est la branche de la chimie physique qui étudie les échanges d'énergie aux substances chimiques et dans les milieux réactionnels. Elle se trouve sur le plan disciplinaire à l'interface entre la chimie et la thermodynamique. C'est une branche fondamentale de la chimie.
+La thermodynamique chimique inclut la thermochimie, qui étudie les échanges de la chaleur, une forme de l'énergie, aux substances chimiques et dans les milieux réactionnels. Les réactions qui dégagent de la chaleur sont dites exothermiques, tandis que celles qui en absorbent sont endothermiques. La mesure des chaleurs de réaction est effectuée par calorimétrie, soit à pression constante dans un calorimètre, soit à volume constant dans une bombe calorimétrique. Celle-ci, mise au point en 1881 par Marcellin Berthelot, permet de mesurer le pouvoir calorifique d’un combustible. Berthelot est de ce fait considéré comme le fondateur de la thermochimie.
+En plus de la thermochimie, la thermodynamique chimique étudie diverses formes de travail aux systèmes chimiques, y compris le travail mécanique, le travail électrique et le travail chimique. La thermodynamique chimique s’est beaucoup développée au cours du XXe siècle. L’application du deuxième principe de la thermodynamique aux systèmes chimiques a permis, entre autres, de prévoir le sens des réactions, le positionnement des équilibres chimiques et donc de définir le rendement et la composition du système après réaction.
+
+Thermochimie
+Chaleur de réaction
+Au cours d’une réaction chimique, le système échange de l’énergie thermique (chaleur) avec le milieu extérieur. Cette énergie échangée Q{\displaystyle Q} dépend des conditions expérimentales dans lesquelles se produit la réaction :
+
+à volume constant (transformation isochore), cas de la bombe calorimétrique, la thermodynamique montre que Q{\displaystyle Q} est égale à la variation de l'énergie interne du système :
+Qv=ΔU{\displaystyle Q_{v}=\Delta U} ;
+à pression constante (transformation isobare), cas très fréquent des réactions effectuées à l’air libre, la chaleur est égale à la variation de l'enthalpie :
+Qp=ΔH{\displaystyle Q_{p}=\Delta H}.
+
+Enthalpie de réaction
+On appelle enthalpie de réaction à pression p{\displaystyle p} et température T{\displaystyle T} constantes, la grandeur :
+
+Enthalpie de réaction : ΔrHT,p=(∂H∂ξ)T,p=∑iνi⋅H¯i(T,p){\displaystyle \Delta _{\rm {r}}H_{T,p}=\left({\frac {\partial H}{\partial \xi }}\right)_{T,p}=\sum _{i}\nu _{i}\cdot {\bar {H}}_{i(T,p)}}
+Dans le cas d'un mélange idéal, les enthalpies molaires partielles H¯i{\displaystyle {\bar {H}}_{i}} sont égales aux enthalpies molaires des corps purs H¯i∗{\displaystyle {\bar {H}}_{i}^{*}}, on a alors :
+
+ΔrHT,pid=(∂H∂ξ)T,p=∑iνi⋅H¯i(T,p)∗{\displaystyle \Delta _{\rm {r}}H_{T,p}^{\text{id}}=\left({\frac {\partial H}{\partial \xi }}\right)_{T,p}=\sum _{i}\nu _{i}\cdot {\bar {H}}_{i(T,p)}^{*}}La variation d'enthalpie du système réactionnel, pour un état d'avancement donné, correspond à la chaleur mise en jeu et est égale à :
+
+ΔHT,p=∫0ξΔrHT,p⋅dξ=Qp{\displaystyle \Delta H_{T,p}=\int _{0}^{\xi }\Delta _{\rm {r}}H_{T,p}\cdot \mathrm {d} \xi =Q_{p}}
+Dans le cas d'un système idéal, ΔrHT,p{\displaystyle \Delta _{\rm {r}}H_{T,p}} est indépendant de ξ{\displaystyle \xi }.
+On en déduit :
+
+ΔHT,pid=ΔrHT,p⋅ξ=Qp{\displaystyle \Delta H_{T,p}^{\text{id}}=\Delta _{\rm {r}}H_{T,p}\cdot \xi =Q_{p}}L'enthalpie de réaction ΔrHT,p{\displaystyle \Delta _{\rm {r}}H_{T,p}} est le « potentiel calorifique » de la réaction, mis en jeu partiellement ou totalement selon que la réaction est partielle ou totale. Elle s'exprime en J/mol.
+Si la réaction est effectuée de telle manière que chaque constituant se trouve sous la pression standard, p∘{\displaystyle p^{\circ }}, on obtient l'enthalpie standard de réaction, ΔrHT∘{\displaystyle \Delta _{\rm {r}}H_{T}^{\circ }}. L'état standard est défini :
+
+pour un gaz : gaz parfait sous la pression de 1 bar ;
+pour un liquide ou solide : sous la pression de 1 bar ;
+pour un soluté : à une concentration de référence de C∘{\displaystyle C^{\circ }} = 1 mol/l.Une réaction chimique ne peut être étudiée thermodynamiquement, qu'à température et pression constante. Le plus souvent la pression choisie est la pression atmosphérique (1,013 25 bar), bien qu'aujourd'hui elle ne soit plus la valeur de pression standard. Cette dernière est fixée à 1 bar (néanmoins, ce changement n'affecte que très peu les valeurs tabulées). On obtient alors l'enthalpie standard de réaction à T{\displaystyle T}.
+
+Loi de Kirchhoff
+Il est possible de calculer l'enthalpie standard de réaction à une température donnée connaissant l'enthalpie standard de réaction à 298 K, température de référence des tables thermodynamiques.
+L'évolution de l'enthalpie standard de réaction en fonction de la température est donnée par la loi de Kirchhoff :
+dΔrH∘dT=ΔrCp∘{\displaystyle {\mathrm {d} \Delta _{\rm {r}}H^{\circ } \over \mathrm {d} T}=\Delta _{\rm {r}}C_{p}^{\circ }} , qui devient par intégration, ΔrH∘(T)=ΔrH298∘+∫298T∑iνi⋅Cp,i∘⋅dT{\displaystyle \Delta _{\rm {r}}H^{\circ }(T)=\Delta _{\rm {r}}H_{298}^{\circ }+\int _{298}^{T}\sum _{i}\nu _{i}\cdot C_{p,i}^{\circ }\cdot \mathrm {d} T}
+(la dérivée est une dérivée droite, et non partielle, car les grandeurs standards sont supposées ne dépendre que de la température), avec :
+
+∑iνi.Cp,i∘=ΔrCp∘{\displaystyle \sum _{i}\nu _{i}.C_{p,i}^{\circ }=\Delta _{\rm {r}}C_{p}^{\circ }}
+Cp,i∘{\displaystyle C_{p,i}^{\circ }} la capacité calorifique molaire à pression constante du constituant i{\displaystyle i} à l'état standard. Elle est fonction de T{\displaystyle T} mais on peut la considérer comme constante si l'intervalle de T{\displaystyle T} n'est pas trop grand.Dans ce cas on obtient la relation approchée :
+
+ΔrH∘(T)=ΔrH298∘+ΔrCp∘⋅(T−298){\displaystyle \Delta _{\rm {r}}H^{\circ }(T)=\Delta _{\rm {r}}H_{298}^{\circ }+\Delta _{\rm {r}}C_{p}^{\circ }\cdot \left(T-298\right)}Remarque importante : cette relation n'est valable que s'il n'y a pas de changement d'état ou de phase dans l'intervalle de température considéré. Dans le cas contraire, il est nécessaire d'effectuer un cycle grâce à la loi de Hess pour les prendre en considération.
+Le calcul de ΔrH298∘{\displaystyle \Delta _{\rm {r}}H_{298}^{\circ }} s'effectue à l'aide de l'enthalpie standard de formation, ΔfH298∘{\displaystyle \Delta _{\rm {f}}H_{298}^{\circ }}, dont les valeurs sont tabulées pour la plupart des composés.
+
+Autres grandeurs standards de réaction
+Ce sont des grandeurs associées à l'écriture de l'équation-bilan. En plus de l'enthalpie, elles concernent l'entropie et l'enthalpie libre.
+En conditions standards, les grandeurs de réaction obéissent à la loi de Hess qui énonce que :
+ΔrX∘=∑iνiΔfXi∘{\displaystyle \Delta _{\rm {r}}X^{\circ }=\sum _{i}\nu _{i}\Delta _{\rm {f}}X_{i}^{\circ }}
+où Xi{\displaystyle X_{i}} est une grandeur extensive, ΔfXi∘{\displaystyle \Delta _{\rm {f}}X_{i}^{\circ }} est une grandeur standard de formation.
+Par convention :
+
+νi<0{\displaystyle \nu _{i}<0} pour les réactifs,
+νi>0{\displaystyle \nu _{i}>0} pour les produits,
+νi=0{\displaystyle \nu _{i}=0} pour les inertes.Rappelons la définition même de l'avancement de réaction : ξ=Δniνi{\displaystyle \xi ={\frac {\Delta n_{i}}{\nu _{i}}}}.
+
+Grandeur de réaction
+On appelle grandeur de réaction, notée avec l'opérateur de Lewis Δr{\displaystyle \Delta _{\rm {r}}}, la dérivée d'une grandeur X{\displaystyle X}, par rapport à l'état d'avancement de la réaction ξ{\displaystyle \xi }, à pression p{\displaystyle p} et température T{\displaystyle T} constantes.
+
+ΔrX=(∂X∂ξ)T,p{\displaystyle \Delta _{\rm {r}}X=\left({\frac {\partial X}{\partial \xi }}\right)_{T,p}}La grandeur de réaction s'exprime en fonction des grandeurs molaires partielles X¯i{\displaystyle \scriptstyle {{\bar {X}}_{i}}} par :
+
+ΔrX=∑i=1Nνi⋅X¯i{\displaystyle \Delta _{\rm {r}}X=\sum _{i=1}^{N}\nu _{i}\cdot {\bar {X}}_{i}}
+
+Entropie standard de réaction
+Elle est notée ΔrST∘{\displaystyle \Delta _{\rm {r}}S_{T}^{\circ }}. Le troisième principe de la thermodynamique énonce que l'entropie d'un corps pur est nulle à 0 K. Donc on peut calculer l'entropie molaire d'un corps pur de façon absolue (voir l'article Entropie d'un corps pur). Il n'est donc pas nécessaire de définir une entropie standard de formation. On a dressé des tables d'entropies molaires standards à 298 K pour la plupart des corps purs, qui permettent de calculer les entropies standards de réaction :
+
+ΔrS298∘=∑iνi⋅Si,298∘{\displaystyle \Delta _{\rm {r}}S_{298}^{\circ }=\sum _{i}\nu _{i}\cdot S_{i,298}^{\circ }}Il est alors possible de calculer l'évolution de ΔrS∘(T){\displaystyle \Delta _{\rm {r}}S^{\circ }(T)} en fonction de T, grâce à la relation de Kirchhoff appliquée à l'entropie.
+Remarque : le signe de l'entropie de réaction est souvent prévisible, puisque l'entropie peut être considérée comme une mesure de l'ordre (ou du désordre). Plus le désordre est important, plus l'entropie est grande, d'où le classement S(solide)<S(liquide)≪S(gaz){\displaystyle S({\text{solide}})<S({\text{liquide}})\ll S({\text{gaz}})}.
+
+Enthalpie libre
+Pour tout système thermodynamique, on définit une fonction d'état notée G{\displaystyle G}, par :
+
+G=H−TS{\displaystyle G=H-T\,S}où H{\displaystyle H} désigne l'enthalpie, T{\displaystyle T} la température et S{\displaystyle S} l'entropie. G{\displaystyle G} est appelé enthalpie libre, énergie libre de Gibbs ou énergie de Gibbs. Dans le Système international d'unités, G{\displaystyle G} et H{\displaystyle H} s'expriment en joules (J), T{\displaystyle T} en kelvins (K) et S{\displaystyle S} en joules par kelvin (J/K).
+L'enthalpie libre G{\displaystyle G} est la fonction d'état indispensable pour l'étude des équilibres chimiques. Cette fonction ne peut que décroître dans une transformation à pression et température constantes selon le deuxième principe de la thermodynamique. En conséquence, pour une réaction chimique effectuée à T{\displaystyle T} et p{\displaystyle p} constantes, le signe de l'enthalpie libre de réaction indique dans quel sens se déplace un équilibre chimique. Lorsque l'enthalpie libre atteint un minimum, c'est-à-dire lorsqu'elle ne varie plus, alors l'équilibre chimique est atteint.
+
+Enthalpie libre standard de réaction
+Elle est notée ΔrGT∘{\displaystyle \Delta _{\rm {r}}G_{T}^{\circ }}. Elle peut être calculée grâce à la loi de Hess, à partir des enthalpies libres standards de formation, ΔfGT∘{\displaystyle \Delta _{\rm {f}}G_{T}^{\circ }} dont les valeurs numériques sont tabulées à 298 K.
+
+ΔrG298∘=∑iνi⋅ΔfGi,298∘{\displaystyle \Delta _{\rm {r}}G_{298}^{\circ }=\sum _{i}\nu _{i}\cdot \Delta _{\rm {f}}G_{i,298}^{\circ }}.Il est aussi possible de calculer l'enthalpie libre de réaction standard par la relation issue directement de la définition de la fonction enthalpie libre G=H−TS{\displaystyle G=H-TS} :
+
+ΔrG∘(T)=ΔrH∘(T)−TΔrS∘(T){\displaystyle \Delta _{\rm {r}}G^{\circ }(T)=\Delta _{\rm {r}}H^{\circ }(T)-T\Delta _{\rm {r}}S^{\circ }(T)}Le calcul de l'enthalpie libre standard de réaction revêt une importance capitale pour l'étude des équilibres chimiques puisque la connaissance de cette grandeur permet d'avoir accès à la constante d'équilibre.
+
+ΔrG∘(T)=−RTln⁡K(T){\displaystyle \Delta _{\rm {r}}G^{\circ }(T)=-RT\ln K(T)}D'où
+
+K(T)=exp⁡(−ΔrG∘(T)R⋅T){\displaystyle K(T)=\exp \left({\frac {-\Delta _{\rm {r}}G^{\circ }(T)}{R\cdot T}}\right)}
+
+Prospective
+L'utilisation de certains réacteurs nucléaires de quatrième génération (sans turbine de production d'électricité éventuellement) est envisagée comme source de fluide à très haute température pour des productions industrielles d'hydrogène produit par des réactions thermochimiques
+
+Notes et références
+Voir aussi
+Articles connexes
+Cinétique chimique
+Équilibre chimique
+Loi d'action de masse
+Notations en thermodynamique chimique
+Processus spontané
+Thermodynamique des solutions
+Réaction exothermique
+Réaction endothermique
+Pouvoir calorifique
+ Portail de la chimie

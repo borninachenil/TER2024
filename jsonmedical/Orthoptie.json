@@ -1,0 +1,6928 @@
+[
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "consiste",
+            "id": "2156146"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "dépister",
+            "id": "NULL"
+        },
+        {
+            "mot": "analyser",
+            "id": "427071"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "traiter",
+            "id": "99270"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "visuels",
+            "id": "5990924"
+        },
+        {
+            "mot": "moteurs",
+            "id": "414063"
+        },
+        {
+            "mot": "sensoriels",
+            "id": "5570574"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "fonctionnels",
+            "id": "405357"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "cela",
+            "id": "15550577"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "contexte",
+            "id": "416292"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "besoins",
+            "id": "16075756"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "caractéristiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "évalue",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "capacités",
+            "id": "NULL"
+        },
+        {
+            "mot": "visuelles",
+            "id": "429257"
+        },
+        {
+            "mot": "effectue",
+            "id": "567978"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "examens",
+            "id": "15519135"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "explorations",
+            "id": "3229133"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "photos",
+            "id": "425493"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fond",
+            "id": "417793"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "œil",
+            "id": "NULL"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "tension",
+            "id": "16089270"
+        },
+        {
+            "mot": "oculaire",
+            "id": "95038208"
+        },
+        {
+            "mot": "évaluation",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "champ",
+            "id": "11539790"
+        },
+        {
+            "mot": "visuel",
+            "id": "403635"
+        },
+        {
+            "mot": "réalise",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "propose",
+            "id": "3383078"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "projets",
+            "id": "8962063"
+        },
+        {
+            "mot": "thérapeutiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "personnalisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "Étymologiquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "vient",
+            "id": "10052362"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "grec",
+            "id": "253909450"
+        },
+        {
+            "mot": "ortho",
+            "id": "2429862"
+        },
+        {
+            "mot": "droit",
+            "id": "152208"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "opto",
+            "id": "94448706"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "suffixe",
+            "id": "14510603"
+        },
+        {
+            "mot": "ie",
+            "id": "2211113"
+        }
+    ],
+    [
+        {
+            "mot": "Définition",
+            "id": "NULL"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "consiste",
+            "id": "2156146"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "actes",
+            "id": "144884"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "exploration",
+            "id": "155689"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "rééducation",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réadaptation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "éventuellement",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "appareils",
+            "id": "6082042"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "destinés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "traiter",
+            "id": "99270"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "anomalies",
+            "id": "15562522"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "habilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "réaliser",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "interrogatoire",
+            "id": "16073301"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "recueillir",
+            "id": "250751076"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "informations",
+            "id": "272760"
+        },
+        {
+            "mot": "concernant",
+            "id": "428757"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "entourage",
+            "id": "10774943"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "respect",
+            "id": "429779"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "secret",
+            "id": "12074255"
+        },
+        {
+            "mot": "professionnel",
+            "id": "403636"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "charge",
+            "id": "416622"
+        },
+        {
+            "mot": "orthoptique",
+            "id": "17616"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "accompagnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "échéant",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "conseils",
+            "id": "416213"
+        },
+        {
+            "mot": "appropriés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "entourage",
+            "id": "10774943"
+        },
+        {
+            "mot": "proche",
+            "id": "421416"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        }
+    ],
+    [
+        {
+            "mot": "Au",
+            "id": "138621"
+        },
+        {
+            "mot": "er",
+            "id": "249629464"
+        },
+        {
+            "mot": "janvier",
+            "id": "138451"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "avait",
+            "id": "1993957"
+        },
+        {
+            "mot": "orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "métropolitaine",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "DOM",
+            "id": "414250"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "exerçant",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "libéral",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        }
+    ],
+    [
+        {
+            "mot": "Champs",
+            "id": "410311"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "intervention",
+            "id": "415283"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "spécialisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "exploration",
+            "id": "155689"
+        },
+        {
+            "mot": "rééducation",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "réadaptation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "exploration",
+            "id": "155689"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        },
+        {
+            "mot": "Un",
+            "id": "256126039"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "professionnel",
+            "id": "403636"
+        },
+        {
+            "mot": "travaillant",
+            "id": "2353797"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "cabinet",
+            "id": "403197"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "ophtalmologie",
+            "id": "155525"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "intervenant",
+            "id": "58695"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "amont",
+            "id": "2599999"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "consultation",
+            "id": "15190491"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "pratique",
+            "id": "432472"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "mesures",
+            "id": "5619572"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "œil",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "examens",
+            "id": "15519135"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "réaliser",
+            "id": "NULL"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "acuité",
+            "id": "NULL"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "réfraction",
+            "id": "NULL"
+        },
+        {
+            "mot": "participer",
+            "id": "244473943"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "adaptation",
+            "id": "5619557"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "manipulation",
+            "id": "406090"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "lentilles",
+            "id": "2546392"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "contact",
+            "id": "15404435"
+        },
+        {
+            "mot": "mesurer",
+            "id": "16512661"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pression",
+            "id": "15513566"
+        },
+        {
+            "mot": "intra",
+            "id": "5677009"
+        },
+        {
+            "mot": "oculaire",
+            "id": "95038208"
+        },
+        {
+            "mot": "réaliser",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "tomographie",
+            "id": "17341874"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "cohérence",
+            "id": "NULL"
+        },
+        {
+            "mot": "optique",
+            "id": "144312"
+        },
+        {
+            "mot": "effectuer",
+            "id": "117559"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "photos",
+            "id": "425493"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fond",
+            "id": "417793"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "œil",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "contexte",
+            "id": "416292"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "diminution",
+            "id": "15406690"
+        },
+        {
+            "mot": "démographique",
+            "id": "NULL"
+        },
+        {
+            "mot": "importante",
+            "id": "161295"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "ophtalmologistes",
+            "id": "2069866"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "augmentation",
+            "id": "6015574"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "actes",
+            "id": "144884"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "accroissement",
+            "id": "15039665"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "vieillissement",
+            "id": "10179112"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "population",
+            "id": "214730"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "filière",
+            "id": "NULL"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "dû",
+            "id": "NULL"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "réorganiser",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "partenaires",
+            "id": "3244906"
+        },
+        {
+            "mot": "privilégiés",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "ophtalmologistes",
+            "id": "2069866"
+        },
+        {
+            "mot": "confient",
+            "id": "331090"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "quarts",
+            "id": "2578183"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mesures",
+            "id": "5619572"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        }
+    ],
+    [
+        {
+            "mot": "Ils",
+            "id": "427503"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "passer",
+            "id": "407137"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "chacun",
+            "id": "397144"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "recevoir",
+            "id": "36620"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "cours",
+            "id": "78667606"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "journée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "neutre",
+            "id": "4337327"
+        },
+        {
+            "mot": "Et",
+            "id": "159139"
+        },
+        {
+            "mot": "c",
+            "id": "142716"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "esprit",
+            "id": "10555969"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "réaliser",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nouveaux",
+            "id": "405929"
+        },
+        {
+            "mot": "actes",
+            "id": "144884"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "contrôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "rendez",
+            "id": "402844"
+        },
+        {
+            "mot": "vous",
+            "id": "16512578"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "chroniques",
+            "id": "146134"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "bilan",
+            "id": "8864584"
+        },
+        {
+            "mot": "visuel",
+            "id": "403635"
+        },
+        {
+            "mot": "avant",
+            "id": "5987039"
+        },
+        {
+            "mot": "prescription",
+            "id": "567655"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "renouvellement",
+            "id": "2953075"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "lunettes",
+            "id": "420150"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prescription",
+            "id": "567655"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "lunettes",
+            "id": "420150"
+        },
+        {
+            "mot": "spécialisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "personnes",
+            "id": "1133448"
+        },
+        {
+            "mot": "dyslexiques",
+            "id": "2083948"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "dépistage",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "rétinopathie",
+            "id": "NULL"
+        },
+        {
+            "mot": "diabétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "acte",
+            "id": "17341095"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "télémédecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "remboursé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "Sécurité",
+            "id": "NULL"
+        },
+        {
+            "mot": "sociale",
+            "id": "404907"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "éviter",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "découvrir",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pathologie",
+            "id": "416178"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "trop",
+            "id": "137456"
+        },
+        {
+            "mot": "tard",
+            "id": "415397"
+        }
+    ],
+    [
+        {
+            "mot": "Un",
+            "id": "256126039"
+        },
+        {
+            "mot": "décret",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "avril",
+            "id": "219232"
+        },
+        {
+            "mot": "prévoit",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "renouvellement",
+            "id": "2953075"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "équipement",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "adapter",
+            "id": "5720739"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "réalisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "réfraction",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "sauf",
+            "id": "2932154"
+        },
+        {
+            "mot": "opposition",
+            "id": "2932397"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        },
+        {
+            "mot": "mentionnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "expressément",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ordonnance",
+            "id": "411204"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "corrections",
+            "id": "182288439"
+        },
+        {
+            "mot": "optiques",
+            "id": "400974"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "prescriptions",
+            "id": "16786304"
+        },
+        {
+            "mot": "médicales",
+            "id": "NULL"
+        },
+        {
+            "mot": "initiales",
+            "id": "11021429"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "lentilles",
+            "id": "2546392"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "contact",
+            "id": "15404435"
+        },
+        {
+            "mot": "oculaire",
+            "id": "95038208"
+        },
+        {
+            "mot": "datant",
+            "id": "1996375"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "an",
+            "id": "15435296"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "âgés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "âgés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "corrections",
+            "id": "182288439"
+        },
+        {
+            "mot": "optiques",
+            "id": "400974"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "prescriptions",
+            "id": "16786304"
+        },
+        {
+            "mot": "médicales",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "verres",
+            "id": "409609"
+        },
+        {
+            "mot": "correcteurs",
+            "id": "265663"
+        },
+        {
+            "mot": "datant",
+            "id": "1996375"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "an",
+            "id": "15435296"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "âgés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cinq",
+            "id": "142408"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "âgés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "âgés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "rééducation",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "historiquement",
+            "id": "14581248"
+        },
+        {
+            "mot": "prennent",
+            "id": "2251249"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "charge",
+            "id": "416622"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "déséquilibres",
+            "id": "NULL"
+        },
+        {
+            "mot": "oculaires",
+            "id": "413865"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "strabismes",
+            "id": "2289073"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "amblyopies",
+            "id": "2125208"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "nystagmus",
+            "id": "143655817"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "soulagent",
+            "id": "2100932"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "céphalées",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "oculaires",
+            "id": "413865"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "problèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mise",
+            "id": "16089537"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "point",
+            "id": "15504812"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "floue",
+            "id": "11645590"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "qu",
+            "id": "214790705"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "travaillent",
+            "id": "2102378"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "écran",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "qu",
+            "id": "214790705"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "soient",
+            "id": "314390"
+        },
+        {
+            "mot": "obligés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fixer",
+            "id": "10868972"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "manière",
+            "id": "NULL"
+        },
+        {
+            "mot": "importante",
+            "id": "161295"
+        }
+    ],
+    [
+        {
+            "mot": "Se",
+            "id": "313787"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "ajoutés",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "bilans",
+            "id": "14665085"
+        },
+        {
+            "mot": "orthoptiques",
+            "id": "6264912"
+        },
+        {
+            "mot": "spécifiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "réalisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "problématique",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "bilan",
+            "id": "8864584"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "basse",
+            "id": "16089269"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "malvoyance",
+            "id": "91882791"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "neurovisuels",
+            "id": "NULL"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "apprentissages",
+            "id": "408905"
+        },
+        {
+            "mot": "dyslexie",
+            "id": "101426514"
+        },
+        {
+            "mot": "dyspraxie",
+            "id": "101426535"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "attention",
+            "id": "3729956"
+        },
+        {
+            "mot": "autisme",
+            "id": "104076393"
+        }
+    ],
+    [
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "posturaux",
+            "id": "2250252"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cadre",
+            "id": "11009201"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "chroniques",
+            "id": "146134"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "développement",
+            "id": "NULL"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "réadaptation",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "responsables",
+            "id": "254747123"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "atteints",
+            "id": "1992801"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dégénérescence",
+            "id": "NULL"
+        },
+        {
+            "mot": "maculaire",
+            "id": "16891988"
+        },
+        {
+            "mot": "liée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "âge",
+            "id": "NULL"
+        },
+        {
+            "mot": "DMLA",
+            "id": "251898"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "basse",
+            "id": "16089269"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        },
+        {
+            "mot": "glaucome",
+            "id": "107767666"
+        },
+        {
+            "mot": "rétinopathie",
+            "id": "NULL"
+        },
+        {
+            "mot": "diabétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ceux",
+            "id": "428509"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "atteints",
+            "id": "1992801"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "neurovisuels",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "conséquences",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuro",
+            "id": "10919205"
+        },
+        {
+            "mot": "ophtalmologiques",
+            "id": "2069858"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "générales",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Entrent",
+            "id": "278505"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "catégories",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nombreuses",
+            "id": "16088588"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "neurodégénératives",
+            "id": "NULL"
+        },
+        {
+            "mot": "telles",
+            "id": "10055284"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sclérose",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "plaques",
+            "id": "16090037"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "séquelles",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "accident",
+            "id": "143577"
+        },
+        {
+            "mot": "vasculaire",
+            "id": "17052869"
+        },
+        {
+            "mot": "cérébral",
+            "id": "NULL"
+        },
+        {
+            "mot": "AVC",
+            "id": "13781994"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Parkinson",
+            "id": "149556"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "lesquelles",
+            "id": "16087745"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "œuvre",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "rendre",
+            "id": "254334089"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "capacités",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fixation",
+            "id": "5999483"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        },
+        {
+            "mot": "restantes",
+            "id": "1979296"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "efficaces",
+            "id": "2006479"
+        },
+        {
+            "mot": "possibles",
+            "id": "160889"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "prises",
+            "id": "10789127"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "charge",
+            "id": "416622"
+        },
+        {
+            "mot": "contribue",
+            "id": "2158681"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "maintien",
+            "id": "14636260"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "domicile",
+            "id": "273388"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "aisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "population",
+            "id": "214730"
+        },
+        {
+            "mot": "vieillissante",
+            "id": "153881"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "charge",
+            "id": "416622"
+        },
+        {
+            "mot": "orthoptique",
+            "id": "17616"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "conçoit",
+            "id": "NULL"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "cadre",
+            "id": "11009201"
+        },
+        {
+            "mot": "pluridisciplinaire",
+            "id": "105291"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "réalise",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "propose",
+            "id": "3383078"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "projets",
+            "id": "8962063"
+        },
+        {
+            "mot": "thérapeutiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "personnalisés",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "participe",
+            "id": "92958085"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "projets",
+            "id": "8962063"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "adaptation",
+            "id": "5619557"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "scolarisation",
+            "id": "405035"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "enfants",
+            "id": "402139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "lien",
+            "id": "5814227"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "Éducation",
+            "id": "NULL"
+        },
+        {
+            "mot": "nationale",
+            "id": "402287"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "entretient",
+            "id": "2047867"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "titre",
+            "id": "11409607"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "relations",
+            "id": "406638"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "tous",
+            "id": "417137"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "professionnels",
+            "id": "411617"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "corps",
+            "id": "404381"
+        },
+        {
+            "mot": "enseignant",
+            "id": "13250291"
+        },
+        {
+            "mot": "professeurs",
+            "id": "412920"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "écoles",
+            "id": "NULL"
+        },
+        {
+            "mot": "enseignants",
+            "id": "397747"
+        },
+        {
+            "mot": "référents",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "M",
+            "id": "138590"
+        }
+    ],
+    [
+        {
+            "mot": "D",
+            "id": "142231"
+        }
+    ],
+    [
+        {
+            "mot": "P",
+            "id": "137760"
+        }
+    ],
+    [
+        {
+            "mot": "H",
+            "id": "140485"
+        }
+    ],
+    [
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "établissements",
+            "id": "NULL"
+        },
+        {
+            "mot": "spécialisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "IME",
+            "id": "11752315"
+        },
+        {
+            "mot": "IEM",
+            "id": "10911119"
+        },
+        {
+            "mot": "SESSAD",
+            "id": "32377088"
+        },
+        {
+            "mot": "CAMSP",
+            "id": "592608"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "Modalités",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "accéder",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "consultation",
+            "id": "15190491"
+        },
+        {
+            "mot": "orthoptique",
+            "id": "17616"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "manières",
+            "id": "NULL"
+        },
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "prescription",
+            "id": "567655"
+        },
+        {
+            "mot": "médicale",
+            "id": "NULL"
+        },
+        {
+            "mot": "ordonnance",
+            "id": "411204"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        },
+        {
+            "mot": "généraliste",
+            "id": "NULL"
+        },
+        {
+            "mot": "ophtalmologiste",
+            "id": "255353735"
+        },
+        {
+            "mot": "pédiatre",
+            "id": "NULL"
+        },
+        {
+            "mot": "neurologue",
+            "id": "156481745"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "protocole",
+            "id": "16717746"
+        },
+        {
+            "mot": "organisationnel",
+            "id": "159215620"
+        },
+        {
+            "mot": "établi",
+            "id": "NULL"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "e",
+            "id": "141745"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "médecins",
+            "id": "NULL"
+        },
+        {
+            "mot": "ophtalmologistes",
+            "id": "2069866"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "établissementEn",
+            "id": "NULL"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "urgence",
+            "id": "415018"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "absence",
+            "id": "584580"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "habilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "accomplir",
+            "id": "75065"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "premiers",
+            "id": "402211"
+        },
+        {
+            "mot": "actes",
+            "id": "144884"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "soins",
+            "id": "10057510"
+        },
+        {
+            "mot": "nécessaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "exercice",
+            "id": "425502"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "quel",
+            "id": "425730"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "mode",
+            "id": "153749"
+        },
+        {
+            "mot": "salarié",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "libéral",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "réglementé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "décret",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "compétences",
+            "id": "NULL"
+        },
+        {
+            "mot": "fixant",
+            "id": "2011431"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "actes",
+            "id": "144884"
+        },
+        {
+            "mot": "professionnels",
+            "id": "411617"
+        },
+        {
+            "mot": "pouvant",
+            "id": "1971842"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "accomplis",
+            "id": "426712"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "lui",
+            "id": "14773174"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        }
+    ],
+    [
+        {
+            "mot": "Mode",
+            "id": "153749"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "exercice",
+            "id": "425502"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "exercer",
+            "id": "112378"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "libéral",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "salarié",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "installation",
+            "id": "424996"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "droit",
+            "id": "152208"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "exercer",
+            "id": "112378"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "libéral",
+            "id": "NULL"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "limités",
+            "id": "NULL"
+        },
+        {
+            "mot": "ni",
+            "id": "186648183"
+        },
+        {
+            "mot": "soumis",
+            "id": "237954294"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "condition",
+            "id": "15660262"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "lieu",
+            "id": "406039"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "créer",
+            "id": "NULL"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "cabinet",
+            "id": "403197"
+        },
+        {
+            "mot": "orthoptique",
+            "id": "17616"
+        },
+        {
+            "mot": "libéral",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "succéder",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "e",
+            "id": "141745"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "arrête",
+            "id": "NULL"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "associer",
+            "id": "34441"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "e",
+            "id": "141745"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "déjà",
+            "id": "NULL"
+        },
+        {
+            "mot": "installé",
+            "id": "NULL"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "devenir",
+            "id": "10838915"
+        },
+        {
+            "mot": "collaborateur",
+            "id": "16075785"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "remplacer",
+            "id": "52286"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "façon",
+            "id": "NULL"
+        },
+        {
+            "mot": "temporaire",
+            "id": "732401"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "raison",
+            "id": "15504811"
+        },
+        {
+            "mot": "précise",
+            "id": "NULL"
+        },
+        {
+            "mot": "vacances",
+            "id": "413929"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "mandat",
+            "id": "429317"
+        },
+        {
+            "mot": "politique",
+            "id": "16766077"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "syndical",
+            "id": "26905"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "maternité",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "e",
+            "id": "141745"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "arrête",
+            "id": "NULL"
+        },
+        {
+            "mot": "momentanément",
+            "id": "NULL"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "salarié",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "secteur",
+            "id": "1388972"
+        },
+        {
+            "mot": "public",
+            "id": "1645208"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "privé",
+            "id": "NULL"
+        },
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "secteur",
+            "id": "1388972"
+        },
+        {
+            "mot": "public",
+            "id": "1645208"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "agit",
+            "id": "297580"
+        },
+        {
+            "mot": "essentiellement",
+            "id": "8546"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "hôpitaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "assistance",
+            "id": "402291"
+        },
+        {
+            "mot": "publique",
+            "id": "15168389"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "armées",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "CHU",
+            "id": "221199"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "CHR",
+            "id": "12718762"
+        },
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "secteur",
+            "id": "1388972"
+        },
+        {
+            "mot": "privé",
+            "id": "NULL"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "agir",
+            "id": "1873633"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "hôpitaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "privés",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cliniques",
+            "id": "193336237"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "centres",
+            "id": "411375"
+        },
+        {
+            "mot": "municipaux",
+            "id": "16604450"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cabinets",
+            "id": "13880"
+        },
+        {
+            "mot": "médicaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "établissements",
+            "id": "NULL"
+        },
+        {
+            "mot": "médico",
+            "id": "NULL"
+        },
+        {
+            "mot": "sociaux",
+            "id": "8851137"
+        }
+    ],
+    [
+        {
+            "mot": "Formation",
+            "id": "405296"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "organisation",
+            "id": "403189"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "contenu",
+            "id": "12053616"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "vue",
+            "id": "425398"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "obtention",
+            "id": "31686"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "certificat",
+            "id": "407532"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "fixés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "arrêté",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "octobre",
+            "id": "164656"
+        },
+        {
+            "mot": "conférant",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "grade",
+            "id": "5558031"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "licence",
+            "id": "406088"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "exercer",
+            "id": "112378"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "professionnel",
+            "id": "403636"
+        },
+        {
+            "mot": "doit",
+            "id": "461257"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "titulaire",
+            "id": "10788576"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "Certificat",
+            "id": "407532"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "capacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "diplôme",
+            "id": "NULL"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "prépare",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "unités",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "médicales",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réadaptation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "accessible",
+            "id": "18165955"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "obtention",
+            "id": "31686"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "baccalauréat",
+            "id": "NULL"
+        },
+        {
+            "mot": "comporte",
+            "id": "58875"
+        },
+        {
+            "mot": "semestres",
+            "id": "2090404"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "validés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "obtention",
+            "id": "31686"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "crédits",
+            "id": "NULL"
+        },
+        {
+            "mot": "européens",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "h",
+            "id": "140485"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cours",
+            "id": "78667606"
+        },
+        {
+            "mot": "magistraux",
+            "id": "2056553"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "travaux",
+            "id": "144679"
+        },
+        {
+            "mot": "dirigés",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "h",
+            "id": "140485"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stages",
+            "id": "2105087"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "enseignement",
+            "id": "153346"
+        },
+        {
+            "mot": "comprend",
+            "id": "2153138"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "anatomie",
+            "id": "151850"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "physiologie",
+            "id": "153082"
+        },
+        {
+            "mot": "oculaire",
+            "id": "95038208"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "optique",
+            "id": "144312"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "ophtalmologiques",
+            "id": "2069858"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "générales",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "instrumentation",
+            "id": "409740"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "psychologie",
+            "id": "152293"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "étudiants",
+            "id": "NULL"
+        },
+        {
+            "mot": "admis",
+            "id": "415574"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "première",
+            "id": "NULL"
+        },
+        {
+            "mot": "année",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "fixé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "arrêté",
+            "id": "NULL"
+        },
+        {
+            "mot": "annuel",
+            "id": "10862717"
+        },
+        {
+            "mot": "conjoint",
+            "id": "16072543"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "ministre",
+            "id": "397303"
+        },
+        {
+            "mot": "chargé",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "ministre",
+            "id": "397303"
+        },
+        {
+            "mot": "chargé",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "Enseignement",
+            "id": "153346"
+        },
+        {
+            "mot": "supérieur",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Conditions",
+            "id": "13990213"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "Aucune",
+            "id": "426445"
+        },
+        {
+            "mot": "limite",
+            "id": "16392802"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "âge",
+            "id": "NULL"
+        },
+        {
+            "mot": "n",
+            "id": "138276"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "imposée",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "pouvant",
+            "id": "1971842"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "entreprendre",
+            "id": "213077734"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "précédente",
+            "id": "NULL"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "réorientation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "candidat",
+            "id": "5934675"
+        },
+        {
+            "mot": "e",
+            "id": "141745"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "doivent",
+            "id": "2077013"
+        },
+        {
+            "mot": "justifier",
+            "id": "130260"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "baccalauréat",
+            "id": "NULL"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "diplôme",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "universitaires",
+            "id": "405677"
+        },
+        {
+            "mot": "DAEU",
+            "id": "4233698"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "diplôme",
+            "id": "NULL"
+        },
+        {
+            "mot": "français",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "étranger",
+            "id": "NULL"
+        },
+        {
+            "mot": "admis",
+            "id": "415574"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "dispense",
+            "id": "16084333"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "équivalence",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "baccalauréat",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "application",
+            "id": "411558"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "réglementation",
+            "id": "NULL"
+        },
+        {
+            "mot": "nationale",
+            "id": "402287"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "qualification",
+            "id": "6015200"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "expérience",
+            "id": "NULL"
+        },
+        {
+            "mot": "jugées",
+            "id": "NULL"
+        },
+        {
+            "mot": "suffisantes",
+            "id": "2108991"
+        },
+        {
+            "mot": "conformément",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "dispositions",
+            "id": "404960"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "article",
+            "id": "231646648"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        }
+    ],
+    [
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "code",
+            "id": "15168388"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "éducation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "universités",
+            "id": "NULL"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "sélectionner",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "candidats",
+            "id": "15685348"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "modalités",
+            "id": "NULL"
+        },
+        {
+            "mot": "suivantes",
+            "id": "1854293"
+        },
+        {
+            "mot": "Modalité",
+            "id": "NULL"
+        },
+        {
+            "mot": "Sélection",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "dossier",
+            "id": "404025"
+        },
+        {
+            "mot": "suivi",
+            "id": "5832960"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "entretien",
+            "id": "418450"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "motivation",
+            "id": "16073611"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "jury",
+            "id": "415067"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pièces",
+            "id": "NULL"
+        },
+        {
+            "mot": "constitutives",
+            "id": "2156774"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "dossier",
+            "id": "404025"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "fixées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "chaque",
+            "id": "431220"
+        },
+        {
+            "mot": "université",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "entretien",
+            "id": "418450"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "minimum",
+            "id": "5629325"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "minModalité",
+            "id": "NULL"
+        },
+        {
+            "mot": "Examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "écrit",
+            "id": "NULL"
+        },
+        {
+            "mot": "suivi",
+            "id": "5832960"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "épreuve",
+            "id": "NULL"
+        },
+        {
+            "mot": "orale",
+            "id": "250011031"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "jury",
+            "id": "415067"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "écrit",
+            "id": "NULL"
+        },
+        {
+            "mot": "comporte",
+            "id": "58875"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "épreuves",
+            "id": "NULL"
+        },
+        {
+            "mot": "anonymes",
+            "id": "1746546"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vie",
+            "id": "431353"
+        },
+        {
+            "mot": "programme",
+            "id": "411314"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "première",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "terminale",
+            "id": "9258830"
+        },
+        {
+            "mot": "S",
+            "id": "163464"
+        },
+        {
+            "mot": "affectées",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "coefficient",
+            "id": "5905577"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "épreuve",
+            "id": "NULL"
+        },
+        {
+            "mot": "orale",
+            "id": "250011031"
+        },
+        {
+            "mot": "consiste",
+            "id": "2156146"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "exposé",
+            "id": "NULL"
+        },
+        {
+            "mot": "discussion",
+            "id": "1856260"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "jury",
+            "id": "415067"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "maximale",
+            "id": "149084"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "minutes",
+            "id": "419628"
+        },
+        {
+            "mot": "affectée",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "coefficient",
+            "id": "5905577"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Département",
+            "id": "NULL"
+        },
+        {
+            "mot": "universitaire",
+            "id": "404903"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "existe",
+            "id": "45446"
+        },
+        {
+            "mot": "départements",
+            "id": "NULL"
+        },
+        {
+            "mot": "universitaires",
+            "id": "405677"
+        },
+        {
+            "mot": "intégrées",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "UFR",
+            "id": "153215"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Réadaptation",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "dispensant",
+            "id": "2071785"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "villes",
+            "id": "402186"
+        },
+        {
+            "mot": "suivantes",
+            "id": "1854293"
+        },
+        {
+            "mot": "Amiens",
+            "id": "3373293"
+        },
+        {
+            "mot": "Bordeaux",
+            "id": "144632"
+        },
+        {
+            "mot": "Clermont",
+            "id": "460909"
+        },
+        {
+            "mot": "Ferrand",
+            "id": "434819"
+        },
+        {
+            "mot": "Lille",
+            "id": "160246"
+        },
+        {
+            "mot": "Lyon",
+            "id": "153452"
+        },
+        {
+            "mot": "I",
+            "id": "140119"
+        },
+        {
+            "mot": "Aix",
+            "id": "143262621"
+        },
+        {
+            "mot": "Marseille",
+            "id": "151853"
+        },
+        {
+            "mot": "Montpellier",
+            "id": "3173060"
+        },
+        {
+            "mot": "Nantes",
+            "id": "3373419"
+        },
+        {
+            "mot": "Paris",
+            "id": "409377"
+        },
+        {
+            "mot": "V",
+            "id": "165772"
+        },
+        {
+            "mot": "Sorbonne",
+            "id": "137934"
+        },
+        {
+            "mot": "Rennes",
+            "id": "154709"
+        },
+        {
+            "mot": "I",
+            "id": "140119"
+        },
+        {
+            "mot": "Strasbourg",
+            "id": "162246"
+        },
+        {
+            "mot": "Toulouse",
+            "id": "152249"
+        },
+        {
+            "mot": "Tours",
+            "id": "15301983"
+        },
+        {
+            "mot": "Limoges",
+            "id": "2067711"
+        },
+        {
+            "mot": "Caen",
+            "id": "3372274"
+        },
+        {
+            "mot": "Enseignements",
+            "id": "566869"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "référentiel",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "certificat",
+            "id": "407532"
+        },
+        {
+            "mot": "comprend",
+            "id": "2153138"
+        },
+        {
+            "mot": "Unité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "Enseignements",
+            "id": "566869"
+        },
+        {
+            "mot": "UE",
+            "id": "142222"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "cellulaire",
+            "id": "3245764"
+        },
+        {
+            "mot": "génétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "histologie",
+            "id": "425918"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "anatomie",
+            "id": "151850"
+        },
+        {
+            "mot": "optique",
+            "id": "144312"
+        },
+        {
+            "mot": "géométrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "optique",
+            "id": "144312"
+        },
+        {
+            "mot": "physiologique",
+            "id": "156457388"
+        },
+        {
+            "mot": "réfraction",
+            "id": "NULL"
+        },
+        {
+            "mot": "physiologie",
+            "id": "153082"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "visuel",
+            "id": "403635"
+        },
+        {
+            "mot": "physiologie",
+            "id": "153082"
+        },
+        {
+            "mot": "neurosensorielle",
+            "id": "1801836"
+        },
+        {
+            "mot": "anatomie",
+            "id": "151850"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "histologie",
+            "id": "425918"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "appareil",
+            "id": "413330"
+        },
+        {
+            "mot": "oculomoteur",
+            "id": "17342077"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "neurovisuels",
+            "id": "NULL"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "équilibre",
+            "id": "NULL"
+        },
+        {
+            "mot": "communication",
+            "id": "152438"
+        },
+        {
+            "mot": "éducation",
+            "id": "NULL"
+        },
+        {
+            "mot": "thérapeutique",
+            "id": "NULL"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "charge",
+            "id": "416622"
+        },
+        {
+            "mot": "orthoptique",
+            "id": "17616"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "neuro",
+            "id": "10919205"
+        },
+        {
+            "mot": "ophtalmologiques",
+            "id": "2069858"
+        }
+    ],
+    [
+        {
+            "mot": "Organisation",
+            "id": "403189"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "profession",
+            "id": "426411"
+        },
+        {
+            "mot": "Association",
+            "id": "396816"
+        },
+        {
+            "mot": "Internationale",
+            "id": "16161703"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "Orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "IOA",
+            "id": "10367893"
+        },
+        {
+            "mot": "Orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "Communauté",
+            "id": "NULL"
+        },
+        {
+            "mot": "Européenne",
+            "id": "NULL"
+        },
+        {
+            "mot": "OCE",
+            "id": "10968712"
+        },
+        {
+            "mot": "Syndicat",
+            "id": "408037"
+        },
+        {
+            "mot": "National",
+            "id": "1645204"
+        },
+        {
+            "mot": "Autonome",
+            "id": "10620504"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "Orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "SNAO",
+            "id": "NULL"
+        },
+        {
+            "mot": "Union",
+            "id": "224664"
+        },
+        {
+            "mot": "Nationale",
+            "id": "402287"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "Recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "Information",
+            "id": "16566618"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "UNRIO",
+            "id": "NULL"
+        },
+        {
+            "mot": "Société",
+            "id": "NULL"
+        },
+        {
+            "mot": "Francophone",
+            "id": "10774507"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "Étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "SFERO",
+            "id": "NULL"
+        },
+        {
+            "mot": "Fédération",
+            "id": "NULL"
+        },
+        {
+            "mot": "Française",
+            "id": "15517133"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "Étudiants",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "FFEO",
+            "id": "NULL"
+        },
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Vision",
+            "id": "155690"
+        },
+        {
+            "mot": "vue",
+            "id": "425398"
+        },
+        {
+            "mot": "Système",
+            "id": "NULL"
+        },
+        {
+            "mot": "sensoriel",
+            "id": "250662089"
+        },
+        {
+            "mot": "Système",
+            "id": "NULL"
+        },
+        {
+            "mot": "visuel",
+            "id": "403635"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "vestibulaire",
+            "id": "134983"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "postural",
+            "id": "15735"
+        },
+        {
+            "mot": "Oculomotricité",
+            "id": "NULL"
+        },
+        {
+            "mot": "saccades",
+            "id": "239266"
+        },
+        {
+            "mot": "poursuite",
+            "id": "15412651"
+        },
+        {
+            "mot": "vergences",
+            "id": "2303109"
+        },
+        {
+            "mot": "Vision",
+            "id": "155690"
+        },
+        {
+            "mot": "binoculaire",
+            "id": "114265"
+        },
+        {
+            "mot": "vision",
+            "id": "155690"
+        },
+        {
+            "mot": "stéréoscopique",
+            "id": "NULL"
+        },
+        {
+            "mot": "coordination",
+            "id": "15884944"
+        },
+        {
+            "mot": "binoculaire",
+            "id": "114265"
+        },
+        {
+            "mot": "disparité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fixation",
+            "id": "5999483"
+        },
+        {
+            "mot": "Lecture",
+            "id": "143647"
+        },
+        {
+            "mot": "apprentissage",
+            "id": "5722523"
+        },
+        {
+            "mot": "Rétine",
+            "id": "NULL"
+        },
+        {
+            "mot": "cornée",
+            "id": "NULL"
+        },
+        {
+            "mot": "œil",
+            "id": "NULL"
+        },
+        {
+            "mot": "lentilles",
+            "id": "2546392"
+        },
+        {
+            "mot": "Rétinopathie",
+            "id": "NULL"
+        },
+        {
+            "mot": "diabètique",
+            "id": "NULL"
+        },
+        {
+            "mot": "DMLA",
+            "id": "251898"
+        },
+        {
+            "mot": "glaucome",
+            "id": "107767666"
+        },
+        {
+            "mot": "cataracte",
+            "id": "96025378"
+        },
+        {
+            "mot": "Réadaptation",
+            "id": "NULL"
+        },
+        {
+            "mot": "visuelle",
+            "id": "6529533"
+        },
+        {
+            "mot": "Liens",
+            "id": "409339"
+        },
+        {
+            "mot": "externes",
+            "id": "16087769"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "Page",
+            "id": "16089516"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "Orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "SNAO",
+            "id": "NULL"
+        },
+        {
+            "mot": "Syndicat",
+            "id": "408037"
+        },
+        {
+            "mot": "National",
+            "id": "1645204"
+        },
+        {
+            "mot": "Autonome",
+            "id": "10620504"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "Orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "SOF",
+            "id": "13634315"
+        },
+        {
+            "mot": "Syndicat",
+            "id": "408037"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "Orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "Forum",
+            "id": "140916"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "étudiants",
+            "id": "NULL"
+        },
+        {
+            "mot": "orthoptistes",
+            "id": "2237571"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "Page",
+            "id": "16089516"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "Association",
+            "id": "396816"
+        },
+        {
+            "mot": "Belge",
+            "id": "152646"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "Orthoptie",
+            "id": "78147"
+        },
+        {
+            "mot": "Fiche",
+            "id": "408233"
+        },
+        {
+            "mot": "métier",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "métier",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "orthoptiste",
+            "id": "16073757"
+        },
+        {
+            "mot": "site",
+            "id": "201975238"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "CIDJ",
+            "id": "2495987"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "œil",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vue",
+            "id": "425398"
+        }
+    ]
+]

@@ -1,0 +1,43 @@
+La chimie quantique est une branche de la chimie théorique qui applique la mécanique quantique aux systèmes moléculaires pour étudier les processus et les propriétés chimiques. Le comportement électronique et nucléaire des molécules étant responsable des propriétés chimiques, il ne peut être décrit adéquatement qu'à partir de l'équation du mouvement quantique (équation de Schrödinger) et des autres postulats fondamentaux de la mécanique quantique. Cette nécessité a motivé le développement de concepts (notamment orbitale moléculaire…) et de méthodes de calculs numériques qui ont permis à la chimie moderne de faire des progrès considérables tant en ce qui concerne la compréhension des phénomènes que des applications.
+
+Bref historique
+Comme les études sur la mécanique quantique sont considérées comme étant à la frontière entre la chimie et la physique, elles ne font donc généralement pas partie de la chimie quantique, mais ce que l'on considère comme le premier calcul de chimie quantique fut fait par les scientifiques allemands Walter Heitler et Fritz London sur la molécule de dihydrogène en 1927. La méthode de Heitler et London fut étendue aux États-Unis par les chimistes John C. Slater et Linus Pauling pour devenir la méthode « Valence-Bond (VB) » (ou Heitler-London-Slater-Pauling (HLSP)). Dans cette méthode, l'attention est surtout portée sur l'interaction des paires électroniques, et elle corrèle assez bien avec la représentation classique des liaisons chimiques par les chimistes.
+Dans une autre approche développée par Friedrich Hund et Robert S. Mulliken, les électrons sont décrits comme des fonctions mathématiques délocalisées sur l'intégralité de la molécule. L'approche de Hund-Mulliken, plus communément appelée méthode des orbitales moléculaires est celle qui permet le mieux de prédire les propriétés des molécules et est donc la méthode la plus utilisée de nos jours.
+Les équations de la chimie quantique devenant très rapidement trop complexes pour être résolues exactement, il est courant d'en faire une résolution numérique approchée à l'aide de supercalculateurs, le plus fréquemment utilisé étant OrbiMol qui est plébiscité par le CNRS,.
+
+Modèles et approximations utilisés en chimie quantique
+Orbitale atomique
+Description de l'électron par une fonction d'onde
+Approximation de Born-Oppenheimer
+Approximation orbitale
+Approximation de Slater
+
+Méthodes de calcul
+Méthode de Hückel
+Méthode de Hartree-Fock
+Méthode post-Hartree-Fock
+Méthode Monte Carlo quantique
+Méthodes semi-empiriques
+Théorie de la fonctionnelle de la densité
+
+Scientifiques impliqués dans le développement de la chimie quantique
+Niels Bohr
+Erich Hueckel
+Rudolph Pariser
+Robert G. Parr
+John Pople
+Henry Eyring
+Walter Kohn
+Raymond Daudel
+Alberte et Bernard Pullman
+
+Références
+Voir aussi
+Articles connexes
+Chimie numérique (ou chimie computationelle)
+Histoire de la chimie quantique
+Liaison chimique
+
+Liens externes
+
+ Portail de la physique   Portail de la chimie   Portail des sciences quantiques

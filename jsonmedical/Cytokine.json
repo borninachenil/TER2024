@@ -1,0 +1,7452 @@
+[
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "hétérogène",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "protéines",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "glycoprotéines",
+            "id": "NULL"
+        },
+        {
+            "mot": "solubles",
+            "id": "2097885"
+        },
+        {
+            "mot": "masse",
+            "id": "430816"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "moyenne",
+            "id": "79320188"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "kDa",
+            "id": "156498068"
+        },
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "jouent",
+            "id": "2053001"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "signaux",
+            "id": "12209503"
+        },
+        {
+            "mot": "permettant",
+            "id": "2242077"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "agir",
+            "id": "1873633"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "réguler",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        }
+    ],
+    [
+        {
+            "mot": "À",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "différence",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "taux",
+            "id": "2572830"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sécrétion",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "continu",
+            "id": "250661588"
+        },
+        {
+            "mot": "bien",
+            "id": "15532334"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "modifié",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "signaux",
+            "id": "12209503"
+        },
+        {
+            "mot": "physiologiques",
+            "id": "16769842"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "synthétisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "réponse",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "activateur",
+            "id": "5934971"
+        }
+    ],
+    [
+        {
+            "mot": "Chaque",
+            "id": "431220"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "produite",
+            "id": "403653"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nombreux",
+            "id": "16088515"
+        },
+        {
+            "mot": "types",
+            "id": "417517"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "agissent",
+            "id": "1985000"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "cibles",
+            "id": "3307710"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "fixant",
+            "id": "2011431"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "spécifiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "haute",
+            "id": "15519191"
+        },
+        {
+            "mot": "affinité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "récepteur",
+            "id": "NULL"
+        },
+        {
+            "mot": "induit",
+            "id": "69358"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "signaux",
+            "id": "12209503"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "activation",
+            "id": "9021139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "prolifération",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "différenciation",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mort",
+            "id": "146499"
+        },
+        {
+            "mot": "cellulaire",
+            "id": "3245764"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "plupart",
+            "id": "429767"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "entraînent",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "réactions",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "cascade",
+            "id": "6529815"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "induisant",
+            "id": "2052443"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "production",
+            "id": "415522"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "cibles",
+            "id": "3307710"
+        }
+    ],
+    [
+        {
+            "mot": "Leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "redondants",
+            "id": "2101934"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "induction",
+            "id": "14563504"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "réponse",
+            "id": "NULL"
+        },
+        {
+            "mot": "cellulaire",
+            "id": "3245764"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "obtenue",
+            "id": "423690"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "fixant",
+            "id": "2011431"
+        },
+        {
+            "mot": "chacune",
+            "id": "257774"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "récepteur",
+            "id": "NULL"
+        },
+        {
+            "mot": "spécifique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "connues",
+            "id": "259372"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "grand",
+            "id": "231909852"
+        },
+        {
+            "mot": "public",
+            "id": "1645208"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "neuromédiateurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "tout",
+            "id": "429875"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "essentielles",
+            "id": "3228043"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "communication",
+            "id": "152438"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "agissent",
+            "id": "1985000"
+        },
+        {
+            "mot": "via",
+            "id": "17342505"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "spécifiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "manière",
+            "id": "NULL"
+        },
+        {
+            "mot": "paracrine",
+            "id": "156521596"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "proches",
+            "id": "3400275"
+        },
+        {
+            "mot": "endocrine",
+            "id": "5564344"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "tissus",
+            "id": "5933763"
+        },
+        {
+            "mot": "distants",
+            "id": "2074015"
+        },
+        {
+            "mot": "autocrine",
+            "id": "156521597"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "va",
+            "id": "1847302"
+        },
+        {
+            "mot": "exprimer",
+            "id": "256159729"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "récepteur",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "produit",
+            "id": "567414"
+        },
+        {
+            "mot": "juxtacrine",
+            "id": "254963083"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "sein",
+            "id": "137512"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "synapse",
+            "id": "419807"
+        },
+        {
+            "mot": "immunologique",
+            "id": "180612314"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "exprimées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "membrane",
+            "id": "413123"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "libérées",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "intracrine",
+            "id": "254963084"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cytoplasme",
+            "id": "123815471"
+        },
+        {
+            "mot": "agit",
+            "id": "297580"
+        },
+        {
+            "mot": "directement",
+            "id": "251839577"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "sein",
+            "id": "137512"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "noyau",
+            "id": "407371"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "langage",
+            "id": "152396"
+        },
+        {
+            "mot": "universel",
+            "id": "10161052"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "compris",
+            "id": "46612"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "toutes",
+            "id": "427824"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "organisme",
+            "id": "3322090"
+        }
+    ],
+    [
+        {
+            "mot": "Histoire",
+            "id": "5814360"
+        },
+        {
+            "mot": "Certains",
+            "id": "425463"
+        },
+        {
+            "mot": "estiment",
+            "id": "2121292"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "première",
+            "id": "NULL"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "découverte",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "interféron",
+            "id": "NULL"
+        },
+        {
+            "mot": "défini",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "époque",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "anti",
+            "id": "15404674"
+        },
+        {
+            "mot": "virale",
+            "id": "162203958"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "infectée",
+            "id": "NULL"
+        },
+        {
+            "mot": "émet",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "message",
+            "id": "139948"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "voisine",
+            "id": "404743"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "celle",
+            "id": "177480"
+        },
+        {
+            "mot": "ci",
+            "id": "1830223"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "protège",
+            "id": "NULL"
+        },
+        {
+            "mot": "contre",
+            "id": "426382"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "infection",
+            "id": "17051343"
+        },
+        {
+            "mot": "virale",
+            "id": "162203958"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "endogène",
+            "id": "NULL"
+        },
+        {
+            "mot": "pyrogène",
+            "id": "NULL"
+        },
+        {
+            "mot": "identifié",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "facteur",
+            "id": "15519162"
+        },
+        {
+            "mot": "émis",
+            "id": "NULL"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "infection",
+            "id": "17051343"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "induire",
+            "id": "117381"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fièvre",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "fut",
+            "id": "16094747"
+        },
+        {
+            "mot": "créé",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "Stanley",
+            "id": "16033887"
+        },
+        {
+            "mot": "Cohen",
+            "id": "142001"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "découvert",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "immunitaires",
+            "id": "401339"
+        },
+        {
+            "mot": "pouvaient",
+            "id": "2251047"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "produire",
+            "id": "42963"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "facteurs",
+            "id": "14538887"
+        },
+        {
+            "mot": "produits",
+            "id": "414121"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "immunitaires",
+            "id": "401339"
+        }
+    ],
+    [
+        {
+            "mot": "Leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "nom",
+            "id": "254652531"
+        },
+        {
+            "mot": "vient",
+            "id": "10052362"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "grec",
+            "id": "253909450"
+        },
+        {
+            "mot": "ancien",
+            "id": "16900322"
+        },
+        {
+            "mot": "κύτος",
+            "id": "NULL"
+        },
+        {
+            "mot": "kútos",
+            "id": "NULL"
+        },
+        {
+            "mot": "objet",
+            "id": "413085"
+        },
+        {
+            "mot": "creux",
+            "id": "2586385"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "κίνησις",
+            "id": "NULL"
+        },
+        {
+            "mot": "kínēsis",
+            "id": "NULL"
+        },
+        {
+            "mot": "mouvement",
+            "id": "139966"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "décennies",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "suscité",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "intérêt",
+            "id": "NULL"
+        },
+        {
+            "mot": "croissant",
+            "id": "413312"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "Recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "avalanche",
+            "id": "5557504"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "données",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "apparu",
+            "id": "410857"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "embryogenèse",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "reproduction",
+            "id": "433008"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "gestation",
+            "id": "16084372"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hématopoïèse",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "réponse",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "inflammation",
+            "id": "111273369"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "processus",
+            "id": "567654"
+        },
+        {
+            "mot": "pathologiques",
+            "id": "391278"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immunité",
+            "id": "NULL"
+        },
+        {
+            "mot": "sepsis",
+            "id": "13655622"
+        },
+        {
+            "mot": "cancer",
+            "id": "140121"
+        },
+        {
+            "mot": "hépatites",
+            "id": "NULL"
+        },
+        {
+            "mot": "virales",
+            "id": "398796"
+        },
+        {
+            "mot": "infection",
+            "id": "17051343"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "VIH",
+            "id": "319344"
+        },
+        {
+            "mot": "maladies",
+            "id": "1763365"
+        },
+        {
+            "mot": "inflammatoires",
+            "id": "17052054"
+        },
+        {
+            "mot": "chroniques",
+            "id": "146134"
+        },
+        {
+            "mot": "telles",
+            "id": "10055284"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "entérocolites",
+            "id": "NULL"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Crohn",
+            "id": "19171537"
+        },
+        {
+            "mot": "polyarthrite",
+            "id": "83051"
+        },
+        {
+            "mot": "rhumatoïde",
+            "id": "NULL"
+        },
+        {
+            "mot": "psoriasis",
+            "id": "14903204"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "devenues",
+            "id": "2063035"
+        },
+        {
+            "mot": "thérapeutiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "ex",
+            "id": "135423172"
+        }
+    ],
+    [
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "G",
+            "id": "140909"
+        },
+        {
+            "mot": "CSF",
+            "id": "16093303"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "facilite",
+            "id": "1995434"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "reconstitution",
+            "id": "429924"
+        },
+        {
+            "mot": "hématologique",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cibles",
+            "id": "3307710"
+        },
+        {
+            "mot": "ex",
+            "id": "135423172"
+        }
+    ],
+    [
+        {
+            "mot": "anti",
+            "id": "15404674"
+        },
+        {
+            "mot": "TNF",
+            "id": "3344575"
+        },
+        {
+            "mot": "Alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Crohn",
+            "id": "19171537"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "polyarthrite",
+            "id": "83051"
+        },
+        {
+            "mot": "rhumatoïde",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "grande",
+            "id": "15625670"
+        },
+        {
+            "mot": "famille",
+            "id": "143853"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "associées",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "concept",
+            "id": "404539"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réseau",
+            "id": "NULL"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "agissent",
+            "id": "1985000"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "cascade",
+            "id": "6529815"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "signifie",
+            "id": "15513604"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "répondre",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "produisant",
+            "id": "982438"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "mêmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "action",
+            "id": "434203"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "modulée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "domaine",
+            "id": "142250"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "certaine",
+            "id": "16071157"
+        },
+        {
+            "mot": "redondance",
+            "id": "112787635"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "signifie",
+            "id": "15513604"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "partager",
+            "id": "11176131"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Lorsqu'",
+            "id": "2218988"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "agissent",
+            "id": "1985000"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "obtient",
+            "id": "2064318"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "somme",
+            "id": "186744654"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "mêmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "noms",
+            "id": "410940"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Interférons",
+            "id": "NULL"
+        },
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "existe",
+            "id": "45446"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "types",
+            "id": "417517"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interférons",
+            "id": "NULL"
+        },
+        {
+            "mot": "interféron",
+            "id": "NULL"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "interféron",
+            "id": "NULL"
+        },
+        {
+            "mot": "bêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "interféron",
+            "id": "NULL"
+        },
+        {
+            "mot": "gamma",
+            "id": "397036"
+        }
+    ],
+    [
+        {
+            "mot": "Interleukines",
+            "id": "16785666"
+        },
+        {
+            "mot": "IL",
+            "id": "1836399"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "interleukines",
+            "id": "16785666"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "regroupées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "terminologie",
+            "id": "5896671"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "parenté",
+            "id": "NULL"
+        },
+        {
+            "mot": "biochimique",
+            "id": "108042606"
+        },
+        {
+            "mot": "ni",
+            "id": "186648183"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "classées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "commodité",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "gré",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "découvertes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "créé",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "quand",
+            "id": "403311"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "connaissait",
+            "id": "2155684"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "interleukines",
+            "id": "16785666"
+        },
+        {
+            "mot": "IL",
+            "id": "1836399"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "IL",
+            "id": "1836399"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "aujourd",
+            "id": "405386"
+        },
+        {
+            "mot": "hui",
+            "id": "425231"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intitulé",
+            "id": "NULL"
+        },
+        {
+            "mot": "IL",
+            "id": "1836399"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "existe",
+            "id": "45446"
+        },
+        {
+            "mot": "davantage",
+            "id": "109856"
+        },
+        {
+            "mot": "car",
+            "id": "11494787"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "membres",
+            "id": "426006"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "famille",
+            "id": "143853"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "IL",
+            "id": "1836399"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "plupart",
+            "id": "429767"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "agonistes",
+            "id": "1852912"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "antagonistes",
+            "id": "14584588"
+        }
+    ],
+    [
+        {
+            "mot": "Certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "chimiokines",
+            "id": "1856676"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "facteurs",
+            "id": "14538887"
+        },
+        {
+            "mot": "hématopoïétiques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "plupart",
+            "id": "429767"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "monomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "homodimères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "homotrimères",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Chimiokines",
+            "id": "1856676"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "chimiokines",
+            "id": "1856676"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "faible",
+            "id": "6014948"
+        },
+        {
+            "mot": "poids",
+            "id": "2574098"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "commun",
+            "id": "415381"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "pouvoir",
+            "id": "413093"
+        },
+        {
+            "mot": "chimiotactique",
+            "id": "1830069"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "connaît",
+            "id": "NULL"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "nomenclature",
+            "id": "413137"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "basée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "points",
+            "id": "262263"
+        },
+        {
+            "mot": "précis",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "structure",
+            "id": "425739"
+        },
+        {
+            "mot": "CCL",
+            "id": "11049594"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "CCL",
+            "id": "11049594"
+        },
+        {
+            "mot": "CXCL",
+            "id": "194113525"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "CXCL",
+            "id": "194113525"
+        },
+        {
+            "mot": "XCL",
+            "id": "11557825"
+        },
+        {
+            "mot": "CX3CL",
+            "id": "NULL"
+        },
+        {
+            "mot": "Famille",
+            "id": "143853"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "facteur",
+            "id": "15519162"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nécrose",
+            "id": "NULL"
+        },
+        {
+            "mot": "tumorale",
+            "id": "261796"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "famille",
+            "id": "143853"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "facteur",
+            "id": "15519162"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nécrose",
+            "id": "NULL"
+        },
+        {
+            "mot": "tumorale",
+            "id": "261796"
+        },
+        {
+            "mot": "TNF",
+            "id": "3344575"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "issue",
+            "id": "5995941"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "gène",
+            "id": "NULL"
+        },
+        {
+            "mot": "ancestral",
+            "id": "90003792"
+        },
+        {
+            "mot": "commun",
+            "id": "415381"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "super",
+            "id": "10430997"
+        },
+        {
+            "mot": "famille",
+            "id": "143853"
+        },
+        {
+            "mot": "comportait",
+            "id": "2153021"
+        },
+        {
+            "mot": "membres",
+            "id": "426006"
+        }
+    ],
+    [
+        {
+            "mot": "Facteurs",
+            "id": "14538887"
+        },
+        {
+            "mot": "hématopoïétiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "facteurs",
+            "id": "14538887"
+        },
+        {
+            "mot": "hématopoïétiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "jouent",
+            "id": "2053001"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hématopoïèse",
+            "id": "NULL"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "activer",
+            "id": "250737385"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "leucocytes",
+            "id": "16785877"
+        },
+        {
+            "mot": "matures",
+            "id": "2223866"
+        }
+    ],
+    [
+        {
+            "mot": "Facteurs",
+            "id": "14538887"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "croissance",
+            "id": "2931711"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "transformation",
+            "id": "5785933"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "facteurs",
+            "id": "14538887"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "croissance",
+            "id": "2931711"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "transformation",
+            "id": "5785933"
+        },
+        {
+            "mot": "TGF",
+            "id": "11559073"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "impliqués",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cicatrisation",
+            "id": "156493759"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "contrôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "négatif",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "inflammation",
+            "id": "111273369"
+        }
+    ],
+    [
+        {
+            "mot": "Prostaglandines",
+            "id": "16786315"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "prostaglandines",
+            "id": "16786315"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "métabolites",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "arachidonique",
+            "id": "401637"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "jouent",
+            "id": "2053001"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "essentiels",
+            "id": "407531"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "reproduction",
+            "id": "433008"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "cours",
+            "id": "78667606"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "accouchement",
+            "id": "5520522"
+        }
+    ],
+    [
+        {
+            "mot": "Récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "membranaires",
+            "id": "398268"
+        },
+        {
+            "mot": "semblent",
+            "id": "2090270"
+        },
+        {
+            "mot": "pouvoir",
+            "id": "413093"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "classer",
+            "id": "64404"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "certain",
+            "id": "414263"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "familles",
+            "id": "435830"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "domaines",
+            "id": "415783"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "constituent",
+            "id": "17349837"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "hématopoïétines",
+            "id": "NULL"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "IFNs",
+            "id": "14671919"
+        },
+        {
+            "mot": "réf",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "souhaitée",
+            "id": "NULL"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "apparentés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "superfamille",
+            "id": "16318655"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "immunoglobulines",
+            "id": "16785657"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "chimiokines",
+            "id": "1856676"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "domaines",
+            "id": "415783"
+        },
+        {
+            "mot": "transmembranaires",
+            "id": "414561"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "famille",
+            "id": "143853"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "TNF",
+            "id": "3344575"
+        }
+    ],
+    [
+        {
+            "mot": "Ils",
+            "id": "427503"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "libérés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "modifier",
+            "id": "14567327"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "tant",
+            "id": "425783"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "solubles",
+            "id": "2097885"
+        }
+    ],
+    [
+        {
+            "mot": "Cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "produites",
+            "id": "2252314"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "réponse",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "antigènes",
+            "id": "NULL"
+        },
+        {
+            "mot": "présents",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "organismes",
+            "id": "408616"
+        },
+        {
+            "mot": "étrangers",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "considérées",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "étrangères",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        }
+    ],
+    [
+        {
+            "mot": "Répondant",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "antigène",
+            "id": "NULL"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "stimulent",
+            "id": "2106504"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "chargées",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "développement",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "défenses",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaires",
+            "id": "401339"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "stimulent",
+            "id": "2106504"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "croissance",
+            "id": "2931711"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "différenciation",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "lymphocytes",
+            "id": "17051869"
+        }
+    ],
+    [
+        {
+            "mot": "Exemples",
+            "id": "2196397"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "médient",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "régulent",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "immunité",
+            "id": "NULL"
+        },
+        {
+            "mot": "innée",
+            "id": "NULL"
+        },
+        {
+            "mot": "TNF",
+            "id": "3344575"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "interleukine",
+            "id": "5833518"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Manifestations",
+            "id": "11933273"
+        },
+        {
+            "mot": "pathologiques",
+            "id": "391278"
+        },
+        {
+            "mot": "Cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "aviaire",
+            "id": "133434"
+        },
+        {
+            "mot": "hautement",
+            "id": "136209"
+        },
+        {
+            "mot": "pathogène",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "H1N",
+            "id": "NULL"
+        },
+        {
+            "mot": "responsable",
+            "id": "16089284"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "espagnole",
+            "id": "2420548"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "déclenchent",
+            "id": "NULL"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "homme",
+            "id": "17638134"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "vacciné",
+            "id": "NULL"
+        },
+        {
+            "mot": "ni",
+            "id": "186648183"
+        },
+        {
+            "mot": "immunisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "animal",
+            "id": "152685"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "vacciné",
+            "id": "NULL"
+        },
+        {
+            "mot": "ni",
+            "id": "186648183"
+        },
+        {
+            "mot": "immunisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "réaction",
+            "id": "NULL"
+        },
+        {
+            "mot": "anormalement",
+            "id": "33350"
+        },
+        {
+            "mot": "vive",
+            "id": "426402"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "sécrétion",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "brutale",
+            "id": "154839"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "importante",
+            "id": "161295"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "lieu",
+            "id": "406039"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réguler",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "inflammation",
+            "id": "111273369"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "provoque",
+            "id": "2254276"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "défaillances",
+            "id": "NULL"
+        },
+        {
+            "mot": "organiques",
+            "id": "396825"
+        },
+        {
+            "mot": "parfois",
+            "id": "14886690"
+        },
+        {
+            "mot": "mortelles",
+            "id": "579814"
+        }
+    ],
+    [
+        {
+            "mot": "Cela",
+            "id": "15550577"
+        },
+        {
+            "mot": "arrive",
+            "id": "2617852"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "grippes",
+            "id": "2056987"
+        },
+        {
+            "mot": "malignes",
+            "id": "403681"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "production",
+            "id": "415522"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "abondante",
+            "id": "244312"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "provoque",
+            "id": "2254276"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "œdème",
+            "id": "NULL"
+        },
+        {
+            "mot": "aigu",
+            "id": "17052802"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "poumon",
+            "id": "15472548"
+        },
+        {
+            "mot": "lequel",
+            "id": "16087713"
+        },
+        {
+            "mot": "perd",
+            "id": "421399"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "élasticité",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "fonctionnalité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "expression",
+            "id": "405046"
+        },
+        {
+            "mot": "tempête",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "décrit",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "phénomène",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Début",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "équipe",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Robert",
+            "id": "142358"
+        },
+        {
+            "mot": "Webster",
+            "id": "13336183"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "montré",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "déjouait",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "réponse",
+            "id": "NULL"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "Seo",
+            "id": "2591095"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "al",
+            "id": "2434847"
+        }
+    ],
+    [
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "montré",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "résistance",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "A",
+            "id": "143768"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "HP",
+            "id": "236317358"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "antivirale",
+            "id": "398953"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "était",
+            "id": "NULL"
+        },
+        {
+            "mot": "liée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "présence",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "gène",
+            "id": "NULL"
+        },
+        {
+            "mot": "NS",
+            "id": "2561186"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "précisément",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "glutamique",
+            "id": "1855899"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "séquence",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "acides",
+            "id": "12053617"
+        },
+        {
+            "mot": "aminés",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Des",
+            "id": "314234"
+        },
+        {
+            "mot": "porcs",
+            "id": "3297758"
+        },
+        {
+            "mot": "expérimentalement",
+            "id": "NULL"
+        },
+        {
+            "mot": "infectés",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "recombinant",
+            "id": "416363"
+        },
+        {
+            "mot": "reconstitué",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "génétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "inverse",
+            "id": "94086889"
+        },
+        {
+            "mot": "porteur",
+            "id": "591845"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "gène",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "protéine",
+            "id": "NULL"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "structurale",
+            "id": "5622520"
+        },
+        {
+            "mot": "NS",
+            "id": "2561186"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "A",
+            "id": "143768"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "isolé",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "Hong",
+            "id": "2544727"
+        },
+        {
+            "mot": "Kong",
+            "id": "2441956"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "développé",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "cliniquement",
+            "id": "119387"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "sévère",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "infection",
+            "id": "17051343"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "sauvage",
+            "id": "217619"
+        },
+        {
+            "mot": "De",
+            "id": "3320102"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "in",
+            "id": "14424506"
+        },
+        {
+            "mot": "vitro",
+            "id": "14637462"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "culture",
+            "id": "152488"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "pulmonaires",
+            "id": "249381"
+        },
+        {
+            "mot": "porcines",
+            "id": "2249521"
+        },
+        {
+            "mot": "infectées",
+            "id": "NULL"
+        },
+        {
+            "mot": "montrent",
+            "id": "2228599"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "adjonction",
+            "id": "50946"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "milieu",
+            "id": "143408"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "culture",
+            "id": "152488"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "interféron",
+            "id": "NULL"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "gamma",
+            "id": "397036"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "facteur",
+            "id": "15519162"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nécrose",
+            "id": "NULL"
+        },
+        {
+            "mot": "tumorale",
+            "id": "261796"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "n",
+            "id": "138276"
+        },
+        {
+            "mot": "altère",
+            "id": "NULL"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "réplication",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "A",
+            "id": "143768"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "réf",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "souhaitée",
+            "id": "NULL"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autopsie",
+            "id": "426059"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "fœtus",
+            "id": "NULL"
+        },
+        {
+            "mot": "atteint",
+            "id": "36492"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "Chinoise",
+            "id": "427538"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "morte",
+            "id": "152527"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "HP",
+            "id": "236317358"
+        },
+        {
+            "mot": "neuf",
+            "id": "165039"
+        },
+        {
+            "mot": "jours",
+            "id": "402416"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "premiers",
+            "id": "402211"
+        },
+        {
+            "mot": "symptômes",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "révélé",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "présence",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "placenta",
+            "id": "10175054"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "foie",
+            "id": "428313"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fœtus",
+            "id": "NULL"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "surtout",
+            "id": "16089966"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "ses",
+            "id": "11254312"
+        },
+        {
+            "mot": "poumons",
+            "id": "16786302"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "cependant",
+            "id": "101535"
+        },
+        {
+            "mot": "provoqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dégâts",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "ceux",
+            "id": "428509"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "mère",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "suggère",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "faibles",
+            "id": "10191920"
+        },
+        {
+            "mot": "dommages",
+            "id": "415904"
+        },
+        {
+            "mot": "pourraient",
+            "id": "2250867"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "expliquer",
+            "id": "89042"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "immaturité",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunitaire",
+            "id": "3825"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fœtus",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "produit",
+            "id": "567414"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "tempête",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "chimiokines",
+            "id": "1856676"
+        },
+        {
+            "mot": "face",
+            "id": "16088731"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "semble",
+            "id": "17399061"
+        },
+        {
+            "mot": "exister",
+            "id": "250661783"
+        },
+        {
+            "mot": "néanmoins",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "oiseaux",
+            "id": "13589882"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "canards",
+            "id": "1814854"
+        },
+        {
+            "mot": "porteurs",
+            "id": "2496646"
+        },
+        {
+            "mot": "asymptomatiques",
+            "id": "5812483"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "lesquels",
+            "id": "16512509"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "déclenche",
+            "id": "NULL"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "choc",
+            "id": "411492"
+        },
+        {
+            "mot": "cytokinique",
+            "id": "5619224"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "serait",
+            "id": "16513097"
+        },
+        {
+            "mot": "intéressant",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "comprendre",
+            "id": "10457935"
+        },
+        {
+            "mot": "comment",
+            "id": "402162"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "protègent",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "homme",
+            "id": "17638134"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "phénomène",
+            "id": "NULL"
+        },
+        {
+            "mot": "semble",
+            "id": "17399061"
+        },
+        {
+            "mot": "toucher",
+            "id": "14581242"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "particulièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "jeunes",
+            "id": "425333"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "adultes",
+            "id": "420789"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pleine",
+            "id": "434216"
+        },
+        {
+            "mot": "force",
+            "id": "10968387"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "âge",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "expliquerait",
+            "id": "2197499"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "enfants",
+            "id": "402139"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "personnes",
+            "id": "1133448"
+        },
+        {
+            "mot": "âgées",
+            "id": "NULL"
+        },
+        {
+            "mot": "aient",
+            "id": "1985549"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "touchés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "espagnole",
+            "id": "2420548"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "depuis",
+            "id": "432818"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "apparition",
+            "id": "142777"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "extension",
+            "id": "423450"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "personnes",
+            "id": "1133448"
+        },
+        {
+            "mot": "âgées",
+            "id": "NULL"
+        },
+        {
+            "mot": "développent",
+            "id": "NULL"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "formes",
+            "id": "406188"
+        },
+        {
+            "mot": "pneumoniques",
+            "id": "2247527"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "surinfections",
+            "id": "2291799"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "femme",
+            "id": "142659"
+        },
+        {
+            "mot": "enceinte",
+            "id": "5558675"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "mourir",
+            "id": "418466"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "avorter",
+            "id": "2362"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "rétrospective",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "montré",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "fœtus",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "embryons",
+            "id": "250847704"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "survécu",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pandémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "contracté",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "semblent",
+            "id": "2090270"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "avoir",
+            "id": "402552"
+        },
+        {
+            "mot": "gardé",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "séquelles",
+            "id": "NULL"
+        },
+        {
+            "mot": "durables",
+            "id": "11252700"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "responsabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "étudiée",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "embryon",
+            "id": "9946110"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "fœtus",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "SARS",
+            "id": "2578466"
+        },
+        {
+            "mot": "Cov",
+            "id": "14558790"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "capables",
+            "id": "2006328"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "produire",
+            "id": "42963"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "dégâts",
+            "id": "NULL"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "rapidement",
+            "id": "31576"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "rares",
+            "id": "414488"
+        }
+    ],
+    [
+        {
+            "mot": "Ils",
+            "id": "427503"
+        },
+        {
+            "mot": "semblent",
+            "id": "2090270"
+        },
+        {
+            "mot": "tous",
+            "id": "417137"
+        },
+        {
+            "mot": "caractérisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "particularité",
+            "id": "NULL"
+        },
+        {
+            "mot": "génétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "H1N",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "origine",
+            "id": "273472"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pandémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "grippe",
+            "id": "433993"
+        },
+        {
+            "mot": "espagnole",
+            "id": "2420548"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "variants",
+            "id": "17194717"
+        },
+        {
+            "mot": "H5N",
+            "id": "NULL"
+        },
+        {
+            "mot": "HP",
+            "id": "236317358"
+        },
+        {
+            "mot": "récemment",
+            "id": "NULL"
+        },
+        {
+            "mot": "apparus",
+            "id": "1989403"
+        },
+        {
+            "mot": "virus",
+            "id": "320893"
+        },
+        {
+            "mot": "Ebola",
+            "id": "3229843"
+        },
+        {
+            "mot": "SRAS",
+            "id": "12111690"
+        },
+        {
+            "mot": "MERS",
+            "id": "1855777"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "SARS",
+            "id": "2578466"
+        },
+        {
+            "mot": "CoV",
+            "id": "14558790"
+        },
+        {
+            "mot": "source",
+            "id": "15648314"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pandémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "coronavirus",
+            "id": "1830866"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "distinguent",
+            "id": "414550"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "quatre",
+            "id": "15412664"
+        },
+        {
+            "mot": "manières",
+            "id": "NULL"
+        },
+        {
+            "mot": "fondamentales",
+            "id": "34657"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sources",
+            "id": "77176080"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "sécrétées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "types",
+            "id": "417517"
+        },
+        {
+            "mot": "cellulaires",
+            "id": "319546"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "lymphocytes",
+            "id": "17051869"
+        },
+        {
+            "mot": "B",
+            "id": "143220"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "quant",
+            "id": "5933792"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "sécrétées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "seul",
+            "id": "178311537"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "spécialisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "localisée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cibles",
+            "id": "3307710"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "ciblées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "nombreuses",
+            "id": "16088588"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "incluent",
+            "id": "2047613"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "hématopoïétiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "spécifiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "cible",
+            "id": "9986203"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "pléiotrope",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pleio",
+            "id": "NULL"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "tropos",
+            "id": "NULL"
+        },
+        {
+            "mot": "changement",
+            "id": "430122"
+        },
+        {
+            "mot": "car",
+            "id": "11494787"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "influent",
+            "id": "11602"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "induisent",
+            "id": "2052447"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "changements",
+            "id": "405295"
+        },
+        {
+            "mot": "divers",
+            "id": "3031547"
+        }
+    ],
+    [
+        {
+            "mot": "Activités",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "large",
+            "id": "16821357"
+        },
+        {
+            "mot": "spectre",
+            "id": "5522441"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "existe",
+            "id": "45446"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "forte",
+            "id": "2572348"
+        },
+        {
+            "mot": "redondance",
+            "id": "112787635"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "hormones",
+            "id": "156597063"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "essentiellement",
+            "id": "8546"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "unique",
+            "id": "16088752"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "restreinte",
+            "id": "400675"
+        }
+    ],
+    [
+        {
+            "mot": "Modes",
+            "id": "405620"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "action",
+            "id": "434203"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "agissent",
+            "id": "1985000"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "sécrétrice",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "doivent",
+            "id": "2077013"
+        },
+        {
+            "mot": "passer",
+            "id": "407137"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "circulation",
+            "id": "5710204"
+        },
+        {
+            "mot": "sanguine",
+            "id": "146513"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "atteindre",
+            "id": "116592"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "cible",
+            "id": "9986203"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "dites",
+            "id": "10990184"
+        },
+        {
+            "mot": "endocrines",
+            "id": "431470"
+        }
+    ],
+    [
+        {
+            "mot": "Celles",
+            "id": "2018436"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "agissent",
+            "id": "1985000"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "proches",
+            "id": "3400275"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "sécrétrice",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "dites",
+            "id": "10990184"
+        },
+        {
+            "mot": "paracrines",
+            "id": "14671918"
+        }
+    ],
+    [
+        {
+            "mot": "Parfois",
+            "id": "14886690"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "reçoit",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "travers",
+            "id": "137301"
+        },
+        {
+            "mot": "ses",
+            "id": "11254312"
+        },
+        {
+            "mot": "propres",
+            "id": "414556"
+        },
+        {
+            "mot": "récepteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "membranaires",
+            "id": "398268"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cytokine",
+            "id": "92497029"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "sécrétée",
+            "id": "NULL"
+        },
+        {
+            "mot": "celle",
+            "id": "177480"
+        },
+        {
+            "mot": "ci",
+            "id": "1830223"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "dite",
+            "id": "16087795"
+        },
+        {
+            "mot": "autocrine",
+            "id": "156521597"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Choc",
+            "id": "411492"
+        },
+        {
+            "mot": "cytokinique",
+            "id": "5619224"
+        },
+        {
+            "mot": "FluoroSpot",
+            "id": "5818717"
+        },
+        {
+            "mot": "Cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "tueuse",
+            "id": "10045084"
+        },
+        {
+            "mot": "induite",
+            "id": "156499658"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "Adipokines",
+            "id": "16872071"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "synthétisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "adipocytes",
+            "id": "298164"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "constitutives",
+            "id": "2156774"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "tissu",
+            "id": "413277"
+        },
+        {
+            "mot": "adipeux",
+            "id": "36910"
+        }
+    ],
+    [
+        {
+            "mot": "Myokines",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "synthétisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "myocytes",
+            "id": "291863"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "constitutives",
+            "id": "2156774"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "muscles",
+            "id": "5570582"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "produites",
+            "id": "2252314"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        }
+    ],
+    [
+        {
+            "mot": "Bibliographie",
+            "id": "249394043"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "Cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "direction",
+            "id": "15693082"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "J",
+            "id": "139695"
+        }
+    ],
+    [
+        {
+            "mot": "M",
+            "id": "138590"
+        }
+    ],
+    [
+        {
+            "mot": "Cavaillon",
+            "id": "141852"
+        },
+        {
+            "mot": "éditions",
+            "id": "NULL"
+        },
+        {
+            "mot": "Masson",
+            "id": "12206137"
+        },
+        {
+            "mot": "Molecular",
+            "id": "416349"
+        },
+        {
+            "mot": "mediators",
+            "id": "17389308"
+        },
+        {
+            "mot": "cytokines",
+            "id": "180664747"
+        },
+        {
+            "mot": "J",
+            "id": "139695"
+        }
+    ],
+    [
+        {
+            "mot": "M",
+            "id": "138590"
+        }
+    ],
+    [
+        {
+            "mot": "Cavaillon",
+            "id": "141852"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "Encyclopedia",
+            "id": "17023781"
+        },
+        {
+            "mot": "of",
+            "id": "12862803"
+        },
+        {
+            "mot": "Molecular",
+            "id": "416349"
+        },
+        {
+            "mot": "Cell",
+            "id": "464752"
+        },
+        {
+            "mot": "Biology",
+            "id": "5722402"
+        },
+        {
+            "mot": "and",
+            "id": "5538562"
+        },
+        {
+            "mot": "Molecular",
+            "id": "416349"
+        },
+        {
+            "mot": "Medicine",
+            "id": "1268954"
+        },
+        {
+            "mot": "deuxième",
+            "id": "NULL"
+        },
+        {
+            "mot": "édition",
+            "id": "NULL"
+        },
+        {
+            "mot": "vol",
+            "id": "393128"
+        }
+    ],
+    [
+        {
+            "mot": "Wiley",
+            "id": "19195461"
+        },
+        {
+            "mot": "VCH",
+            "id": "NULL"
+        },
+        {
+            "mot": "Verlag",
+            "id": "404109"
+        },
+        {
+            "mot": "Weinheim",
+            "id": "4034753"
+        },
+        {
+            "mot": "p",
+            "id": "137760"
+        }
+    ],
+    [
+        {
+            "mot": "Liens",
+            "id": "409339"
+        },
+        {
+            "mot": "externes",
+            "id": "16087769"
+        },
+        {
+            "mot": "Ressources",
+            "id": "5570515"
+        },
+        {
+            "mot": "relatives",
+            "id": "400525"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "Medical",
+            "id": "16936280"
+        },
+        {
+            "mot": "Subject",
+            "id": "16942003"
+        },
+        {
+            "mot": "Headings",
+            "id": "403195"
+        },
+        {
+            "mot": "Store",
+            "id": "419967"
+        },
+        {
+            "mot": "medisinske",
+            "id": "NULL"
+        },
+        {
+            "mot": "leksikon",
+            "id": "11120841"
+        },
+        {
+            "mot": "FMA",
+            "id": "17393977"
+        },
+        {
+            "mot": "WikiSkripta",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "cellulaire",
+            "id": "3245764"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "zoologie",
+            "id": "152125"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        }
+    ]
+]

@@ -1,0 +1,48 @@
+L'électrophysiologie (du grec ἥλεκτρον, elektron, φύσις, physis, nature, et -λογία, -logia, étude) est l'étude des phénomènes électriques et électrochimiques qui se produisent dans les cellules ou les tissus des organismes vivants et, en particulier, dans les neurones et les fibres musculaires et chez les plantes sensitives (étudiées depuis le début du XXe siècle de ce point de vue, dont par Jagadish Chandra Bose). Elle implique la mesure de différences de tensions ou de courants électriques à différentes échelles biologiques, du canal ionique isolé, jusqu'à des organes entiers, comme le cœur.
+En neurosciences, l'électrophysiologie étudie l'activité électrique des neurones et en particulier l'émission de potentiel d'action. L'enregistrement d'activité électrique plus large du système nerveux, comme par électroencéphalographie, peut également être considéré comme de l'électrophysiologie.
+
+Historique
+L'une des premières expériences d'électrophysiologie fut réalisée par Luigi Galvani, qui décrivit l'électricité animale. Alors qu'il disséquait une grenouille, il constata que le contact entre le métal de son scalpel et le nerf sciatique de l'animal provoquait des contractions musculaires. Il démontra que le scalpel n'était « actif » que s'il était chargé d'électricité statique. Il en déduit que des phénomènes électriques étaient responsables de la contraction des muscles.
+
+Production de courant électrique par le vivant
+Potentiel électrique de membrane
+L'unité de base du vivant, la cellule, possède la caractéristique d'avoir une polarisation négative par rapport à l'extérieur. La membrane phospholipidique est un isolant électrique placé entre deux milieux aqueux conducteurs. Elle joue donc le rôle de condensateur électrique. L'existence de canaux potassium ouverts à l'état de repos permet au gradient chimique de ces ions, maintenu par la pompe sodium-potassium, de se dissiper. La sortie d'ions potassium crée une micro-séparation de charge à la surface de la membrane. Cette séparation de charge est une différence de potentiel électrique, l'intérieur de la cellule devenant négatif par rapport à l'extérieur. Cette valeur négative s'oppose à la sortie des ions potassium.
+Ainsi, pour résumer, le potentiel de membrane est créé par l'existence concomitante de deux phénomènes.
+
+Un déséquilibre ionique est maintenu par les pompes membranaires, en particulier la Na/K ATPase qui échange des ions sodium contre des ions potassium. Cet échange se fait contre le gradient chimique de ces espèces et nécessite donc de l'énergie, fournie sous forme d'ATP.
+L'ouverture à l'état de repos des canaux potassiques permet au gradient chimique de cet ion de se dissiper par un phénomène de diffusion. Cette sortie d'ions potassium crée une différence de potentiel, polarisant l'intérieur de la cellule négativement par rapport à l'extérieur.
+
+Cellules excitables
+Certaines cellules spécialisées ont la capacité de se dépolariser soudainement quand leur potentiel de membrane a été dépolarisé au-delà d'une valeur seuil. Cette dépolarisation explosive est suivie d'une repolarisation. Il s'agit d'un potentiel d'action. Il fait intervenir l'ouverture et la fermeture de canaux ioniques dépendant du potentiel de membrane perméables soit au sodium ou au calcium (ils permettent la dépolarisation), soit au potassium (ils permettent la repolarisation qui va parfois jusqu'à une légère hyperpolarisation).
+Les cellules excitables sont :
+
+les neurones ou cellules nerveuses ;
+les myocytes ou cellules musculaires cardiaques ;
+les myocytes ou cellules musculaires squelettiques striées.cas particulier de l'organe électrique de Torpedo…
+
+Maintien de l'équilibre osmotique
+Du courant électrique permet le fonctionnement du rein, la « turgescence » des cellules végétales…
+
+Production d'énergie
+En fin de la chaîne bioénergétique, aussi bien dans les mitochondries que dans les chloroplastes, un flux de protons à travers l'ATP synthétase permet la synthèse d'ATP.
+
+Méthodes électrophysiologiques
+Différentes techniques permettent, à l'aide d'électrodes, de mesurer les propriétés électriques des systèmes biologiques.
+Les techniques de patch-clamp permettent de mesurer les courants électriques internes à une cellule, voir les courants traversant une fraction de sa membrane, et même un seul canal ionique.
+Une autre méthode permettant d'accéder au potentiel électrique interne à la cellule est l'utilisation d'électrodes « sharp », électrodes en verre de très fin diamètre qui traversent la membrane cellulaire.
+Enfin, il est également possible d'enregistrer la propagation des potentiels d'actions en disposant une électrode à l'extérieur de la cellule. Ces électrodes 'extracellulaires' enregistrent simultanément des signaux électriques générés par la décharges de plusieurs cellules adjacentes à la pointe de l'électrode. La différenciation des potentiels d'action générés par les différentes cellules s'effectue à l'aide d'un programme de spike sorting, c'est-à-dire de tri des potentiels d'action en fonction de leur forme, les potentiels d'action provenant de cellules différentes ayant une forme différente et très reproductible au cours du temps.
+On peut aussi mesurer le champ électrique généré par une grande population de cellules synchronisés, comme celles du cœur (électrocardiogramme ECG), des muscles (électromyogramme EMG) ou du cerveau (électroencéphalogramme EEG). Ceci se fait par application directe d'électrodes de surface sur la peau des patients.
+D'autres méthodes sont complémentaires à l'électrophysiologie. Par exemple, des techniques d'imageries non-invasives utilisent les effets indirects de l'activité électrique des neurones pour suivre l'activité cérébrale (les méthodes d'électrophysiologie permettent, elles, des mesures directes de l'activité électrique, comme aussi des variations de potentiels de grandes populations de neurones par Électroencéphalographie quantitative). L'imagerie par résonance magnétique fonctionnelle (IRMf), par exemple, mesure les augmentations de débit sanguins qui sont quasi simultanées à l'activation de groupes de neurones. En effet, quand un neurone décharge des potentiels d'action, il y a une augmentation de la consommation en glucose, accompagnée d'une augmentation de la circulation sanguine. La tomographie permet la visualisation des zones cérébrales où la consommation de glucose par les cellules est la plus importante, et par conséquent, des zones du cerveau les plus actives.
+
+Notes et références
+Voir aussi
+Articles connexes
+Histoire de l'électrophysiologie
+Électroencéphalographie quantitative
+Liste de courants ioniques
+Rhéobase
+
+Liens externes
+
+Ressource relative à la santé : Medical Subject Headings 
+(en) Manuel d'Électrophysiologie: Foudations of electrophysiology (table des matières) Portail des neurosciences   Portail de la physiologie   Portail de l’électricité et de l’électronique

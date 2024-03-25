@@ -1,0 +1,135 @@
+La chromatographie est une méthode physico-chimique qui sert à séparer les différentes substances présentes dans un mélange (échantillon en phase homogène liquide ou gazeuse).
+L'appareil utilisé pour effectuer certaines chromatographies se nomme chromatographe. L'image ou le diagramme obtenu par chromatographie est appelé chromatogramme. Lorsqu'on utilise un chromatographe et un logiciel de chromatographie, le chromatogramme prend généralement la forme d'un graphique qui traduit la variation d’un paramètre relié à la concentration du soluté en sortie de colonne, en fonction du temps (ou du volume) d’élution.
+L'échantillon contenant une ou plusieurs espèces est entraîné par un courant de phase mobile (liquide, gaz ou fluide supercritique) au contact d'une phase stationnaire (papier, gélatine, silice, polymère, silice greffée, etc.). Chaque espèce présente migre à une vitesse qui dépend de ses caractéristiques et de celles des deux phases en présence.
+La chromatographie peut être analytique (visant à l'identification des substances présentes) ou préparative (visant à la séparation des constituants d'un mélange). La chromatographie analytique est largement utilisée à l'échelle du laboratoire, en chimie organique. Elle se prête bien à la miniaturisation, et elle a donné naissance à plusieurs techniques d'analyse chimique qui consistent à associer dans un même instrument une séparation du ou des composés d’intérêt (analytes) suivie de leur identification (et/ou de leur quantification), généralement par une méthode spectroscopique. La chromatographie préparative est rarement utilisée sur de grandes quantités en raison de son coût et de sa lenteur.
+
+Histoire
+Le botaniste russe Mikhaïl Tswett (Tsvett) fut, en 1906, le premier à utiliser le terme« chromatographie ». Ultérieurement, on appelle la technique Tswett chromatographie d'adsorption pour la distinguer d'autres qui la suivirent.
+Tswett utilisait depuis 1903 des colonnes d'adsorption pour séparer des pigments de plantes. On spécula donc l'étymologie du mot « chromatographie » à partir du grec ancien χρῶμα / khrôma, « couleur » et donc pigment.[réf. nécessaire] Tswett ne donna jamais cette explication, mais tswett est le mot russe pour « couleur ».
+En 1952, Martin et Synge reçurent le prix Nobel de chimie pour leur invention de la chromatographie de partage.
+
+Principe
+La chromatographie repose sur l'entraînement d'un échantillon dissous par une phase mobile (ou éluant) à travers une phase stationnaire (ou phase fixe). La phase stationnaire, fixée soit sur la surface intérieure d'une colonne soit sur une surface plane, retient plus ou moins fortement les substances contenues dans l'échantillon dilué selon l'intensité des forces d'interactions de faible énergie (comme les forces de Van der Waals, les liaisons hydrogène, etc.) réalisées entre les différentes espèces moléculaires et la phase stationnaire. Selon la technique chromatographique mise en jeu, la séparation des composants entraînés par la phase mobile, résulte soit de leur adsorption et de leur désorption successives sur la phase stationnaire, soit de leur solubilité différente dans chaque phase.
+Les différents composants de l'échantillon ont généralement une vitesse caractéristique qui permet de les séparer, voire de les identifier. Cette vitesse de séparation est fortement dépendante de la nature de la phase mobile et de la phase stationnaire. La maîtrise de toutes les conditions de séparation permet la reproductibilité parfaite du temps de migration d'un composé donné. 
+Souvent, l'échantillon est analysé par comparaison avec des substances déjà connues dans l'échantillon ou par comparaison avec les résultats de l'analyse d'une solution-étalon (solution commerciale contenant des substances connues, à des concentrations bien connues). Ces substances servent de références et permettent d'identifier ou de doser chaque espèce par comparaison des vitesses de séparation (et éventuellement d'autres renseignements donnés par la détection). Il s'agit de chromatographie analytique.
+Dans d'autres cas, on se contente de séparer les fractions pour les identifier par d'autres techniques : c'est la chromatographie préparative.
+
+Les différents types de chromatographie
+Par nature de la phase mobile
+Chromatographie sur couche mince (CCM ou TLC en anglais).
+Chromatographie en phase gazeuse (CPG ou GC en anglais) également appelée CPV (chromatographie en phase vapeur).
+Chromatographie en phase liquide (CPL ou LC en anglais).
+Chromatographie en phase liquide à haute performance (CLHP ou HPLC en anglais).
+Chromatographie en phase supercritique (CPS ou SFC en anglais).
+
+Par type d'interaction
+Chromatographie d'adsorption/d'affinité.
+Chromatographie de partage.
+Chromatographie à échange d'ions.
+Chromatographie chirale (qui est, soit de la CPG, soit de la CPL).
+Chromatographie d'exclusion stérique (CES ou SEC en anglais).
+
+Par type de support
+Chromatographie sur colonne, regroupant notamment chromatographie en phase liquide à haute pression (HPLC) et chromatographie en phase gazeuse (CPG) : la phase stationnaire est dans un tube étroit et la phase mobile progresse par gravité ou différence de pression.
+Chromatographie planaire (qui recouvre CCM et chromatographie sur papier) : la phase stationnaire est sur la surface d'un support plat (CCM) ou dans une feuille de cellulose poreuse (chromatographie sur papier) ; la phase mobile se déplace par capillarité ou par gravité.
+
+Méthodes couplées
+Pour améliorer la qualité de la séparation et de l'identification, de nouveaux appareils permettent :
+
+de coupler deux types de chromatographies (chromatographie bi-dimensionnelle) ;
+d'associer la séparation chromatographique à une autre technique d'analyse telle que la spectrométrie de masse (méthodes GC-MS et LC-MS).
+
+Étapes d'une analyse quantitative
+Choix de la méthode :
+analytes à étudier : nature et nombre.
+Connaître la nature de l'analyte permettra d'adapter le détecteur en sortie de l'analyse chromatographique (gaz, liquide…) ; connaître son nombre, c'est-à-dire sa concentration, permettra d'éviter la saturation du détecteur. Il existe en chromatographie, différents détecteurs (FID, Spectro…),
+nombre d’analyses,
+exactitude recherchée ;
+Échantillonnage ;
+Préparation de l’échantillon :
+mise en solution,
+extraction des analytes de l’échantillon,
+concentration,
+rendement de l’extraction ;
+Éliminer les interférences :
+effet de matrice,
+purification de l’extrait ;
+Analyse chromatographique :
+directe,
+après traitement (méthylation, silylation…),
+étalonnage,
+linéarité ;
+Calcul des résultats :
+exactitude,
+évaluation d’incertitude.
+
+Grandeurs caractéristiques en analyse chromatographique sur colonne
+Vitesses de déplacement des solutés
+Le pouvoir séparateur d’une colonne est fonction des vitesses relatives d’élution. Ces vitesses sont donc fonction du coefficient de distribution des solutés entre les 2 phases : 
+Coefficient de distribution : 
+où CS est la concentration du soluté en phase stationnaire et CM la concentration du soluté en phase mobile.
+Temps de rétention tR : temps qui s’écoule entre l’injection de l’échantillon et l’apparition d’un pic de soluté sur le détecteur d’une colonne chromatographique.
+Temps mort tM : temps nécessaire pour qu’une espèce non retenue par la phase stationnaire traverse la colonne.
+
+Vitesse linéaire moyenne de déplacement du soluté : 
+où L est la longueur de la colonne.
+
+Vitesse linéaire moyenne de la phase mobile : 
+Relation entre vitesse de déplacement et coefficient de distribution : 
+où VS et VM sont les volumes de solutés respectivement dans la phase stationnaire et mobile (aussi appelé volume mort), or ces volumes sont proportionnels aux volumes des 2 phases respectivement, ils peuvent donc être estimés si on connaît la structure géométrique de la colonne.
+
+Temps réduit t'R : 
+Volume réduit V'R : 
+Débit D : 
+Certains paramètres qui affectent les vitesses relatives des analytes peuvent être modifiés :
+
+vitesse linéaire de la phase mobile u¯{\displaystyle {\overline {u}}} ;
+coefficient de diffusion dans la phase mobile ;
+coefficient de diffusion dans la phase stationnaire ;
+facteur de capacité k’ ;
+diamètre des particules support ;
+épaisseur de la couche liquide sur la phase stationnaire.
+
+Facteur de capacité
+Facteur de capacité k' : paramètre expérimental important permettant de décrire la vitesse de progression des solutés dans les colonnes. C’est le rapport des quantités d’un analyte présentes à l’équilibre dans les deux volumes de phase stationnaire et mobile adjacentes. Le facteur de capacité dépend de la température (CPG), du remplissage de la colonne (CPG), de la composition de la phase mobile et stationnaire (HPLC)...
+
+k'<1 : élution trop rapide
+1<k'<5 : élution optimale
+5<k' : élution trop lenteFacteur de sélectivité α : rapport du coefficient de distribution du soluté qui est retenu le plus sur le coefficient de distribution du soluté qui est retenu le moins. Le facteur de sélectivité de deux analytes permet d’estimer à quel point la colonne peut les séparer. Il est donc utilisé pour calculer le pouvoir séparateur d’une colonne. α>1 toujours.
+
+Élargissement des bandes et efficacité d'une colonne
+L’efficacité d’une colonne dépend du degré d’élargissement du pic qui se produit à mesure que l’analyte parcourt la colonne. Cet élargissement dépend du temps de séjour de l’analyte dans les 2 phases :
+
+tR{\displaystyle t_{R}} grand : pics larges ;
+tR{\displaystyle t_{R}} petit : pics fins.L’efficacité d’une colonne s’évalue à partir de l’un ou l’autre de ces deux termes : 
+
+H = hauteur équivalente à un plateau théorique ;
+N = nombre de plateaux théoriques.L’efficacité augmente quand N augmente ou quand H diminue à L constante. En notant σ2{\displaystyle \sigma ^{2}} la variance, δ≈2.355σ{\displaystyle \delta \approx 2.355\sigma } la largeur du pic à mi-hauteur et ω≈4σ{\displaystyle \omega \approx 4\sigma } la largeur à la base du pic,
+
+L’importance des effets cinétiques sur l’efficacité de la colonne dépend essentiellement de la durée de contact entre la phase mobile et la phase stationnaire, dépendant elle-même de la vitesse d’écoulement de la phase mobile.
+L’élargissement des pics est minimisé en réduisant la granulométrie du matériau de remplissage et le diamètre de la colonne. En effet la phase stationnaire est granulée et le solvant occupe le volume des interstices, ce volume est appelé volume mort de solvant. H augmente avec ce volume et diminue avec le diamètre de la colonne.
+
+Résolution de la colonne
+La résolution RS d'une colonne est la mesure quantitative de son aptitude à séparer deux analytes A et B :
+
+Si RS>1,5{\displaystyle R_{S}>1,5} : séparation complète de A et B
+Si RS≈1,0{\displaystyle R_{S}\approx 1,0} : séparation incomplète de A et B
+Si RS<0,75{\displaystyle R_{S}<0,75} : analytes A et B mal séparésRemarque : une résolution de 1,5 correspond à un recouvrement des pics de 1 %.
+Lien entre résolution et nombre de plateaux théoriques :
+
+Cette relation permet de remarquer que la résolution RS d'une colonne est proportionnelle à la racine carrée de sa longueur car le nombre de plateaux théoriques N est proportionnel à la longueur L de la colonne. Avec une phase stationnaire donnée on peut améliorer la résolution de la colonne en augmentant le nombre de plateaux théoriques donc en augmentant la longueur de la colonne. Mais ceci augmente la durée de l’analyse, un compromis est donc nécessaire.
+
+Méthodes d'optimisation
+Modification de la hauteur équivalent à un plateau théorique (diamètre colonne, granulométrie…).
+Modification du facteur de capacité (composition phase mobile, température, solvant…).
+Modification du facteur de sélectivité (composition phase mobile, température colonne, composition phase stationnaire, effets chimiques (complexes…).
+
+Notes et références
+Voir aussi
+Diffusion de la matière
+Migration (matière)
+Facteur de séparation
+
+Liens externes
+Cours de chromatographie (ne comprend pas l'HPLC)
+ Portail de la biochimie   Portail de la chimie

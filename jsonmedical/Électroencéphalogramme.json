@@ -1,0 +1,4882 @@
+[
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "électroencéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "exploration",
+            "id": "155689"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "placées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cuir",
+            "id": "430267"
+        },
+        {
+            "mot": "chevelu",
+            "id": "422682"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "représentée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "tracé",
+            "id": "NULL"
+        },
+        {
+            "mot": "appelé",
+            "id": "NULL"
+        },
+        {
+            "mot": "électroencéphalogramme",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Comparable",
+            "id": "10837011"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "électrocardiogramme",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "étudier",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "fonctionnement",
+            "id": "11836266"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cœur",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "indolore",
+            "id": "10262"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "invasif",
+            "id": "31852"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "renseigne",
+            "id": "2113670"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "neurophysiologique",
+            "id": "143208483"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "cours",
+            "id": "78667606"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "particulier",
+            "id": "2932560"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "cérébral",
+            "id": "NULL"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "diagnostique",
+            "id": "251003858"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurologie",
+            "id": "52872056"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "cognitives",
+            "id": "14730934"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "origine",
+            "id": "273472"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "résultante",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sommation",
+            "id": "123442"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "potentiels",
+            "id": "145300854"
+        },
+        {
+            "mot": "post",
+            "id": "1842001"
+        },
+        {
+            "mot": "synaptiques",
+            "id": "404937"
+        },
+        {
+            "mot": "synchrones",
+            "id": "1898392"
+        },
+        {
+            "mot": "issus",
+            "id": "425950"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "grand",
+            "id": "231909852"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "parle",
+            "id": "419908"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "électroencéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "intracrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "iEEG",
+            "id": "NULL"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "durale",
+            "id": "396770"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "stéréotaxique",
+            "id": "NULL"
+        },
+        {
+            "mot": "sEEG",
+            "id": "16876546"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "désigner",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mesures",
+            "id": "5619572"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "effectuées",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "partir",
+            "id": "15765426"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "implantées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "crâne",
+            "id": "NULL"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "profondeur",
+            "id": "15017056"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "tissu",
+            "id": "413277"
+        },
+        {
+            "mot": "cérébral",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Historique",
+            "id": "412735"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "invention",
+            "id": "137768"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "électroencéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "attribuée",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "scientifique",
+            "id": "1650866"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        },
+        {
+            "mot": "britannique",
+            "id": "434655"
+        },
+        {
+            "mot": "Richard",
+            "id": "138100"
+        },
+        {
+            "mot": "Caton",
+            "id": "407923"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "neurologue",
+            "id": "156481745"
+        },
+        {
+            "mot": "allemand",
+            "id": "172932"
+        },
+        {
+            "mot": "Hans",
+            "id": "5934320"
+        },
+        {
+            "mot": "Berger",
+            "id": "14890880"
+        },
+        {
+            "mot": "fut",
+            "id": "16094747"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "amplifier",
+            "id": "3344289"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuronale",
+            "id": "398299"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "décrire",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "tracés",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "vague",
+            "id": "404893"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "décrire",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "tracé",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "bêta10",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Aujourd",
+            "id": "405386"
+        },
+        {
+            "mot": "hui",
+            "id": "425231"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "connaît",
+            "id": "NULL"
+        },
+        {
+            "mot": "types",
+            "id": "417517"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "thêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "bêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "gamma",
+            "id": "397036"
+        }
+    ],
+    [
+        {
+            "mot": "C'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "William",
+            "id": "143544"
+        },
+        {
+            "mot": "Grey",
+            "id": "11789097"
+        },
+        {
+            "mot": "Walter",
+            "id": "13590916"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "découvert",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "rythmes",
+            "id": "399354"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "sommeil",
+            "id": "424675"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "lentes",
+            "id": "1853656"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "thêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "présent",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "sommeil",
+            "id": "424675"
+        },
+        {
+            "mot": "paradoxal",
+            "id": "16154093"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "travaux",
+            "id": "144679"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Hans",
+            "id": "5934320"
+        },
+        {
+            "mot": "Berger",
+            "id": "14890880"
+        },
+        {
+            "mot": "furent",
+            "id": "2203039"
+        },
+        {
+            "mot": "repris",
+            "id": "21576"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "complétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "britannique",
+            "id": "434655"
+        },
+        {
+            "mot": "Edgar",
+            "id": "11080043"
+        },
+        {
+            "mot": "Douglas",
+            "id": "137252"
+        },
+        {
+            "mot": "Adrian",
+            "id": "80672"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "obtint",
+            "id": "2064348"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "Prix",
+            "id": "14529203"
+        },
+        {
+            "mot": "Nobel",
+            "id": "425204"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "physiologie",
+            "id": "153082"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "n",
+            "id": "138276"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "depuis",
+            "id": "432818"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "technique",
+            "id": "152187"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "couramment",
+            "id": "86829"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "domaine",
+            "id": "142250"
+        },
+        {
+            "mot": "scientifique",
+            "id": "1650866"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "quantification",
+            "id": "143280482"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "ordinateur",
+            "id": "419814"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "électroencéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "quantitative",
+            "id": "398388"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Imagerie",
+            "id": "407973"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "électrophysiologique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "offre",
+            "id": "425347"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "bonne",
+            "id": "398214"
+        },
+        {
+            "mot": "résolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "temporelle",
+            "id": "259302"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "coûteuse",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "invasive",
+            "id": "5933438"
+        }
+    ],
+    [
+        {
+            "mot": "Cependant",
+            "id": "101535"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "technique",
+            "id": "152187"
+        },
+        {
+            "mot": "possède",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "faible",
+            "id": "6014948"
+        },
+        {
+            "mot": "résolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "spatiale",
+            "id": "6014924"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "produit",
+            "id": "567414"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "doit",
+            "id": "461257"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "amplifié",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "examens",
+            "id": "15519135"
+        },
+        {
+            "mot": "cliniques",
+            "id": "193336237"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "détecter",
+            "id": "NULL"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "problèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuronaux",
+            "id": "427674"
+        },
+        {
+            "mot": "liés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "diverses",
+            "id": "2939230"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "cognitives",
+            "id": "14730934"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mesurer",
+            "id": "16512661"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "suite",
+            "id": "10934677"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "tâche",
+            "id": "NULL"
+        },
+        {
+            "mot": "donnée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Mis",
+            "id": "16813093"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "part",
+            "id": "396844"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "résolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "spatiale",
+            "id": "6014924"
+        },
+        {
+            "mot": "limitée",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "limites",
+            "id": "418461"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "qu",
+            "id": "214790705"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "représente",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "agglomération",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "centaines",
+            "id": "399852"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sources",
+            "id": "77176080"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "activités",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuronales",
+            "id": "1818043"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "isoler",
+            "id": "90377"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "processus",
+            "id": "567654"
+        },
+        {
+            "mot": "neurocognitifs",
+            "id": "NULL"
+        },
+        {
+            "mot": "individuels",
+            "id": "10345328"
+        }
+    ],
+    [
+        {
+            "mot": "Principe",
+            "id": "418540"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonctionnement",
+            "id": "11836266"
+        },
+        {
+            "mot": "Étant",
+            "id": "NULL"
+        },
+        {
+            "mot": "donné",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "faiblesse",
+            "id": "2931797"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "produit",
+            "id": "567414"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "nécessaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "amplifier",
+            "id": "3344289"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "mesuré",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cuir",
+            "id": "430267"
+        },
+        {
+            "mot": "chevelu",
+            "id": "422682"
+        }
+    ],
+    [
+        {
+            "mot": "Historiquement",
+            "id": "14581248"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "courbes",
+            "id": "2509451"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "étaient",
+            "id": "NULL"
+        },
+        {
+            "mot": "tracées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "rouleaux",
+            "id": "11316724"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "bandes",
+            "id": "430059"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "papier",
+            "id": "2955977"
+        },
+        {
+            "mot": "millimétré",
+            "id": "NULL"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "relus",
+            "id": "2109680"
+        },
+        {
+            "mot": "ensuite",
+            "id": "15518959"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médecins",
+            "id": "NULL"
+        },
+        {
+            "mot": "neurologues",
+            "id": "2063557"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "déceler",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "éventuels",
+            "id": "NULL"
+        },
+        {
+            "mot": "signes",
+            "id": "425465"
+        }
+    ],
+    [
+        {
+            "mot": "Aujourd'",
+            "id": "NULL"
+        },
+        {
+            "mot": "hui",
+            "id": "425231"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "capté",
+            "id": "NULL"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "contact",
+            "id": "15404435"
+        },
+        {
+            "mot": "converti",
+            "id": "111227"
+        },
+        {
+            "mot": "numériquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "traité",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "ordinateur",
+            "id": "419814"
+        }
+    ],
+    [
+        {
+            "mot": "Examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "enregistre",
+            "id": "416834"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "électroencéphalogramme",
+            "id": "NULL"
+        },
+        {
+            "mot": "standard",
+            "id": "402477"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "éveillé",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "allongée",
+            "id": "NULL"
+        },
+        {
+            "mot": "détendu",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "assise",
+            "id": "141678"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "étudier",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "influence",
+            "id": "425225"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ouverture",
+            "id": "404697"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "yeux",
+            "id": "272361"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "rapport",
+            "id": "16088730"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "yeux",
+            "id": "272361"
+        },
+        {
+            "mot": "fermés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "périodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "hyperpnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "lumineuse",
+            "id": "17341606"
+        },
+        {
+            "mot": "intermittente",
+            "id": "17341607"
+        }
+    ],
+    [
+        {
+            "mot": "Sur",
+            "id": "409373"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "tracé",
+            "id": "NULL"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "identifier",
+            "id": "401719"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "activités",
+            "id": "NULL"
+        },
+        {
+            "mot": "électriques",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "rythmiques",
+            "id": "2121004"
+        }
+    ],
+    [
+        {
+            "mot": "Ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "rythmes",
+            "id": "399354"
+        },
+        {
+            "mot": "cérébraux",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "classés",
+            "id": "NULL"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "fréquence",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "identifier",
+            "id": "401719"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "caractériser",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "états",
+            "id": "NULL"
+        },
+        {
+            "mot": "psychologiques",
+            "id": "212954311"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "fondamentales",
+            "id": "34657"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "pathologiques",
+            "id": "391278"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurologie",
+            "id": "52872056"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        }
+    ],
+    [
+        {
+            "mot": "Phénomènes",
+            "id": "NULL"
+        },
+        {
+            "mot": "visibles",
+            "id": "400703"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "observe",
+            "id": "10368863"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "phénomènes",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "régulières",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fréquence",
+            "id": "NULL"
+        },
+        {
+            "mot": "comprise",
+            "id": "413431"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "Hz",
+            "id": "119138"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "amplitude",
+            "id": "9998571"
+        },
+        {
+            "mot": "comprise",
+            "id": "413431"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "µV",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "trouvé",
+            "id": "NULL"
+        },
+        {
+            "mot": "surtout",
+            "id": "16089966"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "occipitales",
+            "id": "1854070"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "zones",
+            "id": "2934163"
+        },
+        {
+            "mot": "antérieures",
+            "id": "NULL"
+        },
+        {
+            "mot": "puis",
+            "id": "10868437"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "trouve",
+            "id": "16513307"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "rythmes",
+            "id": "399354"
+        },
+        {
+            "mot": "bêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "dits",
+            "id": "10672322"
+        },
+        {
+            "mot": "rapides",
+            "id": "1156223"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "fréquence",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "Hz",
+            "id": "119138"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "amplitude",
+            "id": "9998571"
+        },
+        {
+            "mot": "réduite",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "µV",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "fronto",
+            "id": "9210270"
+        },
+        {
+            "mot": "rolandiques",
+            "id": "1816331"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "paramètres",
+            "id": "NULL"
+        },
+        {
+            "mot": "modifiables",
+            "id": "2227179"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ouverture",
+            "id": "404697"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "yeux",
+            "id": "272361"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "conserve",
+            "id": "105661274"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "rythmes",
+            "id": "399354"
+        },
+        {
+            "mot": "rapides",
+            "id": "1156223"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hyperpnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "normalement",
+            "id": "3557649"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "active",
+            "id": "419168"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "surtout",
+            "id": "16089966"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "énergiquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "exécutée",
+            "id": "NULL"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "ralentir",
+            "id": "426343"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "tracé",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "apparaître",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "bouffées",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "lentes",
+            "id": "1853656"
+        },
+        {
+            "mot": "bilatérales",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "prédominance",
+            "id": "NULL"
+        },
+        {
+            "mot": "antérieure",
+            "id": "NULL"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "signification",
+            "id": "431828"
+        },
+        {
+            "mot": "pathologique",
+            "id": "49779"
+        },
+        {
+            "mot": "précise",
+            "id": "NULL"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "symétriques",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "lumineuse",
+            "id": "17341606"
+        },
+        {
+            "mot": "intermittente",
+            "id": "17341607"
+        },
+        {
+            "mot": "provoque",
+            "id": "2254276"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "aires",
+            "id": "411849"
+        },
+        {
+            "mot": "visuelles",
+            "id": "429257"
+        },
+        {
+            "mot": "occipitales",
+            "id": "1854070"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "réponses",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "fréquence",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "parfois",
+            "id": "14886690"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "rythmes",
+            "id": "399354"
+        },
+        {
+            "mot": "harmoniques",
+            "id": "250011036"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "harmoniques",
+            "id": "250011036"
+        }
+    ],
+    [
+        {
+            "mot": "Analyse",
+            "id": "402333"
+        },
+        {
+            "mot": "interprétative",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "principales",
+            "id": "17638177"
+        },
+        {
+            "mot": "indications",
+            "id": "5832578"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "pratique",
+            "id": "432472"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "résultats",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "interprétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "indépendamment",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "contexte",
+            "id": "416292"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "examens",
+            "id": "15519135"
+        },
+        {
+            "mot": "demandés",
+            "id": "NULL"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "valeur",
+            "id": "402005"
+        },
+        {
+            "mot": "diagnostique",
+            "id": "251003858"
+        },
+        {
+            "mot": "intrinsèque",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "tracé",
+            "id": "NULL"
+        },
+        {
+            "mot": "normal",
+            "id": "6260714"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "exclure",
+            "id": "112524"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "possibilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "épilepsie",
+            "id": "NULL"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "détectée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "concerne",
+            "id": "425070"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "épilepsie",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "tracés",
+            "id": "NULL"
+        },
+        {
+            "mot": "électroencéphalographiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "mettent",
+            "id": "2225077"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "évidence",
+            "id": "NULL"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "figures",
+            "id": "427850"
+        },
+        {
+            "mot": "graphiques",
+            "id": "249988797"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pointes",
+            "id": "1755528"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pointes",
+            "id": "1755528"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "orienter",
+            "id": "15009735"
+        },
+        {
+            "mot": "vers",
+            "id": "422076"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "épilepsie",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "contribue",
+            "id": "2158681"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "apprécier",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "retentissement",
+            "id": "54572"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "mesurer",
+            "id": "16512661"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "réajustement",
+            "id": "NULL"
+        },
+        {
+            "mot": "thérapeutique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "épilepsie",
+            "id": "NULL"
+        },
+        {
+            "mot": "constitue",
+            "id": "2156711"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "aucun",
+            "id": "2512318"
+        },
+        {
+            "mot": "doute",
+            "id": "10054031"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pathologie",
+            "id": "416178"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "mieux",
+            "id": "432113"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "étudiée",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "électroencéphalographie",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Mais",
+            "id": "397741"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "affections",
+            "id": "183332172"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "nerveux",
+            "id": "17341686"
+        },
+        {
+            "mot": "central",
+            "id": "14760311"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "nécessiter",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "électroencéphalogramme",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "moyen",
+            "id": "217273920"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "investigation",
+            "id": "432393"
+        }
+    ],
+    [
+        {
+            "mot": "Outre",
+            "id": "415019"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "épilepsie",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "indiqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "état",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mort",
+            "id": "146499"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "tracé",
+            "id": "NULL"
+        },
+        {
+            "mot": "nul",
+            "id": "2574733"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "conscience",
+            "id": "140246"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vigilance",
+            "id": "6260474"
+        },
+        {
+            "mot": "coma",
+            "id": "4276982"
+        },
+        {
+            "mot": "confusion",
+            "id": "424698"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "sommeil",
+            "id": "424675"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "encéphalites",
+            "id": "NULL"
+        },
+        {
+            "mot": "nécrosantes",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "méningoencéphalite",
+            "id": "NULL"
+        },
+        {
+            "mot": "herpétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Creutzfeldt",
+            "id": "16513763"
+        },
+        {
+            "mot": "Jakob",
+            "id": "16513764"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "suivi",
+            "id": "5832960"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "enfant",
+            "id": "405825"
+        },
+        {
+            "mot": "prématuré",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "lésions",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "hémorragie",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "délirium",
+            "id": "NULL"
+        },
+        {
+            "mot": "post",
+            "id": "1842001"
+        },
+        {
+            "mot": "opératoire",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mesurer",
+            "id": "16512661"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "grande",
+            "id": "15625670"
+        },
+        {
+            "mot": "précision",
+            "id": "NULL"
+        },
+        {
+            "mot": "temporelle",
+            "id": "259302"
+        },
+        {
+            "mot": "milliseconde",
+            "id": "156547810"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "milliseconde",
+            "id": "156547810"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "renseigne",
+            "id": "2113670"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "éventuelles",
+            "id": "NULL"
+        },
+        {
+            "mot": "altérations",
+            "id": "NULL"
+        },
+        {
+            "mot": "fonctionnelles",
+            "id": "403606"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuroélectrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "ralentissement",
+            "id": "250137235"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "pathologique",
+            "id": "49779"
+        },
+        {
+            "mot": "organisation",
+            "id": "403189"
+        },
+        {
+            "mot": "critique",
+            "id": "14531841"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "contre",
+            "id": "426382"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "mesuré",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "faible",
+            "id": "6014948"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "diffusé",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "limite",
+            "id": "16392802"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "spatiale",
+            "id": "6014924"
+        },
+        {
+            "mot": "fournie",
+            "id": "171021729"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "quelles",
+            "id": "2577095"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "structures",
+            "id": "11083355"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "provient",
+            "id": "1355684"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "signal",
+            "id": "5680947"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "normal",
+            "id": "6260714"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "pathologique",
+            "id": "49779"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "conséquent",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "EEG",
+            "id": "13793667"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "conjointement",
+            "id": "54392"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "imagerie",
+            "id": "407973"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "TEP",
+            "id": "313275"
+        },
+        {
+            "mot": "scanner",
+            "id": "571702"
+        },
+        {
+            "mot": "IRM",
+            "id": "17342433"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "chercheurs",
+            "id": "10156732"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "université",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Oxford",
+            "id": "145827"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "montré",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "pouvait",
+            "id": "401042"
+        },
+        {
+            "mot": "déceler",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "informations",
+            "id": "272760"
+        },
+        {
+            "mot": "concrètes",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "personnelles",
+            "id": "399389"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "personne",
+            "id": "255483331"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "soumettant",
+            "id": "2101293"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "électroencéphalogramme",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "questions",
+            "id": "410870"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "faisant",
+            "id": "15519218"
+        },
+        {
+            "mot": "défiler",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "images",
+            "id": "153600"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "spécifique",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "reconnaissances",
+            "id": "8979238"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "informations",
+            "id": "272760"
+        },
+        {
+            "mot": "personnelles",
+            "id": "399389"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "repérer",
+            "id": "NULL"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "dernières",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "taux",
+            "id": "2572830"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réussite",
+            "id": "NULL"
+        },
+        {
+            "mot": "compris",
+            "id": "46612"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "dessus",
+            "id": "2575378"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "aléatoire",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Usage",
+            "id": "415670"
+        },
+        {
+            "mot": "artistique",
+            "id": "156495975"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "électro",
+            "id": "NULL"
+        },
+        {
+            "mot": "encéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Grégory",
+            "id": "NULL"
+        },
+        {
+            "mot": "Chatonsky",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "réalisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "œuvres",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "électro",
+            "id": "NULL"
+        },
+        {
+            "mot": "encéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "telles",
+            "id": "10055284"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "Suspension",
+            "id": "14668799"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "attention",
+            "id": "3729956"
+        },
+        {
+            "mot": "Head",
+            "id": "250163654"
+        },
+        {
+            "mot": "edit",
+            "id": "156826509"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "Emotional",
+            "id": "11841013"
+        },
+        {
+            "mot": "State",
+            "id": "3260447"
+        },
+        {
+            "mot": "Bastien",
+            "id": "11561057"
+        },
+        {
+            "mot": "Didier",
+            "id": "16940502"
+        },
+        {
+            "mot": "fondateur",
+            "id": "9569596"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "start",
+            "id": "160411965"
+        },
+        {
+            "mot": "up",
+            "id": "17394616"
+        },
+        {
+            "mot": "Mentalista",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "créé",
+            "id": "NULL"
+        },
+        {
+            "mot": "Mental",
+            "id": "5785999"
+        },
+        {
+            "mot": "Garden",
+            "id": "422832"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "installation",
+            "id": "424996"
+        },
+        {
+            "mot": "exposée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "industrie",
+            "id": "152486"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "propose",
+            "id": "3383078"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "créer",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "fleur",
+            "id": "179551"
+        },
+        {
+            "mot": "numérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "partir",
+            "id": "15765426"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "ondes",
+            "id": "2397781"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "générées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "évocation",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "souvenir",
+            "id": "425646"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Biosignal",
+            "id": "180753350"
+        },
+        {
+            "mot": "Électroencéphalographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "quantitative",
+            "id": "398388"
+        },
+        {
+            "mot": "Électromyogramme",
+            "id": "NULL"
+        },
+        {
+            "mot": "Imagerie",
+            "id": "407973"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "P",
+            "id": "137760"
+        },
+        {
+            "mot": "Rêve",
+            "id": "NULL"
+        },
+        {
+            "mot": "Rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "Rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "bêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "Rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "cérébral",
+            "id": "NULL"
+        },
+        {
+            "mot": "Rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "Rythme",
+            "id": "435819"
+        },
+        {
+            "mot": "thêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "Sommeil",
+            "id": "424675"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        }
+    ]
+]

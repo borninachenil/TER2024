@@ -1,7 +1,10 @@
 import wikipediaapi
 import json
-import os
 import sys
+import re
+import nltk
+import os
+import string
 
 def wikipedia(page_title):
     chemin_fichier_texte = f"wikipedia/{page_title}.txt"
@@ -18,23 +21,52 @@ def wikipedia(page_title):
             return page.text
         else:
             return "La page n'existe pas."
-
+        
 def clean(mot):
     corrections = {
         'Ã©': 'é', 'Ã¨': 'è', 'Ã ': 'à', 'Ã§': 'ç', 'Ã´': 'ô',
         'Ãª': 'ê', 'Ã«': 'ë', 'Ã®': 'î', 'Ã¯': 'ï', 'Ã¢': 'â',
         'Ã»': 'û', 'Ã¹': 'ù', 'Ã¤': 'ä', 'Ã¶': 'ö', 'Ã¼': 'ü',
-        'â€™': '’', '(' : '' , ')' : '', '.' : '',
+        'â€™': ' ', '(' : '' , ')' : '',
     }
     for incorrect, correct in corrections.items():
         mot = mot.replace(incorrect, correct)
-    mot = mot.strip(":,;!?()[]«»{}%1234567890")
+    mot = mot.strip(":,;!?()[]«»{}%1234567890/\\")
     return mot if mot else None
 
-def toMot(texte):
-    mots = texte.replace("\n", " ").replace("'", " ").split(" ")
-    mots_nettoyes = [clean(mot) for mot in mots if mot]
-    return [mot_nettoye for mot_nettoye in mots_nettoyes if mot_nettoye is not None]
+def toMots(texte):
+    # Utiliser une expression régulière pour trouver tous les mots, y compris ceux avec apostrophe et points
+    pattern = re.compile(r"\b\w+'?\w*\b\.?")
+    mots_trouves = pattern.findall(texte)
+    
+    mots_nettoyes = []
+    for mot in mots_trouves:
+        # Nettoyer chaque mot
+        mot_nettoye = clean(mot)
+        if mot_nettoye:
+            # Gérer spécifiquement les mots avec apostrophes
+            if "'" in mot_nettoye:
+                # Séparer à l'apostrophe et ajouter les deux parties comme mots distincts
+                partie1, partie2 = mot_nettoye.split("'", 1)
+                mots_nettoyes.append(partie1 + "'")
+                mots_nettoyes.append(partie2)
+            else:
+                mots_nettoyes.append(mot_nettoye)
+    return mots_nettoyes
+
+def creerPhrases(mots):
+    phrases = []
+    phrase_en_cours = []
+    for mot in mots:
+        if mot.endswith('.'):
+            phrase_en_cours.append(mot[:-1])
+            phrases.append(phrase_en_cours)
+            phrase_en_cours = []
+        else:
+            phrase_en_cours.append(mot)
+    if phrase_en_cours:
+        phrases.append(phrase_en_cours)
+    return phrases
 
 def Dictionnaire(chemin):
     dico = {}
@@ -43,11 +75,11 @@ def Dictionnaire(chemin):
             elements = ligne.strip().split(';')
             if len(elements) >= 2:
                 id_, terme = elements[0], elements[1].strip('"')
-                dico[terme] = id_
+                dico[terme.lower()] = id_  # Stocker les termes en minuscules pour la comparaison
     return dico
 
 def id(mots, dictionnaire):
-    return [{"mot": mot, "id": dictionnaire.get(mot, "NULL")} for mot in mots if mot is not None]
+    return [{"mot": mot, "id": dictionnaire.get(mot.lower(), "NULL")} for mot in mots]
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:
@@ -55,18 +87,14 @@ if __name__ == "__main__":
     else:
         print("Utilisation : python wikipedia.py NomPageWikipedia")
         sys.exit()
+
     page_content = wikipedia(page_title)
-    mots = toMot(page_content)
-    dictionnaire_termes = Dictionnaire('dictionnaire.txt')
-    mots_avec_id = id(mots, dictionnaire_termes)
-    if not os.path.exists('wikipedia'):
-        os.makedirs('wikipedia')
-    if not os.path.exists('json'):
-        os.makedirs('json')
-    nom_fichier_sans_espaces = page_title.replace(" ", "_").replace("(", "").replace(")", "").replace("/", "_")
-    chemin_fichier_texte = f"wikipedia/{nom_fichier_sans_espaces}.txt"
-    chemin_fichier_json = f"json/{nom_fichier_sans_espaces}.json"
-    with open(chemin_fichier_texte, 'w', encoding='utf-8') as fichier_texte:
-        fichier_texte.write(page_content)
-    with open(chemin_fichier_json, 'w', encoding='utf-8') as fichier_json:
-        json.dump(mots_avec_id, fichier_json, ensure_ascii=False, indent=4)
+    if page_content != "La page n'existe pas.":
+        mots = toMots(page_content)
+        phrases = creerPhrases(mots)
+        dictionnaire_termes = Dictionnaire('singleton.txt')
+        mots_avec_id = [id(phrase, dictionnaire_termes) for phrase in phrases]
+        nom_fichier_sans_espaces = page_title.replace(" ", "_").replace("(", "").replace(")", "").replace("/", "_")
+        nom_fichier_json = f"json/{nom_fichier_sans_espaces}.json"
+        with open(nom_fichier_json, 'w', encoding='utf-8') as fichier_json:
+            json.dump(mots_avec_id, fichier_json, ensure_ascii=False, indent=4)

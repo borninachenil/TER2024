@@ -1,0 +1,189 @@
+L'échographie est une technique d'imagerie employant des ultrasons. Elle est utilisée de manière courante en médecine humaine et vétérinaire, mais peut aussi être employée en recherche et dans l'industrie.
+
+Terminologie
+Le mot « échographie » provient de la nymphe Écho dans la mythologie grecque qui personnifiait ce phénomène et d'une racine grecque Graphô (écrire). Il se définit donc comme étant « un écrit par l'écho ». Le terme « échographie » désigne aussi bien l'acte médical que l'image qui en découle, abrégé au féminin en « une écho ».
+L'appareil permettant l'échographie est un « échographe ». Les appareils modernes comportent tous une fonction Doppler. C'est pourquoi on parle d'« échographie Doppler » (abrégée en « écho-doppler »).
+Le médecin, le manipulateur en électroradiologie médicale, ou la sage femme qui pratique une échographie est un « échographiste ».
+
+Histoire
+L'échographie moderne est le fruit de plus de 200 ans de recherche scientifique multidisciplinaire, associant physiciens, mathématiciens, biologistes, médecins, électroniciens et informaticiens. En effet, en 1828, Jean-Daniel Colladon, un physicien suisse, parvient à déterminer la vitesse de propagation du son dans l’eau. Cette découverte est essentielle dans le développement de plusieurs outils reposant sur l’émission et la réception d’ondes sonores. En 1838, un chercheur de l’université de Virginie aux États-Unis, tente de cartographier les fonds marins grâce à un outil basé sur cette méthode. Sa tentative est un échec, mais son idée inspire les inventeurs du sonar pendant l’entre-deux-guerres, qui disposent alors de moyens technologiques plus avancés. 
+Le sonar (acronyme issu de l’anglais « sound navigation and ranging ») est une technique développée pour détecter et localiser les objets sous l’eau. Un sonar émet une impulsion sonore et reçoit l’écho qui est produit lorsque cette impulsion rencontre un objet. Le temps écoulé entre l'émission de l’impulsion sonore et la réception de l'écho est mesurée, et, connaissant la vitesse de propagation du son dans l’eau, il est possible de déterminer la distance entre l’émetteur et l’objet. L’échographie moderne repose sur les mêmes principes physiques que le sonar. 
+Les recherches sur un tel système sont catalysés, notamment par le naufrage du Titanic, la nécessité de cartographier les fonds marins pour le déploiement des lignes télégraphiques et par la volonté de détecter les sous-marins ennemis lors de la Première et la Seconde Guerre mondiale. Les industriels jouent également un rôle important dans l’amélioration de la précision des dispositifs. En effet, les industriels s’intéressent à cette technologie pour détecter les défauts de fabrication dans les carrosseries de voitures et les coques de bateaux. Leurs recherches permettent d’augmenter la fréquence d’émission des impulsions sonores et de mesurer le temps plus précisément entre l’émission de l’onde et la réception de l’écho. 
+Les premières expérimentations dans le domaine médical datent de la fin des années 1930, lorsque Karl Dussik, neurologue, et son frère Friedrich Dussik, physicien, essayent d’utiliser les ultrasons pour diagnostiquer des tumeurs cérébrales, mais sans succès. Concernant l’utilisation de l’échographie dans le domaine médical, les avancées majeures ont lieu dans les années 1950. Le britannique John Wild s’intéresse à l’utilisation des ultrasons pour détecter des tumeurs et des calculs, et publie la première image échographique en deux dimensions en 1952. À Denver, Douglas Howry développe un système, le Pan scanner, qui nécessite une immersion de la zone étudiée. Pendant ce temps, à l’université de Glasgow en Écosse, l’obstétricien Ian Donald modifie un échographe industriel conçu pour détecter les défauts dans les coques de bateaux. En 1958, il publie un article fondateur dans le domaine de l’échographie médicale en gynécologie, contenant les premières images échographiques d’un foetus en deux dimensions. Depuis les avancées majeures des années 1950, l’utilisation de l’échographie dans le domaine médical s’est développée considérablement, notamment grâce aux avancées technologiques qui ont permis de réduire la taille et le coût des échographes tout en améliorant leur précision.
+
+Le matériel
+L'échographe est constitué des éléments suivants :
+
+une sonde, permettant l'émission et la réception d'ultrasons ;
+un système informatique, transformant le délai entre l'émission et la réception de l'ultrason en image ;
+une console de commande, permettant la saisie des données du patient et les différents réglages ;
+un système de visualisation : le moniteur ;
+un système d'enregistrement des données, soit de manière analogique (cassette vidéo, impression papier), soit de manière numérique (format DICOM).Le tout est disposé sur un chariot mobile, permettant d'effectuer l'examen au chevet même du patient.
+Les besoins sont différents suivant l'organe étudié. Le plus exigeant est le cœur, mobile par essence, qui exige une bonne définition de l'image spatiale mais aussi temporelle. On retrouve donc une nouvelle génération d’échographes spécialisés sur l’analyse multidimensionnelle et dynamique du cœur et de son fonctionnement (échocardiographe).
+
+La sonde
+Les premières études sur les ultrasons n'étaient pas appliquées à la médecine, mais visaient à permettre la détection des sous-marins à l'occasion de la Première Guerre mondiale. En 1951, deux britanniques, J.J. Wild (médecin) et J. Reid (électronicien), présentèrent à la communauté médicale un nouvel appareil : l'échographe. Il était destiné à la recherche des tumeurs cérébrales mais fera carrière dans l'obstétrique. L'usage en obstétrique date du début des années 1970 avec les appareils permettant de mesurer le périmètre cranien et de capter les bruits du cœur fœtal (voir Effet Doppler).
+L'élément de base de l'échographie est généralement une céramique piézoélectrique (PZT), située dans la sonde, qui, soumise à des impulsions électriques, vibre générant des ultrasons. Les échos sont captés par cette même céramique, qui joue alors le rôle de récepteur : on parle alors de transducteur ultrasonore. Un échographe est muni d'une sonde échographique, nommée barrette échographique, pourvue à l'origine de 64, 96 voire 128 transducteurs ultrasonores en ligne. Les sondes des échographes modernes possèdent aujourd'hui jusqu'à 960 éléments. En échographie cardiaque le nombre d'éléments est amené à 3 000 éléments.  L'émission se fait de manière successive sur chaque transducteur.
+Les ultrasons sont envoyés dans un périmètre délimité (souvent trapézoïdal), et les échos enregistrés sont des signatures des obstacles qu'ils ont rencontrés. L'échogénicité est la plus ou moins grande aptitude d'un tissu à rétrodiffuser les ultrasons.
+La fréquence des ultrasons peut être modulée : augmenter la fréquence permet d'avoir un signal plus précis (et donc une image plus fine) mais l'ultrason est alors rapidement amorti dans l'organisme examiné et ne permet plus d'examiner les structures profondes. En pratique l'échographiste a, à sa disposition, plusieurs sondes avec des fréquences différentes :
+
+1,5 à 4,5 MHz en usage courant pour le secteur profond (abdomen et pelvis), avec une définition de l'ordre de quelques millimètres ;
+5 MHz pour les structures intermédiaires (cœur d'enfant par exemple), avec une résolution inférieure au millimètre ;
+7 MHz pour l'exploration des petites structures assez proches de la peau (artères ou veines) avec une résolution proche du dixième de millimètre ;
+de 10 à 18 MHz plus par exemple pour l'étude, en recherche, de petits animaux, mais aussi, dans le domaine médical, pour l'imagerie superficielle (visant les structures proches de la peau) ;
+jusqu'à 50 MHz pour les appareils de biomicroscopie de l’œil[réf. souhaitée].Cette résolution dépend aussi de la forme de la structure examinée : elle est bien meilleure si elle est perpendiculaire au faisceau d'ultrasons que si elle est parallèle à ce dernier.
+La fréquence de réception des signaux joue également sur la qualité de l'image : en mode fondamental le transducteur détecte les signaux de la même fréquence que celle de l'émission. En mode harmonique, il détecte les signaux d'une fréquence double (seconde harmonique) de celle de l'émission. L'avantage de ce dernier système est qu'il ne détecte essentiellement que les échos revenant dans le même sens que l'émission, écartant de fait les échos diffusés et rendant le signal beaucoup moins bruité. La détection non linéaire a une réponse particulière, elle ne réagit pas aux premiers centimètres après la sonde, ce qui permet de faciliter l'imagerie chez un patient en surpoids (dont la couche de graisse sous la peau complique le passage des ultrasons).
+
+Le gel
+Pour des raisons mécaniques, on considère que le contact entre la sonde et le ventre ne peut pas être parfait et qu'il existe donc une fine couche d'air entre ceux-ci. 
+Les impédances acoustiques de l'air et de la peau (tissu biologique), mesurées en Pa⋅s/m, valent respectivement :
+
+(à 20 °C) Za=ρa⋅ca=1,20400×343,4=413,5{\displaystyle Z_{a}=\rho _{a}\cdot c_{a}=1,20400\times 343,4=413,5}(à 37 °C) Zp=ρp⋅cp=1047×1570=164,4⋅104{\displaystyle Z_{p}=\rho _{p}\cdot c_{p}=1047\times 1570=164,4\cdot 10^{4}}Elles permettent de calculer la valeur du coefficient de transmission T de l'interface air-peau :
+
+T=4⋅Za⋅Zp(Za+Zp)2≃10−3{\displaystyle T=4\cdot {\frac {Z_{a}\cdot Z_{p}}{(Z_{a}+Z_{p})^{2}}}\simeq 10^{-3}}Cette valeur est très faible et engendre donc une atténuation du signal importante entre l'émission et la réception des ultrasons par la sonde. C'est pour remédier à ce problème que l'échographiste applique un gel, dont l'impédance acoustique est proche de celle de la peau, pour obtenir une atténuation plus faible.
+
+Le traitement du signal
+L'électronique de l'échographe se charge d'amplifier et de traiter ces signaux afin de les convertir en signal vidéo. L'image se fait en niveaux de gris selon l'intensité de l'écho en retour.
+Les différents tissus de l'organisme peuvent apparaître de diverses façons :
+
+les liquides simples, dans lesquels il n'y a pas de particules en suspension laissent les sons les traverser. Sans écho (structures anéchogènes), ils apparaissent noirs sur l'écran ;
+les liquides avec particules tels que le sang, le mucus, renvoient de petits échos. Ils apparaîtront donc dans les tons de gris, plus ou moins homogènes ;
+les structures solides, l'os par exemple, renvoient mieux les échos. On verra donc une forme blanche (hyperéchogène) avec une ombre derrière (cône d'ombre). Une exception cependant : sur la voûte crânienne du nouveau-né la fontanelle très fine et perpendiculaire aux échos, en laisse passer et constitue même une véritable "fenêtre" d'observation du cerveau sous-jacent (jusqu’à ce que les os fusionnent vers l'âge de 2 ans). En 2017 une équipe francosuisse a montré qu’une petite sonde ultrasonique de 40 grammes et de la taille d’un domino, positionnée sur les fontanelles de six bébés en bonne santé via une monture en silicone souple et capable d’enregistrement vidéo EEG et d’imagerie ultrasonore en continu a été environ 50 fois plus sensibles à la mesure du débit sanguin que les ultrasons classiques, permettant un suivi non invasif d'une partie du système microvasculaire cérébral du nouveau-né. Ce nouvel outil d’échographie fonctionnelle, à la manière d’une machine EEG distingue les deux phases du sommeil du bébé. Combiné à l'EEG, cette sonde a détecté des convulsions chez deux nourrissons dont le cortex s'était anormalement développé, montrant même l’emplacement du cerveau d’où les crises sont parties (en suivant les vagues d'augmentation du flux sanguin qui se produisent alors). Cette sonde ne peut actuellement que surveiller que la zone située sous la fontanelle, mais elle bénéficie d’une haute résolution spatiotemporelle (200 µm pour l’échographie et 1 ms pour EEG). Et si les progrès de la technique continuent à progresser de la sorte, elle pourrait être bientôt capable de détecter une activité cérébrale anormale ; par exemple en cas de septicémie précoce, d’infection de la circulation sanguine (cause de lésion cérébrale). Cette technique intéresse aussi la surveillance d’essais cliniques chez le bébé ou les neuroscientifiques (par exemple pour l’étude de l'autisme du saturnisme infantile... Parce que l’Imagerie par résonance magnétique n’était pas adaptée aux bébés et notamment en cas d'urgence médicale, cette technique pourrait permettre de mieux comprendre le développement du cerveau aux premiers âges de la vie .
+les tissus mous sont plus ou moins échogènes : le placenta est plus blanc que l'utérus, qui est plus blanc que les ovaires ;
+le gaz et l'air, sont comme l'os, très blancs.
+
+Les différents réglages
+La puissance d'émission est réglable mais ne joue que peu dans la qualité de l'image. Il faut théoriquement utiliser la puissance minimale acceptable afin d'éviter un échauffement des tissus examinés. En pratique courante ce risque est négligeable.
+La fréquence d'émission peut être modifiée dans les limites des spécifications de la sonde.
+Le gain à la réception peut être augmenté ou diminué globalement ou de manière variable, suivant la profondeur de la zone explorée (TGC pour time gain compensation).
+Différents filtres peuvent être réglés : compression…
+L'imagerie peut être basculée de mode fondamental en mode de seconde harmonique (abrégé en mode harmonique) permettant d'avoir une meilleure définition.
+Le faisceau d'ultrasons peut être focalisé (lentille acoustique par retard d'émission réglé électroniquement) à une plus ou moins grande profondeur (ne joue que peu sur la qualité de l'image).
+La zone d'intérêt de l'organe explorée peut être élargie, ou au contraire, rétrécie. Dans ce dernier cas, l'image a une meilleure définition.
+La cadence d'acquisition (en anglais : frame rate) peut être réglée. Ce paramètre est peu important en cas d'organes fixes mais doit être sensiblement augmentée pour étudier la mobilité d'une structure (cœur).La console de commande est munie d'un clavier permettant d'entrer les identifiants du patient et les commentaires. Elle permet d'accéder aux différents modes d'échographie et de doppler, ainsi qu'au traitement et au stockage des images. Elle permet également d'effectuer des mesures (distance, surface…) et différents calculs.
+
+Visualisation des images
+Elle se fait par l'intermédiaire d'un écran.
+Différents modes sont disponibles :
+
+le plus courant est le mode BD (pour « bidimensionnel ») : il s'agit d'une représentation en coupe de l'organe étudié, le plan de celui-ci étant déterminé par la position que donne l'examinateur à la sonde ;
+le mode TM (pour time motion en anglais, en français « temps-mouvement ») représente l'évolution d'une ligne de tir (ordonnée) suivant le temps (abscisse). Ce mode permet d'évaluer précisément les structures mobiles (ventricule gauche pour le cœur, par exemple) et d'en évaluer la taille. Cette dernière dépend cependant étroitement du choix de la ligne de tir et reste donc très examinateur-dépendant.À ces images en niveau de gris, peuvent être associées des données du doppler en couleur. Parfois les échelles de couleurs peuvent être modifiées (apparence bleutée, ou autre) des nuances de gris pour une meilleure visualisation par l’opérateur.
+
+Stockage et distribution des images
+Théoriquement, les données à stocker correspondent au film de la durée de l'examen (de quelques minutes à plus d'une demi-heure) ce qui pose encore problèmes quant à l'importance de la mémoire nécessaire. En pratique ne sont conservées que des images fixes ou de courtes boucles d'images. Le format est souvent propriétaire (avec un outil de conversion DICOM) ou fait de manière native en DICOM. Ce format, largement utilisé dans le domaine de l'imagerie médicale, permet de conserver dans un même document l'identifiant du patient, l'image et les caractéristiques de l'acquisition de cette dernière. Sur certains échographes, il est possible de sauvegarder les images au format JPEG une perte de qualité imperceptible.
+De manière simple, l'image sélectionnée est imprimée et jointe au compte rendu. Elle n'a dans ce cas qu'un rôle d'illustration, la qualité de la reproduction ne permettant en aucun cas de réévaluer, par exemple, un diagnostic. 
+L'image peut être également stockée de manière analogique sur une cassette vidéo, entraînant une dégradation sensible de la définition, mais permettant de conserver suffisamment d'informations pour pouvoir en tirer des renseignements a posteriori.
+La manière récente, l'existence d'enregistreur de DVD en temps réel (en même temps) que la réalisation de l'examen permet de numériser plusieurs heures d'examens.
+Les images (ou boucles d'images) peuvent être transmises de manière numérique, soit par CDrom, soit par réseau informatique.
+
+Le traitement informatisé de l'image
+Par interpolation d'une boucle d'images, prise avec une cadence d'acquisition rapide, on peut simuler une ligne Tm courbe.
+La reconnaissance automatisée des contours reste la pierre d'achoppement de l'échographie en 2005.
+L'imagerie paramétrique consiste à coder chaque pixel suivant des paramètres calculés sur l'image (évolution dans le temps, déphasage…). C'est un sujet encore en phase de recherche.
+L'imagerie tridimensionnelle, jusqu'au début de ce millénaire, était faite par superposition et interpolation de plusieurs images successives, faites suivant différents plans de coupe (soit de manière libre, soit à l'aide d'une sonde rotative). Le procédé est relativement aisé pour les organes fixes mais beaucoup plus complexes pour les organes mobiles (superposition de boucles d'images et non plus d'images simples). Actuellement, certains échographes sont munis de sondes dotées de capteurs-émetteurs, non plus disposées en ligne mais sous forme de matrice rectangulaire, permettant une acquisition tridimensionnelle directe. Les contraintes techniques et informatiques font cependant que l'image standard est alors sensiblement de moins bonne définition, tant spatiale que temporelle, et que le volume de l'organe directement visualisable reste réduit en taille.
+
+Les différents types d'appareils
+Les appareils standards, bien que disposés sur des chariots à roulettes, sont destinés plutôt à être utilisés en poste fixe. Ils peuvent être connectés à un réseau, à une imprimante externe. Leur coût s'échelonne entre 50 000 et plus de 150 000 €.
+Des appareils plus petits sont conçus pour être utilisé au lit du patient. L'écran plat est de moindre qualité et ils ne disposent pas toujours de toutes les fonctionnalités. Ils fonctionnent sur secteur. Leur prix est inférieur à 100 000 €.
+Des échographes de la taille et du poids d'un PC portable ont été développés. Ils ont le grand avantage d'être autonomes pour leur alimentation.
+Depuis 2004, les échographes ultra-portables ont fait leur apparition, de la taille d'un smartphone, permettant d’être très aisément transportés, à la main ou dans la poche, avec une autonomie très modérée (trois ou quatre examens) mais avec un stockage sur carte SD rendant possible une récupération aisée des données. Ils sont dotés de l’imagerie bidimensionnelle et du Doppler couleur.
+
+Avantages et inconvénients de l'échographie
+Avantages
+Réalisée par un professionnel, l'échographie dans un but médical est quasiment sans danger : c'est la seule technique permettant d'avoir une image du fœtus avec une bonne innocuité. Il n' y a pas d'allergie ni de contre-indication à cet examen ;
+elle est indolore pour le patient. Elle ne nécessite, sauf exceptions, ni hospitalisation, ni anesthésie. Elle peut être répétée sans problème ;
+l'échographie est une technique d'imagerie médicale relativement peu coûteuse : elle ne nécessite qu'un appareil et le prix des consommables peut être négligeable. L'examen est réalisé avec une seule personne (médecin, sage-femme, voire manipulateur MERMEA dans certains pays, comme en France ou aux États-Unis) ;
+l'échographe peut être, dans ce genre de configuration, fixe ou mobile, permettant de réaliser l'examen au lit même d'un patient, dans une unité de réanimation par exemple ;
+s'il est effectué par un médecin ou une sage femme, le résultat est immédiat ;
+elle n’utilise pas de procédé d’imagerie basé sur les rayons X, et, par conséquent, est non irradiante.
+c'est une des seules techniques d'imagerie en temps réel, avec laquelle on peut toujours compléter l'interrogatoire et l'examen clinique du patient en cours d'examen. Elle permet une grande précision diagnostique en des mains expertes et permet d'utiliser plusieurs modalités pour préciser une anomalie : 2D, 3D, 4D, reconstructions planaires, échographie de contraste, doppler pulsé ou couleur, élastographie, manœuvres dynamiques, voire sur les toutes nouvelles machines des mesures avancées et une visualisation améliorée du cœur.
+lorsque l'échogénicité et la distance à l'organe le permettent, l'échographie possède dans certains cas une résolution spatiale supérieure au scanner et à l'IRM.
+l'échographie permet de révéler le sexe du fœtus avant sa naissance. Toutefois, certains hôpitaux anglais ne le révèlent pas aux parents, cela n'étant pas considéré comme ayant un intérêt médical. En Inde ou en Chine, pour éviter les avortements sélectifs basés sur le sexe, il est interdit de révéler le sexe du fœtus aux parents.
+
+Inconvénients
+Selon l'Agence française de sécurité sanitaire des produits de santé, l'échographie non médicale, qui expose le fœtus aux ultrasons en continu dans un but esthétique, présente un risque pour celui-ci ;
+l'image manque parfois de netteté, jusqu'à être parfois inexploitable : c'est le problème de l'échogénicité, faible en particulier en cas d'obésité ;
+l'examen, et donc ses résultats, sont fonction de l'examinateur : les mesures et la qualité des images dépendent beaucoup de la position de la sonde (plan de coupe), et donc, de l'habileté et de la compétence de l'examinateur. Ce positionnement manuel de la sonde varie d'un examen à l'autre et n'est pas connu a priori, ce qui rend complexe toute réinterprétation de l'examen et tout recalage avec une autre modalité d'imagerie médicale. Autrement dit, en cas de doute ou de discussion, l'examen doit être refait en totalité, idéalement par un autre examinateur ;
+le principal bruit qui vient perturber les images ultrasonores est le speckle (« tavelure » en français) ou « granularité » (car l'image donne l'impression d'être formée de grains). Ce bruit est dû au fait que l'imagerie ultrasonore est une technique d'imagerie cohérente, ce qui autorise les interférences entre les ondes et donc cet aspect granuleux de l'image. Les réflexions sur les nombreuses petites « impuretés » dans le milieu de propagation interfèrent entre elles. À noter que l'importance du speckle est lié à la densité de ces impuretés (rugosité du matériau), il peut donc être vecteur d'informations.
+
+Effets secondaires de l'échographie
+Les ultrasons, dans le cadre de leur utilisation en échographie, n'ont jamais révélé de conséquences néfastes chez l'humain. Dans l'immense majorité des études, seuls des effets biologiques négligeables[évasif] ont été observés, aucun effet pathologique n'en découlant. Une étude américaine a montré que l'échographie, dans certaines conditions, perturberait le développement cérébral du fœtus de souris. Des études sont en cours pour évaluer ce risque chez l'humain.
+
+Réalisation d'un examen échographique standard
+Suivant l'organe examiné, le patient doit être à jeun ou non. Il est allongé sur une table d'examen et la sonde, recouverte d'un gel, est posée directement sur la peau en regard de la structure à visualiser.
+
+Techniques particulières de l'échographie
+Échographie gynécologique et obstétricale
+L'échographie diagnostique apparaît dans les années 1950 pour le cœur et le sein. En 1957, deux Britanniques, l'ingénieur Tom Brown et le gynécologue Ian Donald (en), inventent la première sonde échographique.
+Dans le cadre de la surveillance médicale de la grossesse, une échographie permet d'obtenir une image monochrome d'un fœtus à l'intérieur du ventre de sa mère. Bien que ce soit l'utilisation la plus connue de l'échographie, on utilise également cette technologie pour la détection des troubles d'organes internes (calculs, kystes, cancers).
+Au Québec, depuis 2004, certaines cliniques de procréation et de suivi de grossesse offrent un service d'échographie en 3 dimensions qui permet une vision plus globale du fœtus.
+
+Échographie souvenir non médicale
+L'échographie dite « de convenance », de plaisir ou affective est un service fourni par certaines entreprises permettant de visualiser le fœtus, éventuellement en image tridimensionnelle, permettant aux parents de se constituer un enregistrement vidéo souvenir. L'examen est fait alors hors cadre médical. 
+En décembre 2011, Jacques Lansac, en tant que président du Collège national des gynécologues et obstétriciens français (CNGOF) et de la Commission nationale d'échographie obstétricale et fœtale, a vivement protesté contre les offres commerciales de ce type qui peuvent conduire le fœtus à une exposition aux ultrasons durant une trentaine de minutes parfois, avec un faisceau qui « se focalise sur la face et les organes génitaux », conduisant à une exposition « très différente » de l'échographie médicale qui déplace le faisceau pour une exposition plus brève de chaque zone. Selon lui, « Les effets thermiques et mécaniques des ultrasons ne sont pas forcément anodins », notamment pour le cerveau et l'œil. La même mise en garde est formulée en Belgique en avril 2012 par l'ONE.
+
+Échographie vasculaire
+L'examen est toujours couplé au doppler permettant d'analyser les flux sanguins.
+Il existe des sondes fines pouvant être introduites directement dans le vaisseau à examiner — artère coronaire par exemple — et permettant l'analyse précise des parois de celui-ci. On parle alors d’échographie endovasculaire.
+
+Échographie cardiaque (ou échocardiographie)
+L'examen du cœur comporte des difficultés car il est :
+
+mobile ;
+inséré dans la cage thoracique, au contact des poumons, ces deux structures (air et os) empêchant la transmission des ultrasons.
+
+Échographie avec produit de contraste
+L’échographie de contraste est celle qui utilise un produit de contraste. Le produit de contraste composé de microbulles est injecté dans la circulation sanguine par voie intraveineuse au moment de l’examen échographique du patient. Tel que découvert par le docteur Raymond Gramiak en 1968, les microbulles du produit de contraste sont très réfléchissantes aux ultrasons pendant l'examen échographique; permettant ainsi d’imager la vascularisation sanguine des organes à des fins diagnostiques. Un usage clinique répandu de l'échographie de contraste est la détection de la tumeur métastatique dont la prise de contraste (évolution temporelle de la concentration du produit de contraste dans le sang) est plus rapide que celle du tissu biologique sain entourant la tumeur. Il existe aussi des applications en échocardiographie de contraste pour obtenir une meilleure délinéation de la paroi ventriculaire dans l’image échographique, constituant une aide supplémentaire dans l’évaluation du déficit contractile du cœur à la suite d'un infarctus du myocarde. Enfin, des applications en perfusion quantitative (mesure relative du flux sanguin) émergent pour le suivi thérapeutique pharmacologique du cancer, méthodologie élaborée par le docteur Nathalie Lassau en 2011 permettant d'identifier au plus tôt la réponse du patient au traitement anti-cancéreux afin d'orienter au mieux la conduite thérapeutique.
+
+Parmi les techniques de l'échographie de contraste utilisées par les radiologues en pratique clinique, se distingue la méthode d’imagerie paramétrique des signatures vasculaires inventée par le docteur Nicolas Rognin en 2010. Cette méthode a été conçue comme un outil d’aide au diagnostic du cancer, facilitant la caractérisation d’une tumeur suspecte (définir si elle est bénigne ou maligne) dans un organe. D’un point de vue fonctionnel, la méthode analyse informatiquement, une série temporelle d’images (enregistrement numérique vidéo en temps réel des images échographiques de contraste pendant l'examen). Deux étapes successives de traitement du signal sont appliquées à chaque pixel dans la tumeur, comme suit :
+
+calcul de la signature vasculaire (c'est-à-dire de la différence de prise de contraste avec le tissu sain entourant la tumeur) ;
+classification automatique de la signature vasculaire calculée en un paramètre, ce dernier prenant l'une des quatre couleurs suivantes :
+verte pour l'hypervascularisation continue (prise de contraste supérieure à celle du tissu sain),
+bleue pour l'hypovascularisation continue (prise de contraste inférieure à celle du tissu sain),
+rouge pour l'hypervascularisation rapide (prise de contraste avant celle du tissu sain) ou
+jaune pour l'hypovascularisation rapide (prise de contraste après celle du tissu sain).Une fois le traitement du signal de chaque pixel de la tumeur terminé, la carte spatiale en couleur du paramètre est affichée sur l’écran d’un ordinateur ; synthétisant ainsi l’ensemble de l’information vasculaire en une seule et même image appelée « image paramétrique » (voir la dernière figure de l’article de presse comme illustration d’images paramétriques en clinique). Cette image paramétrique est ensuite interprétée par le radiologue sur la base de la couleur prédominante dans la tumeur : le rouge indiquant une suspicion de malignité (risque de cancer), le vert ou le jaune une forte probabilité de bénignité. Dans le premier cas (suspicion de tumeur maligne), le radiologue prescrit une biopsie pour confirmer son diagnostic ou un scanner à rayons X pour une seconde opinion. Dans le deuxième cas (quasi-certitude de tumeur bénigne), seulement une surveillance dans les mois qui suivent est nécessaire avec un nouvel examen d’échographie de contraste. L’avantage clinique de la méthode d'imagerie paramétrique des signatures vasculaires consiste en ce qu'elle permet d'éviter la biopsie — procédure invasive risquée — systématique des tumeurs bénignes ou l'examen de scanner à rayons X exposant le patient à une dose d'irradiation. L’efficacité de la méthode a été évaluée positivement chez l’homme pour la caractérisation des tumeurs dans le foie. Dans l'avenir la méthode pourrait être appliquée dans le cadre du dépistage du cancer de tout type d’organes, par exemple celui du sein ou de la prostate).
+
+Échographie moléculaire
+L’avenir de l’échographie de contraste est dans l’imagerie moléculaire. L’application clinique envisagée de l'échographie moléculaire est la détection précoce du cancer à l’aide d’un produit de contraste échographique dit ciblant. Originellement conçu par le docteur Alexander Klibanov en 1997,, un tel produit est composé de microbulles ciblantes en mesure de s’attacher aux microvaisseaux sanguins des tumeurs malignes. Ce mécanisme d’attachement à la paroi intérieure des microvaisseaux repose sur un ciblage spécifique de l’expression biomoléculaire du cancer (par exemple les biomolécules participant à la néoangiogénèse, ou l’inflammation se trouvent surexprimées en cas de cancer). Il en résulte une accumulation conséquente des microbulles ciblantes dans la tumeur maligne, facilitant alors sa localisation précise dans l’image échographique de contraste. En 2013, un tout premier essai clinique exploratoire à Amsterdam aux Pays-Bas a été complété chez l'homme pour le cas du cancer de la prostate par le docteur Hessel Wijkstra.
+En échographie moléculaire, la technique de la pression de radiation acoustique est applicable avec une sonde d’échographe pour littéralement pousser les microbulles ciblantes sur la paroi intérieure des microvaisseaux, première fois démontrée par le docteur Paul Dayton en 1999. Cette technique se traduit par une maximisation de l’accumulation des microbulles dans la tumeur par une plus grande interaction de ces dernières avec les biomolécules cancéreuses à cibler. Au stade de la recherche scientifique pré-clinique, cette technique est implémentée et validée en échographie bidimensionnelle et tridimensionnelle,.
+
+Échographie de l'appareil locomoteur
+L'échographie permet une analyse détaillée des muscles, des tendons, des ligaments et des nerfs périphériques (en complément du bilan radiographique standard).
+
+Échographie per-opératoire
+La sonde peut être posée sur la peau ou directement en contact de l'organe. Dans ce dernier cas, la sonde est recouverte d'une gaine de protection adaptée et marquée CE et stérile.
+
+Échographie endoscopique
+Appelée aussi ultrason endoscopique ou échoendoscopie, elle emploie une source d’ultrasons au bout d’un endoscope relié à un échographe pour obtenir des images des organes internes de la poitrine et de l'abdomen. Elle peut être utilisée pour visualiser la paroi de ces organes ou pour examiner les structures adjacentes. 
+Elle s'applique le plus souvent sur le tractus digestif supérieur et sur le système respiratoire. La sonde est introduite dans le vagin, l'anus ou par la bouche la procédure ressemble à celle de l'endoscopie, et peut être complété par une biopsie guidée par l'imagerie échographique.
+
+Élastographie
+Il existe aujourd'hui deux modes principaux pour évaluer l'élasticité des tissus avec l'élastographie.
+
+Élastographie par compression manuelle
+Technique permettant l'étude de l'élasticité des tissus pour détecter des cancers notamment utilisée en sénologie. Technique commercialisée par Hitachi Medical Systems depuis 2002 et par Siemens depuis 2005.
+Elle consiste avec la sonde d'échographie à appliquer de légères pressions afin de soumettre les tissus sous-jacents à une légère contrainte. Ces tissus vont se déformer sous l'effet de la contrainte, plus le tissu est élastique plus il se déforme, plus le tissu est rigide moins il se déforme. Cette mesure réalisée en temps réel permet d'évaluer simplement la rigidité relative des lésions et dans une certaine mesure leur malignité.
+
+Élastographie par impulsion ultrasonore
+Dans ce cas la sonde échographique émet une onde focalisée (impulsion ultrasonore) permettant de déplacer très légèrement les tissus. L'image est alors fabriquée de façon identique à l'imagerie d'élasticité par compression manuelle. Cependant comme l'impulsion ultrasonore est parfaitement calibrée, l'image obtenue est plus reproductible. De même il est également possible d'évaluer quantitativement la rigidité tissulaire en mesurant la vitesse de l'onde de cisaillement générée par l'impulsion ultrasonore. Avec cette mesure il est possible d'évaluer le degré de fibrose hépatique, évitant le plus souvent de prescrire au patient une biopsie du foie (procédure invasive avec risque de complications).
+
+Solutions élastographiques
+L'industrie active dans l'échographie (General Electric, Philips, Siemens, Toshiba, etc.) offre des solutions utilisant l'imagerie d'élasticité par compression manuelle et impulsion ultrasonore. À noter que la société Supersonic Imagine (française) est historiquement précurseur en termes d’innovation avec son système d'élastographie quantitative.
+
+Échographie d'urgence pour les victimes de traumatismes
+L'échographie peut être utilisée en médecine d'urgence. L'échographie de certains organes — cœur et abdomen — permet de détecter la présence de fluides « libres », ce qui, dans le contexte d'un traumatisme, indique en général une hémorragie. Cette méthode, appelée FAST en anglais (Focused assessment with sonography for trauma), est moins invasive que le lavage péritonéal ; elle revient moins cher que la tomographie X et n'expose pas le patient aux radiations. Cette méthode a été testée en 1999 par l'armée britannique durant la guerre du Kosovo.
+On peut également inclure l'examen des poumons, avec la méthode dite eFAST (extended FAST), pour détecter la présence d'un pneumothorax.
+
+Échographie haute fréquence
+L'échographie haute fréquence est une application de l'échographie qui utilise des ultrasons dont la fréquence est supérieure à 20 MHz. Basée sur le même principe de fonctionnement que l'échographie conventionnelle, elle permet néanmoins d'obtenir une meilleure résolution d'image mais avec une faible profondeur de pénétration.
+Des applications existent dans le domaine médical mais, à l'heure actuelle, cette technique est surtout utilisée dans l'exploration vétérinaire du petit animal (souris notamment).
+
+Notes et références
+Voir aussi
+Articles connexes
+Effet Doppler
+Échographie au premier trimestre de la grossesse
+Échographie haute fréquence
+Échothérapie
+ Portail de la médecine   Portail de l’imagerie numérique

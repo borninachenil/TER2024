@@ -1,0 +1,98 @@
+L’électrochimie est la discipline scientifique qui s’intéresse aux relations entre la chimie et l’électricité. Elle décrit les phénomènes chimiques couplés à des échanges réciproques d’énergie électrique.
+L'électrochimie comprend toutes technologies et techniques issues de ses travaux scientifiques, comme les travaux concernant l'électrolyse, la corrosion, les piles, les piles à combustibles, les accumulateurs, et l'électrodéposition.
+L’électrochimie s’intéresse à des systèmes hétérogènes comportant aux deux extrémités des matériaux conducteurs électroniques comme des métaux ou du carbone ; et entre ces deux conducteurs, au moins un matériau conducteur ionique qualifié d'électrolyte, qui peut être sous forme liquide ou sous forme de gel. L'amélioration des performances des anodes et cathodes, et certaines formes de catalyse intéressent aussi ce domaine.
+
+Description
+Les réactions électrochimiques sont les phénomènes qui ont lieu à l'interface de deux systèmes conducteurs (électronique : électrodes ; ionique : solutions) lors du transfert de charge composé de un ou plusieurs électrons. Ces transferts de charges s'accompagnent de modifications des états d'oxydation des matériaux (oxydation ou réduction) et donc de leur nature physico-chimique (dépôt métallique, évolution de gaz, formation d'espèces radicalaires, réactions chimiques couplées entre autres). L'ensemble des réactions élémentaires peut ainsi atteindre un haut niveau de complexité.
+L'électrochimie permet de mieux appréhender les phénomènes d'oxydoréduction et de corrosion.
+Remarque : une jonction P-N entre deux semi-conducteurs n’est pas du ressort de l’électrochimie, mais de la physique du solide. En revanche, une jonction P-N en contact avec un électrolyte relève de l'électrochimie et pas de la physique du solide.
+
+Histoire
+Grands domaines d’applications
+On classe généralement les applications industrielles de l’électrochimie dans 5 grandes catégories :
+
+Électrosynthèse
+L’électrosynthèse est parfois utilisée dans l’industrie chimique lourde au détriment d’une synthèse par voie thermique, les procédés d’électrosynthèse étant généralement plus facilement contrôlables et sélectifs.
+Les principales matières premières produites par électrosynthèse sont : l’aluminium (environ 24 Mt/an), le dichlore et la soude (environ 40 Mt/an). On produit également en quantité moindre du difluor, du lithium, du sodium, du magnésium et du dihydrogène.
+On rangera dans la même catégorie la purification de certains métaux par électroaffinage (notamment le cuivre, le zinc et l’aluminium).
+
+Traitement de surface et corrosion
+Les traitements de surface par voie électrochimique sont nombreux car l’électrochimie permet de bien contrôler la nature et la qualité du dépôt. Ce dépôt de métal (nickel, zinc, or, etc.) de quelques micromètres d'épaisseur (allant d'un flash (~0.1um) à une ou plusieurs centaines de micromètres selon le métal déposé) joue un rôle esthétique ou de protection contre la corrosion.
+Les méthodes électrochimiques peuvent aussi servir à la restauration d’objets anciens.
+
+Stockage et la conversion de l’énergie
+Les piles et accumulateurs électriques sont des générateurs électrochimiques. Les accumulateurs se distinguent des piles par le fait qu'ils sont électriquement rechargeables. Leur domaine est en pleine expansion.
+
+Dans des applications de type « grand public » comme les batteries pour téléphones portables.
+Dans les applications professionnelles, les plus courantes sont les batteries au Plomb, elles assurent le rôle de source d'énergie auxiliaire des véhicules automobiles permettant entre autres, leur mise en route.
+D'autres types d'accumulateurs, plus sophistiqués, jouent un grand rôle dans les véhicules électriques et les véhicules hybrides ; ils stockent l'énergie récupérée par l'intermédiaire de générateurs lors des freinages et la restituent aux moteurs électriques lors des phases d'accélération.
+D'autre part, de nombreuses recherches sont aujourd’hui effectuées dans le domaine des piles à combustible afin d'équiper ces mêmes véhicules. Ceci bien que la ressource en hydrogène propre soit encore hypothétique.Les supercondensateurs sont des condensateurs (capacités) aptes à accumuler rapidement une grande quantité d'énergie électrique puis de servir de générateurs. Les électrodes ne sont pas réactives, on parle d'électrode bloquante. Les ions de l'électrolyte s'accumulent aux électrodes à la charge et rétablissent l’électro-neutralité lors de la décharge.
+
+Méthodes d’analyse et de mesure
+Du fait de leur faible coût, on utilise de plus en plus de capteurs électrochimiques. Le plus simple d’entre eux est l’électrode à pH. Le plus utilisé est le capteur à dioxygène, notamment pour l’analyse des gaz de combustion.
+Les capteurs électrochimiques ont aussi de nombreuses applications dans le domaine biomédical ou pour l’analyse de la pollution.
+L'appareil de mesure le plus utile à l'électrochimie s'appelle le potentiostat ou galvanostat.
+La cellule électrochimique la plus courante est la cellule à trois électrodes :
+
+l'électrode de travail et la contre électrode entre lesquelles passe le courant ;
+l'électrode de référence (ou impolarisable) qui permet d'évaluer la différence de potentiel entre l'électrode de travail et l'électrolyte.
+
+Environnement et biologie
+Dans ce domaine en forte expansion, les techniques électrochimiques permettent la séparation (électrodialyse), la récupération, la concentration ou la destruction de certains éléments. Un exemple type d’application est le dessalement des eaux saumâtres par électrodialyse.
+
+Grands concepts en électrochimie
+La complexité des phénomènes électrochimiques alliant aux étapes de transfert de charge élémentaire (le départ d'un électron s'il s'agit d'une oxydation ou l'arrivée d'un électron, s'il s'agit d'une réduction) des réactions chimiques de transfert de matière, peut être étudiée de façon analytique et détaillée ou bien de façon globale.
+L'approche thermodynamique constitue le premier angle d'attaque de cette problématique. En effet, il s'agit d'étudier les grands équilibres d'une réaction globale, réaliser les bilans énergétiques et thermiques. La deuxième approche consiste à étudier chaque étape élémentaire, la cinétique électrochimique.
+
+Thermodynamique électrochimique
+L'électrochimie est étroitement liée à la thermodynamique. Le travail fourni par la réaction est ici fourni sous deux formes :
+
+sous forme de travail mécanique Wp{\displaystyle W_{p}} s'il y a un dégagement gazeux lors de la réaction,
+sous forme de travail électrique Welec{\displaystyle W_{elec}} notamment dans le cas d'un accumulateur ou d'une pile à combustible ;
+Et aussi sous forme de chaleur Q{\displaystyle Q}, d'après le deuxième principe de la thermodynamique.Le travail utile, c'est-à-dire l'énergie que l'on cherche à récupérer et à réutiliser est le travail électrique Welec{\displaystyle W_{elec}}.
+Nous proposons la démonstration de Welec=−nFΔE{\displaystyle W_{elec}=-nF\Delta E} avec n{\displaystyle n} le nombre d'électrons échangés lors de la réaction, F{\displaystyle F} la constante de Faraday et ΔE{\displaystyle \Delta E} la force électromotrice de cette pile.
+La chaleur échangée lors de cette réaction et notée Q{\displaystyle Q} s'exprime par Q=Qp−Welec{\displaystyle Q=Q_{p}-W_{elec}} avec Qp{\displaystyle Q_{p}} la quantité de chaleur échangée à pression constante c'est-à-dire quand Welec=0{\displaystyle W_{elec}=0}.
+Soit une pile de force électromotrice ΔE{\displaystyle \Delta E} débitant un courant d'intensité i{\displaystyle i}, très faible. Nous allons tenter de lier ces grandeurs électriques aux grandeurs thermodynamiques.
+L'enthalpie libre : G=H−TS{\displaystyle G=H-TS}
+Nous faisons ensuite l'hypothèse que i{\displaystyle i} est faible, c'est-à-dire la réaction est relativement lente .
+En différenciant l'enthalpie libre, il vient :
+dG=dH−TdS−SdT.{\displaystyle dG=dH-TdS-SdT.}
+L'enthalpie s'exprime par l'équation H=U+PV.{\textstyle H=U+PV.} En différenciant,
+dH=dU+PdV+VdP{\displaystyle dH=dU+PdV+VdP}.
+En injectant cette expression dans la différentielle de l'enthalpie libre, dG{\displaystyle dG}, il vient
+dG=dU+PdV+VdP−TdS−SdT.{\displaystyle dG=dU+PdV+VdP-TdS-SdT.}
+Le premier principe de la thermodynamique donne
+dU=δQ+δWp+δWelec,{\displaystyle dU=\delta Q+\delta W_{p}+\delta W_{elec},}
+de plus, si la transformation est quasi-statique on a δWp=−PdV{\displaystyle \delta W_{p}=-PdV}.
+Selon le deuxième principe pour une transformation quasi-statique : dS=δSc+δQT{\displaystyle dS=\delta Sc+{\frac {\delta Q}{T}}}.
+Réinjectons le premier principe et second principe dans l'expression de dG{\displaystyle dG}
+dG=δWu+VdP−TδSc−SdT.{\displaystyle dG=\delta Wu+VdP-T\delta Sc-SdT.}
+La transformation est supposée isobare (pression constante) et isotherme (température constante), dG{\displaystyle dG} devient
+dG=δWu−TδSc{\displaystyle dG=\delta Wu-T\delta Sc}
+Nous avons aussi fait l'hypothèse que la transformation est réversible (courant faible), donc δSc=0{\displaystyle \delta Sc=0}, alors il vient
+dG=δWelec.{\displaystyle dG=\delta W_{elec}.}
+Lorsque la pile débite une faible intensité i{\displaystyle i}, elle fournit un travail électrique qui vaut
+δWelec=−iΔEdt=−ΔEdq<0.{\displaystyle \delta W_{elec}=-i\Delta Edt=-\Delta Edq<0.}
+Ainsi dG=δWelec=−ΔEdq=−ΔEnFdξ{\displaystyle dG=\delta W_{elec}=-\Delta Edq=-\Delta EnFd\xi }, (loi de Faraday) avec n{\displaystyle n} le nombre d'électrons échangés dans la réaction. Et par définition, ΔrG=∂G∂ξ(P,T)=−nFΔE{\displaystyle \Delta _{r}G={\frac {\partial G}{\partial \xi }}_{(P,T)}=-nF\Delta E}.
+Finalement Welec=−nFEpile.{\displaystyle W_{elec}=-nFE_{pile}.}
+
+Cinétique électrochimique
+Mécanisme de réaction
+La méthode la plus rigoureuse pour analyser tous les chemins réactionnels d'une réaction électrochimique couplée à des réactions chimiques est de représenter sur un axe horizontal les réactions électrochimiques élémentaires et sur un axe vertical les réactions chimiques couplées. (Méthode de Jacq).
+Analysons par exemple l'oxydation de l'hydroxyde de nickel en milieu aqueux alcalin : il apparaît simplement que se forme par oxydation monoélectronique et perte d'un proton la forme oxy-hydroxy NiOOH à la valence III, puis une autre oxydation avec perte du deuxième proton conduit à l'oxyde de Nickel NiO2 à la valence IV. L'existence de divers chemins réactionnels associés à diverses espèces ioniques intermédiaires peuvent être envisagés ; leur identification demeure très complexe dans ce cas.
+
+Notes et références
+Voir aussi
+Articles connexes
+Chimie physique
+Électrochimie bipolaire
+Galvanoplastie
+Métallurgie
+Magnétoélectrochimie
+Nanoélectrochimie
+
+Liens externes
+
+Ressources relatives à la santé : Medical Subject Headings WikiSkripta 
+Société internationale d’électrochimie (ISE) : http://www.ise-online.org/
+ Portail de l’électricité et de l’électronique   Portail de la chimie

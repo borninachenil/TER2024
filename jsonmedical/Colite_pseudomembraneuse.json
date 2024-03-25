@@ -1,0 +1,1402 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "colite",
+            "id": "156515504"
+        },
+        {
+            "mot": "pseudomembraneuse",
+            "id": "1821957"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "inflammation",
+            "id": "111273369"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "sévère",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "côlon",
+            "id": "NULL"
+        },
+        {
+            "mot": "causée",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "infection",
+            "id": "17051343"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "Clostridioides",
+            "id": "11055972"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "contexte",
+            "id": "416292"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "antibiotiques",
+            "id": "143330270"
+        },
+        {
+            "mot": "récente",
+            "id": "NULL"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "parle",
+            "id": "419908"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "entérocolites",
+            "id": "NULL"
+        },
+        {
+            "mot": "pseudomembraneuses",
+            "id": "2314906"
+        }
+    ],
+    [
+        {
+            "mot": "Signes",
+            "id": "425465"
+        },
+        {
+            "mot": "cliniques",
+            "id": "193336237"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "description",
+            "id": "414393"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        },
+        {
+            "mot": "réunit",
+            "id": "NULL"
+        },
+        {
+            "mot": "diarrhées",
+            "id": "NULL"
+        },
+        {
+            "mot": "aiguës",
+            "id": "NULL"
+        },
+        {
+            "mot": "glaireuses",
+            "id": "2044313"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "parfois",
+            "id": "14886690"
+        },
+        {
+            "mot": "sanglantes",
+            "id": "5563518"
+        },
+        {
+            "mot": "évoluant",
+            "id": "NULL"
+        },
+        {
+            "mot": "depuis",
+            "id": "432818"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "jours",
+            "id": "402416"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "contexte",
+            "id": "416292"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "antibiotiques",
+            "id": "143330270"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "contexte",
+            "id": "416292"
+        },
+        {
+            "mot": "nosocomial",
+            "id": "121223650"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "abdominales",
+            "id": "396944"
+        },
+        {
+            "mot": "déshydratation",
+            "id": "NULL"
+        },
+        {
+            "mot": "Complications",
+            "id": "16785054"
+        },
+        {
+            "mot": "Iléus",
+            "id": "NULL"
+        },
+        {
+            "mot": "paralytique",
+            "id": "102684"
+        },
+        {
+            "mot": "Mégacôlon",
+            "id": "NULL"
+        },
+        {
+            "mot": "toxique",
+            "id": "14909236"
+        },
+        {
+            "mot": "Examens",
+            "id": "15519135"
+        },
+        {
+            "mot": "complémentaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "Imagerie",
+            "id": "407973"
+        },
+        {
+            "mot": "À",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "coloscopie",
+            "id": "156530586"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "constater",
+            "id": "71524"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "présence",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "membrane",
+            "id": "413123"
+        },
+        {
+            "mot": "tapissant",
+            "id": "150843"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "parois",
+            "id": "1855466"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intestin",
+            "id": "17052055"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nom",
+            "id": "254652531"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        }
+    ],
+    [
+        {
+            "mot": "Biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "biologique",
+            "id": "5628509"
+        },
+        {
+            "mot": "standard",
+            "id": "402477"
+        },
+        {
+            "mot": "retrouve",
+            "id": "2117693"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "syndrome",
+            "id": "16089555"
+        },
+        {
+            "mot": "inflammatoire",
+            "id": "17051203"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "associé",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "signes",
+            "id": "425465"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "déshydratation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "certitude",
+            "id": "185797946"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "entérite",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "C",
+            "id": "142716"
+        }
+    ],
+    [
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "analyse",
+            "id": "402333"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "selles",
+            "id": "435193"
+        },
+        {
+            "mot": "coproculture",
+            "id": "58831"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "toxine",
+            "id": "419466"
+        },
+        {
+            "mot": "A",
+            "id": "143768"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "B",
+            "id": "143220"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Clostridium",
+            "id": "401929"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "immuno",
+            "id": "8633"
+        },
+        {
+            "mot": "enzymatique",
+            "id": "116725"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "test",
+            "id": "16090008"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "référence",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "cytotoxicité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "selles",
+            "id": "435193"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "germe",
+            "id": "162186943"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "culture",
+            "id": "152488"
+        }
+    ],
+    [
+        {
+            "mot": "Anatomie",
+            "id": "151850"
+        },
+        {
+            "mot": "pathologique",
+            "id": "49779"
+        },
+        {
+            "mot": "Lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "coloscopie",
+            "id": "156530586"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "prélevées",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "biopsies",
+            "id": "2016542"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "façon",
+            "id": "NULL"
+        },
+        {
+            "mot": "systématique",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "lésions",
+            "id": "NULL"
+        },
+        {
+            "mot": "pathologiques",
+            "id": "391278"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "histologique",
+            "id": "5896672"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "éliminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pathologie",
+            "id": "416178"
+        },
+        {
+            "mot": "concomitante",
+            "id": "400483"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "différentiel",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "observe",
+            "id": "10368863"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "lésions",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "colite",
+            "id": "156515504"
+        },
+        {
+            "mot": "inflammatoire",
+            "id": "17051203"
+        },
+        {
+            "mot": "aiguë",
+            "id": "NULL"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "spécifique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "spécifique",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "nécrose",
+            "id": "NULL"
+        },
+        {
+            "mot": "superficielle",
+            "id": "163437"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "muqueuse",
+            "id": "98488149"
+        },
+        {
+            "mot": "surmontée",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "enduit",
+            "id": "156786616"
+        },
+        {
+            "mot": "fibrinoleucocytaire",
+            "id": "16839636"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "mucoïde",
+            "id": "NULL"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "évoquer",
+            "id": "NULL"
+        },
+        {
+            "mot": "fortement",
+            "id": "43958"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "doit",
+            "id": "461257"
+        },
+        {
+            "mot": "cependant",
+            "id": "101535"
+        },
+        {
+            "mot": "toujours",
+            "id": "3170371"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "confirmé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "examen",
+            "id": "47928232"
+        },
+        {
+            "mot": "biologique",
+            "id": "5628509"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "selles",
+            "id": "435193"
+        }
+    ],
+    [
+        {
+            "mot": "Traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "appel",
+            "id": "16819062"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "réhydratation",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "arrêt",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "antibiotique",
+            "id": "100187454"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "cause",
+            "id": "15550576"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "administration",
+            "id": "195728"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "métronidazole",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "vancomycine",
+            "id": "1847425"
+        },
+        {
+            "mot": "orale",
+            "id": "250011031"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fidaxomicine",
+            "id": "12096282"
+        }
+    ],
+    [
+        {
+            "mot": "À",
+            "id": "NULL"
+        },
+        {
+            "mot": "défaut",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "preuves",
+            "id": "16073906"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "efficacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "concomitante",
+            "id": "400483"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "probiotiques",
+            "id": "250806513"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "levures",
+            "id": "105816368"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "saccharomyces",
+            "id": "426273"
+        },
+        {
+            "mot": "boulardii",
+            "id": "1854820"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "régulièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "recommandée",
+            "id": "NULL"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimuler",
+            "id": "257426104"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "retour",
+            "id": "16242867"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "flore",
+            "id": "145251"
+        },
+        {
+            "mot": "intestinale",
+            "id": "396752"
+        },
+        {
+            "mot": "équilibrée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "transplantation",
+            "id": "3342084"
+        },
+        {
+            "mot": "fécale",
+            "id": "NULL"
+        },
+        {
+            "mot": "jusqu'",
+            "id": "2216063"
+        },
+        {
+            "mot": "ici",
+            "id": "409340"
+        },
+        {
+            "mot": "considérée",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dernier",
+            "id": "397697"
+        },
+        {
+            "mot": "recours",
+            "id": "430517"
+        },
+        {
+            "mot": "réservée",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "seules",
+            "id": "165320"
+        },
+        {
+            "mot": "infections",
+            "id": "3296077"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "clostridium",
+            "id": "401929"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "résistantes",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "antibiotiques",
+            "id": "143330270"
+        },
+        {
+            "mot": "serait",
+            "id": "16513097"
+        },
+        {
+            "mot": "désormais",
+            "id": "NULL"
+        },
+        {
+            "mot": "appropriée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "majorité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "colite",
+            "id": "156515504"
+        },
+        {
+            "mot": "pseudomembraneuse",
+            "id": "1821957"
+        },
+        {
+            "mot": "nécessite",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "isolement",
+            "id": "16512281"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "milieu",
+            "id": "143408"
+        },
+        {
+            "mot": "hospitalier",
+            "id": "407960"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        }
+    ]
+]

@@ -1,0 +1,6686 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "technique",
+            "id": "152187"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "numérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "permettant",
+            "id": "2242077"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "modéliser",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "évolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "cours",
+            "id": "78667606"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "particulièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "matériaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "organiques",
+            "id": "396825"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "protéines",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "matière",
+            "id": "NULL"
+        },
+        {
+            "mot": "molle",
+            "id": "11400095"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "macromolécules",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "pratique",
+            "id": "432472"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "consiste",
+            "id": "2156146"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "simuler",
+            "id": "84310"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "mouvement",
+            "id": "139966"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "dizaines",
+            "id": "271757"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "milliers",
+            "id": "237906"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "certain",
+            "id": "414263"
+        },
+        {
+            "mot": "environnement",
+            "id": "5832466"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "pression",
+            "id": "15513566"
+        },
+        {
+            "mot": "champ",
+            "id": "11539790"
+        },
+        {
+            "mot": "électromagnétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "conditions",
+            "id": "13990213"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "limites",
+            "id": "418461"
+        }
+    ],
+    [
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "cours",
+            "id": "78667606"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cadre",
+            "id": "11009201"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "mécanique",
+            "id": "NULL"
+        },
+        {
+            "mot": "newtonienne",
+            "id": "398958"
+        }
+    ],
+    [
+        {
+            "mot": "Issue",
+            "id": "5995941"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "solide",
+            "id": "6015447"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "chimie",
+            "id": "152212"
+        },
+        {
+            "mot": "quantique",
+            "id": "1765667"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "trouve",
+            "id": "16513307"
+        },
+        {
+            "mot": "désormais",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nombreuses",
+            "id": "16088588"
+        },
+        {
+            "mot": "applications",
+            "id": "146702"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "biochimie",
+            "id": "410176"
+        },
+        {
+            "mot": "chimie",
+            "id": "152212"
+        },
+        {
+            "mot": "organique",
+            "id": "123171906"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "matière",
+            "id": "NULL"
+        },
+        {
+            "mot": "condensée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "matériaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "mécanique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Si",
+            "id": "184281"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "modélisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "simples",
+            "id": "10157946"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "relativement",
+            "id": "30037"
+        },
+        {
+            "mot": "aisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "cf",
+            "id": "14424373"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "ci",
+            "id": "1830223"
+        },
+        {
+            "mot": "contre",
+            "id": "426382"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "phénomènes",
+            "id": "NULL"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "particulièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "complexes",
+            "id": "431331"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "modéliser",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "réactions",
+            "id": "NULL"
+        },
+        {
+            "mot": "nucléaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "fission",
+            "id": "108042631"
+        },
+        {
+            "mot": "nucléaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "fusion",
+            "id": "16392803"
+        },
+        {
+            "mot": "nucléaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "troupes",
+            "id": "5570616"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        },
+        {
+            "mot": "contenant",
+            "id": "250806103"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "isotopes",
+            "id": "429161"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "zones",
+            "id": "2934163"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interfaces",
+            "id": "3162815"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "corrosion",
+            "id": "95919112"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "redox",
+            "id": "143715351"
+        },
+        {
+            "mot": "différent",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Description",
+            "id": "414393"
+        },
+        {
+            "mot": "générale",
+            "id": "NULL"
+        },
+        {
+            "mot": "Comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "toute",
+            "id": "413455"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "numérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "évolue",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "manière",
+            "id": "NULL"
+        },
+        {
+            "mot": "discrète",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "découpé",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "suite",
+            "id": "10934677"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "instants",
+            "id": "10514827"
+        },
+        {
+            "mot": "tinit",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "tfin",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t_",
+            "id": "NULL"
+        },
+        {
+            "mot": "init",
+            "id": "99917941"
+        },
+        {
+            "mot": "t_",
+            "id": "NULL"
+        },
+        {
+            "mot": "t_",
+            "id": "NULL"
+        },
+        {
+            "mot": "ldots",
+            "id": "NULL"
+        },
+        {
+            "mot": "t_",
+            "id": "NULL"
+        },
+        {
+            "mot": "fin",
+            "id": "403436"
+        },
+        {
+            "mot": "séparés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "intervalle",
+            "id": "94811546"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "court",
+            "id": "410877"
+        },
+        {
+            "mot": "appelé",
+            "id": "NULL"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "time",
+            "id": "434202"
+        },
+        {
+            "mot": "step",
+            "id": "5977719"
+        },
+        {
+            "mot": "noté",
+            "id": "NULL"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "tel",
+            "id": "1845888"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "ti",
+            "id": "15471571"
+        },
+        {
+            "mot": "ti",
+            "id": "15471571"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t_",
+            "id": "NULL"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "t_",
+            "id": "NULL"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "consistera",
+            "id": "2156148"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "calculer",
+            "id": "100281"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vitesse",
+            "id": "15647074"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "chacun",
+            "id": "397144"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "instants",
+            "id": "10514827"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "résultats",
+            "id": "NULL"
+        },
+        {
+            "mot": "obtenus",
+            "id": "2064278"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "instant",
+            "id": "403827"
+        },
+        {
+            "mot": "précédent",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "cela",
+            "id": "15550577"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "applique",
+            "id": "145952"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "deuxième",
+            "id": "NULL"
+        },
+        {
+            "mot": "loi",
+            "id": "405271"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Newton",
+            "id": "143870"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "chaque",
+            "id": "431220"
+        },
+        {
+            "mot": "instant",
+            "id": "403827"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "écrit",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "f",
+            "id": "161150"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "f",
+            "id": "161150"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "appliquées",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "voisines",
+            "id": "2459523"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "influence",
+            "id": "425225"
+        },
+        {
+            "mot": "extérieure",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "accélération",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "référentiel",
+            "id": "NULL"
+        },
+        {
+            "mot": "galiléen",
+            "id": "NULL"
+        },
+        {
+            "mot": "assimilée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "masse",
+            "id": "430816"
+        },
+        {
+            "mot": "ponctuelle",
+            "id": "268292"
+        }
+    ],
+    [
+        {
+            "mot": "m",
+            "id": "138590"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "m",
+            "id": "138590"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "masse",
+            "id": "430816"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "considérées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "principales",
+            "id": "17638177"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interaction",
+            "id": "417019"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "ab",
+            "id": "2476895"
+        },
+        {
+            "mot": "initio",
+            "id": "1928953"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "calculées",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "partir",
+            "id": "15765426"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "premiers",
+            "id": "402211"
+        },
+        {
+            "mot": "principes",
+            "id": "413136"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "mécanique",
+            "id": "NULL"
+        },
+        {
+            "mot": "quantique",
+            "id": "1765667"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "classique",
+            "id": "193336239"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "dérivent",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "interatomique",
+            "id": "2486636"
+        },
+        {
+            "mot": "fixé",
+            "id": "NULL"
+        },
+        {
+            "mot": "empiriquement",
+            "id": "19617"
+        },
+        {
+            "mot": "historiquement",
+            "id": "14581248"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "Lennard",
+            "id": "6068718"
+        },
+        {
+            "mot": "Jones",
+            "id": "3572123"
+        },
+        {
+            "mot": "aujourd'",
+            "id": "NULL"
+        },
+        {
+            "mot": "hui",
+            "id": "425231"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "EAM",
+            "id": "15774176"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "Embedded",
+            "id": "5785937"
+        },
+        {
+            "mot": "Atom",
+            "id": "17330232"
+        },
+        {
+            "mot": "Model",
+            "id": "425155"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "première",
+            "id": "NULL"
+        },
+        {
+            "mot": "approche",
+            "id": "5676053"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "avantage",
+            "id": "3186239"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "particulièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "précise",
+            "id": "NULL"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "envisagée",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "systèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "dizaines",
+            "id": "271757"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "car",
+            "id": "11494787"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "nécessite",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calculs",
+            "id": "10442161"
+        },
+        {
+            "mot": "numériques",
+            "id": "NULL"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "important",
+            "id": "5564630"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "seconde",
+            "id": "404340"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "largement",
+            "id": "16015101"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "étudier",
+            "id": "NULL"
+        },
+        {
+            "mot": "facilement",
+            "id": "38277"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "systèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "comportant",
+            "id": "16512575"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "milliers",
+            "id": "237906"
+        },
+        {
+            "mot": "voire",
+            "id": "2603254"
+        },
+        {
+            "mot": "millions",
+            "id": "419756"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "pose",
+            "id": "5998106"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "question",
+            "id": "434484"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "choix",
+            "id": "420207"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "interatomique",
+            "id": "2486636"
+        }
+    ],
+    [
+        {
+            "mot": "Conditions",
+            "id": "13990213"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "limites",
+            "id": "418461"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "étudié",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "typiquement",
+            "id": "10156687"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "boîte",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "parallélépipédique",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dimensions",
+            "id": "10077396"
+        },
+        {
+            "mot": "Lx",
+            "id": "12032324"
+        },
+        {
+            "mot": "Ly",
+            "id": "2957414"
+        },
+        {
+            "mot": "Lz",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "L_",
+            "id": "NULL"
+        },
+        {
+            "mot": "x",
+            "id": "144726"
+        },
+        {
+            "mot": "L_",
+            "id": "NULL"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "L_",
+            "id": "NULL"
+        },
+        {
+            "mot": "z",
+            "id": "143644"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "contenant",
+            "id": "250806103"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "simuler",
+            "id": "84310"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "cristal",
+            "id": "141220"
+        },
+        {
+            "mot": "pseudo",
+            "id": "430512"
+        },
+        {
+            "mot": "infini",
+            "id": "202150"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "dimensions",
+            "id": "10077396"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "appliquera",
+            "id": "1989635"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "conditions",
+            "id": "13990213"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "limites",
+            "id": "418461"
+        },
+        {
+            "mot": "périodiques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Cela",
+            "id": "15550577"
+        },
+        {
+            "mot": "signifie",
+            "id": "15513604"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "lorsqu'",
+            "id": "2218988"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        },
+        {
+            "mot": "quitte",
+            "id": "2932059"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "boîte",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "face",
+            "id": "16088731"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "remise",
+            "id": "414338"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "boîte",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "vitesse",
+            "id": "15647074"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "face",
+            "id": "16088731"
+        },
+        {
+            "mot": "opposée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "devra",
+            "id": "2065192"
+        },
+        {
+            "mot": "tenir",
+            "id": "436429"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "périodicité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "espace",
+            "id": "413329"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "pratique",
+            "id": "432472"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "distinguera",
+            "id": "2074313"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "force",
+            "id": "10968387"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interaction",
+            "id": "417019"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "termes",
+            "id": "2390704"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courte",
+            "id": "432755"
+        },
+        {
+            "mot": "portée",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "seront",
+            "id": "2285308"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "affectés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "périodicité",
+            "id": "NULL"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "dire",
+            "id": "15765513"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "seules",
+            "id": "165320"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "proches",
+            "id": "3400275"
+        },
+        {
+            "mot": "seront",
+            "id": "2285308"
+        },
+        {
+            "mot": "prises",
+            "id": "10789127"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "longue",
+            "id": "146483"
+        },
+        {
+            "mot": "portée",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "devra",
+            "id": "2065192"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "tenir",
+            "id": "436429"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "longue",
+            "id": "146483"
+        },
+        {
+            "mot": "portée",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "coulombien",
+            "id": "2554260"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "sera",
+            "id": "16872976"
+        },
+        {
+            "mot": "calculé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "somme",
+            "id": "186744654"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Ewald",
+            "id": "69941"
+        }
+    ],
+    [
+        {
+            "mot": "Algorithmes",
+            "id": "412844"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "résolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "application",
+            "id": "411558"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "seconde",
+            "id": "404340"
+        },
+        {
+            "mot": "loi",
+            "id": "405271"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Newton",
+            "id": "143870"
+        },
+        {
+            "mot": "donne",
+            "id": "15660309"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "équation",
+            "id": "NULL"
+        },
+        {
+            "mot": "différentielle",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "second",
+            "id": "404904"
+        },
+        {
+            "mot": "ordre",
+            "id": "11302114"
+        },
+        {
+            "mot": "dite",
+            "id": "16087795"
+        },
+        {
+            "mot": "équation",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "mouvement",
+            "id": "139966"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "chaque",
+            "id": "431220"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "doivent",
+            "id": "2077013"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "résolues",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "coordonnées",
+            "id": "NULL"
+        },
+        {
+            "mot": "ri",
+            "id": "2534174"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "r_",
+            "id": "NULL"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "instant",
+            "id": "403827"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "connaissant",
+            "id": "2609004"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "accélération",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "instant",
+            "id": "403827"
+        },
+        {
+            "mot": "précédent",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "calculée",
+            "id": "NULL"
+        },
+        {
+            "mot": "connaissant",
+            "id": "2609004"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "f",
+            "id": "161150"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "textstyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "f",
+            "id": "161150"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "Plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "algorithmes",
+            "id": "412844"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "résolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "numérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "succès",
+            "id": "NULL"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "étudié",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "fournissent",
+            "id": "2024753"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "solution",
+            "id": "428092"
+        },
+        {
+            "mot": "approchée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "équation",
+            "id": "NULL"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "basée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "développements",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Taylor",
+            "id": "11506782"
+        }
+    ],
+    [
+        {
+            "mot": "Un",
+            "id": "256126039"
+        },
+        {
+            "mot": "bon",
+            "id": "4319096"
+        },
+        {
+            "mot": "algorithme",
+            "id": "2946420"
+        },
+        {
+            "mot": "doit",
+            "id": "461257"
+        },
+        {
+            "mot": "permettre",
+            "id": "19292"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "résolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "rapide",
+            "id": "416051"
+        },
+        {
+            "mot": "tout",
+            "id": "429875"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "respectant",
+            "id": "2115962"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "loi",
+            "id": "405271"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "conservation",
+            "id": "573235"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "énergie",
+            "id": "NULL"
+        },
+        {
+            "mot": "puisque",
+            "id": "16089119"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "considère",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "fermé",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "algorithmes",
+            "id": "412844"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "courants",
+            "id": "430134"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Euler",
+            "id": "249722045"
+        },
+        {
+            "mot": "crée",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "XVIIIe",
+            "id": "26817"
+        },
+        {
+            "mot": "siècle",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "Leonhard",
+            "id": "409717"
+        },
+        {
+            "mot": "Euler",
+            "id": "249722045"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "performant",
+            "id": "34485"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "imprécis",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "uniquement",
+            "id": "17638227"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "fins",
+            "id": "2398213"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "démonstration",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pédagogie",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Runge",
+            "id": "17399177"
+        },
+        {
+            "mot": "Kutta",
+            "id": "5561173"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "améliorations",
+            "id": "NULL"
+        },
+        {
+            "mot": "publiées",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "algorithme",
+            "id": "2946420"
+        },
+        {
+            "mot": "Positions",
+            "id": "10424593"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Verlet",
+            "id": "11956070"
+        },
+        {
+            "mot": "voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "Intégration",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Verlet",
+            "id": "11956070"
+        },
+        {
+            "mot": "proposé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "Loup",
+            "id": "14890878"
+        },
+        {
+            "mot": "Verlet",
+            "id": "11956070"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "présente",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "meilleures",
+            "id": "10086926"
+        },
+        {
+            "mot": "performances",
+            "id": "17638176"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "donne",
+            "id": "15660309"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "positions",
+            "id": "10424593"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "instant",
+            "id": "403827"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "vitesses",
+            "id": "14850735"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "instant",
+            "id": "403827"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "algorithme",
+            "id": "2946420"
+        },
+        {
+            "mot": "Vitesses",
+            "id": "14850735"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Verlet",
+            "id": "11956070"
+        },
+        {
+            "mot": "dérivé",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "précédent",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "donnant",
+            "id": "10092873"
+        },
+        {
+            "mot": "positions",
+            "id": "10424593"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "vitesses",
+            "id": "14850735"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "algorithme",
+            "id": "2946420"
+        },
+        {
+            "mot": "saut",
+            "id": "413504"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "grenouille",
+            "id": "14890870"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "donne",
+            "id": "15660309"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "vitesses",
+            "id": "14850735"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "textstyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "frac",
+            "id": "5934222"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "positions",
+            "id": "10424593"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "algorithmes",
+            "id": "412844"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "prédicteur",
+            "id": "NULL"
+        },
+        {
+            "mot": "correcteur",
+            "id": "94450874"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "font",
+            "id": "2606175"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "approximation",
+            "id": "14656124"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "nouvelle",
+            "id": "405987"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "vitesse",
+            "id": "15647074"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "accélération",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "aide",
+            "id": "408189"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "développement",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Taylor",
+            "id": "11506782"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "nouvelle",
+            "id": "405987"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "f",
+            "id": "161150"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "f",
+            "id": "161150"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "i",
+            "id": "140119"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "accélération",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "c",
+            "id": "142716"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "δt",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "c",
+            "id": "142716"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "delta",
+            "id": "15303028"
+        },
+        {
+            "mot": "t",
+            "id": "136903"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "application",
+            "id": "411558"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "e",
+            "id": "141745"
+        },
+        {
+            "mot": "loi",
+            "id": "405271"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Newton",
+            "id": "143870"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "comparer",
+            "id": "31841"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "valeur",
+            "id": "402005"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "accélération",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "c",
+            "id": "142716"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "vec",
+            "id": "13629628"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "c",
+            "id": "142716"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "celle",
+            "id": "177480"
+        },
+        {
+            "mot": "prédite",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "développements",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Taylor",
+            "id": "11506782"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "appliquer",
+            "id": "255515332"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "facteur",
+            "id": "15519162"
+        },
+        {
+            "mot": "correctif",
+            "id": "98858"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "dernière",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interaction",
+            "id": "417019"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "potentiels",
+            "id": "145300854"
+        },
+        {
+            "mot": "énergies",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interaction",
+            "id": "417019"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "primordial",
+            "id": "2443262"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "évoqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "haut",
+            "id": "11356648"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "approches",
+            "id": "14435995"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "mises",
+            "id": "415263"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "œuvre",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "agissant",
+            "id": "131433"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "dites",
+            "id": "10990184"
+        },
+        {
+            "mot": "ab",
+            "id": "2476895"
+        },
+        {
+            "mot": "initio",
+            "id": "1928953"
+        },
+        {
+            "mot": "prenant",
+            "id": "15585131"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "structure",
+            "id": "425739"
+        },
+        {
+            "mot": "électronique",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "caractère",
+            "id": "NULL"
+        },
+        {
+            "mot": "quantique",
+            "id": "1765667"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "mises",
+            "id": "415263"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "jeu",
+            "id": "406109"
+        }
+    ],
+    [
+        {
+            "mot": "Quel",
+            "id": "425730"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "théorie",
+            "id": "NULL"
+        },
+        {
+            "mot": "appliqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "obtenues",
+            "id": "1978297"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intermédiaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "Théorème",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Hellmann",
+            "id": "5561195"
+        },
+        {
+            "mot": "Feynman",
+            "id": "103999"
+        },
+        {
+            "mot": "FXγ",
+            "id": "NULL"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "Xγ",
+            "id": "NULL"
+        },
+        {
+            "mot": "ψ",
+            "id": "NULL"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "Xγ",
+            "id": "NULL"
+        },
+        {
+            "mot": "ψ",
+            "id": "NULL"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "mathrm",
+            "id": "NULL"
+        },
+        {
+            "mot": "F",
+            "id": "161150"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "mathrm",
+            "id": "NULL"
+        },
+        {
+            "mot": "X",
+            "id": "144726"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "gamma",
+            "id": "397036"
+        },
+        {
+            "mot": "frac",
+            "id": "5934222"
+        },
+        {
+            "mot": "partial",
+            "id": "5785708"
+        },
+        {
+            "mot": "mathrm",
+            "id": "NULL"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "partial",
+            "id": "5785708"
+        },
+        {
+            "mot": "mathrm",
+            "id": "NULL"
+        },
+        {
+            "mot": "X",
+            "id": "144726"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "gamma",
+            "id": "397036"
+        },
+        {
+            "mot": "left",
+            "id": "5785021"
+        },
+        {
+            "mot": "langle",
+            "id": "429335"
+        },
+        {
+            "mot": "psi",
+            "id": "6013831"
+        },
+        {
+            "mot": "left",
+            "id": "5785021"
+        },
+        {
+            "mot": "frac",
+            "id": "5934222"
+        },
+        {
+            "mot": "partial",
+            "id": "5785708"
+        },
+        {
+            "mot": "hat",
+            "id": "6081305"
+        },
+        {
+            "mot": "mathrm",
+            "id": "NULL"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "partial",
+            "id": "5785708"
+        },
+        {
+            "mot": "mathrm",
+            "id": "NULL"
+        },
+        {
+            "mot": "X",
+            "id": "144726"
+        },
+        {
+            "mot": "_",
+            "id": "47818873"
+        },
+        {
+            "mot": "gamma",
+            "id": "397036"
+        },
+        {
+            "mot": "right",
+            "id": "5996369"
+        },
+        {
+            "mot": "psi",
+            "id": "6013831"
+        },
+        {
+            "mot": "right",
+            "id": "5996369"
+        },
+        {
+            "mot": "rangle",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "dites",
+            "id": "10990184"
+        },
+        {
+            "mot": "classiques",
+            "id": "409527"
+        },
+        {
+            "mot": "faisant",
+            "id": "15519218"
+        },
+        {
+            "mot": "intervenir",
+            "id": "250662205"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "potentiels",
+            "id": "145300854"
+        },
+        {
+            "mot": "empiriques",
+            "id": "2024350"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "champs",
+            "id": "410311"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "C'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "partie",
+            "id": "15691780"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "coûteuse",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "principales",
+            "id": "17638177"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "prises",
+            "id": "10789127"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "longue",
+            "id": "146483"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "forces",
+            "id": "17467157"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Coulomb",
+            "id": "140603"
+        },
+        {
+            "mot": "charges",
+            "id": "10871770"
+        },
+        {
+            "mot": "dipôles",
+            "id": "NULL"
+        },
+        {
+            "mot": "quadrupôles",
+            "id": "NULL"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courte",
+            "id": "432755"
+        },
+        {
+            "mot": "portée",
+            "id": "NULL"
+        },
+        {
+            "mot": "modélisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "potentiels",
+            "id": "145300854"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "paire",
+            "id": "10939293"
+        },
+        {
+            "mot": "ex",
+            "id": "135423172"
+        }
+    ],
+    [
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Lennard",
+            "id": "6068718"
+        },
+        {
+            "mot": "Jones",
+            "id": "3572123"
+        },
+        {
+            "mot": "Buckinngham",
+            "id": "NULL"
+        },
+        {
+            "mot": "interaction",
+            "id": "417019"
+        },
+        {
+            "mot": "intra",
+            "id": "5677009"
+        },
+        {
+            "mot": "moléculaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "modèles",
+            "id": "NULL"
+        },
+        {
+            "mot": "moléculaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisent",
+            "id": "1808014"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "modèles",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "intra",
+            "id": "5677009"
+        },
+        {
+            "mot": "moléculaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "dits",
+            "id": "10672322"
+        },
+        {
+            "mot": "élongation",
+            "id": "NULL"
+        },
+        {
+            "mot": "stretching",
+            "id": "256349627"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "harmonique",
+            "id": "98066340"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "flexion",
+            "id": "92755387"
+        },
+        {
+            "mot": "bending",
+            "id": "1853769"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "harmonique",
+            "id": "98066340"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "torsion",
+            "id": "94273714"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "sinusoïdal",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "Si",
+            "id": "184281"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "comprend",
+            "id": "2153138"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "textstyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "cdot",
+            "id": "NULL"
+        },
+        {
+            "mot": "frac",
+            "id": "5934222"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "possibles",
+            "id": "160889"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calculs",
+            "id": "10442161"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "effectuer",
+            "id": "117559"
+        },
+        {
+            "mot": "croît",
+            "id": "NULL"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "displaystyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "explique",
+            "id": "398915"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "systèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "grande",
+            "id": "15625670"
+        },
+        {
+            "mot": "dimension",
+            "id": "15953626"
+        },
+        {
+            "mot": "demandent",
+            "id": "17051754"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "conséquent",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "réduire",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "restreint",
+            "id": "253449472"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "calculs",
+            "id": "10442161"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "proches",
+            "id": "3400275"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "dire",
+            "id": "15765513"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "détermine",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "seuil",
+            "id": "141918"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "troncature",
+            "id": "94000915"
+        },
+        {
+            "mot": "cutoff",
+            "id": "12111023"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "delà",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "laquelle",
+            "id": "16015097"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "négligées",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Mais",
+            "id": "397741"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "nécessite",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calculer",
+            "id": "100281"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "distances",
+            "id": "6015603"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "dire",
+            "id": "15765513"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "textstyle",
+            "id": "NULL"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "cdot",
+            "id": "NULL"
+        },
+        {
+            "mot": "frac",
+            "id": "5934222"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "distances",
+            "id": "6015603"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "proches",
+            "id": "3400275"
+        },
+        {
+            "mot": "voisins",
+            "id": "432590"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chaque",
+            "id": "431220"
+        },
+        {
+            "mot": "particule",
+            "id": "14462681"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Verlet",
+            "id": "11956070"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "augmenter",
+            "id": "15885497"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "rayon",
+            "id": "397579"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "troncature",
+            "id": "94000915"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interacteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "établie",
+            "id": "NULL"
+        },
+        {
+            "mot": "puisse",
+            "id": "1741273"
+        },
+        {
+            "mot": "servir",
+            "id": "16315745"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "étapes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        }
+    ],
+    [
+        {
+            "mot": "D'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "approches",
+            "id": "14435995"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réduire",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "distances",
+            "id": "6015603"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "calculer",
+            "id": "100281"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "listes",
+            "id": "17051760"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "interacteurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "listes",
+            "id": "17051760"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "cell",
+            "id": "464752"
+        },
+        {
+            "mot": "lists",
+            "id": "17023557"
+        },
+        {
+            "mot": "cell",
+            "id": "464752"
+        },
+        {
+            "mot": "linked",
+            "id": "17342204"
+        },
+        {
+            "mot": "lists",
+            "id": "17023557"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "pouvant",
+            "id": "1971842"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "boîte",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ses",
+            "id": "11254312"
+        },
+        {
+            "mot": "images",
+            "id": "153600"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "découpe",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "espace",
+            "id": "413329"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "petites",
+            "id": "420222"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "cubiques",
+            "id": "424782"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "arête",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "supérieure",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "égale",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "seuil",
+            "id": "141918"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "molécule",
+            "id": "NULL"
+        },
+        {
+            "mot": "donnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "calcule",
+            "id": "1781677"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "distances",
+            "id": "6015603"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "cellule",
+            "id": "15404422"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "voisines",
+            "id": "2459523"
+        }
+    ],
+    [
+        {
+            "mot": "Si",
+            "id": "184281"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "interaction",
+            "id": "417019"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "ressent",
+            "id": "2116242"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "longue",
+            "id": "146483"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "typiquement",
+            "id": "10156687"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "rn",
+            "id": "179387"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "n",
+            "id": "138276"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "limitation",
+            "id": "16087784"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "distance",
+            "id": "15517092"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "troncature",
+            "id": "94000915"
+        },
+        {
+            "mot": "introduit",
+            "id": "85964454"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "erreurs",
+            "id": "249988256"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "recours",
+            "id": "430517"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "sommation",
+            "id": "123442"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "réseau",
+            "id": "NULL"
+        },
+        {
+            "mot": "infini",
+            "id": "202150"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sommation",
+            "id": "123442"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Ewald",
+            "id": "69941"
+        },
+        {
+            "mot": "Kornfeld",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "expansion",
+            "id": "12305197"
+        },
+        {
+            "mot": "multipolaire",
+            "id": "132559"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Ladd",
+            "id": "18833628"
+        }
+    ],
+    [
+        {
+            "mot": "Temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "dépend",
+            "id": "NULL"
+        },
+        {
+            "mot": "énormément",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "champ",
+            "id": "11539790"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "force",
+            "id": "10968387"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "champs",
+            "id": "410311"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "force",
+            "id": "10968387"
+        },
+        {
+            "mot": "polarisable",
+            "id": "69466"
+        },
+        {
+            "mot": "AMOEBA",
+            "id": "12110996"
+        },
+        {
+            "mot": "SIBFA",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "beaucoup",
+            "id": "430768"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "coûteux",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "champ",
+            "id": "11539790"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "force",
+            "id": "10968387"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "polarisable",
+            "id": "69466"
+        },
+        {
+            "mot": "AMBER",
+            "id": "12206108"
+        },
+        {
+            "mot": "CHARMM",
+            "id": "5808819"
+        }
+    ],
+    [
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Annexes",
+            "id": "15808840"
+        },
+        {
+            "mot": "Bibliographie",
+            "id": "249394043"
+        },
+        {
+            "mot": "Charlotte",
+            "id": "142388"
+        },
+        {
+            "mot": "Becquart",
+            "id": "171009567"
+        },
+        {
+            "mot": "Michel",
+            "id": "14773177"
+        },
+        {
+            "mot": "Perez",
+            "id": "5904880"
+        },
+        {
+            "mot": "Dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "moléculaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "appliquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "matériaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "Techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "Ingénieur",
+            "id": "NULL"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Gerbrand",
+            "id": "11075918"
+        },
+        {
+            "mot": "Ceder",
+            "id": "10188499"
+        },
+        {
+            "mot": "Nicola",
+            "id": "144359"
+        },
+        {
+            "mot": "Marzari",
+            "id": "NULL"
+        },
+        {
+            "mot": "Atomistic",
+            "id": "NULL"
+        },
+        {
+            "mot": "Computer",
+            "id": "407152"
+        },
+        {
+            "mot": "Modeling",
+            "id": "1858590"
+        },
+        {
+            "mot": "of",
+            "id": "12862803"
+        },
+        {
+            "mot": "Materials",
+            "id": "17343148"
+        },
+        {
+            "mot": "MIT",
+            "id": "413622"
+        },
+        {
+            "mot": "Open",
+            "id": "10897673"
+        },
+        {
+            "mot": "Course",
+            "id": "416884"
+        },
+        {
+            "mot": "Ware",
+            "id": "13336180"
+        },
+        {
+            "mot": "SMA",
+            "id": "598006"
+        },
+        {
+            "mot": "Spring",
+            "id": "3760111"
+        },
+        {
+            "mot": "Furio",
+            "id": "6260445"
+        },
+        {
+            "mot": "Ercolessi",
+            "id": "NULL"
+        },
+        {
+            "mot": "A",
+            "id": "143768"
+        },
+        {
+            "mot": "Molecular",
+            "id": "416349"
+        },
+        {
+            "mot": "Dynamics",
+            "id": "11008344"
+        },
+        {
+            "mot": "Primer",
+            "id": "408194"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "exemples",
+            "id": "2196397"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Fortran",
+            "id": "2470309"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Dynamique",
+            "id": "5720759"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "particules",
+            "id": "145595"
+        },
+        {
+            "mot": "dissipatives",
+            "id": "NULL"
+        },
+        {
+            "mot": "Intégration",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Verlet",
+            "id": "11956070"
+        },
+        {
+            "mot": "Simulation",
+            "id": "3348079"
+        },
+        {
+            "mot": "numérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "Science",
+            "id": "142229"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "surfaces",
+            "id": "416362"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "chimie",
+            "id": "152212"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        }
+    ]
+]

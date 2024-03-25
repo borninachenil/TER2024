@@ -1,0 +1,67 @@
+La dynamique moléculaire est une technique de simulation numérique permettant de modéliser l'évolution d'un système de particules au cours du temps. Elle est particulièrement utilisée en sciences des matériaux et pour l'étude des molécules organiques, des protéines, de la matière molle et des macromolécules.
+
+En pratique, la dynamique moléculaire consiste à simuler le mouvement d'un ensemble de quelques dizaines à quelques milliers de particules dans un certain environnement (température, pression, champ électromagnétique, conditions aux limites...) au cours du temps, dans le cadre de la mécanique newtonienne.
+Issue de la physique du solide et de la chimie quantique, la dynamique moléculaire trouve désormais de nombreuses applications : biologie, biochimie, chimie organique, physique des particules, physique de la matière condensée, sciences des matériaux, mécanique... Si la modélisation de cas simples peut être relativement aisée (cf exemple ci-contre), certains phénomènes peuvent être particulièrement complexes à modéliser : les réactions nucléaires (fission nucléaire ou fusion nucléaire), des troupes d'atomes contenant des isotopes, sur les zones d'interfaces et/ou de corrosion (potentiel redox différent), etc.
+
+Description générale
+Comme dans toute simulation numérique, le temps évolue de manière discrète : le temps est découpé en une suite d'instants tinit,t1,t2,…,tfin{\displaystyle t_{init},t_{1},t_{2},\ldots ,t_{fin}}, séparés par un intervalle très court appelé "pas-de-temps" ou "time-step", noté δt{\displaystyle \delta t} et tel que ti+1=ti+δt{\displaystyle t_{i+1}=t_{i}+\delta t}. La simulation consistera alors à calculer la position et la vitesse des particules à chacun des instants, en utilisant les résultats obtenus à l'instant précédent.
+Pour cela, on applique la deuxième loi de Newton à chaque instant, qui s'écrit pour une particule : où :
+
+f→i{\displaystyle {\vec {f}}_{i}} correspond aux différentes forces appliquées à la particule, soit par les particules voisines, soit par une influence extérieure.
+a→{\displaystyle {\vec {a}}} est l'accélération de la particule dans un référentiel galiléen, assimilée à une masse ponctuelle.
+m{\displaystyle m} est la masse de la particule.Dans le cas où les particules considérées sont des atomes, deux méthodes principales permettent le calcul des forces d'interaction : 
+
+la dynamique moléculaire ab initio, où les forces sont calculées à partir des premiers principes de la mécanique quantique
+la dynamique moléculaire classique, où les forces dérivent d'un potentiel interatomique fixé empiriquement : historiquement, de type Lennard-Jones, aujourd'hui de type EAM (pour Embedded Atom Model).La première approche a l'avantage d'être particulièrement précise, mais ne peut être envisagée que pour des systèmes de quelques dizaines de particules car elle nécessite un nombre de calculs numériques très important. La seconde est largement utilisée et permet d'étudier facilement des systèmes comportant quelques milliers voire millions de particules, mais pose la difficile question du choix d'un potentiel interatomique.
+
+Conditions aux limites
+Le système étudié en dynamique moléculaire est typiquement une "boîte de simulation" parallélépipédique en 3D de dimensions Lx,Ly,Lz{\displaystyle L_{x},L_{y},L_{z}}et contenant N{\displaystyle N} particules.
+Pour simuler un cristal pseudo-infini dans une, deux ou trois dimensions, on appliquera des conditions aux limites périodiques. Cela signifie que lorsqu'une particule quitte la boîte de simulation par une face, elle est remise dans la boîte avec la même vitesse, au niveau de la face opposée.
+
+Lors du calcul des forces, on devra tenir compte de cette périodicité de l'espace. En pratique, on distinguera dans la force d'interaction des termes à courte portée, qui ne seront pas affectés par la périodicité, c'est-à-dire que seules les particules les plus proches seront prises en compte, et un terme à longue portée, qui devra en tenir compte. Le terme à longue portée est généralement de type coulombien et sera calculé par la somme d'Ewald.
+
+Algorithmes de résolution
+L'application de la seconde loi de Newton donne une équation différentielle du second ordre (dite équation du mouvement) pour chaque particule, qui doivent être résolues. Le but est de déterminer les coordonnées ri(t+δt){\displaystyle r_{i}(t+\delta t)} de la particule à l'instant t+δt{\displaystyle t+\delta t}, connaissant son accélération à l'instant précédent a→(t){\displaystyle {\vec {a}}(t)}que l'on a calculée connaissant les forces d'interactions f→i(t){\textstyle {\vec {f}}_{i}(t)}.
+Plusieurs algorithmes de résolution numérique peuvent être utilisés avec plus ou moins de succès selon le système étudié. Elles fournissent une solution approchée de l'équation, souvent basée sur des développements de Taylor. Un bon algorithme doit permettre une résolution rapide, tout en respectant la loi de conservation d'énergie, puisque l'on considère un système fermé.
+Les algorithmes les plus courants sont :
+
+La méthode d'Euler, crée au XVIIIe siècle par Leonhard Euler très peu performant et imprécis, utilisé uniquement à des fins de démonstration et de pédagogie. Les méthodes de Runge-Kutta en sont des améliorations publiées en 1901.
+L'algorithme « Positions de Verlet » (voir Intégration de Verlet) proposé par Loup Verlet en 1967, qui présente de meilleures performances mais donne les positions à l’instant t+δt{\displaystyle t+\delta t} et les vitesses à l’instant t{\displaystyle t}.
+L'algorithme « Vitesses de Verlet », dérivé du précédent et donnant positions et vitesses à t+δt{\displaystyle t+\delta t}.
+L'algorithme « saut de grenouille », qui donne les vitesses à t+δt2{\textstyle t+{\frac {\delta t}{2}}} et les positions à t+δt{\displaystyle t+\delta t}.
+Les algorithmes de type « prédicteur-correcteur » qui font une approximation de la nouvelle position, vitesse et accélération à t+δt{\displaystyle t+\delta t} à l'aide d'un développement de Taylor. La nouvelle position permet le calcul des forces d'interactions f→i(t+δt){\displaystyle {\vec {f}}_{i}(t+\delta t)}, et de l'accélération a→c(t+δt){\displaystyle {\vec {a}}_{c}(t+\delta t)} par application de la 2e loi de Newton. On peut alors comparer la valeur d'accélération a→c{\displaystyle {\vec {a}}_{c}} avec celle prédite par les développements de Taylor, et appliquer un facteur correctif à cette dernière.
+
+Calcul des forces d'interaction (ou potentiels/énergies d'interaction)
+Le calcul des forces est primordial pour une simulation de dynamique moléculaire. Comme évoqué plus haut, deux approches peuvent être mises en œuvre pour le calcul des forces agissant sur les atomes :
+
+les méthodes dites ab initio prenant en compte la structure électronique des particules et le caractère quantique des interactions mises en jeu. Quel que soit le niveau de théorie appliqué, les forces sont obtenues par l'intermédiaire du Théorème de Hellmann-Feynman :  FXγ=−∂E∂Xγ=−⟨ψ|∂H^∂Xγ|ψ⟩.{\displaystyle \mathrm {F} _{\mathrm {X} _{\gamma }}=-{\frac {\partial \mathrm {E} }{\partial \mathrm {X} _{\gamma }}}=-\left\langle \psi \left|{\frac {\partial {\hat {\mathrm {H} }}}{\partial \mathrm {X} _{\gamma }}}\right|\psi \right\rangle .}
+les méthodes dites classiques faisant intervenir des potentiels empiriques (ou champs de forces).C'est la partie généralement la plus coûteuse en temps de calcul. Les principales interactions prises en compte sont :
+
+interactions à longue distance : forces de Coulomb (charges, dipôles, quadrupôles…) ;
+interactions à courte portée : modélisées par des potentiels de paire (ex. potentiel de Lennard-Jones, Buckinngham)
+interaction intra moléculaires : les modèles moléculaires utilisent en général aussi des modèles d'interactions intra moléculaires dits :
+« 1-2 » élongation (stretching), en général un potentiel harmonique est utilisé,
+« 1-3 » flexion (bending), en général un potentiel harmonique est utilisé,
+« 1-4 » torsion, en général un potentiel sinusoïdal est utilisé,
+…Si la simulation comprend N particules, il y a N⋅N−12{\textstyle N\cdot {\frac {N-1}{2}}} interactions possibles. Le nombre de calculs à effectuer croît donc comme N2{\displaystyle N^{2}}, ce qui explique que les systèmes de grande dimension demandent un temps de calcul conséquent.
+Pour réduire le nombre d'interactions à déterminer, on restreint les calculs d'interactions aux particules les plus proches, c'est-à-dire que l'on détermine une distance seuil, ou distance de troncature (cutoff), au-delà de laquelle les interactions sont négligées. Mais cette méthode nécessite de calculer les distances entre particules deux à deux, c'est-à-dire  N⋅N−12{\textstyle N\cdot {\frac {N-1}{2}}} distances, pour déterminer la liste des proches voisins de chaque particule. Dans la méthode de Verlet, on peut augmenter le rayon de troncature, afin que la liste d'interacteurs établie puisse servir à plusieurs étapes de simulation.
+D'autres approches permettent de réduire le nombre de distances à calculer pour déterminer les listes d'interacteurs, comme la méthode des listes par cellule (cell-lists, cell linked-lists), une cellule pouvant être la boîte de simulation ou une de ses images :
+
+on découpe l'espace en petites cellules cubiques dont l'arête est supérieure ou égale à la distance seuil ;
+pour une molécule donnée, on calcule les distances avec les molécules de la même cellule et des cellules voisines.Si l'interaction se ressent à très longue distance, typiquement si le potentiel est en 1/rn avec n ≤ 2, la limitation par une distance de troncature introduit des erreurs. On a alors recours à des méthodes de type sommation sur un réseau infini, comme la sommation d'Ewald-Kornfeld ou l'expansion multipolaire de Ladd.
+
+Temps de calcul
+Le temps de calcul dépend énormément du champ de force utilisé lors de la simulation de la dynamique moléculaire. Les champs de force polarisable (AMOEBA, SIBFA... etc.) sont beaucoup plus coûteux en temps de calcul qu'un champ de force non polarisable (AMBER, CHARMM... etc.)
+
+Notes et références
+Annexes
+Bibliographie
+Charlotte Becquart & Michel Perez; Dynamique moléculaire appliquée aux matériaux, Techniques de l'Ingénieur, 2010.
+Gerbrand Ceder & Nicola Marzari ; Atomistic Computer Modeling of Materials, MIT Open Course Ware SMA 5107 (Spring 2005).
+Furio Ercolessi ; A Molecular Dynamics Primer (avec des exemples en Fortran 90).
+
+Articles connexes
+Dynamique des particules dissipatives
+Intégration de Verlet
+Simulation numérique
+Science des surfaces Portail de la chimie   Portail de la physique

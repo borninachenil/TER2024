@@ -1,0 +1,110 @@
+En chimie organique, on parle d'isomérie lorsque deux molécules possèdent la même formule brute mais ont des formules développées ou stéréochimiques différentes. Ces molécules, appelées isomères, peuvent avoir des propriétés physiques, chimiques et biologiques différentes.
+Le terme isomérie vient du grec ἴσος / ísos, « égal en nombre », et μέρος / méros,  « partie ».
+On distingue différents types d'isomérie, notamment l'isomérie de constitution (isomérie plane) et l'isomérie de configuration (stéréoisomérie).
+
+Historique
+L'isomérie a été remarquée la première fois en 1827, quand Friedrich Woehler a préparé l'acide isocyanique (H-N=C=O) et a noté que, bien que sa composition élémentaire soit la même que celle de l'acide fulminique (H-CNO, préparé par Justus von Liebig l'année précédente), les propriétés chimiques de ces substances sont radicalement différentes. Cette découverte était en contraste avec les théories de l'époque dans le cadre desquelles l'on pensait que les propriétés d'une substance étaient entièrement déterminées par sa formule brute.
+Le terme « isomère » (ou plus exactement « corps isomériques ») a été proposé par le chimiste suédois Jöns Jacob Berzelius en 1830.
+
+Isomérie de constitution
+On parle d'isomérie de constitution (ou encore d'isomérie plane ou d'isomérie de structure) lorsque les molécules ont la même formule brute mais des formules développées et semi-développées différentes. Elles diffèrent donc dans l'enchaînement des atomes.
+
+Isomérie de chaîne
+L'isomérie de chaîne (ou de squelette) désigne les isomères qui diffèrent par leur chaîne carbonée.
+Exemple : C4H10
+       butane                        2-méthylpropane (isobutane)
+
+   CH3-CH2-CH2-CH3                      CH3-CH-CH3
+                                           |
+                                           CH3
+
+Isomérie de position de fonction
+L'isomérie de position de fonction qualifie les isomères dont un groupe fonctionnel est placé sur des carbones différents de la chaîne carbonée, ce qui veut dire que c'est la fonction qui se déplace à l'intérieur du squelette.
+Exemple : C3H8O.
+
+       propan-1-ol                      propan-2-ol
+
+      CH2-CH2-CH3                       CH3-CH-CH3
+      |                                     |
+      OH                                    OH
+
+Certaines réactions chimiques permettent de passer d'un isomère de position à l'autre, elles sont appelées réaction de réarrangement. 
+Par exemple, les dérivés de l'anthraquinone sont connus pour leur transformation réversible photoinduite en para-ana-quinoïde. Ce phénomène implique la migration d'un atome ou groupe d'atome lors du passage de la forme trans à la forme ana.
+
+Isomérie de nature de fonction
+L'isomérie de nature de fonction caractérise les isomères dont les groupes fonctionnels sont différents, donc de propriétés physiques et chimiques différentes. On appelle ces isomères, des isomères de « fonction ».
+Exemple : C2H6O
+      éthanol                          méthoxyméthane
+
+     CH3-CH2-OH                          CH3-O-CH3
+
+Isomérie d'insaturation
+L'isomérie d'insaturation caractérise les isomères dont les insaturations sont différentes. 
+Exemple : C3H6
+     propène                            cyclopropane 
+
+     CH2=CH-CH3                           H2C——CH2
+                                            \ /
+                                             CH2
+
+Stéréoisomérie
+La stéréoisomérie désigne les isomères de disposition dans l'espace, c'est-à-dire les molécules de constitution identique (elles ont la même formule semi-développée) mais dont l'organisation spatiale des atomes est différente. La représentation de Cram, notamment, permet de différencier des stéréoisomères (ou stéréomères).
+On distingue les stéréoisomères de conformation, qui ne diffèrent que par des rotations autour des liaisons simples et les stéréoisomères de configuration, séparés en deux grands groupes : les énantiomères et les diastéréoisomères.
+
+Conformérie ou stéréoisomérie de conformation
+Ces isomères ont une même formule développée. Ils ne se différencient que par rotation autour d'une liaison simple (liaison sigma), sans la rompre. Par exemple le butane (C4H10) a trois conformères.
+
+Rotamérie
+Atropoisomère
+
+Atropoisomérie
+Ces isomères ont une même formule développée. On parle d'atropoisomérie lorsque la barrière d'activation autour d'une liaison simple (liaison sigma) est suffisante pour qu'on puisse caractériser chacun des deux atropoisomères qui sont énantiomères l'un de l'autre. Couramment utilisée en catalyse asymétrique, cette forme d'isomérie est classiquement observée sur des biphényles substitués en ortho.
+
+Stéréoisomérie de configuration
+Énantiomérie
+Aussi appelés isomères optiques, les énantiomères sont deux molécules qui sont l'image l'une de l'autre par un miroir et ne sont pas superposables : elles présentent en effet une chiralité (dextrogyre ou lévogyre). Elles sont donc symétriques l'une par rapport à l'autre, le plan de symétrie étant le miroir. L'exemple le plus concret de chiralité est celui d'une main droite non superposable sur une main gauche.
+
+Les différents énantiomères sont nommés avec les règles Cahn-Ingold-Prelog (UICPA) qui précisent la configuration absolue des centres stéréogènes, en utilisant les descripteurs R et S.
+Exemples d'énantiomères ayant une efficacité clinique en médecine :
+
+lévodopa, forme lévogyre de la 3,4-dihydroxyphénylalanine : elle seule est métabolisable par l'organisme grâce à la L-dopadécarboxylase qui la transforme en dopamine ; la lévodopa est utilisée dans le traitement de la maladie de parkinson, permettant de diminuer les effets indésirables du mélange racémique ;
+L-thyroxine, forme lévogyre de la Thyroxine, utilisée dans le traitement substitutif de l'insuffisance thyroidienne ; la D-thyroxine est peu efficace et cardiotoxique ;
+le dextropropoxyphène a des effets antalgiques ; le lévopropoxyphène est utilisé comme antitussif.
+
+Diastéréoisomérie
+Les diastéréoisomères (que l'on écrit aussi diastéréo-isomères) sont les stéréoisomères de configuration qui ne sont pas énantiomères.
+Cas intéressant, un isomère méso est un stéréoisomère possédant un nombre pair d'atomes de carbone asymétriques et un plan de symétrie interne (son image dans un miroir lui est superposable), il est achiral.
+
+Diastéréoisomérie géométrique de configurations Z et E
+Lorsque, sur chacun des deux côtés d'une double liaison, on trouve deux groupes différents, on distingue deux configurations : Z et E. En effet, la libre rotation autour de la double liaison n'est pas possible, du fait de la présence d'une liaison π : il en résulte une molécule plane ayant deux configurations possibles.
+En utilisant l'ordre de priorité d'après la convention CIP (Cahn, Ingold, Prelog) on définit les deux isoméries ainsi :
+
+la configuration Z caractérise les diastéréoisomères dont les groupes prioritaires sont du même côté du plan formé par la double liaison (et perpendiculaire au plan de la molécule). L'abréviation Z vient de l'allemand zusammen qui signifie « ensemble » ;
+la configuration E caractérise les diastéréoisomères dont les groupes prioritaires sont du côté opposé l'un de l'autre par le plan formé par la double liaison. Le terme E vient de l'allemand entgegen qui signifie « opposé ».Historiquement, ce type d'isomérie ne correspond pas exactement à l'isomérie cis-trans où la priorité des substituants est définie par leur encombrement stérique. Un exemple typique de cette correspondance erronée est celui du cis-2-chlorobut-2-ène qui est aussi le (E)-2-chlorobut-2-ène.
+Exemple : l'acide 3-aminobut-2-ènoïque, ci-contre.
+Les priorités sont COOH > H et NH2 > CH3. On a donc dans le premier cas les groupes prioritaires du même côté du plan : c'est donc la représentation de l'acide (Z)-3-aminobut-2-ènoïque. À l'inverse, dans la seconde représentation, les groupes prioritaires sont opposés : la molécule représentée est donc l'acide (E)-3-aminobut-2-ènoïque.
+De manière générale, les configurations Z sont plus rares car les groupements prioritaires (souvent les plus volumineux) sont déstabilisés par leur encombrement stérique. Mais certaines configurations peuvent être stabilisées, notamment par chélation. Il est également possible de transformer un isomère E en isomère Z (ou vice versa) via une photoisomérisation.
+N.B. : Dans le cas d'une diastéréoisomérie due à la présence d'une double liaison, on utilise moins les termes cis et trans qui qualifient plutôt des positions relatives de groupements sans tenir compte de leur priorité. Par exemple, sur l'illustration de la configuration E, on dira que le H est en trans du CH3, et que le H est en cis du NH2.
+
+Invertomérie
+Autre diastéréoisomérie géométrique, beaucoup plus rare, qui apparaît quand l'inversion d'atome comme l'azote est suffisamment bloqué pour caractériser les invertomères.
+
+Isomérie endo-exo
+Très présente dans les systèmes polycycliques possédant des substituants, ce type de diastéréoisomérie apparaît quand un substituant peut adopter deux positions relatives au branchement polycyclique, au plus près ou au plus loin - voir, par exemple, le tropanol.
+
+Épimérie
+Deux épimères ne diffèrent entre eux que par la configuration absolue d'un seul carbone asymétrique, comme entre le D-mannose et le D-glucose ou encore entre le D-glucose et le D-galactose.
+
+Anomérie
+C’est un cas particulier d’épimèrie pour le carbone 1 des oses. Il permet de décrire notamment la convention α et β. Si la fonction hydroxyle du carbone 1 est en dessous du plan (représentation de Haworth), l’ose est dit α (alpha) alors que si l’hydroxyle du carbone 1 est au-dessus du plan, l’ose est dit β (bêta).
+Exemple : α-glucose : sur l'image, le carbone 1 est à droite et la fonction hydroxyle n'est ni en haut ni en bas (il faudrait choisir pour avoir du α ou β).
+Cette nomenclature est très importante pour décrire les liaisons chimiques contractées dans les disaccharides et les polysaccharides.
+Exemple : le saccharose (α-D-glucopyrannosyl(1→2)β-D-fructofurannoside) est un dissacharide formé d'α-glucose et d'β-fructose liés en α1-2.
+
+Autres types
+Il y a diastéréoisométrie entre deux molécules isomères possédant un même enchaînement de liaison, qui comportent deux ou plusieurs centres de chiralité (des atomes portant quatre substituants différents) et qui ne sont pas des énantiomères. Exemple : les formes  (R)-(S) et (R)-(R) de l'acide tartrique sont des diastéréoisomères et possèdent des propriétés physiques différentes.
+
+Notes et références
+Annexes
+
+ Portail de la chimie

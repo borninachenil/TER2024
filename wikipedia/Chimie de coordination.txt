@@ -1,0 +1,108 @@
+En chimie, plus particulièrement en chimie inorganique, un complexe est un édifice polyatomique constitué d'une ou de plusieurs entités indépendantes (ions ou molécules), en interaction. L'étude des complexes trouve plusieurs applications en catalyse, en chimie organométallique et en chimie bioinorganique. Un complexe est souvent constitué d'un cation métallique entouré de plusieurs ligands anioniques ou neutres qui délocalisent une partie de leur densité électronique. Ces complexes sont nommés « composés de coordination » et la chimie de coordination est la science qui les étudie.
+Voir également l'article sur les complexes en biologie.
+
+Chimie des composés de coordination
+Les complexes de coordination ou composés de coordination sont un des sujets d'étude de la chimie inorganique contemporaine, ils possèdent des applications allant des matériaux à la chimie médicinale en passant par la chimie analytique. Leurs propriétés physiques (spectroscopie, magnétisme) et chimiques particulières (échanges de ligands, oxydoréduction, réactions impliquant des ligands...) sont aujourd'hui bien comprises grâce à la chimie physique. Les composés de coordination sont souvent utilisés comme catalyseurs en chimie organique fine ainsi qu'en synthèse de polymères : voir, par exemple, le catalyseur de Ziegler et Natta introduisant la polymérisation coordinative.
+
+Nomenclature
+Noms des ligands
+Les noms des ligands anioniques finissent toujours en « o ».
+Exemples :
+
+X− : halogéno (F : fluoro, Cl : chloro, Br : bromo, I : iodo) ;
+S2O32− : thiosulfato ;
+CN− : cyano.Les noms des ligands neutres ne sont pas modifiés, sauf pour :
+
+H2O : aqua ;
+NH3 : ammine (avec deux « m ») ;
+NO : nitrosyle ;
+CO : carbonyle.Le nombre de ligands est précisé par le préfixe : mono, di, tri, tétra, penta, hexa, etc.
+
+Nom des complexes formés
+On écrit le nombre et la nature des ligands, la nature de l'ion (ou atome) central et entre parenthèses un chiffre romain qui précise le nombre d'oxydation du métal.
+Si la charge du complexe est négative, on ajoute la terminaison « ate ». Dans le cas contraire, on note le nom du métal.
+Exemples : 
+
+[Ag(CN)2]− : ion dicyanoargentate(I) ;
+[Fe(H2O)6]2+ : ion hexaaquafer(II) ;
+[Fe(SCN)]2+ : ion thiocyanatofer(III).
+
+Ligands
+Structure géométrique des complexes
+Différentes théories réussissent à prévoir la structure moléculaire des composés de coordination et leurs réactivités avec plus ou moins de précision. La meilleure théorie permettant de décrire la structure moléculaire avec des liaisons localisées est la théorie VSEPR (Valence Shell Electron Pair Repulsion).
+
+Nombre de coordination
+La structure d'un complexe de coordination dépend de son nombre de coordination (voir théorie de la liaison localisée). Les nombres de coordination les plus fréquents pour les éléments de transitions sont 4 et 6 (voir Polyèdre de coordination). Le nombre de liaisons métal-ligand dépend de la taille, de la charge et de la configuration électronique de l'ion métallique et des ligands. La plupart des ions peuvent accepter plusieurs nombres de coordination, adoptant alors des géométries différentes. De nos jours, le nombre de coordination d'un atome est compris entre 2 et 12. Ce qui montre bien que cette notion est caduque pour prévoir la structure d'un complexe de coordination. Voir aussi Nombre de coordination effectif.
+Pour les métaux de transition de la série 3d, qui incluent les métaux d'intérêt biologique tels que le fer, le manganèse, le zinc, le cuivre, etc. le nombre de coordination est habituellement compris entre 4 et 6. De par leur grande taille, les lanthanides, les actinides et les métaux de transition des séries 4d et 5d pourront avoir des nombres de coordination grands. Une autre théorie intermédiaire entre la coordination et la théorie des orbitales moléculaires est la théorie du champ cristallin. Cette théorie est excellente pour faire des prévisions empirique mais manque de base physique.
+
+Différentes géométries communes
+On a regroupé ci-dessous la liste des structures les plus répandues en fonction du nombre de coordination (NC) (ou coordinence) :NC = 2 : linéaire (ex. : I3−) ou plié (ex. : CuCl2−).
+NC = 3 : trigonale plane (ex. : HgI3− ) ou pyramidale ou en T comme ClF3 ou BrF3. NC = 3 est rare.
+NC = 4 : tétraédrique (composés Si, Ge, Sn) ou plan carrée (souvent Ni2+, Co2+ et Cu2+). Note : il y a souvent des interconversions entre les géométries tétraédriques et plan carrées pour ces trois métaux.
+NC = 5 : bipyramidale à base triangulaire ou pyramidale à base carrée. Ces deux structures subissent aussi des interconversions. Exemple : Ni(CN)53−.
+NC = 6 : Géométrie la plus commune. Il s'agit le plus souvent de distorsion d'octaèdre régulier. Forme octaèdrique : déformation selon les axes (groupe de symétrie D4h). Voir aussi Effet Jahn-Teller. Forme rhombique : aplatissement de côté opposé (groupe de symétrie D2h). Forme trigonale : déplacement de faces opposées (groupe de symétrie D3h).
+NC = 7 : bipyramidale à base pentagonale ou ajout d'un sommet sur une face d'un octaèdre.Dans de nombreux cas, la géométrie réelle s'écarte de la structure théorique, comme la théorie VSEPR (théorie de la répulsion des paires électroniques de la couche de valence) et la distorsion Jahn-Teller qui peuvent expliquer certaines de ces différences.
+
+Complexes avec les nombres de coordination les plus grands
+Le champion des nombres de coordination est, selon Cotton et Wilkinson, l'ion baryum 2+ (Ba2+) qui se coordonne avec douze atomes d'oxygène dans la structure pérovskite. Cet ion forme des complexes de cette géométrie avec BaSiF6, BaGeF6, Ba(NO3)6, etc..
+
+Règle des 18 électrons
+Avec une meilleure compréhension de la mécanique quantique et de la théorie des orbitales atomiques et moléculaires, une autre méthode est employée pour prédire la structure des complexes de coordination. Voir aussi Théorie de l'orbitale moléculaire.
+Selon cette théorie, la géométrie des complexes de coordination est dominée par les interactions entre les orbitales moléculaires s et p des ligands et les orbitales atomiques d (ou f) de l'ion central. Un atome est à son état le plus stable lorsqu'il a complété sa dernière couche de valence, il  possède alors 18 électrons  (les orbitales s (2 électrons), p (6 électrons) et d (10 électrons). La géométrie du complexe dépend de la configuration électronique du métal (voir Tableau périodique des éléments) et du rayon atomique ou ionique.
+Le nombre de coordination d'un complexe dépend aussi de la taille des ligands et du cation métallique. De petits ligands autour d'un gros cation vont entraîner un faible encombrement stérique, ce qui conduit à de grands nombres de coordination.
+Exemple : [Mo(CN)8]4−De petits cations entourés de gros ligands vont avoir des nombres de coordination faibles.
+Exemple : Pt[P(CMe3)3]2
+
+Isomérie des composés de coordination
+Isomérie géométrique
+L'isomérie géométrique a lieu dans les complexes octaédriques et carrés plans mais pas dans les complexes tétraédriques. Quand, dans de tels complexes, des ligands sont dans des positions adjacentes, on utilise le descripteur cis, et quand ils sont dans des positions opposées, le descripteur trans
+Quand trois ligands identiques ou les trois fonctions coordonnantes d'un ligand tridente occupent une face d'octaèdre, on parle d'isomère facial (fac), s'ils occupent une arête de l'octèdre, on parle d'isomère méridional (mer).
+
+Isomérie optique
+L'isomérie optique (énantiomérie) a lieu lorsque l'image d'une molécule dans un miroir n'est pas superposable avec la molécule originale. Des échantillons purs d'isomères optiques font tourner le plan de polarisation de la lumière polarisée. En chimie de coordination, la chiralité des complexes n'est généralement pas due à des centres stéréogènes mais relève de la chiralité axiale. Les composés dans le tableau suivant sont des exemples de paires d'isomères optiques en chimie de coordination.
+
+Réactions de complexation
+D’une façon générale, la formation d’un complexe à partir d’un métal M et de n ligands L s’écrira :
+Mt+ + nLu-⇆ [M(L)n]t-nu+À cette réaction est associée une constante d'équilibre K :
+
+Kf : constante de formation qui s'écrit Kf=[M(L)n][M][L]n{\displaystyle \mathrm {K} _{\mathrm {f} }={[\mathrm {M} (\mathrm {L} )_{n}] \over [\mathrm {M} ][\mathrm {L} ]^{n}}} ;
+Kd : constante de dissociation qui s'écrit Kd=1Kf{\displaystyle {\rm {K_{d}={1 \over K_{f}}}}}.Ces constantes s'expriment de façon approximative en faisant apparaitre les concentrations au lieu des activités des ions (ou molécules) présents à l'équilibre, on n'y fait jamais apparaitre les solides et le solvant (le plus souvent de l'eau).
+Au Kd, on associe un pKd = –log Kd.
+Plus le pKd est petit moins le complexe est stable.
+Exemple : Ag+ + 2NH3 ⇆ [Ag(NH3)2]+    Kf=[[Ag(NH3)2]+][Ag+][NH3]2{\displaystyle {\rm {K_{f}={[[Ag(NH_{3})_{2}]^{+}] \over [Ag^{+}][NH_{3}]^{2}}}}}
+Voir Constante d'équilibre.
+
+Chimie supramoléculaire
+Une des applications de pointe de la chimie des complexes est la création d'association de molécules pour accomplir une fonction. Voir Chimie supramoléculaire et un exemple dans le cas du transport de l'oxygène (voir Hémoglobine).
+
+Polymère de coordination
+Les polymères de coordination, réseaux de coordination ou encore « metal-organic framework » (MOF) désignent un assemblage périodique inorganique ou organométallique formé par itération de centres métalliques reliés entre eux par des ligands dans une, deux ou trois dimensions. Le terme réseau de coordination se référant généralement aux structures mono- et bidimensionnelles tandis que MOF est employé pour désigner les structures tridimensionnelles.
+Si ce n'est pas une condition nécessaire, de nombreux réseaux de coordination sont basés sur les capacités d'interactions des carboxylates avec les métaux.
+
+Applications
+Les complexes métalliques ont une importance capitale en chimie et interviennent dans beaucoup de domaines d'avant-garde.
+
+Complexes métalliques en catalyse
+La configuration des ligands autour d'un centre métallique, la possibilité d'échanger des ligands et la capacité de certains métaux à s'insérer dans des liaisons covalentes (en particulier les liaisons multiples) de façon réversible rend les complexes métalliques extrêmement utiles en catalyse. En effet, la coordination à un centre métallique abaisse l'énergie d'activation de réaction par formation d'un ou plusieurs complexes intermédiaires et influe sur la sélectivité de la réaction. Dans la nature, il y a aussi des complexes métalliques qui interviennent dans les métalloprotéines (fer dans l'hémoglobine, magnésium dans la chlorophylle, cuivre dans l'hémocyanine, etc.). Ces complexes sont un des objets d'étude de la chimie bioinorganique.
+
+En chimie des solutions
+Les complexes en chimie des solutions ont des utilités multiples :
+
+solubiliser un métal contenu dans un minerai (exemple : l'or solubilisé comme un complexe cyanuré) ;
+caractériser la présence d'une espèce chimique par formation d'un complexe coloré.
+
+En médecine
+Des complexes de platine sont utilisés dans le traitement de certains cancers (cisplatine, carboplatine, oxaliplatine, etc.).La capacité complexante de l'EDTA est mise à profit dans le traitement d'intoxication par des métaux, le plomb en particulier ; il est en outre utilisé dans les tubes de prélèvement sanguin en tant que chélateur du calcium, pour empêcher la coagulation du prélèvement.
+Des complexes de gadolinium sont utilisés comme agents de contraste en imagerie par résonance magnétique (IRM).
+
+Autres utilisations
+Le complexe Fe(CO)5 liquide à température ambiante permet  d'obtenir par distillation du fer très pur.
+
+Notes et références
+Articles connexes
+Séquestrant
+Chélation
+Ligand (chimie)
+Polyèdre de coordination
+Complexe polymère
+Effet néphélauxétique Portail de la chimie

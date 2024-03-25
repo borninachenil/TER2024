@@ -1,0 +1,307 @@
+La résonance magnétique nucléaire (RMN) est une propriété de certains noyaux atomiques possédant un spin nucléaire (par exemple 1H, 13C, 17O, 19F, 31P, 129Xe…), placés dans un champ magnétique. Lorsqu'ils sont soumis à un rayonnement électromagnétique (radiofréquence), le plus souvent appliqué sous forme d'impulsions, les noyaux atomiques peuvent absorber l'énergie du rayonnement puis la relâcher lors de la relaxation. L'énergie mise en jeu lors de ce phénomène de résonance correspond à une fréquence très précise, dépendant du champ magnétique et d'autres facteurs moléculaires. Ce phénomène permet donc l'observation des propriétés quantiques magnétiques des noyaux dans les phases gaz, liquide ou solide. Seuls les atomes dont les noyaux possèdent un moment magnétique donnent lieu au phénomène de résonance.
+Le phénomène RMN est exploité par la spectroscopie de résonance magnétique nucléaire (spectroscopie RMN), une technique utilisée par plusieurs disciplines : en physique et chimie (chimie organique, chimie inorganique, science des matériaux…) ou en biochimie (structure de molécules). Une extension sans doute plus connue dans le grand public est l'imagerie par résonance magnétique (IRM) utilisée en médecine, mais également en chimie. Récemment, le phénomène RMN a été utilisé dans la technique de microscopie à force de résonance magnétique (MFRM) pour obtenir des images à l'échelle nanométrique grâce à une détection mécanique. Cette technique combine les principes de l'imagerie par résonance magnétique et de la microscopie à force atomique (AFM).
+Le phénomène RMN concerne le spin des noyaux atomiques. Un phénomène analogue existe aussi pour les électrons (à condition qu'ils ne soient pas appariés), c'est la résonance de spin électronique (ESR) aussi appelée résonance paramagnétique électronique (RPE). Il existe enfin un phénomène proche, mais qui se produit en l'absence de champ magnétique pour certains noyaux dit « quadripolaires » de spin supérieur à ½, la résonance quadripolaire nucléaire (RQN).
+
+Historique
+Isidor Isaac Rabi découvre le phénomène de résonance magnétique nucléaire en 1938 et le mesure par une méthode de jets atomiques. Il a reçu le Prix Nobel de physique en 1944 pour cette découverte fondatrice.
+Felix Bloch et Edward Mills Purcell, de manière indépendante, réalisent en 1946 les premières mesures du magnétisme nucléaire par induction magnétique, méthode à la base des méthodes actuelles de détection RMN. Ils ont reçu le prix Nobel de physique en 1952.
+En 1950, Erwin Hahn découvre les échos de spin à la base des nombreuses techniques multi-impulsionnelles utilisées de nos jours.
+La même année, W. Proctor et W. Dickinson découvrent indépendamment le phénomène de déplacement chimique, découverte fondamentale pour l'essor des applications de la RMN en chimie organique,.
+En 1959, E.R. Andrew démontre que la rotation d'un échantillon autour d'un axe particulier, l'angle magique, permet l'obtention de spectres résolus en RMN des solides (RMN MAS).
+Une étape majeure dans le développement de la mesure du phénomène RMN est la conception de la spectroscopie RMN par transformée de Fourier (RMN impulsionnelle) par Richard R. Ernst en 1966. Il a reçu le prix Nobel de chimie en 1991 pour cette découverte et les développements de la RMN multidimensionnelle que cette technique a permis.Deux autres prix Nobel ont été attribués concernant les applications de la résonance magnétique nucléaire :
+
+Kurt Wüthrich a reçu en 2002 le prix Nobel de chimie pour sa contribution au développement de la spectroscopie par résonance magnétique nucléaire pour déterminer la structure tridimensionnelle des macromolécules en solution ;
+Paul Lauterbur et Sir Peter Mansfield ont reçu le prix Nobel de physiologie et de médecine en 2003 pour leurs découvertes qui ont permis le développement de l'imagerie par résonance magnétique (IRM). Pour une vision plus complète de l'histoire des 60 premières années de la RMN, voir l'article de Maurice Goldman (académicien) dans L'Actualité Chimique de mars 2004.
+
+Propriétés magnétiques des noyaux atomiques
+Le spin et moment magnétique nucléaire
+Le phénomène de résonance magnétique nucléaire dépend de l'existence d'une propriété quantique du noyau, le moment cinétique de spin nucléaire, S→{\displaystyle {\vec {S}}}.
+En effet, les particules composites (protons et neutrons) entrant dans la composition d'un noyau atomique possèdent un moment cinétique intrinsèque, s→{\displaystyle {\vec {s}}}, dont l'amplitude est caractérisée par un nombre quantique (le nombre quantique de spin ou plus simplement le spin) dont la valeur est s{\displaystyle s}=½ pour les protons et neutrons (exactement comme dans le cas de l'électron). Les noyaux atomiques ont un moment cinétique de spin résultant de la composition vectorielle des moments des particules individuelles s→{\displaystyle {\vec {s}}} et qui dépend alors du nombre de protons et de neutrons et de leurs orientations relatives à l'état fondamental nucléaire.
+S→=∑neutrons,protonss→{\displaystyle {\vec {S}}=\sum _{neutrons,protons}{\vec {s}}}
+Le nombre quantique S{\displaystyle S} caractérisant l'amplitude du moment cinétique de spin nucléaire S→{\displaystyle {\vec {S}}} dépend donc lui aussi de la composition nucléaire.
+Ainsi, il est observé que les noyaux (isotopes) composés d'un nombre de protons et de neutrons pairs ont un nombre quantique de spin nul et ne possèdent donc pas de spin nucléaire. Par exemple, le noyau du carbone qui possède 6 protons + 6 neutrons dans sa forme isotopique la plus abondante, le 12C, n'a pas de spin et il en est de même pour l'oxygène 16O avec 8 protons et 8 neutrons.
+Or seuls les isotopes atomiques qui ont un spin nucléaire (et donc un nombre quantique de spin non nul) sont sujets au phénomène de résonance magnétique nucléaire et pourront donc être étudiés en spectroscopie RMN. Par exemple, le noyau de l'hydrogène n'est composé que d'un seul proton, le spin nucléaire de l'hydrogène est donc celui du proton isolé. Comme l'hydrogène 1H (protium) est un élément très répandu, la résonance magnétique de l'hydrogène (dite aussi RMN du proton) est une des plus utilisées. Le phosphore 31 (31P) et le fluor 19 (19F) sont des atomes dont l’abondance naturelle est grande (plus de 99,9 % comme pour l'hydrogène), ce qui permet d'avoir de meilleures données et ils sont régulièrement utilisés en RMN pour analyser des composés. On exploite aussi couramment la RMN du carbone 13 (13C) ou celle du deutérium (2H), isotopes caractérisés cependant par des abondances naturelles très faibles, mais il faut alors adapter la mesure pour compenser cette faible abondance (concentration, enrichissement en isotope, temps de mesure, appareils plus précis).
+Si le moment cinétique de spin S→{\displaystyle {\vec {S}}} est non nul, alors il existe aussi un moment magnétique, μ→{\displaystyle {\vec {\mu }}}, qui lui est colinéaire. L'amplitude du moment magnétique est proportionnelle à celle du moment cinétique. Le rapport de proportionnalité est appelé rapport gyromagnétique, et il est noté γ{\displaystyle \gamma }.
+μ→=γS→{\displaystyle {\vec {\mu }}=\gamma {\vec {S}}}
+Le rapport gyromagnétique est une constante pour un isotope donné.
+
+Les isotopes potentiellement actifs en RMN
+Quantification du moment magnétique
+Un résultat fondamental de la mécanique quantique est que le moment cinétique est une propriété quantifiée pour les particules quantiques, et il en est donc de même pour le moment magnétique. Le moment cinétique de spin d'un noyau de spin S{\displaystyle S} (et donc le moment magnétique également) peut être dans 2S+1{\displaystyle 2S+1} états quantiques (les états propres) différents. Il s'ensuit en particulier que lorsqu'il est placé dans un champ magnétique, il y a une levée de dégénérescence, c'est-à-dire une séparation en plusieurs niveaux d'énergie (cet effet est connu en Physique comme l'effet Zeeman).
+
+Dans le cas le plus simple, c'est-à-dire si le nombre quantique de spin est S{\displaystyle S}=½, par exemple pour l'hydrogène 1H, il y a ainsi deux états possibles (2S+1=2{\displaystyle 2S+1=2}), qui sont généralement notés α{\displaystyle \alpha } et β{\displaystyle \beta }. Ils ont de plus une énergie différente, mais celle-ci est toujours proportionnelle au champ B0{\displaystyle B_{0}} appliqué.
+De manière générale, l'énergie est donnée pour les états mS{\displaystyle m_{S}} d'un moment cinétique de spin S{\displaystyle S} par
+EmS=−mSℏγB0{\displaystyle E_{m_{S}}=-m_{S}\hbar \gamma B_{0}},
+avec −S≤mS≤S{\displaystyle -S\leq m_{S}\leq S} et où ℏ{\displaystyle \hbar } est la constante de Planck h{\displaystyle h} divisée par 2π{\displaystyle 2\pi }.
+Ainsi pour le proton, les deux états α{\displaystyle \alpha } (pour mS{\displaystyle m_{S}}=½) et β{\displaystyle \beta } (pour mS{\displaystyle m_{S}}=-½) auront les énergies suivantes :
+Eα=−12ℏγB0{\displaystyle E_{\alpha }=-{\frac {1}{2}}\hbar \gamma B_{0}}
+et
+Eβ=+12ℏγB0{\displaystyle E_{\beta }=+{\frac {1}{2}}\hbar \gamma B_{0}},
+respectivement. Le signe de l'énergie dépend du signe de γ{\displaystyle \gamma }.
+
+Interaction avec un rayonnement électromagnétique
+Lorsque l'énergie d'un rayonnement électromagnétique correspond à la différence d'énergie entre deux niveaux d'énergie, celui-ci peut être absorbé par le noyau atomique. On parle alors de transition spectroscopique. Le retour à l'équilibre est appelé relaxation magnétique longitudinale. L'énergie d'une onde électromagnétique est proportionnelle à sa fréquence E=hν{\displaystyle E=h\nu } où h{\displaystyle h} est la constante de Planck ; la résonance RMN est donc caractérisée par cette fréquence exprimée en hertz, appelée fréquence de Larmor et notée par la suite ν0{\displaystyle \nu _{0}}, laquelle ne dépend que du champ appliqué B0{\displaystyle B_{0}} et de la constante gyromagnétique γ{\displaystyle \gamma }.
+En effet, la différence d'énergie entre deux états du moment cinétique de spin pour un spin ½ est donnée par
+ΔE=|Eβ−Eα|{\displaystyle \Delta E=\left|E_{\beta }-E_{\alpha }\right|}
+ou, pour un spin quelconque S{\displaystyle S}, par
+ΔE=|EmS−EmS+1|{\displaystyle \Delta E=\left|E_{m_{S}}-E_{m_{S}+1}\right|}
+et donc
+ν0=ΔE/h=γB0/2π{\displaystyle \nu _{0}=\Delta E/h=\gamma B_{0}/2\pi }.
+Du fait de la présence du facteur 1/2π{\displaystyle 1/2\pi }, on préfèrera parfois utiliser la fréquence angulaire exprimée en rad.s-1ω0=2πν0=γB0{\displaystyle \omega _{0}=2\pi \nu _{0}=\gamma B_{0}}.
+Ainsi, pour les champs usuels (de l'ordre de quelques teslas), la résonance du proton a lieu dans le domaine des ondes radio ou radiofréquences, soit pour une fréquence ν0{\displaystyle \nu _{0}}=42 MHz dans un champ de 1,0 T ou 840 MHz dans un champ de 20,0 T.
+
+La précession de Larmor
+Même si la compréhension du phénomène RMN ne peut se passer de l'approche quantique exposée jusqu'à présent, il est parfois utile d'utiliser une approche plus « classique » (dans le sens de description par la mécanique classique), telle que celle proposée par les pionniers de la RMN, et notamment Bloch.
+
+En l'absence de champ magnétique, les moments magnétiques nucléaires peuvent prendre n'importe quelle orientation dans l'espace. Mais dès l'application d'un champ magnétique externe, les moments magnétiques interagissent avec ce champ. Les moments magnétiques ne vont cependant pas réagir comme le ferait l'aiguille aimantée d'une boussole, c'est-à-dire qu'ils ne s'alignent pas (en tout cas pas immédiatement) dans la direction du champ magnétique appliqué. Le résultat de l'interaction avec le champ appliqué est qu'ils vont se mettre à tourner autour de la direction du champ à la manière d'une toupie, c'est-à-dire que le moment magnétique décrit un cône de révolution dont l'ouverture dépend de l'orientation initiale au moment de l'application du champ (M. H. Levitt 2008, p. 27). Ce mouvement de précession s'appelle la précession de Larmor et sa vitesse angulaire est donnée par
+ωL=−γB0{\displaystyle \omega _{L}=-\gamma B_{0}}.
+En valeur absolue on retrouve donc exactement la valeur de la fréquence de résonance déterminée par la mécanique quantique. C'est pourquoi, on appelle communément cette fréquence, la fréquence de Larmor.
+Lorsque le rapport gyromagnétique est positif (γ>0{\displaystyle \gamma >0}) comme dans le cas de la majorité des noyaux étudiés couramment, alors le sens de la précession est négatif (c'est-à-dire dans le sens des aiguilles d'une montre. Le sens est inversé si γ{\displaystyle \gamma } est négatif.
+
+Le paramagnétisme nucléaire
+Dans la majeure partie des cas, l'étude du phénomène RMN concerne un nombre N{\displaystyle N} d'atomes très élevé, l'ordre de grandeur du nombre de noyaux présents dans un échantillon macroscopique étant de celui du nombre d'Avogadro, c'est-à-dire que N{\displaystyle N} est de l'ordre de 1023 atomes. À cette échelle macroscopique, la description du phénomène RMN est facilitée en utilisant les concepts de la physique (ou thermodynamique) statistique.
+Puisqu’en l'absence de champ magnétique et à l'équilibre thermodynamique, les moments magnétiques des noyaux peuvent prendre n'importe quelle orientation dans l'espace. La somme vectorielle des N moments magnétiques individuels est donc nulle en moyenne et il n'y a donc aucune polarisation ou aimantation macroscopique résultante:
+M=∑Nμ→=0{\displaystyle M=\sum _{N}{\vec {\mu }}=0}.
+Lorsqu'un champ magnétique est appliqué, les moments magnétiques se mettent à tourner autour du champ magnétique, mais comme il n'y a aucun changement d'orientation lié à leur interaction avec le champ externe (section La précession de Larmor), il ne se passe rien de nouveau. En d'autres termes, le phénomène RMN ne devrait donc pas pouvoir être observé dans ces conditions (M. H. Levitt 2008, p. 31).
+Cependant, les noyaux atomiques ne sont pas isolés, mais ils « baignent » dans un ensemble d'électrons et d'autre part les noyaux se déplacent les uns par rapport aux autres en permanence, car ils sont sujets aux vibrations et rotations moléculaires. Toute cette agitation crée des champs magnétiques internes à la molécule fluctuants en permanence. Ces fluctuations locales vont modifier de manière aléatoire l'orientation et l'intensité des champs ressentis par les noyaux. Ce sont ces fluctuations qui permettent de changer légèrement l'orientation des moments magnétiques de spins dans des échelles de temps de l'ordre de la seconde.
+La thermodynamique statistique montre que ces réorientations ne sont pas complètement isotropes, c'est-à-dire que la probabilité que les moments magnétiques soient orientés dans la direction du champ magnétique appliqué (polarisation positive) est légèrement plus importante que l'opposé (polarisation négative). La proportion de moments magnétiques dans chacune des polarisations est en effet donnée par la loi de distribution statistique de Boltzmann qui favorise les énergies les plus basses.
+
+Il en résulte l'apparition d'une polarisation nette (aimantation macroscopique) non nulle :
+M=∑Nμ→≠0{\displaystyle M=\sum _{N}{\vec {\mu }}\neq 0}.
+L'apparition de cette aimantation est donc responsable d'un paramagnétisme nucléaire, certes faible, mais mesurable.
+Cette aimantation macroscopique peut-être décrite par la loi de Curie:
+M=CB0T{\displaystyle M=C{B_{0} \over {T}}}
+
+où
+C=Nμ2k{\displaystyle C={\frac {N\mu ^{2}}{k}}}
+et k{\displaystyle k} est la constante de Boltzmann.Cette expression montre que pour augmenter le paramagnétisme nucléaire et par conséquent faciliter sa détection, il est intéressant de réaliser les mesures à basse température et avec des champs magnétiques les plus élevés possible.
+
+Les interactions internes
+La fréquence de résonance ou fréquence de Larmor des spins placés dans un champ magnétique constant ne dépend à première vue que de l'intensité du champ B0{\displaystyle B_{0}} (et du champ tournant faible B1{\displaystyle B_{1}} en cas de IRM) et du rapport gyromagnétique γ{\displaystyle \gamma }. En l'absence d'autres phénomènes affectant les spins, tous les noyaux d'un échantillon devraient alors résonner à la même fréquence, ce qui limiterait fortement l'intérêt de sa mesure sauf à vouloir uniquement déterminer quantitativement le nombre de noyaux (en utilisant la loi de Curie) ou obtenir, comme cela est le cas en physique, des informations sur la relaxation des spins et donc indirectement sur la mobilité moléculaire.
+Fort heureusement, plusieurs interactions intra- ou intermoléculaires affectent cette résonance et en modifient la fréquence légèrement. Cela permet en théorie et souvent en pratique d'avoir des informations précieuses sur :
+
+la nature et le nombre d'atomes voisins des noyaux étudiés,
+la liaison chimique,
+la conformation moléculaire,
+les distances interatomiques,
+la mobilité moléculaire,
+etc.Ces interactions peuvent être magnétiques comme c'est le cas pour le déplacement chimique et les couplages dipolaires ou électriques, ce qui est le cas de l'interaction quadripolaire.
+
+Le déplacement chimique
+Quand une molécule est placée dans le champ magnétique B0{\displaystyle B_{0}}, des courants d'électrons sont induits dans les diverses orbitales moléculaires. Des moments magnétiques sont induits par cette circulation des électrons, lesquels vont s’opposer proportionnellement à l’action du champ magnétique B0{\displaystyle B_{0}}. Le champ réellement « ressenti » localement par les noyaux n'est donc pas exactement le champ appliqué, mais se trouve réduit. De sorte que les électrons forment en définitive un écran pour les noyaux. Cet effet s'appelle le diamagnétisme en physique (appelé parfois « blindage » dans le cas de la RMN).
+D'autres effets peuvent intervenir qui sont également susceptibles de modifier le champ local, comme le paramagnétisme électronique, lorsqu’il y a des électrons délocalisés (noyaux aromatiques, liaisons chimiques fortement polarisées, électrons non appariés…) ou non appariés qui vont au contraire augmenter le champ ressenti par les noyaux. C'est alors un effet paramagnétique (appelé parfois « déblindage » dans le cas de la RMN).
+L'environnement électronique de chaque noyau est alors caractérisé par une constante d'écran pour chaque noyau qui contiendra des contributions des deux effets dia- et paramagnétique :
+σ=σdia−σpara{\displaystyle \sigma =\sigma _{dia}-\sigma _{para}}
+et le champ local ressenti est donné par :
+BLocal=B0(1−σ){\displaystyle B_{Local}=B_{0}(1-\sigma )}
+La fréquence de résonance de chaque noyau dépendra donc directement de la constante d'écran :
+νL=ν0(1−σ){\displaystyle \nu _{L}=\nu _{0}(1-\sigma )}
+La différence de fréquence δ{\displaystyle \delta } induite par les différents environnements électroniques est généralement appelée déplacement chimique, et il est pratique de la définir par rapport à une référence arbitraire et de l'exprimer en ppm en utilisant la relation suivante :
+δ=νL−νrefν0∗106{\displaystyle \delta ={\nu _{L}-\nu _{ref} \over {\nu _{0}}}*10^{6}}
+La référence choisie dépend de l'isotope étudié. Par exemple pour le 1H, 13C et 29Si, le tétraméthylsilane (ou TMS) est choisi en général. D'autres références sont nécessaires pour les autres éléments. Par exemple, pour le phosphore (31P), c'est l'acide phosphorique concentré qui sert de référence alors qu'on utilise le CCl3F pour le fluor-19.
+Les gammes de déplacement chimique sont très diverses suivant les isotopes étudiés. Les ordres de grandeur de ces gammes sont donnés dans le tableau ci-dessus.
+Dans la majeure partie des cas, les électrons n'ont pas une distribution sphérique autour du noyau. Cette distribution dépend beaucoup de la géométrie de la molécule, il en résulte que le déplacement chimique est anisotrope. Dans les solutions liquides, ce n'est pas important, car on observe qu'une valeur moyenne à cause des rapides réorientations moléculaires (mouvement brownien). Dans les solides le déplacement chimique dépend en général de l'orientation de la molécule dans le champ B0{\displaystyle B_{0}} : on parle alors d'anisotropie du déplacement chimique.
+
+Les interactions dipolaires magnétiques
+Les interactions dipolaires magnétiques entre deux spins couplés donnent lieu à une variation d'énergie de leurs états quantiques respectifs, et par conséquent modifient leurs résonances.
+Cette interaction peut exister soit directement à travers l'espace (couplage dipolaire direct), soit par l'intermédiaire des électrons situés dans les orbitales moléculaires de liaison (appelé couplage dipolaire indirect, scalaire ou encore couplage J).
+
+Les couplages dipolaires directs
+Le couplage dipolaire direct dépend de la distance rij{\displaystyle r_{ij}} entre deux noyaux i{\displaystyle i} et j{\displaystyle j} en interaction et de leurs rapports gyromagnétiques, γi{\displaystyle \gamma _{i}} et γj{\displaystyle \gamma _{j}}.
+L'intensité du couplage (souvent appelée constante dipolaire) peut être définie (en hertz) par :
+Dij=−μ0h4πγiγjrij3=−1.68×10−42γiγjrij3{\displaystyle D_{ij}=-{\frac {{\mu _{0}}h}{4{\pi }}}{\frac {{\gamma _{i}}{\gamma _{j}}}{r_{ij}^{3}}}=-1.68\times 10^{-42}{\frac {{\gamma _{i}}{\gamma _{j}}}{r_{ij}^{3}}}}
+où μ0{\displaystyle \mu _{0}} est la perméabilité magnétique du vide.
+Ainsi par exemple, deux protons séparés de 20 Å présentent une constante dipolaire de -15 kHz.
+
+Le déplacement des niveaux d'énergie produit un éclatement dipolaire, c'est-à-dire l'apparition d'un doublet à la place d'une résonance unique pour chacun des spins. La valeur de l'éclatement est donnée par :
+Δνij=kDij(3cos2⁡θij−1){\displaystyle \Delta \nu _{ij}=kD_{ij}(3\cos ^{2}\theta _{ij}-1)}
+où θij{\displaystyle \theta _{ij}} est l'orientation du vecteur internucléaire rij→{\displaystyle {\vec {r_{ij}}}}, c'est-à-dire reliant les deux noyaux, par rapport au champ appliqué B0{\displaystyle B_{0}}.
+k{\displaystyle k} vaut 3/2 si les deux noyaux sont identiques, par exemple deux protons (couplage homo-nucléaire). Il vaut 1 dans le cas de deux noyaux différents (couplage hétéro-nucléaire).
+Si les réorientations moléculaires sont très rapides comme dans les liquides, l'éclatement disparait car la moyenne (3cos2⁡θij−1)¯{\displaystyle {\overline {(3\cos ^{2}\theta _{ij}-1)}}} s'annule.
+Dans les solides, la mesure de l'interaction dipolaire est un moyen puissant d'obtenir les distances interatomiques.
+
+Les couplages dipolaires indirects ou scalaires
+Les couplages dipolaires directs (à travers l'espace) sont annulés dans les liquides, mais lorsqu'une liaison chimique existe les spins sont tout de même couplés via les électrons. Ce couplage indirect qui résiste aux réorientations moléculaires est donc souvent appelé couplage scalaire (c'est-à-dire indépendant de l'orientation). Il se nomme aussi couplage « J » en spectroscopie RMN en référence à la constante Jij{\displaystyle J_{ij}} qui en définit l'intensité.
+Le couplage dipolaire scalaire est un excellent indicateur de la présence de liaison chimique et une aide précieuse dans la détermination des structures de molécules organiques.
+
+L'interaction quadripolaire
+L'interaction quadripolaire ne concerne que les isotopes atomiques de spin égal ou supérieur à 1. Ceux-ci représentent environ les 3/4 des isotopes observables en RMN, parmi lesquels des atomes très importants en chimie comme l'oxygène (17O), l'azote (14N), le chlore (35Cl, 37Cl)…
+La principale caractéristique qui les distingue des noyaux de spin 1/2 comme l'hydrogène (1H) ou le carbone (13C), c'est la présence d'un moment quadripolaire électrique en plus du moment magnétique nucléaire. Ce moment est dû à une distribution anisotrope des charges dans le noyau. Ce moment quadripolaire électrique est susceptible d'interagir avec tous gradients de champ électrique non nul au niveau du noyau. Cette interaction quadripolaire est susceptible de modifier très fortement l'énergie des états quantiques et donc influence la fréquence de résonance et la relaxation.
+Les effets sur la fréquence de résonance disparaissent dans les liquides à cause des réorientations rapides des molécules. L'interaction quadripolaire devient nulle également si le noyau dans un solide est localisé dans un environnement très symétrique (symétrie sphérique du gradient de champ électrique).
+
+La relaxation
+Vue selon les principes de la mécanique quantique, l'absorption d'un rayonnement électromagnétique s'accompagne toujours d'un phénomène de relaxation plus ou moins rapide, c'est-à-dire en d'autres termes de la réémission des photons absorbés. Mais pour la RMN, cela n'explique pas le phénomène de relaxation qui peut aller de quelques microsecondes à plusieurs centaines de secondes. En effet, Purcell a montré que l'estimation des temps nécessaires à la relaxation par le calcul des coefficients d'Einstein montre qu'il faudrait un temps supérieur à l'âge de l'univers pour un processus d'émission spontanée et quelques centaines d'années pour une émission stimulée. La relaxation est un phénomène non radiatif (il n'y a pas d'émission de photon). Ce sont les fluctuations du champ magnétique ressenti par le noyau induites par les mouvements moléculaires qui expliquent le retour à l'équilibre (c'est le modèle BPP de Bloembergen, Purcell et Pound (1948).
+
+Mesure du signal RMN
+Le paramagnétisme nucléaire ne peut pas être mesuré directement, car l'aimantation qui en résulte a la même direction que le champ appliqué B0{\displaystyle B_{0}}, mais avec une intensité souvent négligeable surtout dans les champs magnétiques intenses utilisés en RMN, c'est-à-dire plusieurs teslas dans la plupart des cas.
+Le phénomène RMN qui consiste, comme il a été décrit plus haut, en l'absorption d'une onde électromagnétique de fréquence égale ou très proche de la fréquence de Larmor, ν0{\displaystyle \nu _{0}}, permet de mesurer ce paramagnétisme. Pratiquement, c'est la spectroscopie RMN qui est la technique la plus employée pour réaliser cette mesure.
+
+La détection inductive
+La détection du signal de résonance magnétique nucléaire par une méthode inductive est celle qui est employée dans la spectroscopie RMN traditionnelle.
+
+Spectroscopie RMN à onde continue
+La première approche développée par Bloch consistait à irradier l'échantillon placé dans un champ magnétique B0{\displaystyle B_{0}} avec une onde radiofréquence de fréquence fixe ω{\displaystyle \omega }. Le champ B0{\displaystyle B_{0}} était alors modifié jusqu'à ce que la condition de résonance soit réalisée et donc que l'absorption soit détectable.
+
+Référentiel tournant
+Que ce soit dans la représentation classique ou quantique de la mesure RMN, il est fait appel à la notion de référentiel tournant.
+
+Ceci est lié au fait que, en spectroscopie RMN, la composante magnétique du rayonnement électromagnétique radiofréquence (notée B1{\displaystyle B_{1}}) est généralement orientée dans le plan perpendiculaire à B0{\displaystyle B_{0}}. On suppose le champ B0{\displaystyle B_{0}} orienté selon l'axe z{\displaystyle z} du référentiel du laboratoire (ou référentiel terrestre); Le champ B1(t){\displaystyle B_{1}(t)} d'amplitude Brf{\displaystyle B_{rf}} oscille alors dans une direction perpendiculaire à z{\displaystyle z} (par exemple le long de l'axe x{\displaystyle x}) avec une pulsation ω{\displaystyle \omega } à la résonance égale à la pulsation de Larmor ω0{\displaystyle \omega _{0}}. Il est cependant difficile de se faire une image correcte de ce qui se passe lors de l'interaction de ce champ oscillant dans la direction x{\displaystyle x} avec les spins qui précessent à la fréquence de Larmor autour de z{\displaystyle z}.
+Tout devient plus simple en changeant de référentiel. En effet, le champ oscillant peut se décomposer en deux composantes d'amplitude constante, mais tournant en sens inverse dans le plan perpendiculaire à z{\displaystyle z} :
+B1(t)=Brfcos⁡ω0t=Brf2[eiω0t+e−iω0t]{\displaystyle B_{1}(t)=B_{rf}\cos {\omega _{0}t}={B_{rf} \over {2}}\left[e^{i\omega _{0}t}+e^{-i\omega _{0}t}\right]}
+Seule la première des deux composantes tourne dans le même sens que les spins et donc capable de produire un effet notable (car elle est synchronisée avec la précession de Larmor).
+Cette approche amène la définition d'un nouveau référentiel, le référentiel tournant, dans lequel l'axe x{\displaystyle x} tourne à la fréquence de Larmor par rapport au référentiel du Laboratoire. Dans ce nouveau référentiel, le champ magnétique Brf{\displaystyle B_{rf}} est fixe et d'amplitude constante, de même que les moments magnétiques s'il n'y a pas d'autres interactions.
+
+Champ magnétique effectif
+En utilisant les équations de Bloch dans le référentiel tournant, il apparaît que l'on peut définir le champ effectif Beff{\displaystyle B_{eff}} agissant sur les spins de la manière suivante :
+Beff→=Brf2x→+(B0−ωγ)z→{\displaystyle {\vec {B_{eff}}}={B_{rf} \over {2}}{\vec {x}}+(B_{0}-{\omega  \over {\gamma }}){\vec {z}}}
+Ceci montre que lorsque la résonance est atteinte, c'est-à-dire lorsque B0=ωγ{\displaystyle B_{0}={\omega  \over {\gamma }}}, les spins ne ressentent plus que le champ radiofréquence Beff=Brf2{\displaystyle {B_{eff}}={B_{rf} \over {2}}}. De manière générale, même lorsque l'on est légèrement hors de la résonance, la précession de Larmor a lieu autour du champ effectif.
+La polarisation est alors telle que l'aimantation a une composante dans le plan perpendiculaire à B0{\displaystyle B_{0}}, ce qui permet de mesurer l'induction qu'elle produit dans une bobine. L'induction est maximale à la résonance.
+Cette technique nécessite un balayage très lent pour que l'aimantation suive en permanence le champ effectif.
+
+Spectroscopie RMN impulsionnelle
+La méthode précédente nécessite de modifier progressivement le champ magnétique, assez lentement pour ne pas manquer la résonance. Ceci est un procédé long. La méthode impulsionnelle utilisée sur les spectromètres modernes est beaucoup plus efficace. Dans cette méthode, l'onde électromagnétique radiofréquence est délivrée sous forme d'une brève impulsion (généralement de l'ordre de quelques µs). Plus l'excitation est brève, plus le spectre de fréquences de résonance touchées est large (inversement proportionnel à la durée de l'impulsion). Le signal obtenu après l'impulsion, c'est-à-dire lors de la relaxation, peut être alors analysé par transformée de Fourier.
+
+Relaxation et détection de l'induction libre (FID)
+Dans la méthode continue, le champ radiofréquence étant appliqué en permanence la polarisation est alignée avec le champ effectif. Dans la méthode impulsionnelle, l'application du champ radiofréquence est brève, ce qui fait que chaque moment magnétique (et donc l'aimantation résultant) tourne autour de la direction du champ effectif Beff{\displaystyle B_{eff}} avec une vitesse angulaire
+ωeff=γBeff{\displaystyle \omega _{eff}=\gamma B_{eff}}
+C'est un phénomène analogue à la précession de Larmor, excepté qu'il s'agit d'une rotation dans le référentiel tournant. Vu dans le référentiel du laboratoire, il s'ajoute donc à la précession de Larmor. Le nom consacré pour désigner cette rotation est nutation.
+Pour un isotope donné, l'angle de nutation est uniquement déterminé par la durée et l'amplitude de champ radiofréquence appliqué lors de l'impulsion.
+Ainsi, si la durée de l'impulsion τ{\displaystyle \tau } est telle que ωeffτ=π/2{\displaystyle \omega _{eff}\tau ={\pi /2}}, Le signal mesuré par induction dans une bobine, dont l'axe est orienté dans une direction perpendiculaire à B0{\displaystyle B_{0}}, est alors à son maximum.
+Immédiatement après l'impulsion l'aimantation retourne progressivement vers l'état initial grâce à la relaxation. Cela donne lieu à une modification du signal mesuré correspondant à la variation de l'induction libre (souvent appelée FID, c'est-à-dire «Free induction Decay» en anglais). Deux constantes de temps, T1{\displaystyle T_{1}} et T2{\displaystyle T_{2}}, sont nécessaires qui caractérisent le retour à l'équilibre de l'aimantation :
+
+T1{\displaystyle T_{1}} (relaxation longitudinale) décrit la restauration de l'aimantation dans la direction z{\displaystyle z} ;
+et T2{\displaystyle T_{2}} décrit la décroissance de l'aimantation dans le plan (x,y){\displaystyle (x,y)} (on parle de relaxation transverse).En pratique, cependant, la relaxation transverse est généralement décrite par un temps T2*, inférieur à T2, car la décroissance réelle de l'aimantation est amplifiée par les inhomogénéités du champ magnétique statique.
+
+Le principe de l'imagerie RMN
+La méthode de détection inductive des signaux RMN s'applique à des échantillons macroscopiques. Dans un champ homogène d'intensité B0{\displaystyle B_{0}}, tous les spins nucléaires placés dans un même environnement résonnent à la même fréquence de Larmor, quelle que soit leur localisation spatiale dans l'échantillon. Pour pouvoir réaliser une image, c'est-à-dire localiser les noyaux résonants dans un échantillon, il faut donc placer l'échantillon non pas dans un champ homogène, mais dans un champ inhomogène, de sorte que chaque noyau puisse résonner à une fréquence dépendant de sa position dans l'échantillon.
+Pratiquement, un gradient de champ ΔB{\displaystyle \Delta B} est ajouté au champ principal dans trois directions orthogonales afin de pouvoir localiser les spins dans l'espace. La résolution spatiale est principalement déterminée par l'intensité du gradient, c'est-à-dire l'amplitude de la variation du champ magnétique en fonction de la distance. En effet, la variation de fréquence entre deux points est directement proportionnelle à ce gradient:
+Δω0=γΔB0{\displaystyle \Delta \omega _{0}=\gamma \Delta B_{0}}
+Dans sa version la plus simple, il suffit de modifier progressivement la fréquence de détection pour observer une région particulière de l'espace. Cependant, ceci est un processus trop long pour des applications pratiques, notamment en médecine. Sur les imageurs modernes, les gradients de champs sont pulsés et les signaux traités par transformée de Fourier, ceci afin d'accélérer les temps de mesures.
+
+La détection optique
+Les signaux RMN peuvent être détectés par des techniques alternatives à la mesure d'une induction magnétique. Ainsi il est possible d'utiliser une détection optique, par exemple, en observant la rotation du plan de polarisation d’un faisceau laser induite par l’aimantation nucléaire. Cette rotation est corrélée à la fréquence de résonance des spins nucléaires. Baptisée « NSOR » (pour Nuclear Spin Optical Rotation), la technique a été testée sur de l'eau et du xénon liquide.
+
+La détection mécanique
+Ce type de détection est employé dans la technique de microscopie à force de résonance magnétique (MRFM).
+Le concept à la base de la technique MRFM combine les idées de l'imagerie par résonance magnétique (IRM) et la microscopie à force atomique (AFM). L'IRM conventionnelle utilise une bobine d'induction et un gradient de champ magnétique comme décrit précédemment. La technique MRFM utilise une petite pointe ferromagnétiques (fer/cobalt) pour détecter directement la force magnétique entre l'échantillon et la pointe, lorsqu'elle se rapproche de l'échantillon.Le déplacement est mesuré avec un interféromètre (faisceau laser) pour créer une série d'images 2-D de l'échantillon, qui sont éventuellement combinées pour produire une image 3-D.
+
+La détection SQUID
+Un SQUID (de l'anglais Superconducting Quantum Interference Device) est un magnétomètre utilisé pour mesurer des champs magnétiques très faibles.
+Les SQUIDs peuvent être utilisés comme détecteurs RMN. Ils permettent d'utiliser des champs de l'ordre du microtesla. En effet, comme le signal RMN diminue comme le carré du champ magnétique, un SQUID est utilisé comme détecteur en raison de son extrême sensibilité.
+
+La description quantique de la résonance magnétique nucléaire
+La compréhension avancée de la résonance magnétique nucléaire fait nécessairement appel à la mécanique quantique, car le phénomène RMN concerne les spins nucléaires qui sont des objets purement quantiques et qui n'ont donc aucun équivalent en mécanique classique.
+Comme cela a été utilisé implicitement dans les sections précédentes (cf. Quantification du moment magnétique ↑), un noyau de spin nucléaire S{\displaystyle S} est régi par deux équations aux valeurs propres fondamentales, qui concernent S^2{\displaystyle {\hat {S}}^{2}}, le carré de l'opérateur moment angulaire de spin S^{\displaystyle {\hat {S}}}, et S^z{\displaystyle {\hat {S}}_{z}}, l'opérateur de projection du spin sur l'axe z selon lequel est appliqué le champ magnétique B0{\displaystyle B_{0}} externe (voir spin) :
+
+S^2|Ψ⟩=S(S+1)ℏ2|Ψ⟩{\displaystyle {\hat {S}}^{2}\vert \Psi \rangle =S(S+1)\hbar ^{2}\vert \Psi \rangle }
+S^z|Ψ⟩=mSℏ|Ψ⟩{\displaystyle {\hat {S}}_{z}\vert \Psi \rangle =m_{S}\hbar \vert \Psi \rangle }Les vecteurs propres, solutions de ces deux équations, c'est-à-dire les états quantiques propres du spin, dépendent donc de deux nombres quantiques, S{\displaystyle S} et mS{\displaystyle m_{S}}. On les écrira de manière générale |Ψ⟩=|S,mS⟩{\displaystyle \vert \Psi \rangle =\vert S,m_{S}\rangle } avec −S≤mS≤S{\displaystyle -S\leq m_{S}\leq S}.
+Il y a donc 2S+1{\displaystyle 2S+1} vecteurs propres, c'est-à-dire par exemple deux états quantiques pour un spin S=1/2{\displaystyle S=1/2} comme celui du proton.
+Pour décrire complètement le phénomène RMN, les opérateurs de montée et de descente sont également utiles :
+
+S^+=S^x+iS^y{\displaystyle {\hat {S}}_{+}={\hat {S}}_{x}+i{\hat {S}}_{y}}
+S^−=S^x−iS^y{\displaystyle {\hat {S}}_{-}={\hat {S}}_{x}-i{\hat {S}}_{y}}L'action de ces opérateurs sur les états quantiques peut s'écrire :
+
+S^±|S,mS⟩=S(S+1)−mS(mS±1)|S,mS±1⟩{\displaystyle {\hat {S}}_{\pm }\vert S,m_{S}\rangle ={\sqrt {S(S+1)-m_{S}(m_{S}\pm 1)}}\vert S,m_{S}\pm 1\rangle }.Les interactions que subissent les spins sont décrites par des opérateurs hamiltoniens (exprimées ci-dessous en unités de radians par seconde) :
+
+Hamiltonien Zeeman (concerne l'interaction des spins avec le champ externe B0{\displaystyle B_{0}}) :H^Zeeman=γS^zB0=−ω0S^z{\displaystyle {\hat {H}}_{Zeeman}=\gamma {\hat {S}}_{z}B_{0}=-\omega _{0}{\hat {S}}_{z}} où ω0=2πν0{\displaystyle \omega _{0}=2\pi \nu _{0}} est la pulsation de Larmor.
+L'action de cet opérateur hamiltonien sur les états quantiques |S,mS⟩{\displaystyle |S,m_{S}\rangle } permet de calculer les énergies des niveaux Zeeman :
+EmS(0)=⟨S,mS|H^Zeeman|S,mS⟩=−ω0⟨S,mS|S^z|S,mS⟩=−mSℏω0{\displaystyle E_{m_{S}}^{(0)}=\langle S,m_{S}|{\hat {H}}_{Zeeman}|S,m_{S}\rangle =-\omega _{0}\langle S,m_{S}|{\hat {S}}_{z}|S,m_{S}\rangle =-m_{S}\hbar \omega _{0}}
+La différence d'énergie entre deux niveaux consécutifs est donc :
+ΔE(0)=EmS(0)−EmS+1(0)=ℏω0{\displaystyle \Delta E^{(0)}=E_{m_{S}}^{(0)}-E_{m_{S}+1}^{(0)}=\hbar \omega _{0}}Hamiltonien de déplacement chimique :H^σ¯¯=−γS^zσzzB0{\displaystyle {\hat {H}}_{\overline {\overline {\sigma }}}=-\gamma {\hat {S}}_{z}\sigma _{zz}B_{0}}Hamiltonien de couplage dipolaire direct hétéronucléaire entre un noyau i et un noyau j :H^DHetero=14πDij(3cos2⁡βij−1)(2S^z(i)⋅S^z(j)){\displaystyle {\hat {H}}_{D}^{Hetero}={\frac {1}{4\pi }}D_{ij}(3\cos ^{2}\beta _{ij}-1)\left(2{\hat {S}}_{z}^{(i)}\cdot {\hat {S}}_{z}^{(j)}\right)}Hamiltonien de couplage dipolaire direct homonucléaire entre un noyau i et un noyau j :H^DHomo=14πDij(3cos2⁡βij−1)(2S^z(i)⋅S^z(j)−12(S^+(i)S^−(j)+S^−(i)S^+(j))){\displaystyle {\hat {H}}_{D}^{Homo}={\frac {1}{4\pi }}D_{ij}(3\cos ^{2}\beta _{ij}-1)\left(2{\hat {S}}_{z}^{(i)}\cdot {\hat {S}}_{z}^{(j)}-{\frac {1}{2}}({\hat {S}}_{+}^{(i)}{\hat {S}}_{-}^{(j)}+{\hat {S}}_{-}^{(i)}{\hat {S}}_{+}^{(j)})\right)}Hamiltonien de couplage scalaire entre un noyau i et un noyau j :H^J=2πJijS^z(i)⋅S^z(j){\displaystyle {\hat {H}}_{J}=2\pi J_{ij}\;{\hat {S}}_{z}^{(i)}\cdot {\hat {S}}_{z}^{(j)}}Hamiltonien quadripolaire :H^Q=CQ(3S^z2−S^2+12ηQ(S^x2−S^y2)){\displaystyle {\hat {H}}_{Q}={C_{Q}}\left({3{\hat {S}}_{z}^{2}-{\hat {S}}^{2}+{\frac {1}{2}}\eta _{Q}({\hat {S}}_{x}^{2}-{\hat {S}}_{y}^{2})}\right)}L’hamiltonien total qui décrit les interactions internes sur le système de spin est alors :
+
+H^int=H^σ¯¯+H^DHetero+H^DHomo+H^J+H^Q{\displaystyle {\hat {H}}_{int}={\hat {H}}_{\overline {\overline {\sigma }}}+{\hat {H}}_{D}^{Hetero}+{\hat {H}}_{D}^{Homo}+{\hat {H}}_{J}+{\hat {H}}_{Q}}L’hamiltonien total d'interaction décrivant un système de spin en présence d'un champ externe est donné par la somme de tous ces hamiltoniens :
+
+H^=H^Zeeman+H^int{\displaystyle {\hat {H}}={\hat {H}}_{Zeeman}+{\hat {H}}_{int}}Lorsque l’hamiltonien H^Zeeman{\displaystyle {\hat {H}}_{Zeeman}} est suffisamment grand devant H^int{\displaystyle {\hat {H}}_{int}}, c'est-à-dire lorsque le champ B0{\displaystyle B_{0}} est fort devant les champs locaux internes, l'énergie de chaque niveau est alors donnée par la théorie des perturbations. À l'exception du cas plus délicat de l'interaction quadripolaire, il suffit en général de calculer une correction au premier ordre et donc l'énergie des différents niveaux Zeeman devient :
+
+EmS=EmS(0)+⟨S,mS|H^int|S,mS⟩{\displaystyle E_{m_{S}}=E_{m_{S}}^{(0)}+\langle S,m_{S}|{\hat {H}}_{int}|S,m_{S}\rangle }
+
+Impulsions radiofréquence
+L’hamiltonien H^1{\displaystyle {\hat {H}}_{1}} qui concerne l'interaction des spins avec le champ radiofréquence, de fréquence ω{\displaystyle \omega }, appliqué dans la direction x perpendiculaire au champ B0{\displaystyle B_{0}} pour provoquer des transitions entre niveaux Zeeman (Oscillations de Rabi), B1eiωt{\displaystyle B_{1}e^{i\omega t}}, avec B1=Brf/2{\displaystyle B_{1}=B_{rf}/2} (voir Référentiel tournant ↑), peut s'écrire :
+
+H^1(t)=γB1eiωtS^x=−ω1eiωtS^x{\displaystyle {\hat {H}}_{1}(t)=\gamma B_{1}e^{i\omega t}{\hat {S}}_{x}=-\omega _{1}e^{i\omega t}{\hat {S}}_{x}} avec ω1=−γB1{\displaystyle \omega _{1}=-\gamma B_{1}}.En spectroscopie RMN impulsionnelle qui est la méthode habituelle utilisée aujourd'hui cet hamiltonien n'est effectif que pendant la durée des impulsions.
+Cet hamiltonien est rendu indépendant du temps en l'exprimant dans le Référentiel tournant:
+
+H^1~=ΩS^z−ω1S^x{\displaystyle {\tilde {{\hat {H}}_{1}}}=\Omega {\hat {S}}_{z}-\omega _{1}{\hat {S}}_{x}}où l'offset Ω=ω−ω0{\displaystyle \Omega =\omega -\omega _{0}} correspond au fait que le champ radiofréquence est éventuellement appliqué « off-résonance ».
+Pour le calcul des effets des impulsions radiofréquence, la contribution des interactions internes est généralement négligée et l’hamiltonien est alors le seul hamiltonien effectif pendant les impulsions.
+
+Opérateur densité
+La physique statistique montre qu’un système de particules identiques est décrit par la Loi de Stefan-Boltzmann. Dans le cadre de la mécanique quantique, l’équivalent de cette loi est l’opérateur densité (ou matrice densité). Cet opérateur permet de résumer en une seule matrice l'ensemble des états quantiques possible d'un système physique donné, combinant de la sorte mécanique quantique et physique statistique.
+Pour un ensemble de spins à température ambiante, cet opérateur peut s’approximer comme :
+
+ρ^eq∼H^kBT{\displaystyle {\hat {\rho }}_{eq}\sim {\frac {\hat {H}}{k_{B}T}}}ce qui signifie donc qu’à une température donnée et pour un ensemble de spins sans interaction, l’opérateur densité est proportionnel à S^z{\displaystyle {\hat {S}}_{z}} :
+
+ρ^eq∝S^z{\displaystyle {\hat {\rho }}_{eq}\propto {\hat {S}}_{z}}L’application d’impulsion radiofréquence (opérateur H^1{\displaystyle {\hat {H}}_{1}}) ou l’évolution du système sous l’effet des interactions internes (opérateur H^int{\displaystyle {\hat {H}}_{int}}), modifie l’opérateur densité :
+
+ρ^(0)=ρ^eq→tH^1,H^intρ^(t){\displaystyle {\hat {\rho }}(0)={\hat {\rho }}_{eq}{\xrightarrow[{t}]{{\hat {H}}_{1},{\hat {H}}_{int}}}{\hat {\rho }}(t)}L’évaluation de l’opérateur densité à n’importe quel moment de son évolution temporelle permet de prédire le comportement du système de spins. Ce calcul est parfois possible analytiquement, mais est aussi largement facilité par le recours à des programmes de simulations, tels que GAMMA ou SIMPSON.
+
+Les applications de la résonance magnétique nucléaire
+La RMN en spectroscopie
+Spectroscopie RMN en chimie organique
+La spectroscopie RMN est un des outils d'analyse les plus utilisés en chimie organique.
+Les noyaux les plus souvent étudiés sont l'1H, le 13C, le 31P et le 19F de spin nucléaire égal à 1/2.
+Sont étudiés également l'17O de spin 5/2 et l'14N de spin 1.
+
+Spectroscopie RMN en biologie structurale
+À côté de la radiocristallographie, la RMN est devenue une méthode d'étude des macromolécules biologiques en biologie structurale. Elle ne nécessite pas l'obtention de monocristaux et permet d'étudier des protéines, des acides nucléiques à des concentrations millimolaires. Les techniques de RMN multidimensionnelles conduisent à corréler les fréquences de plusieurs spins et de résoudre les ambigüités liées aux superpositions spectrales. Des protéines de masse moléculaire de 10 à 30 kDa peuvent être analysées ainsi que des oligonucléotides de plusieurs dizaines de paires de bases.
+
+Spectroscopie RMN des solides
+La spectroscopie RMN des solides est une technique en plein essor qui bénéficie en particulier de l'augmentation grandissante des performances des spectromètres.
+
+Hyperpolarisation
+L'hyperpolarisation est la polarisation du spin nucléaire bien au-delà des conditions d'équilibre thermique. Elle est généralement appliquée aux gaz tels que 129Xe et 3He qui sont ensuite utilisés, par exemple, en imagerie par résonance magnétique (IRM) des poumons ou pour l'étude des matériaux poreux.
+D'autres méthodes d'hyperpolarisation nucléaire existent telles que la technique de Polarisation dynamique nucléaire (DNP) appliquée pour les matières solides à des températures cryogéniques et l'utilisation de parahydrogène dans les réactions chimiques dans des solutions liquides (PHIP).
+la DNP de noyaux tels que 13C ou 15N à des températures typiques d'environ 1 K peut être couplée à une dissolution rapide ultérieure, fournissant une solution hyperpolarisée à la température ambiante. Ce liquide peut être utilisé dans l'imagerie métabolique in vivo pour l'oncologie.
+
+La RMN en imagerie médicale et biophysique
+L'imagerie par résonance magnétique nucléaire (IRM) est une technique d'imagerie médicale permettant d'avoir une vue 2D ou 3D d'une partie du corps. Cette technique est très utile pour l'observation du cerveau. Grâce aux différentes séquences (séquence IRM), on peut observer différents tissus avec des contrastes très élevés, car la résolution en contraste est nettement meilleure que celle du scanner.
+
+La RMN en informatique quantique
+Voir Ordinateur quantique par RMN (en)
+L'informatique quantique RMN utilise les états de spin de molécules comme qubits. RMN diffère d'autres implémentations des ordinateurs quantiques en ce qu'il utilise un ensemble moléculaire. L'ensemble est initialisé à l'état d'équilibre thermique (voir la mécanique statistique).
+
+La RMN et l'imagerie dans le champ terrestre
+Dans le champ magnétique de la Terre, les fréquences RMN sont dans la gamme de fréquences audio, ou de la bande de fréquence très basse du spectre des fréquences radio. La RMN en champ terrestre est exploitée dans certains types de magnétomètres, en spectroscopie RMN en champ terrestre (EFNMR) et imagerie par résonance magnétique nucléaire (IRM). Leur caractère portable et peu onéreux rend ces instruments précieux pour utilisation sur le terrain (par exemple, pour l'étude de la glace en Antarctique) et pour l'enseignement des principes de la RMN et l'IRM.
+
+La résonance quadripolaire nucléaire
+La spectroscopie de résonance quadripolaire nucléaire ou RQN est une technique analytique liée à la RMN.
+Elle s'applique uniquement aux noyaux de spin ≥ 1, tels que l'azote 14N, 35Cl et 63Cu, qui ont un moment quadripolaire électrique en plus de leur moment magnétique nucléaire. Ceci entraine une levée de dégénérescence sous le seul effet des gradients de champ électriques au niveau du noyau. Ces gradients sont provoqués par les distributions électroniques non isotropes. Les transitions entre différents états du spin nucléaire peuvent alors se produire même en l'absence de champ magnétique appliqué (voir Interaction quadripolaire) ; la technique est parfois appelée « RMN en champ nul ».
+Cependant, la RQN ne peut être mesurée que pour les solides, car pour les liquides les mouvements browniens moyennent l'interaction quadripolaire à zéro.
+Les applications concernent en particulier la détection des explosifs (contenant de l'azote),.
+
+Notes et références
+Notes
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Nuclear magnetic resonance » (voir la liste des auteurs).
+
+Références
+Bibliographie
+Ouvrages de base
+(en) M. H. Levitt, Spin dynamics : Basics of nuclear magnetic resonance, John Wiley & Sons, 2008, 2e éd., 714 p. (ISBN 978-0-470-51117-6, présentation en ligne)
+
+Autres Ouvrages
+Généraux
+(en) Anatole Abragam, The Principles of Nuclear Magnetism, Oxford, Oxford University Press, 1994, 599 p., poche (ISBN 978-0-19-852014-6, LCCN 61002889, lire en ligne), La « bible » (difficile) ou sa traduction française "Les principes du magnétisme nucléaire", Édition Saclay Institut national des sciences et techniques nucléaires Paris Presses universitaires de France 1961
+(en) C. P. Slichter, Principles of Magnetic Resonance (Springer Series in Solid-State Sciences), Springer, 1989, 658 p. (ISBN 978-3-540-50157-2, lire en ligne)
+(en) M. Mehring, Principles of High Resolution Nmr in Solids, Berlin, Springer-Verlag, 1983, 2e éd., 344 p. (ISBN 978-0-387-11852-9, LCCN 82010827)
+
+Spectroscopie RMN
+Daniel Canet, Le RMN : concepts et méthodes, Interéditions, 1991, 274 p. (ISBN 978-2-7296-0375-5)
+(en) James Keeler, Understanding NMR Spectroscopy, Chichester, Wiley, 2010, 476 p., poche (ISBN 978-0-470-01787-6, LCCN 2005022612)
+Alain Fruchier, Catherine Gautier, Nicolas Sard, Enseigner la molécule. Stéréochimie et spectroscopie, CRDP de Grenoble, « Focus », 2013, p. 115-167 ; 199-210  (ISBN 978-2-8662-2893-4)
+
+Imagerie et microscopie RMN
+(en) E. Mark Haacke et Robert W. Brown, Michael R. Thompson, Ramesh Venkatesan, Magnetic Resonance Imaging : Physical Principles and Sequence Design, New York, Wiley-Liss, 1999, 944 p. (ISBN 978-0-471-35128-3, LCCN 99022880)
+(en) Paul Callaghan, Principles of Nuclear Magnetic Resonance Microscopy, Oxford, Oxford University Press, USA, 1994, 1re éd., 492 p., poche (ISBN 978-0-19-853997-1, LCCN 91008439, lire en ligne)
+(en) Robin A. de Graaf, In Vivo NMR Spectroscopy : Principles and Techniques, Chichester, Wiley-Interscience, 2008, 2e éd., 592 p. (ISBN 978-0-470-02670-0, LCCN 2007018548)
+
+RMN en informatique
+(en) I. Oliveira, R. Sarthour, T. Bonagamba, E. Azevedo, J. C. C. Freitas, Nmr Quantum Information Processing, Amsterdam, Elsevier Science Ltd, 2007, 1re éd. (ISBN 978-0-444-52782-0, LCCN 2010293017)
+
+Encyclopédies
+(en) D.M. Grant (dir.) et R. K. Harris (dir.), Encyclopedia of Nuclear Magnetic Resonance, Wiley, 2003, 6490 p. (ISBN 0-470-84784-0)
+
+Voir aussi
+Articles connexes
+Spectroscopie RMN
+Spectroscopie RMN multidimensionnelle
+Imagerie par résonance magnétique
+Oscillations de Rabi Portail de la physique   Portail de la chimie

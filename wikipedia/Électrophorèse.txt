@@ -1,0 +1,55 @@
+L’électrophorèse est le mouvement de particules électriquement chargées en colloïde ou de molécules chargées dissoutes, relativement à un fluide et sous l'influence d'un Champ électrique spatialement uniforme. L'électrophorèse permet de différencier des espèces chargées, notamment des protéines, après leur déplacement dans un champ électrique.
+L’électrophorèse est — avec la chromatographie — la principale des techniques utilisées en biologie pour la séparation et la caractérisation d'espèces. Elle a quelques applications en chimie, mais est principalement utilisée en biochimie ou biologie moléculaire pour la séparation des protéines ou des acides nucléiques. Dans un milieu donné, la séparation des espèces se fait en fonction de leur charge électrique et pour des charges identiques, en fonction de leur taille.
+
+Description
+La technique de l'électrophorèse est fondée sur le déplacement d'ions (espèces chargées positivement ou négativement) sous l'effet d'un champ électrique. Du fait de leurs caractéristiques propres et en fonction des conditions de l'électrophorèse, ces ions auront des vitesses de migration différentes, ils vont donc se séparer les uns des autres.
+Les cations (+) migrent vers la cathode (-) et les anions (-) se déplacent vers l'anode (+).
+Sur les acides nucléiques, les charges sont portées par les groupements phosphate du squelette.
+Sur les protéines, la situation est plus complexe et il existe différents types de groupements ionisables :
+
+ceux pouvant acquérir une charge négative :
+les fonctions acide carboxylique (-COOH) de l'acide glutamique, de l'acide aspartique et de l'extrémité C-terminale de la chaîne polypeptidique,
+la fonction thiol (-SH) de la cystéine,
+les fonctions alcool (-OH) de la sérine, de la thréonine et de la tyrosine ;
+ceux pouvant acquérir une charge positive :
+la fonction guanido de l'arginine,
+la fonction imidazole de l'histidine,
+la fonction amine (-NH2) de la  lysine et de l'extrémité N-terminale de la chaîne polypeptidique.La charge nette d'une protéine dépend donc en général de sa composition en acides aminés et du pH.
+
+Électrophorèse en veine liquide
+Le champ électrique est fourni par un générateur de courant continu. Le support de ce champ est constitué par une solution tampon de pH et de concentration convenables dont les ions conduisent le courant d'un pôle à un autre. Ce support peut être liquide : on parle alors d'électrophorèse en veine liquide (mise au point par Arne Tiselius en 1937).
+
+Électrophorèse de zones
+Les principales applications utilisent un support poreux stabilisant la phase liquide : on parle alors d'électrophorèse sur support ou d'électrophorèse de zones. Le mélange à séparer est déposé sur un support convenable, poreux et imprégné de tampon. Le support doit être homogène, poreux et inerte. En fait, la condition d'inertie n'est jamais respectée et le support joue un rôle plus ou moins important dans la séparation.
+Les types d'électrophorèses de zones sont souvent nommés en fonction du type de support : électrophorèse sur papier, électrophorèse sur acétate de cellulose, électrophorèse sur gel (amidon, agar, agarose, polyacrylamide, etc.).
+Il en existe de nombreux types, dont : focalisation isoélectrique (électrophorèse dans un gradient de pH) ; électrophorèse bidimensionnelle ; électrophorèse en champ pulsé ; immuno-électrophorèse (pour détecter une interaction antigène-anticorps).
+
+Électrophorèse sur gel
+En biochimie, l'électrophorèse sur gel est utilisée pour séparer les macromolécules biologiques (par exemple l'ADN) en fonction de leur taille et de leur charge électrique. Le gel est constitué d'une matrice de polymère baignant dans un tampon d'électrophorèse conducteur. Pour reprendre l'exemple de l'ADN, comme c'est une molécule chargée négativement, si on la met à un endroit sur le gel et qu'on fait passer un courant dans le gel, elle migre de la borne moins vers la borne plus. Au cours de cette migration, les brins d'ADN de petite taille migrent plus vite que les brins plus gros ; le gel agit comme un tamis pour séparer les brins d'ADN en fonction de leur taille. Ainsi, au bout d'un certain temps de migration, les petites molécules d'ADN ont parcouru une plus grande distance que les molécules d'ADN plus grandes, qui se trouvent plus près de la position d'origine.
+Deux principaux polymères sont utilisés : l'agarose et le polyacrylamide. On peut faire varier la concentration de polymère par rapport à celle du tampon, ainsi que son taux de réticulation. Plus le polymère est concentré et réticulé, et plus la taille des pores du gel est petite. On peut ainsi ajuster les propriétés du gel à la taille des molécules à analyser. Dans l'électrophorèse sur gel d'agarose, l'agarose est utilisé à des concentrations de 0,5 % à 2 % (masse ou volume) et permet de séparer des molécules de très grande taille, principalement de l'ADN ou de l'ARN. Dans l'électrophorèse sur gel de polyacrylamide (ou PAGE pour Poly-Acrylamide Gel Electrophoresis), le polyacrylamide est utilisé à des concentrations de 4 % à 20 % (masse ou volume) et permet de séparer des molécules plus petites : protéines, peptides et des fragments d'acides nucléiques. On peut aussi faire varier sa réticulation (taux de ramification) lors de la polymérisation pour moduler les paramètres de séparation. 
+Pour les deux types de polymères, le gel peut se faire en conditions natives ou en conditions dénaturantes (électrophorèse sur gel en gradient dénaturant). Dans ce second cas, on ajoute un agent dénaturant dans le tampon : un détergent, le SDS pour la séparation des protéines (on parle alors de SDS-PAGE), un agent chaotropique, l'urée, pour les acides nucléiques.
+
+Utilisations médicales
+L'électrophorèse permet de séparer et d'identifier les protéines présentes dans les liquides organiques, notamment dans le sang (plasma/sérum). Dans une électrophorèse du plasma sanguin normale, l'albumine migre rapidement et sa concentration est élevée, à l'inverse des gammaglobulines. L'électrophorèse peut également permettre l'étude des protéines dans l'urine, les larmes ou le liquide cérébrospinal (liquide céphalo-rachidien).
+En cas de suspicion de pic monoclonal, une immuno-électrophorèse ou une immunofixation peuvent être réalisées.
+
+Utilisations non médicales
+Certains sociétés et laboratoires d'analyses génétiques utilisent la technique de l'électrophorèse sur l'ADN pour obtenir des images décoratives qui représentent le profil génétique, ou bien imitent l'image générée par l'électrophorèse pour créer lesdites images.
+
+Notes et références
+Annexes
+Articles connexes
+Cuve d'électrophorèse
+Protéomique
+Biophysique
+Cataphorèse
+Migration (matière)
+Spectrométrie de masse
+Spectrométrie de mobilité ionique
+Techniques de biologie moléculaire
+Diélectrophorèse
+Électrorotation
+
+Lien externe
+
+ Portail de la biochimie   Portail de la biologie cellulaire et moléculaire   Portail de la chimie

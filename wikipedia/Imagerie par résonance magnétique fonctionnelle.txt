@@ -1,0 +1,127 @@
+L’imagerie par résonance magnétique fonctionnelle (IRMf) est une application de l'imagerie par résonance magnétique permettant de visualiser, de manière indirecte, l'activité cérébrale. Il s'agit d'une technique d'imagerie utilisée pour l'étude du fonctionnement du cerveau. Elle consiste à enregistrer des variations hémodynamiques (variation des propriétés du flux sanguin) cérébrales locales minimes, lorsque ces zones sont stimulées. La localisation des zones cérébrales activées est basée sur l'effet BOLD (Blood Oxygen Level Dependant), lié à l’aimantation de l’hémoglobine contenue dans les globules rouges du sang. Cette technique ne présente aucun danger connu pour la santé des sujets.
+
+Historique
+Charles Roy et Charles Sherrington furent les premiers à faire le lien entre l'activité cérébrale et le flux sanguin, à l'université de Cambridge.
+
+Principe
+Dans les zones activées par la tâche, une petite augmentation de la consommation d'oxygène par les neurones est surcompensée par une large augmentation de flux sanguin. Il en résulte une diminution de la concentration de désoxyhémoglobine. Vu les propriétés paramagnétiques de cette dernière, le signal IRM (temps de relaxation T2* des noyaux d'hydrogène de l'eau) augmente légèrement pendant les périodes d'activation. De façon plus précise, ce sont les différences de susceptibilité magnétique entre les différents milieux (intra- extra-vasculaires) qui entourent le noyau d'hydrogène (proton) qui jouent un rôle important. En effet, des différences de susceptibilité magnétique entre les différents milieux vont induire des variations locales de champ magnétique qui vont perturber le temps de relaxation T2* des noyaux d'hydrogène.
+Ainsi, in vivo, le milieu extravasculaire possède une faible susceptibilité magnétique, tout comme le sang oxygéné. C'est en revanche l'inverse pour le sang non-oxygéné qui possède une forte susceptibilité magnétique. À la frontière entre les vaisseaux possédant du sang peu oxygéné (veinules) et le milieu extravasculaire, il va y avoir une perturbation du champ magnétique qui va donc diminuer le temps de relaxation T2* des protons. Lors de l'effet BOLD, l'activation neuronale va augmenter la concentration en sang oxygéné dans les capillaires adjacents ce qui va donc augmenter le temps de relaxation T2* des protons autour des vaisseaux. Ce sont ces augmentations de signal qui sont donc mesurées en IRMf. Cette variation est très faible, et nécessite des méthodes statistiques puissantes pour être mise en évidence.
+
+Technologie
+Principes généraux
+Il s'agit de la capture par une IRM de séquences spécifiques : des séquences echo-planar T2* (ce sont des séquences d'IRM spécifiques) permettant de mettre en évidence le signal BOLD. On obtient ainsi pour chaque voxel une valeur du signal Bold, l'ensemble des voxels correspondant à ce qui est appelé cartes paramétriques. La comparaison statistique des cartes paramétriques seuillées permet de créer des cartes d'activation. Lorsque ces cartes d'activation sont superposées à une IRM cérébrale standard, on obtient l'image classique d'une IRM fonctionnelle (cf l'image en début d'article). L'étude statistique plus poussée de ces cartes d'activation peut permettre de faire de la connectivité fonctionnelle, c'est-à-dire de faire un lien entre différentes zones cérébrales utilisées lors d'une même tâche.
+
+Signal BOLD
+Le signal BOLD est basé sur l'utilisation de deux principes :
+La désoxyhémoglobine (hémoglobine non liée au dioxygène) est paramagnétique. L’hémoglobine se trouve sous deux formes : 
+
+les globules rouges oxygénés par les poumons contiennent de l’oxyhémoglobine, une molécule non active en IRM ;
+les globules rouges désoxygénés par les tissus contiennent de la désoxyhémoglobine qui elle est paramagnétique, c'est-à-dire que sous l'effet d'un champ magnétique (produit par l'IRM) elle va acquérir une aimantation dirigée dans le même sens que le champ magnétique, détectable par l'IRM.L'activité cérébrale entraîne des modifications hémodynamiques. Ce phénomène est appelé couplage neurovasculaire. Dans les zones cérébrales activées, c'est-à-dire où les neurones sont stimulés, on observe à la fois une augmentation de la consommation en oxygène et une augmentation du débit sanguin cérébral local. Mais l'augmentation du débit sanguin cérébral est proportionnellement plus importante que la consommation d'oxygène, le ratio de la consommation sur le débit diminue donc. Cela entraîne une diminution relative de la désoxyhémoglobine, qui peut être enregistrée par l'IRM. Elle correspond à l'augmentation du paramètre T2*, cette variation est de l'ordre de 1 %.
+
+Réponse impulsionnelle (Fonction de réponse hémodynamique)
+Il s'agit de la variation du paramètre T2* à la suite d'un stimulus cérébral. Elle peut être représentée par une courbe (intensité du signal en fonction du temps), le pic d'intensité se situant environ cinq secondes après le stimulus, suivie d'une diminution (sous la ligne de base), le retour à la ligne de base s'effectuant au bout de 25 à 30 secondes. Ces réponses impulsionnelles sont enregistrées pour chaque voxel tout au long de l'expérience mais elles ne peuvent être correctement estimées que dans les voxels ou les régions réellement engagés dans la tâche.
+
+Applications
+Voici quelques exemples d'utilisation de l'IRM fonctionnelle.
+
+Cliniques
+L'IRMf est utilisée en clinique pour déterminer la localisation de régions fonctionnelles chez des patients. Le plus souvent cet examen est demandé dans le cadre d'un bilan pré-chirurgical pour savoir où se trouvent les aires du langage ou de la motricité par rapport à la lésion. Cet examen aide le chirurgien à évaluer les risques de l'opération et à préparer son geste. Chez un patient souffrant de douleurs de désafférentation, l'IRM fonctionnelle permet un repérage pré-opératoire de l'aire motrice où sera implanté le stimulateur électrique (afin de faire diminuer la douleur).
+
+Type de design expérimentaux
+Une des caractéristiques de l’IRMf est de générer des images qui sont la représentation d’une différence entre deux états de l’activité cérébrale. Dans les designs expérimentaux, deux « états » différents sont définis. Pour produire des résultats valides, il faut créer une expérimentation dans laquelle on émet l’hypothèse que deux états cérébraux (avant/après, avec/sans, etc.) sont susceptibles d’être liés à un phénomène cognitif quelconque et on exclut tous les autres facteurs « accidentels » qui pourraient survenir simultanément au phénomène à observer.
+
+Bloc (block design)
+Le bloc design consiste à présenter alternativement (souvent aléatoirement) pendant une période de temps spécifique (secondes ou fraction de seconde) différents blocs de conditions expérimentales (ON), intercalés avec la condition de contrôle (OFF). On cherche à déceler dans le cerveau les changements locaux qui correspondent aux changements de bloc. Ce design permet un meilleur rapport signal/bruit par sommation des réponses, mais peut causer, chez le sujet, une certaine habituation aux stimuli qui peuvent devenir prévisibles.
+
+Évènementiel
+Dans ce design, les différentes conditions sont présentées alternativement (ou aléatoirement), mais ne sont pas regroupées en bloc, ce qui minimise l’anticipation et l’habituation. On cherche les changements dans l’activation du cerveau qui seraient corrélés avec les changements de condition. Ce design a l’avantage de permettre l’analyse d’une catégorie de réponses déterminée a posteriori (les essais corrects par exemple). Il propose un modèle de réponse plus fin puisqu’il ne suppose pas un état stationnaire pendant les blocs de stimulation.
+
+Recherche
+Études de connectivité fonctionnelle.
+
+Psychologie cognitive et comportementale
+Psychiatrie
+
+Utilisation commerciale
+L'IRMf a parfois été utilisée à des fins de marketing, pour enregistrer les réactions des clients face à un produit, ou encore comme détecteur de mensonges. Ces usages sont cependant plutôt controversés.
+
+Déroulement de l'examen et risques associés
+Déroulement
+L'enregistrement du signal demande une coopération du patient, généralement dans le but d'alterner des périodes d'activité cérébrales (par exemple bouger les doigts de la main droite) avec des périodes de repos. Pendant ce temps sont acquises des images de l'intégralité du cerveau toutes les 1,5 à 6 secondes (correspond à la résolution temporelle moyenne classiquement utilisée en recherche).
+Au cours de l'examen, le patient doit réaliser des tâches selon des consignes précises expliquées avant l'examen. Par exemple, il doit faire un mouvement de la main droite pendant 20 secondes toutes les 50 secondes, ou bien il doit trouver des mots commençant par la lettre désignée par la consigne ; pour cela un signal lui est donné pendant l'acquisition des images soit par un écran soit par un casque audio.
+
+Risques associés à l'expérimentation
+Fort champ magnétique
+Le travail en présence d’un fort champ magnétique exige des règles de sécurité très strictes. Par exemple, tout accessoire métallique (bijoux, montres, lunettes, etc.) doit être retiré. L’IRM est non recommandée pour les femmes enceintes (des précautions doivent être prises), les personnes avec un pacemaker, les personnes fiévreuses, diabétiques ou avec des problèmes circulatoires, ceux-ci devant être monitorés, étant donné l’augmentation de la température du corps que cause l'IRMf.
+
+Confinement
+Le sujet est confiné dans l’imageur IRM et a la tête immobilisée. Le niveau de stress du patient peut augmenter si celui-ci est claustrophobe. Le moindre mouvement peut causer des artéfacts (les tâches de productions de parole causent donc problème),.
+
+Bruit important
+Le bruit généré par les bobines de gradients pendant l’acquisition des images est très élevé et nécessite le port de bouchons ou d’écouteurs par le sujet. Ce bruit reste présent dans les données et peut nuire dans une tâche où des stimuli audios sont utilisés.
+Exemple du bruit à écouter sur YouTube
+
+Avantages, désavantages, comparaison
+Avantages
+Résolution spatiale
+La résolution spatiale (RS) de l’IRMf est la meilleure offerte par les techniques d’imagerie fonctionnelle, mise à part la technique très intrusive de l’électroencéphalographie intracrânien. Elle est de l’ordre de quelques millimètres à un millimètre, selon l’intensité du champ magnétique. La RS de l’IRMf est supérieure à celle de la tomographie par émission de positrons (quelques mm) et que celle de la magnétoencéphalographie (quelques mm à 1 cm).
+
+Non invasif
+L’IRMf (à l’inverse de la tomographie par émission de positrons) n’est pas invasive puisqu’elle ne requiert pas d’irradiation ou d’injection intraveineuse.
+
+Détection d'activités profondes
+L’IRMf (comme la tomographie par émission de positrons) permet de voir les sources d’activités non seulement en surface, mais également dans la profondeur du cerveau, contrairement à la magnétoencéphalographie et électroencéphalographie.
+
+Image
+L’IRM permet d’obtenir des coupes axiales (comme le CT scan), mais également des coupes sagittales et coronales. L’IRMf peut fournir une image structurelle et fonctionnelle du même cerveau, ce qui facilite les correspondances anatomo-fonctionnelles.
+
+Désavantages
+Résolution temporelle
+L’IRMf a une faible résolution temporelle (RT), puisque que celle-ci est dépendante de la réponse hémodynamique : le sang oxygéné prend quelque temps pour rejoindre les régions cérébrales qui en demandent. Le signal BOLD n’est alors détecté qu’après 2 à 3 secondes post-stimulus et n’atteint son maximum qu’après quatre à six secondes, selon les sources,. La RT de l’IRMf, de l’ordre de la seconde, est loin d’égaler la MEG (RT de l’ordre de la milliseconde). L’IRMf offre néanmoins une meilleure RT que la TEP (image en une minute ou plus).
+
+Information indirecte
+L’information concernant l’activité neuronale obtenue grâce à cette technique est indirecte, puisque celle-ci est dépendante du couplage neurovasculaire. En d’autres termes, les informations observées et les variations hémodynamiques, sont subordonnées aux modifications de l’activité neuronale. De plus, comme certains médicaments ou encore des lésions cérébrales peuvent modifier le couplage neurovasculaire, il est possible, dans ces cas, de mal interpréter les données de l’activation cérébrale en constatant des faux négatifs ou des faux positifs.
+
+Coût
+Les coûts d’achat et d’entretien de l’IRMf sont excessivement élevés et l’utilisation doit être partagée, créant de grandes listes d’attente. Le coût d’un appareil varie de 935 000 $ à 2 690 000 $. Selon la région à scanner, le coût d’une IRM va de 625  à   1 350 $.
+
+Différences IRMf-TEP
+La tomographie par émission de positons (TEP), était considérée, jusqu’il y a peu[Quand ?], comme la technique de référence pour l’imagerie cérébrale fonctionnelle en neurosciences cognitives. Dans cette technique, on injecte au patient un traceur radioactif, l’oxygène 15, qui, très instable, va se transformer en libérant un positron, l’équivalent positif de l’électron. Ce positon va rencontrer l’électron d’un atome voisin. Ils vont s’annihiler l’un l’autre en libérant deux photons gamma qui partent dans des directions opposées.
+Un appareil de détection des photons gamma, appelé caméra à positon, est installée autour du crâne du patient. En faisant effectuer au patient pendant l’enregistrement une tâche motrice ou cognitive, la tomographie permet de visualiser les zones du cerveau activées par cette tâche.
+
+Défis, controverses et avenir
+Combinaison des méthodes
+Étant donné les avantages et désavantages complémentaires des méthodes qui mesurent les variations hémodynamiques (comme l’IRMf et la TEP) et électromagnétiques (comme la MEG et l’EEG), le recours de plus en plus fréquent à l’utilisation de combinaisons de ces méthodes est à prévoir pour l’avenir.
+
+Mesure directe
+Bien que la mesure de l’IRMf repose sur le fait que les neurones stimulés par une tâche auront une plus grande demande en sang oxygéné, plusieurs études ont soulevé le fait que le niveau de sang oxygéné pouvait également augmenter en préparation à l’activité neuronale, ou qu’il pourrait varier pour des raisons autres que l’activité neuronale.
+L’IRMf ne permet donc pas de savoir combien de neurones déchargent pour une tâche donnée ou encore si ces décharges amplifient ou réduisent l’activité des régions adjacentes.
+
+Plus qu'une belle image
+L’IRMf est parfois considérée par ses détracteurs comme une forme moderne de la phrénologie, cette théorie qui considère que les bosses du crâne sont le reflet du caractère d’une personne. Les belles images obtenues par l’IRMf lui valent aussi le surnom de « blobology », « la science des taches de couleur », en ce sens que la technique permet bel et bien de savoir, par exemple, qu’une tâche langagière est corrélée avec une activation dans l’hémisphère gauche, mais sans confirmer que cette activation est due, par exemple, directement au traitement du langage ou plutôt au simple fait de porter attention à un écran.
+Selon Peter Bandettini, on ne peut pas inférer une causalité simplement parce qu’on connait l’endroit d’activation. Plutôt que de simplement observer des tâches, certains chercheurs utilisent plutôt l’analyse multivariée qui permet d’analyser le comportement d’unités plus petites que les tâches : les voxels. De cette façon, des informations qui ne semblaient être que du bruit se transforment en signal.
+
+Interprétation des données (principe de construction des images cérébrales)
+Si l'IRMf permet de localiser dans un cerveau les zones activées par la réalisation d’une tâche simple, il faut cependant interpréter de façon adéquate les résultats. Une fois obtenues les images anatomiques et fonctionnelles du cerveau, elles doivent être traitées pour éliminer les faux positifs et les faux négatifs : « Les images anatomiques pour chaque sujet sont réalignées pour corriger le mouvement du sujet, puis sont alors co-enregistrées avec l’image fonctionnelle. L'analyse statistique permet de détecter les secteurs qui ont été significativement activés lors de l'expérience » . Les images fonctionnelles peuvent être alignées sur une image anatomique individuelle ou encore sur un modèle anatomique moyen, qui représente un cerveau moyen intersujets. Ces images fonctionnelles dépendent du protocole qui est utilisé pour activer le cerveau, et donc pour isoler l’activité cérébrale qu’on veut observer. Dans des protocoles expérimentaux simples, on peut utiliser le paradigme en bloc dit de soustraction ou de différence. « L’activité cérébrale est enregistrée au cours d’une condition neutre (ou de référence R) où le stimulus est présenté sans instruction particulière. Un deuxième enregistrement est effectué mais dans la condition dite cible. L’activité résultant de l’opération étudiée correspond à la « soustraction » de la mesure en condition cible par la mesure en condition neutre. Cette soustraction correspond à un test de différence statistique significative (test T par exemple) appliqué voxel à voxel et dont on peut faire varier le seuil ». Étant donné que le cerveau n’est jamais dans un état d’activation complètement stable, il y a de bonnes chances de retrouver des artéfacts dans les données.
+L’une des critiques les plus médiatisées, de par son caractère impertinent et provocateur, nous vient d’une recherche de Bennett et al. :
+« l’histoire du saumon mort dont certaines régions du cerveau et de la moelle épinière s’activaient en réponse à des stimuli sociaux conçus pour des humains! En réalité, il n’y avait évidemment pas d’activation cérébrale, mais la méthodologie et les calculs faits par l’appareil de résonance magnétique fonctionnel (IRMf) faisaient apparaître des taches de couleur au niveau du cerveau. Alors qu’il devait servir de simple test pour calibrer les contrastes de l’appareil, le célèbre saumon mort allait devenir le caillou dans le soulier que l’IRMf traîne encore aujourd’hui… ».
+
+Atténuer le bruit
+L’IRMf a tendance à générer un faible signal et beaucoup de bruit de fond. Ce bruit fait en sorte que certains changements, - tel un petit groupe de neurones qui déchargeraient ensemble ou une variation rapide du niveau de sang oxygéné - peuvent passer sous le radar. Ce faible ratio signal/bruit oblige les chercheurs à utiliser une approche statistique pour « nettoyer » les données, ce qui veut dire que celles-ci peuvent donner lieu à plusieurs interprétations différentes. Les chercheurs tentent donc d’augmenter le signal en utilisant des aimants plus puissants qui alignent un plus grand nombre de protons qui, en se réalignant après le passage de l’onde radio, génèrent ensuite un signal plus net, ou en injectant au sujet des molécules plus faciles à détecter que le sang oxygéné – par exemple les molécules de parahydrogène, – une méthode similaire à la TEP.
+
+Le ratio signal/bruit
+Plus le ratio signal/bruit est élevé, meilleur est le signal analysable. Parmi les facteurs qui affectent ce ratio, on retrouve : les facteurs physiques (bruits thermiques, force de l’aimant, grosseur des voxels, temps d’expérimentation) ; les facteurs physiologiques (mouvements, (corps et tête), bruits respiratoires et cardiaques, son du BOLD, variations, comportementales, basses fréquences).
+
+Clinique/diagnostiques
+Il est difficile d’interpréter avec précision les scans d’un seul individu. Les données généralement recueillies par IRMf sont une moyenne des résultats de plusieurs personnes effectuant la même tâche. Les chercheurs tentent donc de développer des méthodes statistiques pour retirer de l’information significative d’un seul scan, ce qui passe par la mise en place d’un ensemble de références avec laquelle les données des patients pourront être comparées. Notons qu’un patient peut apprendre à avoir un contrôle spatial et temporel sur le signal BOLD, tout comme il peut influencer les ondes d’un EEG.
+
+Notes et références
+Voir aussi
+Articles connexes
+Cartographie statistique paramétrique
+Neurosciences
+Neurologie
+
+Liens externes
+« IRM virtuelle », sur Région académique Provence-Alpes-Côte d'Azur (consulté le 19 janvier 2019), application pédagogique permettant de réaliser des IRMf virtuelles
+ Portail des neurosciences   Portail de la médecine

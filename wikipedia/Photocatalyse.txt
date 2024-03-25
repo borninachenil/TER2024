@@ -1,0 +1,35 @@
+En chimie, la photocatalyse est l'accélération d'une photoréaction en présence de catalyseur.
+
+Principe
+Le principe de la photocatalyse repose sur l’activation d’un semi-conducteur par la lumière. Le semi-conducteur est considéré comme un catalyseur. Son principe est proche de la catalyse hétérogène où la réaction d'oxydoréduction se passe à la surface du catalyseur.
+C'est l'absorption d'un photon, dont l'énergie est supérieure à la largeur de la bande interdite entre la bande de valence et la bande de conduction, qui permet de former une paire électron-trou dans le semi-conducteur. Il y a émission d'un électron au niveau de la bande de conduction et formation d'un trou sur la bande de valence. Cette paire électron-trou permet la formation de radicaux libres qui vont soit réagir avec des composés présents dans le milieu, soit se recombiner suivant divers mécanismes. Chaque semi-conducteur possède une différence d'énergie entre sa bande de conduction et sa bande de valence qui lui est propre.
+Différents mécanismes réactionnels sont proposés mais il a été montré que la présence d'eau était nécessaire pour effectuer la réaction photocatalytique. En général, le but de cette réaction est d'oxyder des composés pour obtenir du dioxyde de carbone et de l'eau. On peut aussi avoir des intermédiaires d'oxydations des produits de départ si la réaction n'est pas complète. Pour favoriser une réaction complète, des expériences sont menées pour ralentir la recombinaison entre la paire électron-trou.
+L’oxydation photocatalytique dépend d'une synergie entre plusieurs paramètres : temps de vie des porteurs de charges, vitesse d'adsorption/désorption des composés à la surface du semi-conducteur.
+
+Les différents photocatalyseurs
+Les photocatalyseurs les plus couramment employés sont des semi-conducteurs ayant une large bande interdite ou gap. Souvent, ce sont des oxydes ou des sulfures (TiO2, ZnO, CeO2, ZrO2, SnO2, CdS, ZnS, etc.). Les potentiels électrochimiques des semi-conducteurs et des couples redox O2/H2O et H2/H2O montre qu'une interaction entre ceux-ci est possible. En effet, les espèces radicalaires sont formées à partir d'O2 (oxydation) et d'H2O (réduction).
+Pour ses performances et son coût, le dioxyde de titane (TiO2) est souvent privilégié en tant que photocatalyseur. Il existe sous trois formes cristallines : brookite, anatase et rutile, mais seules les structures anatase et moindrement rutile ont des propriétés photocatalytiques. Il a été montré qu'un mélange anatase/rutile (en proportion 80/20) présente de meilleurs résultats que l'une ou l'autre des structures seules. Pour améliorer ses performances, des expériences montrent qu'en présence de platine, le temps de recombinaison de la paire électron-trou est ralenti.
+
+Applications
+Comme écrit précédemment, la dégradation photocatalytique est déjà employée pour minéraliser totalement de nombreux composés organiques (en phase liquide ou gazeuse), mais ce sont surtout les ultraviolets qui sont actifs. 
+Cette technique laisse entrevoir un large champ d’applications.
+
+Traitement de l'eau : contre les colorants organiques, les pesticides non-minéraux, certains engrais, les virus et bactéries.
+Traitement de l'air (désodorisation…) et comme agent antibactérien ; son assainissement, sa désodorisation. Par exemple en septembre 2011 en Belgique, une équipe de chercheurs a recouvert une portion du tunnel de l'autoroute A51 avec un mélange ciment/TiO2 pour étudier son effet sur la dépollution de l'air du tunnel). Des photocatalyseurs sont testés pour décontaminer l'air, notamment en éliminant certains CMR comme le formaldéhyde et le benzène (deux cancérigènes avérés). La technologie n'étant pas sélective, elle élimine quasiment tous les COV. Des appareils de décontamination chimique sont testés ou exploités depuis quelques années dans des écoles, des crèches.
+Application médicales : elles semblent possibles (par exemple pour traiter des cellules infectées).
+Application industrielles : du verre autonettoyant utilise déjà ce principe, associé dans ce cas à une seconde propriété : la superhydrophilie. De nombreux usages sont à l'étude, dont par exemple un « textile lumineux photocatalytique ».
+Applications nucléaires : Décomposition de l'acide oxalique en CO2 et H2O lors des procédés de décontamination radioactive CORD-UV
+
+Conditions
+L'activation du catalyseur n’est possible que pour des photons de fortes énergies, supérieures au gap du semi-conducteur, c’est-à-dire pour une longueur d'onde correspondant à l’ultraviolet pour le dioxyde de titane. Le photocatalyseur ne présente donc pas une grande activité sous irradiation solaire (pour l'oxyde de titane, le rayonnement solaire utile n'est que de 4 %). Des recherches visent donc à élargir la longueur spectrale de réponse du catalyseur, par exemple par dopage du semi-conducteur par des métaux de transition, la sensibilisation de la surface ou encore par empilements de semi-conducteurs.
+Selon Ryoji Asahi et al. (2001), le dopage du TiO2 par de l'azote rendrait le catalyseur actif pour les irradiations dans le domaine visible. S.-K. Jung et al. (2006), ont également trouvé des résultats confirmant l'effet du dopage. Des améliorations apparaissent encore dans le domaine de la photocatalyse.
+Une autre condition est que le matériau (pigment de peinture, plâtre, verre, ciment, etc.) reste propre.
+On cherche à produire des matériaux « autonettoyants » ou faciles à nettoyer.
+
+Notes et références
+Voir aussi
+Articles connexes
+Purificateur d'air
+Verre autonettoyant
+Craquage de l'eau par photocatalyse
+ Portail de la chimie   Portail de la physique   Portail de l’électricité et de l’électronique

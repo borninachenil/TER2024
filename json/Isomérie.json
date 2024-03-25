@@ -1,0 +1,6328 @@
+[
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "chimie",
+            "id": "152212"
+        },
+        {
+            "mot": "organique",
+            "id": "123171906"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "parle",
+            "id": "419908"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "lorsque",
+            "id": "10052624"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "possèdent",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "formule",
+            "id": "420486"
+        },
+        {
+            "mot": "brute",
+            "id": "420482"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "formules",
+            "id": "579479"
+        },
+        {
+            "mot": "développées",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "stéréochimiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "appelées",
+            "id": "NULL"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "avoir",
+            "id": "402552"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "propriétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "physiques",
+            "id": "16512107"
+        },
+        {
+            "mot": "chimiques",
+            "id": "10996640"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "biologiques",
+            "id": "255470081"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "vient",
+            "id": "10052362"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "grec",
+            "id": "253909450"
+        },
+        {
+            "mot": "ἴσος",
+            "id": "NULL"
+        },
+        {
+            "mot": "ísos",
+            "id": "NULL"
+        },
+        {
+            "mot": "égal",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "μέρος",
+            "id": "NULL"
+        },
+        {
+            "mot": "méros",
+            "id": "NULL"
+        },
+        {
+            "mot": "partie",
+            "id": "15691780"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "distingue",
+            "id": "250144423"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "types",
+            "id": "417517"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "constitution",
+            "id": "140700"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "plane",
+            "id": "15944982"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "stéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Historique",
+            "id": "412735"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "remarquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "première",
+            "id": "NULL"
+        },
+        {
+            "mot": "fois",
+            "id": "427815"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "quand",
+            "id": "403311"
+        },
+        {
+            "mot": "Friedrich",
+            "id": "17399364"
+        },
+        {
+            "mot": "Woehler",
+            "id": "279111"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "préparé",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "isocyanique",
+            "id": "23078"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "C",
+            "id": "142716"
+        },
+        {
+            "mot": "O",
+            "id": "137993"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "noté",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "bien",
+            "id": "15532334"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "composition",
+            "id": "140075"
+        },
+        {
+            "mot": "élémentaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "soit",
+            "id": "3172820"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "celle",
+            "id": "177480"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "fulminique",
+            "id": "10935"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "CNO",
+            "id": "2476610"
+        },
+        {
+            "mot": "préparé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "Justus",
+            "id": "273341"
+        },
+        {
+            "mot": "von",
+            "id": "15765550"
+        },
+        {
+            "mot": "Liebig",
+            "id": "39741"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "année",
+            "id": "NULL"
+        },
+        {
+            "mot": "précédente",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "propriétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "chimiques",
+            "id": "10996640"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "substances",
+            "id": "432182"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "radicalement",
+            "id": "5996244"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "découverte",
+            "id": "NULL"
+        },
+        {
+            "mot": "était",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "contraste",
+            "id": "102404962"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "théories",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "époque",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cadre",
+            "id": "11009201"
+        },
+        {
+            "mot": "desquelles",
+            "id": "2056500"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "pensait",
+            "id": "428161"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "propriétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "substance",
+            "id": "428339"
+        },
+        {
+            "mot": "étaient",
+            "id": "NULL"
+        },
+        {
+            "mot": "entièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "déterminées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "formule",
+            "id": "420486"
+        },
+        {
+            "mot": "brute",
+            "id": "420482"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "isomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "exactement",
+            "id": "15519133"
+        },
+        {
+            "mot": "corps",
+            "id": "404381"
+        },
+        {
+            "mot": "isomériques",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "proposé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "chimiste",
+            "id": "92952239"
+        },
+        {
+            "mot": "suédois",
+            "id": "NULL"
+        },
+        {
+            "mot": "Jöns",
+            "id": "NULL"
+        },
+        {
+            "mot": "Jacob",
+            "id": "140355"
+        },
+        {
+            "mot": "Berzelius",
+            "id": "10486"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "constitution",
+            "id": "140700"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "parle",
+            "id": "419908"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "constitution",
+            "id": "140700"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "plane",
+            "id": "15944982"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "structure",
+            "id": "425739"
+        },
+        {
+            "mot": "lorsque",
+            "id": "10052624"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "formule",
+            "id": "420486"
+        },
+        {
+            "mot": "brute",
+            "id": "420482"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "formules",
+            "id": "579479"
+        },
+        {
+            "mot": "développées",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "semi",
+            "id": "2589820"
+        },
+        {
+            "mot": "développées",
+            "id": "NULL"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "diffèrent",
+            "id": "NULL"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "enchaînement",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        }
+    ],
+    [
+        {
+            "mot": "Isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chaîne",
+            "id": "NULL"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chaîne",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "squelette",
+            "id": "6260357"
+        },
+        {
+            "mot": "désigne",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "diffèrent",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "chaîne",
+            "id": "NULL"
+        },
+        {
+            "mot": "carbonée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "C4H",
+            "id": "NULL"
+        },
+        {
+            "mot": "butane",
+            "id": "5996156"
+        },
+        {
+            "mot": "méthylpropane",
+            "id": "NULL"
+        },
+        {
+            "mot": "isobutane",
+            "id": "135603247"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "Isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "qualifie",
+            "id": "1775593"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "groupe",
+            "id": "15625673"
+        },
+        {
+            "mot": "fonctionnel",
+            "id": "250887217"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "placé",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "carbones",
+            "id": "14397627"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "chaîne",
+            "id": "NULL"
+        },
+        {
+            "mot": "carbonée",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "veut",
+            "id": "14890872"
+        },
+        {
+            "mot": "dire",
+            "id": "15765513"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "déplace",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intérieur",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "squelette",
+            "id": "6260357"
+        }
+    ],
+    [
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "C3H8O",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "propan",
+            "id": "10324313"
+        },
+        {
+            "mot": "ol",
+            "id": "223213678"
+        },
+        {
+            "mot": "propan",
+            "id": "10324313"
+        },
+        {
+            "mot": "ol",
+            "id": "223213678"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "OH",
+            "id": "2510297"
+        },
+        {
+            "mot": "OH",
+            "id": "2510297"
+        },
+        {
+            "mot": "Certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "réactions",
+            "id": "NULL"
+        },
+        {
+            "mot": "chimiques",
+            "id": "10996640"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "passer",
+            "id": "407137"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "isomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "position",
+            "id": "16088746"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "appelées",
+            "id": "NULL"
+        },
+        {
+            "mot": "réaction",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réarrangement",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "dérivés",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "anthraquinone",
+            "id": "35922"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "connus",
+            "id": "259371"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "transformation",
+            "id": "5785933"
+        },
+        {
+            "mot": "réversible",
+            "id": "NULL"
+        },
+        {
+            "mot": "photoinduite",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "para",
+            "id": "404582"
+        },
+        {
+            "mot": "ana",
+            "id": "2501960"
+        },
+        {
+            "mot": "quinoïde",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "phénomène",
+            "id": "NULL"
+        },
+        {
+            "mot": "implique",
+            "id": "2042486"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "migration",
+            "id": "416327"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "atome",
+            "id": "93594025"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "groupe",
+            "id": "15625673"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "atome",
+            "id": "93594025"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "passage",
+            "id": "17052437"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "trans",
+            "id": "435108"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "ana",
+            "id": "2501960"
+        }
+    ],
+    [
+        {
+            "mot": "Isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nature",
+            "id": "143607"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nature",
+            "id": "143607"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "caractérise",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "fonctionnels",
+            "id": "405357"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "propriétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "physiques",
+            "id": "16512107"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "chimiques",
+            "id": "10996640"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "appelle",
+            "id": "2391227"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "C2H6O",
+            "id": "NULL"
+        },
+        {
+            "mot": "éthanol",
+            "id": "NULL"
+        },
+        {
+            "mot": "méthoxyméthane",
+            "id": "NULL"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "OH",
+            "id": "2510297"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "O",
+            "id": "137993"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "Isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "insaturation",
+            "id": "5502144"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "insaturation",
+            "id": "5502144"
+        },
+        {
+            "mot": "caractérise",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "insaturations",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "C3H",
+            "id": "NULL"
+        },
+        {
+            "mot": "propène",
+            "id": "NULL"
+        },
+        {
+            "mot": "cyclopropane",
+            "id": "99223316"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "H2C",
+            "id": "NULL"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "Stéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "désigne",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "disposition",
+            "id": "5834315"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "espace",
+            "id": "413329"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "dire",
+            "id": "15765513"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "constitution",
+            "id": "140700"
+        },
+        {
+            "mot": "identique",
+            "id": "250663081"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "formule",
+            "id": "420486"
+        },
+        {
+            "mot": "semi",
+            "id": "2589820"
+        },
+        {
+            "mot": "développée",
+            "id": "NULL"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "organisation",
+            "id": "403189"
+        },
+        {
+            "mot": "spatiale",
+            "id": "6014924"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "différente",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "représentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Cram",
+            "id": "1831082"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "différencier",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "stéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "stéréomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "distingue",
+            "id": "250144423"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "stéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "conformation",
+            "id": "10993831"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "diffèrent",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "rotations",
+            "id": "2120058"
+        },
+        {
+            "mot": "autour",
+            "id": "422436"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "liaisons",
+            "id": "417899"
+        },
+        {
+            "mot": "simples",
+            "id": "10157946"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "stéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "séparés",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "grands",
+            "id": "160083"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "diastéréoisomères",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Conformérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "stéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "conformation",
+            "id": "10993831"
+        },
+        {
+            "mot": "Ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "formule",
+            "id": "420486"
+        },
+        {
+            "mot": "développée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Ils",
+            "id": "427503"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "différencient",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "rotation",
+            "id": "142353"
+        },
+        {
+            "mot": "autour",
+            "id": "422436"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "simple",
+            "id": "17341162"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "sigma",
+            "id": "15388496"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "rompre",
+            "id": "127348"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "butane",
+            "id": "5996156"
+        },
+        {
+            "mot": "C4H",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "conformères",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Rotamérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Atropoisomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "Atropoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "formule",
+            "id": "420486"
+        },
+        {
+            "mot": "développée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "parle",
+            "id": "419908"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "atropoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "lorsque",
+            "id": "10052624"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "barrière",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "activation",
+            "id": "9021139"
+        },
+        {
+            "mot": "autour",
+            "id": "422436"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "simple",
+            "id": "17341162"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "sigma",
+            "id": "15388496"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "suffisante",
+            "id": "399399"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "puisse",
+            "id": "1741273"
+        },
+        {
+            "mot": "caractériser",
+            "id": "NULL"
+        },
+        {
+            "mot": "chacun",
+            "id": "397144"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "atropoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        }
+    ],
+    [
+        {
+            "mot": "Couramment",
+            "id": "86829"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "catalyse",
+            "id": "5558616"
+        },
+        {
+            "mot": "asymétrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "classiquement",
+            "id": "101646"
+        },
+        {
+            "mot": "observée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "biphényles",
+            "id": "NULL"
+        },
+        {
+            "mot": "substitués",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "ortho",
+            "id": "2429862"
+        }
+    ],
+    [
+        {
+            "mot": "Stéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "Énantiomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "appelés",
+            "id": "NULL"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "optiques",
+            "id": "400974"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "image",
+            "id": "17051349"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "miroir",
+            "id": "415475"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "superposables",
+            "id": "2109718"
+        },
+        {
+            "mot": "elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "présentent",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "chiralité",
+            "id": "NULL"
+        },
+        {
+            "mot": "dextrogyre",
+            "id": "108483369"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "lévogyre",
+            "id": "NULL"
+        },
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "symétriques",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "rapport",
+            "id": "16088730"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "symétrie",
+            "id": "NULL"
+        },
+        {
+            "mot": "étant",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "miroir",
+            "id": "415475"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "concret",
+            "id": "82617"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chiralité",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "celui",
+            "id": "417499"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "main",
+            "id": "142354"
+        },
+        {
+            "mot": "droite",
+            "id": "16088748"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "superposable",
+            "id": "45069"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "main",
+            "id": "142354"
+        },
+        {
+            "mot": "gauche",
+            "id": "406033"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "nommés",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "règles",
+            "id": "NULL"
+        },
+        {
+            "mot": "Cahn",
+            "id": "10052191"
+        },
+        {
+            "mot": "Ingold",
+            "id": "5952141"
+        },
+        {
+            "mot": "Prelog",
+            "id": "101366"
+        },
+        {
+            "mot": "UICPA",
+            "id": "573767"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "précisent",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "absolue",
+            "id": "255474376"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "centres",
+            "id": "411375"
+        },
+        {
+            "mot": "stéréogènes",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "descripteurs",
+            "id": "251766158"
+        },
+        {
+            "mot": "R",
+            "id": "137285"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "S",
+            "id": "163464"
+        }
+    ],
+    [
+        {
+            "mot": "Exemples",
+            "id": "2196397"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "efficacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "lévodopa",
+            "id": "NULL"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "lévogyre",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dihydroxyphénylalanine",
+            "id": "NULL"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "seule",
+            "id": "15606675"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "métabolisable",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "organisme",
+            "id": "3322090"
+        },
+        {
+            "mot": "grâce",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "dopadécarboxylase",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "transforme",
+            "id": "2099940"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "dopamine",
+            "id": "3229576"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "lévodopa",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "parkinson",
+            "id": "149556"
+        },
+        {
+            "mot": "permettant",
+            "id": "2242077"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "diminuer",
+            "id": "113326"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "indésirables",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "mélange",
+            "id": "NULL"
+        },
+        {
+            "mot": "racémique",
+            "id": "NULL"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "thyroxine",
+            "id": "13632428"
+        },
+        {
+            "mot": "forme",
+            "id": "193336238"
+        },
+        {
+            "mot": "lévogyre",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "Thyroxine",
+            "id": "13632428"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "substitutif",
+            "id": "70306"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "insuffisance",
+            "id": "16084384"
+        },
+        {
+            "mot": "thyroidienne",
+            "id": "6269493"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "thyroxine",
+            "id": "13632428"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "efficace",
+            "id": "156826477"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "cardiotoxique",
+            "id": "1829595"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "dextropropoxyphène",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "antalgiques",
+            "id": "111273380"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "lévopropoxyphène",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "antitussif",
+            "id": "156583861"
+        }
+    ],
+    [
+        {
+            "mot": "Diastéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "diastéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "écrit",
+            "id": "NULL"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "diastéréo",
+            "id": "NULL"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "stéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "intéressant",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "isomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "méso",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "stéréoisomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "possédant",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "pair",
+            "id": "420463"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "carbone",
+            "id": "627081"
+        },
+        {
+            "mot": "asymétriques",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "symétrie",
+            "id": "NULL"
+        },
+        {
+            "mot": "interne",
+            "id": "46255"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "image",
+            "id": "17051349"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "miroir",
+            "id": "415475"
+        },
+        {
+            "mot": "lui",
+            "id": "14773174"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "superposable",
+            "id": "45069"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "achiral",
+            "id": "280646"
+        }
+    ],
+    [
+        {
+            "mot": "Diastéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "géométrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "configurations",
+            "id": "423941"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "Lorsque",
+            "id": "10052624"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "chacun",
+            "id": "397144"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "côtés",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "trouve",
+            "id": "16513307"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "distingue",
+            "id": "250144423"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "configurations",
+            "id": "423941"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "libre",
+            "id": "415797"
+        },
+        {
+            "mot": "rotation",
+            "id": "142353"
+        },
+        {
+            "mot": "autour",
+            "id": "422436"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "présence",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "π",
+            "id": "NULL"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "résulte",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "molécule",
+            "id": "NULL"
+        },
+        {
+            "mot": "plane",
+            "id": "15944982"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "configurations",
+            "id": "423941"
+        },
+        {
+            "mot": "possibles",
+            "id": "160889"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ordre",
+            "id": "11302114"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "priorité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "convention",
+            "id": "11179231"
+        },
+        {
+            "mot": "CIP",
+            "id": "5998962"
+        },
+        {
+            "mot": "Cahn",
+            "id": "10052191"
+        },
+        {
+            "mot": "Ingold",
+            "id": "5952141"
+        },
+        {
+            "mot": "Prelog",
+            "id": "101366"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "définit",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "isoméries",
+            "id": "NULL"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "caractérise",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "diastéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "prioritaires",
+            "id": "404851"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "côté",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "formé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "perpendiculaire",
+            "id": "140610"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "molécule",
+            "id": "NULL"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "abréviation",
+            "id": "NULL"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "vient",
+            "id": "10052362"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "allemand",
+            "id": "172932"
+        },
+        {
+            "mot": "zusammen",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "signifie",
+            "id": "15513604"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "caractérise",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "diastéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "prioritaires",
+            "id": "404851"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "côté",
+            "id": "NULL"
+        },
+        {
+            "mot": "opposé",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "formé",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "vient",
+            "id": "10052362"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "allemand",
+            "id": "172932"
+        },
+        {
+            "mot": "entgegen",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "signifie",
+            "id": "15513604"
+        },
+        {
+            "mot": "opposé",
+            "id": "NULL"
+        },
+        {
+            "mot": "Historiquement",
+            "id": "14581248"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "exactement",
+            "id": "15519133"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "cis",
+            "id": "5951549"
+        },
+        {
+            "mot": "trans",
+            "id": "435108"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "priorité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "substituants",
+            "id": "2289874"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "définie",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "encombrement",
+            "id": "90402"
+        },
+        {
+            "mot": "stérique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Un",
+            "id": "256126039"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "typique",
+            "id": "250749107"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "correspondance",
+            "id": "143881"
+        },
+        {
+            "mot": "erronée",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "celui",
+            "id": "417499"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cis",
+            "id": "5951549"
+        },
+        {
+            "mot": "chlorobut",
+            "id": "NULL"
+        },
+        {
+            "mot": "ène",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "chlorobut",
+            "id": "NULL"
+        },
+        {
+            "mot": "ène",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "aminobut",
+            "id": "NULL"
+        },
+        {
+            "mot": "ènoïque",
+            "id": "NULL"
+        },
+        {
+            "mot": "ci",
+            "id": "1830223"
+        },
+        {
+            "mot": "contre",
+            "id": "426382"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "priorités",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "COOH",
+            "id": "293073"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "NH",
+            "id": "256043647"
+        },
+        {
+            "mot": "CH3",
+            "id": "5940261"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "prioritaires",
+            "id": "404851"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "côté",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "représentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "aminobut",
+            "id": "NULL"
+        },
+        {
+            "mot": "ènoïque",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "À",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "inverse",
+            "id": "94086889"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "seconde",
+            "id": "404340"
+        },
+        {
+            "mot": "représentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "prioritaires",
+            "id": "404851"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "opposés",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "molécule",
+            "id": "NULL"
+        },
+        {
+            "mot": "représentée",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "aminobut",
+            "id": "NULL"
+        },
+        {
+            "mot": "ènoïque",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "De",
+            "id": "3320102"
+        },
+        {
+            "mot": "manière",
+            "id": "NULL"
+        },
+        {
+            "mot": "générale",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "configurations",
+            "id": "423941"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "rares",
+            "id": "414488"
+        },
+        {
+            "mot": "car",
+            "id": "11494787"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "groupements",
+            "id": "416111"
+        },
+        {
+            "mot": "prioritaires",
+            "id": "404851"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "volumineux",
+            "id": "126596"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "déstabilisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "encombrement",
+            "id": "90402"
+        },
+        {
+            "mot": "stérique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Mais",
+            "id": "397741"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "configurations",
+            "id": "423941"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "stabilisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "chélation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "transformer",
+            "id": "425894"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "isomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "isomère",
+            "id": "NULL"
+        },
+        {
+            "mot": "Z",
+            "id": "143644"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "vice",
+            "id": "397696"
+        },
+        {
+            "mot": "versa",
+            "id": "2588781"
+        },
+        {
+            "mot": "via",
+            "id": "17342505"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "photoisomérisation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "N",
+            "id": "138276"
+        }
+    ],
+    [
+        {
+            "mot": "B",
+            "id": "143220"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "diastéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "due",
+            "id": "10911053"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "présence",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "utilise",
+            "id": "415792"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "termes",
+            "id": "2390704"
+        },
+        {
+            "mot": "cis",
+            "id": "5951549"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "trans",
+            "id": "435108"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "qualifient",
+            "id": "2073920"
+        },
+        {
+            "mot": "plutôt",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "positions",
+            "id": "10424593"
+        },
+        {
+            "mot": "relatives",
+            "id": "400525"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "groupements",
+            "id": "416111"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "tenir",
+            "id": "436429"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "priorité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "illustration",
+            "id": "584459"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "E",
+            "id": "141745"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "dira",
+            "id": "2933360"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "trans",
+            "id": "435108"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "CH",
+            "id": "15205836"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "cis",
+            "id": "5951549"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "NH2",
+            "id": "5629049"
+        }
+    ],
+    [
+        {
+            "mot": "Invertomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Autre",
+            "id": "404604"
+        },
+        {
+            "mot": "diastéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "géométrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "beaucoup",
+            "id": "430768"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "rare",
+            "id": "1843233"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "apparaît",
+            "id": "NULL"
+        },
+        {
+            "mot": "quand",
+            "id": "403311"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "inversion",
+            "id": "1854535"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "atome",
+            "id": "93594025"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "azote",
+            "id": "15585086"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "suffisamment",
+            "id": "101429"
+        },
+        {
+            "mot": "bloqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "caractériser",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "invertomères",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Isomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "endo",
+            "id": "13415452"
+        },
+        {
+            "mot": "exo",
+            "id": "11577119"
+        },
+        {
+            "mot": "Très",
+            "id": "NULL"
+        },
+        {
+            "mot": "présente",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "systèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "polycycliques",
+            "id": "404554"
+        },
+        {
+            "mot": "possédant",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "substituants",
+            "id": "2289874"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "diastéréoisomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "apparaît",
+            "id": "NULL"
+        },
+        {
+            "mot": "quand",
+            "id": "403311"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "substituant",
+            "id": "156581231"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "adopter",
+            "id": "12620"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "positions",
+            "id": "10424593"
+        },
+        {
+            "mot": "relatives",
+            "id": "400525"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "branchement",
+            "id": "250094257"
+        },
+        {
+            "mot": "polycyclique",
+            "id": "93862"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "près",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "loin",
+            "id": "397539"
+        },
+        {
+            "mot": "voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "tropanol",
+            "id": "4427747"
+        }
+    ],
+    [
+        {
+            "mot": "Épimérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "épimères",
+            "id": "NULL"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "diffèrent",
+            "id": "NULL"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "eux",
+            "id": "15504085"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "absolue",
+            "id": "255474376"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "seul",
+            "id": "178311537"
+        },
+        {
+            "mot": "carbone",
+            "id": "627081"
+        },
+        {
+            "mot": "asymétrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "mannose",
+            "id": "17052060"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "glucose",
+            "id": "16567221"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "glucose",
+            "id": "16567221"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "galactose",
+            "id": "143748190"
+        }
+    ],
+    [
+        {
+            "mot": "Anomérie",
+            "id": "NULL"
+        },
+        {
+            "mot": "C",
+            "id": "142716"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "particulier",
+            "id": "2932560"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "épimèrie",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "carbone",
+            "id": "627081"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "oses",
+            "id": "2074033"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "décrire",
+            "id": "NULL"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "convention",
+            "id": "11179231"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "β",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Si",
+            "id": "184281"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "hydroxyle",
+            "id": "111273383"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "carbone",
+            "id": "627081"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "dessous",
+            "id": "404147"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "représentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Haworth",
+            "id": "6332"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "ose",
+            "id": "12977383"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "dit",
+            "id": "14424403"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "alpha",
+            "id": "5813761"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hydroxyle",
+            "id": "111273383"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "carbone",
+            "id": "627081"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "dessus",
+            "id": "2575378"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "ose",
+            "id": "12977383"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "dit",
+            "id": "14424403"
+        },
+        {
+            "mot": "β",
+            "id": "NULL"
+        },
+        {
+            "mot": "bêta",
+            "id": "NULL"
+        },
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "glucose",
+            "id": "16567221"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "image",
+            "id": "17051349"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "carbone",
+            "id": "627081"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "droite",
+            "id": "16088748"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "hydroxyle",
+            "id": "111273383"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "ni",
+            "id": "186648183"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "haut",
+            "id": "11356648"
+        },
+        {
+            "mot": "ni",
+            "id": "186648183"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "bas",
+            "id": "1801089"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "faudrait",
+            "id": "2000970"
+        },
+        {
+            "mot": "choisir",
+            "id": "419035"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "avoir",
+            "id": "402552"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "β",
+            "id": "NULL"
+        },
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "nomenclature",
+            "id": "413137"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "importante",
+            "id": "161295"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "décrire",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "liaisons",
+            "id": "417899"
+        },
+        {
+            "mot": "chimiques",
+            "id": "10996640"
+        },
+        {
+            "mot": "contractées",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "disaccharides",
+            "id": "2169066"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "polysaccharides",
+            "id": "251523404"
+        }
+    ],
+    [
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "saccharose",
+            "id": "143748233"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "glucopyrannosyl",
+            "id": "NULL"
+        },
+        {
+            "mot": "β",
+            "id": "NULL"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        },
+        {
+            "mot": "fructofurannoside",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "dissacharide",
+            "id": "NULL"
+        },
+        {
+            "mot": "formé",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "glucose",
+            "id": "16567221"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "β",
+            "id": "NULL"
+        },
+        {
+            "mot": "fructose",
+            "id": "143392835"
+        },
+        {
+            "mot": "liés",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "α",
+            "id": "NULL"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Autres",
+            "id": "402129"
+        },
+        {
+            "mot": "types",
+            "id": "417517"
+        },
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "diastéréoisométrie",
+            "id": "NULL"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "molécules",
+            "id": "NULL"
+        },
+        {
+            "mot": "isomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "possédant",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "enchaînement",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "liaison",
+            "id": "16717747"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "comportent",
+            "id": "2153029"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "centres",
+            "id": "411375"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chiralité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "atomes",
+            "id": "431574"
+        },
+        {
+            "mot": "portant",
+            "id": "23540"
+        },
+        {
+            "mot": "quatre",
+            "id": "15412664"
+        },
+        {
+            "mot": "substituants",
+            "id": "2289874"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "énantiomères",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "formes",
+            "id": "406188"
+        },
+        {
+            "mot": "R",
+            "id": "137285"
+        },
+        {
+            "mot": "S",
+            "id": "163464"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "R",
+            "id": "137285"
+        },
+        {
+            "mot": "R",
+            "id": "137285"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "acide",
+            "id": "411875"
+        },
+        {
+            "mot": "tartrique",
+            "id": "78945"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "diastéréoisomères",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "possèdent",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "propriétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "physiques",
+            "id": "16512107"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Annexes",
+            "id": "15808840"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "chimie",
+            "id": "152212"
+        }
+    ]
+]

@@ -1,0 +1,52 @@
+Lorsqu'un milieu matériel est mis en présence d'un champ électrique E→{\displaystyle {\vec {E}}}, il est susceptible de modifier ce champ en créant une polarisation P→{\displaystyle {\vec {P}}}. Cette réponse du matériau à l'excitation peut dépendre du champ E→{\displaystyle {\vec {E}}} de différentes façons. L'optique non linéaire regroupe l'ensemble des phénomènes optiques présentant une réponse non linéaire par rapport à ce champ électrique, c'est-à-dire une réponse non proportionnelle à E.
+En présence d'une onde électromagnétique du domaine de l'optique (longueur d'onde de l'ordre de 1000 nm), autrement dit, de lumière, beaucoup de matériaux sont transparents, et certains d'entre eux sont non linéaires, c'est pourquoi l'optique non linéaire est possible. Les principales différences avec l'optique linéaire sont les possibilités de modifier la fréquence de l'onde ou de faire interagir entre elles deux ondes par l'intermédiaire du matériau. Ces propriétés très particulières ne peuvent apparaître qu'avec des ondes lumineuses de forte intensité. C'est pourquoi des expériences d'optique non linéaire n'ont pu être réalisées qu'à partir des années 1960 grâce à l'apparition de la technologie des lasers.
+
+Réponse d'un matériau à l'excitation optique
+La polarisation créée par une onde lumineuse de fréquence ω1{\displaystyle \omega _{1}} traversant un matériau s'écrit sous la forme :
+
+P→=P→(1)+P→(2)+P→(3)+…{\displaystyle {\vec {P}}={\vec {P}}^{(1)}+{\vec {P}}^{(2)}+{\vec {P}}^{(3)}+\dots \,},où P→(n){\displaystyle {\vec {P}}^{(n)}} est la polarisation d'ordre n en puissances du champ électrique : 
+P→(ω1)=ε0χ(1)(ω1)E→(ω1)+ε0χ(2)(ω1)E→(ω1)E→(ω1)+ε0χ(3)(ω1)E→(ω1)E→(ω1)E→(ω1)+...{\displaystyle {\vec {P}}(\omega _{1})=\varepsilon _{0}\chi ^{(1)}(\omega _{1}){\vec {E}}(\omega _{1})+\varepsilon _{0}\chi ^{(2)}(\omega _{1}){\vec {E}}(\omega _{1}){\vec {E}}(\omega _{1})+\varepsilon _{0}\chi ^{(3)}(\omega _{1}){\vec {E}}(\omega _{1}){\vec {E}}(\omega _{1}){\vec {E}}(\omega _{1})+...}
+où ε0{\displaystyle \varepsilon _{0}\,} est la permittivité du vide, et χ(n)(ω1){\displaystyle \chi ^{(n)}(\omega _{1})} est le tenseur de susceptibilité électrique d'ordre n (qui est en fait un tenseur d'ordre n+1).
+Plus généralement, on peut montrer   que pour n ondes de fréquences ω1,…,ωi,…ωn{\displaystyle \omega _{1},\dots ,\omega _{i},\dots \omega _{n}} dont on note les amplitudes E→(ωi){\displaystyle {\vec {E}}(\omega _{i})},  la polarisation d'ordre n suivante est créée :
+
+P→(n)(ω1+⋯+ωn)=ε0χ(n)(ω1,…,ωn)E→(ω1)…E→(ωn){\displaystyle {\vec {P}}^{(n)}(\omega _{1}+\dots +\omega _{n})=\varepsilon _{0}\chi ^{(n)}(\omega _{1},\dots ,\omega _{n}){\vec {E}}(\omega _{1})\dots {\vec {E}}(\omega _{n})}où  χ(n)(ω1,…,ωn){\displaystyle \chi ^{(n)}(\omega _{1},\dots ,\omega _{n})\,} est le tenseur de susceptibilité électrique d'ordre n+1 dépendant du matériau utilisé. Cette dernière expression montre que l'onde créée résulte d'un mélange de fréquence des ondes initialement présentes.
+Une interprétation des non-linéarités apparaissant dans la polarisation provient de l'aspect microscopique de la matière. Chaque atome d'un matériau diélectrique est entouré d'un nuage électronique susceptible de se déformer sous l'action de E→{\displaystyle {\vec {E}}}, ce qui crée un dipôle électrique. Ce dipôle, pour une petite déformation, est proportionnel à E, mais si la déformation est trop importante, ce n'est plus le cas. La somme de tous les dipôles est alors la polarisation introduite plus haut, d'où sa non-linéarité. On peut utiliser un raisonnement analogue dans le cas des métaux et des plasmas : les électrons libres subissent, de la part du champ excitateur, une force de Lorentz dépendant de la vitesse des électrons, et donc de la polarisation. Ainsi, ces milieux peuvent également présenter des effets non linéaires.
+
+Classification des effets non linéaires
+Chaque type de matériau présente des susceptibilités électriques différentes. Ils donnent donc des effets non linéaires de différents ordres. On classe alors ces effets suivant cet ordre.
+
+Au premier ordreSeul le premier terme de la polarisation intervient :
+
+P→(1)(ω)=ε0χ(1)(ω)E→(ω){\displaystyle {\vec {P}}^{(1)}(\omega )=\varepsilon _{0}\chi ^{(1)}(\omega ){\vec {E}}(\omega )}.Il s'agit de l'optique linéaire classique où la fréquence de l'onde créée est forcément égale à celle de l'onde initiale. Les effets alors observés sont la réfraction des ondes et la biréfringence.
+
+Au second ordreLa polarisation s'écrit :
+
+P→(2)(ω1+ω2)=ε0χ(2)(ω1,ω2)E→(ω1)E→(ω2){\displaystyle {\vec {P}}^{(2)}(\omega _{1}+\omega _{2})=\varepsilon _{0}\chi ^{(2)}(\omega _{1},\omega _{2}){\vec {E}}(\omega _{1}){\vec {E}}(\omega _{2})}.On peut notamment citer les effets suivants :
+
+La génération de la fréquence somme ω1+ω2{\displaystyle \omega _{1}+\omega _{2}}, dont un cas particulier est la génération de seconde harmonique lorsque ω1=ω2{\displaystyle \omega _{1}=\omega _{2}}. Les pointeurs lasers verts sont un exemple d'application : une émission source à 1 064 nm (infrarouge) est doublée à 532 nm (vert), le doublage en fréquence impliquant une division par 2 en longueur d'onde.
+L'Effet Pockels lorsque ω1=0{\displaystyle \omega _{1}=0}.
+La rectification optique est le phénomène réciproque de l'effet Pockels, ou électro-optique. Lorsqu'un cristal non linéaire χ(2){\displaystyle \chi ^{(2)}} est éclairé par un faisceau lumineux, un champ de polarisation électrique statique est engendré par rectification optique selon le processus :P→(2)(Ω)=ε0χ(2)[ω+Ω,−ω;Ω]E→(ω+Ω)E→∗(ω){\displaystyle {{\vec {P}}^{(2)}(\Omega )}=\varepsilon _{0}\chi ^{(2)}\left[\omega +\Omega ,-\omega ;\Omega \right]{\vec {E}}(\omega +\Omega ){\vec {E}}^{*}(\omega )}.Au troisième ordreLa polarisation s'écrit :
+
+P→(3)(ω1+ω2+ω3)=ε0χ(3)(ω1,ω2,ω3)E→(ω1)E→(ω2)E→(ω3){\displaystyle {\vec {P}}^{(3)}(\omega _{1}+\omega _{2}+\omega _{3})=\varepsilon _{0}\chi ^{(3)}(\omega _{1},\omega _{2},\omega _{3}){\vec {E}}(\omega _{1}){\vec {E}}(\omega _{2}){\vec {E}}(\omega _{3})}.On peut citer les effets suivants :
+
+le mélange paramétrique à quatre ondes, dont un cas particulier est la génération de troisième harmonique (laser UV),
+les diffusions inélastiques Raman, Brillouin, la diffusion inélastique Stokes,
+l'effet Kerr optique,
+l'absorption à deux photons et l'émission à deux photons.
+
+Quelques dispositifs d'optique non linéaire
+Oscillateur paramétrique optique
+Amplificateur paramétrique optique
+Cristal doubleur de fréquence
+Laser accordable
+Fibres à cristaux photoniques
+Convertisseur bas
+
+Voir aussi
+Bibliographie
+(en) Quantum Electronics, H. Robin & C. L. Tang, Volume I, parties A et B, Academic Press, 1975.
+(en) Nonlinear optics, N. Bloemberger, Benjamin Inc., 1965.
+
+Notes et références
+
+ Portail de la physique   Portail de l’optique

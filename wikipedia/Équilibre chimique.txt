@@ -1,0 +1,930 @@
+Un équilibre chimique est le résultat de deux réactions chimiques simultanées dont les effets s'annulent mutuellement.
+Une réaction telle que la combustion du propane avec l'oxygène, qui s'arrête lorsque l'un des réactifs est totalement épuisé, est qualifiée de réaction totale, complète ou irréversible. À contrario, une réaction comme l'estérification, aboutissant à un mélange stable dans le temps de réactifs et de produits, sans disparition totale de l'une des espèces chimiques, est qualifiée de réaction partielle, incomplète, réversible ou inversible : ce type de réaction aboutit à un équilibre chimique. Au cours d'un processus de transformation chimique deux réactions peuvent s'opposer, l'une consommant des réactifs, l'autre consommant les produits de la première réaction pour recréer les réactifs initiaux. Une réaction est totale lorsqu'elle l'emporte sur sa réaction antagoniste. Un équilibre chimique apparaît lorsque la première réaction consomme les réactifs aussi vite que la seconde les recrée.
+Une modification des conditions opératoires d'un équilibre chimique (modification de la pression ou de la température, ajout ou extraction de l'un des constituants du mélange réactionnel, etc.) peut favoriser l'une ou l'autre réaction. Ceci implique un déplacement de l'équilibre, c'est-à-dire l'obtention d'un nouvel état d'équilibre à une composition différente de celle de l'équilibre initial, mais contenant toujours les mêmes espèces. Un retour aux conditions opératoires initiales induit un retour à l'équilibre initial. Dans certains cas, la modification des conditions opératoires peut conduire à une rupture d'équilibre, c'est-à-dire l'obtention d'une réaction totale avec disparition de l'une des espèces.
+Une réaction chimique se déplace spontanément dans le sens dicté par le deuxième principe de la thermodynamique. Une réaction qui diminue l'entropie ne peut par conséquent se produire seule, mais elle peut être provoquée. Dans un milieu réactionnel qui augmente globalement l'entropie, en présence d'autres réactions, un couplage chimique peut permettre d'obtenir une réaction qui serait impossible seule.
+
+Historique
+La notion d'équilibre chimique est évoquée pour la première fois en 1803 par le chimiste français Claude-Louis Berthollet, à la suite de ses observations sur les rives du lac Natron lors de la campagne d'Égypte. Avant lui les réactions chimiques étaient supposées être toujours totales. Berthollet est le premier à observer et étudier un mélange de réactifs et de produits (en l'occurrence un mélange de carbonate et chlorure de calcium et de sodium) dont l'équilibre se déplace tantôt dans un sens tantôt dans l'autre, selon les conditions de température et de composition. Il en déduit que les réactions chimiques sont régies par des forces opposées, mais ne peut préciser la nature de celles-ci,,.
+Il faut attendre la deuxième moitié du XIXe siècle pour que des progrès significatifs soient faits dans la compréhension des réactions et équilibres chimiques. En 1858 le physicien allemand Gustav Kirchhoff énonce sa relation liant la variation de la chaleur d'une réaction chimique ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} à la différence des capacités calorifiques des produits et des réactifs. En 1865 les chimistes norvégiens Cato Guldberg et Peter Waage, en s'inspirant des propositions de Berthollet, montrent expérimentalement qu'il existe une relation entre les concentrations des espèces présentes à l'équilibre en solution. La constante d'équilibre K{\displaystyle K} qu'ils définissent est appelée « constante de Guldberg et Waage » ou constante de la loi d'action de masse. Un premier formalisme mathématique des équilibres chimiques est développé par le chimiste néerlandais Jacobus van 't Hoff. La relation portant son nom donne la variation de la constante d'équilibre en fonction de la chaleur de réaction.
+En 1884 le chimiste français Henry Le Chatelier, toujours sur base d'expérimentations, énonce son « principe de modération », dit « principe de Le Chatelier », selon lequel un équilibre s'oppose aux changements extérieurs qui tentent de le modifier. Il existe cependant des cas dans lesquels ce principe n'est pas vérifié, notamment pour l'ajout ou l'extraction d'une espèce du mélange réactionnel,. Ce principe est également appelé « principe de Le Chatelier-Braun », du nom du physicien allemand Ferdinand Braun qui en donna en 1887 une première démonstration mathématique.
+Les bases théoriques de la chimie physique sont posées par le physicien américain Willard Gibbs entre 1875 et 1878. Gibbs introduit les fonctions enthalpie libre G{\displaystyle G} et potentiel chimique μ{\displaystyle \mu }. En 1922 le physicien belge Théophile de Donder définit l'avancement de réaction ξ{\displaystyle \xi } et l'affinité chimique A{\displaystyle {\mathcal {A}}}. Il relie ainsi l'évolution des réactions chimiques au deuxième principe de la thermodynamique et donne la condition d'évolution spontanée de toute réaction chimique,. En 1923 le physicien américain Gilbert Lewis introduit l'activité chimique a{\displaystyle a}. Ce formalisme mathématique permet en 1950 aux physiciens belges Ilya Prigogine et Raymond Defay de démontrer rigoureusement les relations et principes formulés par leurs prédécesseurs.
+
+Notions de base
+Principe de Berthelot, principe de Matignon
+Une réaction chimique est favorisée ou défavorisée par divers facteurs tels que la pression, la température, l'énergie apportée au mélange réactionnel. L'étude des réactions chimiques et des équilibres a conduit, dans la seconde moitié du XIXe siècle, à l'énoncé des deux principes empiriques suivants,, :
+
+Autrement dit, une réaction est favorisée si elle est exothermique, elle est défavorisée si elle est endothermique. Les réactions exothermiques ayant une très forte chaleur de réaction (enthalpie standard de réaction ΔrH∘≪0{\displaystyle \Delta _{\text{r}}H^{\circ }\ll 0}), comme les réactions de combustion, sont souvent totales.
+
+Les réactions augmentant la quantité de matière dans le mélange réactionnel sont favorisées : la réaction de combustion d'un alcane avec l'oxygène est favorisée, car le nombre de moles de produits est supérieur à celui des réactifs ; en outre elle est exothermique, elle est donc doublement favorisée ce qui la rend totale. Le principe de Matignon est en accord avec le deuxième principe de la thermodynamique : les réactions dont l'entropie standard de réaction ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} est positive sont favorisées, or une augmentation du nombre de moles d'un système thermodynamique à la suite d'une réaction correspond à une augmentation de l'entropie. Les réactions produisant un gaz à partir d'un solide ou d'un liquide sont donc également favorisées, car l'entropie d'un gaz est plus élevée que celle d'une phase condensée.
+Lorsque ces deux principes, qui en eux-mêmes n'ont qu'un intérêt historique, entrent en concurrence au sein d'une même réaction, il apparaît un équilibre. Leur combinaison, qui fut effectuée par Gibbs et Duhem, conduit à l'étude de l'enthalpie libre standard de réaction ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }}, définie par :
+
+Enthalpie libre standard de réaction : ΔrG∘=ΔrH∘−TΔrS∘{\displaystyle \Delta _{\text{r}}G^{\circ }=\Delta _{\text{r}}H^{\circ }-T\Delta _{\text{r}}S^{\circ }}
+avec T{\displaystyle T} la température à laquelle est effectuée la réaction. Ainsi,, :
+
+lorsque ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} sont de signes opposés, les deux principes sont simultanément favorables ou défavorables :
+si ΔrH∘>0{\displaystyle \Delta _{\text{r}}H^{\circ }>0} et ΔrS∘<0{\displaystyle \Delta _{\text{r}}S^{\circ }<0}, soit ΔrG∘≫0{\displaystyle \Delta _{\text{r}}G^{\circ }\gg 0}, selon les deux principes tous les facteurs sont défavorables : la réaction est impossible ;
+si ΔrH∘<0{\displaystyle \Delta _{\text{r}}H^{\circ }<0} et ΔrS∘>0{\displaystyle \Delta _{\text{r}}S^{\circ }>0}, soit ΔrG∘≪0{\displaystyle \Delta _{\text{r}}G^{\circ }\ll 0}, selon les deux principes tous les facteurs sont favorables : la réaction est totale ;
+lorsque ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} sont de même signe, les deux principes s'opposent, ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }} peut être positive ou négative : la réaction conduit à un équilibre d'autant plus déplacé que ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }} est éloignée de 0 :
+si ΔrG∘>0{\displaystyle \Delta _{\text{r}}G^{\circ }>0} la réaction est peu favorisée, l'équilibre contiendra majoritairement des réactifs, peu consommés ;
+si ΔrG∘<0{\displaystyle \Delta _{\text{r}}G^{\circ }<0} la réaction est favorisée, l'équilibre contiendra majoritairement des produits, les réactifs étant en grande partie consommés.Le tableau suivant récapitule l'influence des deux facteurs sur la réaction,.
+
+En toute rigueur cependant, une réaction telle que ΔrH∘>0{\displaystyle \Delta _{\text{r}}H^{\circ }>0} et ΔrS∘<0{\displaystyle \Delta _{\text{r}}S^{\circ }<0} n'est pas impossible. Elle ne peut pas être spontanée, c'est-à-dire avoir lieu seule, car elle diminue l'entropie, ce qui est contraire au deuxième principe de la thermodynamique. Néanmoins elle peut être provoquée : cette réaction pourrait par exemple avoir lieu par couplage chimique avec une autre réaction, de telle sorte que l'entropie globale créée par ces deux réactions soit positive, en accord avec le deuxième principe (voir le chapitre Équilibres chimiques simultanés).
+D'autre part, si l'un des facteurs ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} est significativement plus important que l'autre, une réaction à priori équilibrée peut être en réalité totale ou impossible. C'est le cas de la combustion du monoxyde de carbone CO en dioxyde de carbone CO2 en présence d'oxygène O2 :
+
+1CO+12O2→1CO2{\displaystyle {\rm {1\,CO+{1 \over 2}\,O_{2}\rightarrow 1\,CO_{2}}}}Cette réaction est exothermique et diminue le nombre de ses molécules : elle est donc favorisée selon Berthelot et défavorisée selon Matignon, elle devrait être équilibrée. Cependant sa très forte exothermicité (ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} = −67,6 kcal/mol = −282,8 kJ/mol) la rend totale jusqu'à environ 1 000 °C.
+Enfin, si les deux facteurs ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} sont peu marqués, une réaction à priori totale ou impossible peut être en réalité équilibrée. C'est le cas de la synthèse de l'iodure d'hydrogène HI en présence d'iode I2 et d'hydrogène H2 :
+
+1H2+1I2⇄2HI{\displaystyle {\rm {1\,H_{2}+1\,I_{2}\rightleftarrows 2\,HI}}}Cette réaction est faiblement exothermique (ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} = −9,4 kJ/mol) et ne modifie pas le nombre de ses molécules : elle devrait être totale selon Berthelot, mais est en fait équilibrée.
+L'enthalpie libre standard de réaction ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }} ne tient compte que de la stœchiométrie et de la température, le mélange réactionnel étant considéré dans un état standard généralement différent des conditions réelles de réaction. Une étude plus fine des réactions chimiques passe par l'utilisation de l'enthalpie libre de réaction ΔrG{\displaystyle \Delta _{\text{r}}G}, qui, en plus de la température et de la stœchiométrie, prend en compte la pression et la composition du mélange réactionnel, et les activités chimiques des constituants.
+
+Réaction directe et réaction inverse, cinétique des réactions
+Un équilibre chimique implique deux réactions simultanées :
+
+une réaction dans le sens réactifs →{\displaystyle \rightarrow } produits appelée réaction directe, il s'agit généralement de la réaction intéressante pour la synthèse d'une espèce chimique donnée ;
+une réaction dans le sens produits →{\displaystyle \rightarrow } réactifs appelée réaction inverse, qui s'oppose à la réaction directe.Dans un équilibre, l'une des deux réactions obéit au principe de Berthelot et l'autre au principe de Matignon : si l'une est exothermique, l'autre augmente le désordre du système réactionnel ; en conséquence, puisque les deux réactions ont des effets inverses, la première enfreint le principe de Matignon en diminuant le désordre, et la deuxième enfreint le principe de Berthelot en étant endothermique.
+Lorsqu'une réaction est équilibrée, cela signifie que la vitesse de la réaction directe est égale à la vitesse de la réaction inverse. L'état d'équilibre obtenu dans ce cas peut être qualifié d'équilibre dynamique ou stationnaire : les réactions ont toujours lieu, mais globalement leurs effets s'annulent ; par exemple la réaction directe consomme les réactifs aussi vite que la réaction inverse les recrée, d'où une composition du mélange réactionnel stable dans le temps ; ou encore la réaction endothermique absorbe totalement la chaleur dégagée par la réaction exothermique, d'où un bilan énergétique globalement nul.
+Dans le cas d'un équilibre impliquant deux réactifs A{\displaystyle {\rm {A}}} et B{\displaystyle {\rm {B}}} et deux produits C{\displaystyle {\rm {C}}} et D{\displaystyle {\rm {D}}}, on note l'équilibre sous la forme :
+
+|νA|A+|νB|B⇄|νC|C+|νD|D{\displaystyle {\rm {|\nu _{A}|\,A+|\nu _{B}|\,B\,\rightleftarrows \,|\nu _{C}|\,C+|\nu _{D}|\,D}}}
+où A{\displaystyle {\rm {A}}}, B{\displaystyle {\rm {B}}}, C{\displaystyle {\rm {C}}} et D{\displaystyle {\rm {D}}} sont des espèces chimiques, |νA|{\displaystyle {\rm {|\nu _{A}|}}}, |νB|{\displaystyle {\rm {|\nu _{B}|}}}, |νC|{\displaystyle {\rm {|\nu _{C}|}}} et |νD|{\displaystyle {\rm {|\nu _{D}|}}} les coefficients stœchiométriques respectifs, nombres positifs (voir paragraphe Stœchiométrie, avancement de réaction).
+Dans le cas de réactions élémentaires, c'est-à-dire s'effectuant en une seule étape, les vitesses de réaction dépendent des concentrations [A]{\displaystyle {\rm {\left[A\right]}}}, [B]{\displaystyle {\rm {\left[B\right]}}}, [C]{\displaystyle {\rm {\left[C\right]}}} et [D]{\displaystyle {\rm {\left[D\right]}}} des espèces en présence et de k→{\displaystyle k_{\rightarrow }} et k←{\displaystyle k_{\leftarrow }} les constantes respectives des vitesses des réactions directe et inverse (qui suivent la loi d'Arrhenius) selon les expressions :
+
+v→=k→[A]|νA|[B]|νB|{\displaystyle v_{\rightarrow }=k_{\rightarrow }\left[{\rm {A}}\right]^{|\nu _{\rm {A}}|}\left[{\rm {B}}\right]^{|\nu _{\rm {B}}|}} la vitesse de la réaction directe ;
+v←=k←[C]|νC|[D]|νD|{\displaystyle v_{\leftarrow }=k_{\leftarrow }\left[{\rm {C}}\right]^{|\nu _{\rm {C}}|}\left[{\rm {D}}\right]^{|\nu _{\rm {D}}|}} la vitesse de la réaction inverse.Dans une réaction totale, la réaction inverse est inexistante, ou du moins a-t-elle une vitesse négligeable devant la vitesse de la réaction directe : v←≪v→{\displaystyle v_{\leftarrow }\ll v_{\rightarrow }}. À la fin d'une réaction totale, c'est-à-dire lorsque les concentrations des réactifs et produits ne varient plus, les réactifs ont totalement disparu s'ils ont été introduits à la stœchiométrie, sinon c'est le réactif introduit en défaut, ou réactif limitant, qui a totalement disparu.
+Dans un équilibre chimique, la vitesse de déplacement de l'équilibre est égale à la différence entre la vitesse de la réaction directe et la vitesse de la réaction inverse : véq=v→−v←{\displaystyle v_{\text{éq}}=v_{\rightarrow }-v_{\leftarrow }}. Les deux vitesses de réaction finissent par s'égaliser sans s'annuler : v→=v←≠0{\displaystyle v_{\rightarrow }=v_{\leftarrow }\neq 0} (c'est la vitesse de l'équilibre qui s'annule véq=0{\displaystyle v_{\text{éq}}=0}). Ceci entraîne, à l'équilibre, la relation suivante, appelée loi d'action de masse :
+
+k→k←=[C]|νC|[D]|νD|[A]|νA|[B]|νB|=K{\displaystyle {k_{\rightarrow } \over k_{\leftarrow }}={\left[{\rm {C}}\right]^{|\nu _{\rm {C}}|}\left[{\rm {D}}\right]^{|\nu _{\rm {D}}|} \over \left[{\rm {A}}\right]^{|\nu _{\rm {A}}|}\left[{\rm {B}}\right]^{|\nu _{\rm {B}}|}}=K}
+Cette relation lie les constantes des vitesses des deux réactions aux concentrations des réactifs et des produits à l'équilibre. Le rapport ainsi obtenu est appelé constante d'équilibre. Cette relation a été établie empiriquement par Guldberg et Waage. Nous verrons par la suite comment établir rigoureusement cette relation selon les principes de la thermodynamique. Dans un équilibre chimique aucune espèce, que ce soit un réactif ou un produit, ne disparaît totalement.
+Les expressions correctes des vitesses de réaction et de la constante d'équilibre doivent faire intervenir les activités chimiques des constituants, et non leur concentration ou leur pression molaire partielle souvent utilisées par approximation.
+
+Stœchiométrie, avancement de réaction
+Soit une réaction chimique impliquant N{\displaystyle N} espèces chimiques Ck{\displaystyle {\rm {C}}_{k}}. Son équation bilan s'écrit :
+
+Réaction chimique
+|ν1|C1+|ν2|C2+⋯⇄⋯+|νN|CN{\displaystyle {\rm {|\nu _{1}|\,C_{1}+|\nu _{2}|\,C_{2}+\cdots \rightleftarrows \cdots +|\nu _{N}|\,C_{N}}}}
+Dans cette écriture, les N{\displaystyle N} coefficients stœchiométriques |νk|{\displaystyle |\nu _{k}|} sont positifs, les constituants à gauche de la flèche sont les réactifs, ceux à droite les produits. Cette équation peut être réécrite selon la convention stœchiométrique,, :
+
+Réaction chimique
+ν1C1+ν2C2+⋯+νNCN=0{\displaystyle \nu _{1}\,{\rm {C}}_{1}+\nu _{2}\,{\rm {C}}_{2}+\cdots +\nu _{N}\,{\rm {C}}_{N}=0}
+en attribuant une valeur négative aux coefficients stœchiométriques des réactifs et positive à ceux des produits :
+
+νk<0{\displaystyle \nu _{k}<0} pour un réactif ; νk=−|νk|{\displaystyle \nu _{k}=-|\nu _{k}|} ;
+νk>0{\displaystyle \nu _{k}>0} pour un produit ; νk=|νk|{\displaystyle \nu _{k}=|\nu _{k}|} ;
+νk=0{\displaystyle \nu _{k}=0} pour un inerte.Considérons, à un instant t{\displaystyle t} quelconque, une variation élémentaire dn1{\displaystyle \mathrm {d} n_{1}} de la quantité du réactif 1{\displaystyle 1} (ν1<0{\displaystyle \nu _{1}<0}). Les variations élémentaires dnk{\displaystyle \mathrm {d} n_{k}} des quantités des autres constituants k{\displaystyle k} sont proportionnelles à celle de 1{\displaystyle 1} selon l'équation bilan de la réaction :
+
+les quantités des réactifs décroissent simultanément (de même si elles croissent) ; la quantité de tout réactif (νk<0{\displaystyle \nu _{k}<0}) varie dans le même sens que celle de 1{\displaystyle 1} selon :dnk=|νk||ν1|dn1=νkν1dn1{\displaystyle \mathrm {d} n_{k}={|\nu _{k}| \over |\nu _{1}|}\,\mathrm {d} n_{1}={\nu _{k} \over \nu _{1}}\,\mathrm {d} n_{1}}les quantités des produits croissent quand celles des réactifs décroissent (et inversement) ; la quantité de tout produit (νk>0{\displaystyle \nu _{k}>0}) varie dans le sens inverse de celle de 1{\displaystyle 1} selon :dnk=−|νk||ν1|dn1=νkν1dn1{\displaystyle \mathrm {d} n_{k}=-{|\nu _{k}| \over |\nu _{1}|}\,\mathrm {d} n_{1}={\nu _{k} \over \nu _{1}}\,\mathrm {d} n_{1}}quel que soit le sens de déplacement de la réaction, la quantité de tout inerte (νk=0{\displaystyle \nu _{k}=0}) ne varie pas :dnk=νkν1dn1=0{\displaystyle \mathrm {d} n_{k}={\nu _{k} \over \nu _{1}}\,\mathrm {d} n_{1}=0}Les rapports dnk/νk{\displaystyle \mathrm {d} n_{k}/\nu _{k}} sont donc tous égaux à dn1/ν1{\displaystyle \mathrm {d} n_{1}/\nu _{1}}. On appelle avancement de réaction la variable ξ{\displaystyle \xi } telle que :
+
+Cette variable unique lie, par la stœchiométrie de la réaction, les variations des quantités de l'ensemble des constituants du mélange réactionnel. Au début de la réaction, au temps t=0{\displaystyle t=0}, l'avancement de réaction est nul, ξ0=0{\displaystyle \xi ^{0}=0}. Puis, à tout instant t{\displaystyle t} au cours de la réaction, la quantité d'un constituant k{\displaystyle k} quelconque peut être calculée par intégration de la relation précédente :
+
+∫nk0nkdnk=νk∫0ξdξ{\displaystyle \int _{n_{k}^{0}}^{n_{k}}\,\mathrm {d} n_{k}=\nu _{k}\int _{0}^{\xi }\,\mathrm {d} \xi }d'où, pour tout k∈[1,⋯,N]{\displaystyle k\in [1,\cdots ,N]} :
+
+nk=nk0+νkξ{\displaystyle n_{k}=n_{k}^{0}+\nu _{k}\,\xi }
+avec :
+
+nk0{\displaystyle n_{k}^{0}} la quantité du constituant à l'instant initial t=0{\displaystyle t=0} ;
+nk{\displaystyle n_{k}} la quantité du constituant à l'instant t{\displaystyle t} ;
+ξ{\displaystyle \xi } l'avancement de réaction à l'instant t{\displaystyle t} ; à l'instant initial, par définition, ξ0=0{\displaystyle \xi ^{0}=0}.Pour un inerte, constituant n'intervenant pas dans la réaction (νk=0{\displaystyle \nu _{k}=0}), la quantité ne varie pas au cours de la réaction : on a nk=nk0{\displaystyle n_{k}=n_{k}^{0}} à tout instant.
+L'avancement est une variable de composition extensive : par exemple, si l'on double la quantité de chacun des constituants, l'avancement de réaction double également. L'avancement de réaction peut indifféremment augmenter ou diminuer : le signe de dξ{\displaystyle \mathrm {d} \xi } donne le sens de déplacement de la réaction. Lorsque l'avancement de réaction augmente, soit dξ>0{\displaystyle \mathrm {d} \xi >0} :
+
+les réactifs disparaissent : dnk<0{\displaystyle \mathrm {d} n_{k}<0} ;
+les produits apparaissent : dnk>0{\displaystyle \mathrm {d} n_{k}>0} ;
+la réaction directe l'emporte sur la réaction inverse : v→>v←{\displaystyle v_{\rightarrow }>v_{\leftarrow }} et véq>0{\displaystyle v_{\text{éq}}>0} ;
+l'équilibre se déplace de la gauche (réactifs) vers la droite (produits) ;
+la réaction progresse.À l'inverse, lorsque l'avancement de réaction diminue, soit dξ<0{\displaystyle \mathrm {d} \xi <0} :
+
+les réactifs apparaissent : dnk>0{\displaystyle \mathrm {d} n_{k}>0} ;
+les produits disparaissent : dnk<0{\displaystyle \mathrm {d} n_{k}<0} ;
+la réaction directe est dominée par la réaction inverse : v→<v←{\displaystyle v_{\rightarrow }<v_{\leftarrow }} et véq<0{\displaystyle v_{\text{éq}}<0} ;
+l'équilibre se déplace de la droite (produits) vers la gauche (réactifs) ;
+la réaction régresse.Puisque l'avancement est nul au début de la réaction, il prend une valeur positive, ξ>0{\displaystyle \xi >0}, lorsque la réaction progresse et une valeur négative, ξ<0{\displaystyle \xi <0}, lorsque la réaction régresse.
+
+La vitesse de déplacement de l'équilibre est égale à la dérivée de l'avancement de réaction par rapport au temps t{\displaystyle t}, :
+
+Vitesse de réaction
+ξ˙=dξdt=véq=v→−v←{\displaystyle {\dot {\xi }}={\mathrm {d} \xi  \over \mathrm {d} t}=v_{\text{éq}}=v_{\rightarrow }-v_{\leftarrow }}
+La vitesse de réaction est positive, ξ˙>0{\displaystyle {\dot {\xi }}>0}, lorsque la réaction progresse (l'avancement de réaction croît) et négative, ξ˙<0{\displaystyle {\dot {\xi }}<0}, lorsque la réaction régresse (l'avancement de réaction décroît) ; à l'équilibre ξ˙=0{\displaystyle {\dot {\xi }}=0}. Pour tout constituant k{\displaystyle k} (réactif, produit ou inerte), la vitesse d'apparition est égale à, :
+
+Vitesse d'apparition du constituant k{\displaystyle k}
+n˙k=dnkdt=νk⋅dξdt=νk⋅véq{\displaystyle {\dot {n}}_{k}={\mathrm {d} n_{k} \over \mathrm {d} t}=\nu _{k}\cdot {\mathrm {d} \xi  \over \mathrm {d} t}=\nu _{k}\cdot v_{\text{éq}}}
+Comme la vitesse de réaction, la vitesse d'apparition d'un constituant peut être positive (le constituant apparait) ou négative (le constituant disparait).
+
+Affinité chimique, condition d'évolution spontanée et condition d'équilibre
+L'affinité chimique est une fonction d'état définie à partir des potentiels chimiques μk{\displaystyle \mu _{k}} :
+
+Considérant la relation pour tout constituant :
+
+dnk=νkdξ{\displaystyle \mathrm {d} n_{k}=\nu _{k}\,\mathrm {d} \xi }on a la relation :
+
+∑i=kNμkdnk=−Adξ{\displaystyle \sum _{i=k}^{N}\mu _{k}\,\mathrm {d} n_{k}=-{\mathcal {A}}\,\mathrm {d} \xi }
+Le deuxième principe de la thermodynamique implique que l'évolution spontanée d'une réaction chimique ne peut se faire que si :
+
+A{\displaystyle {\mathcal {A}}} et dξ{\displaystyle \mathrm {d} \xi } ne peuvent donc être que de même signe :
+
+une progression est associée à un signe positif : A>0{\displaystyle {\mathcal {A}}>0} et dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+une régression est associée à un signe négatif : A<0{\displaystyle {\mathcal {A}}<0} et dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse.Un système fermé est à l'équilibre lorsque les variables intensives qui le décrivent (température, pression et potentiels chimiques des réactifs et des produits) sont homogènes dans tout le système et restent constantes au cours du temps. L'équilibre est atteint lorsque l'affinité est nulle :
+
+En termes de potentiel thermodynamique, ces relations dépendent des conditions opératoires maintenues constantes en cours de réaction :
+
+pour une réaction chimique effectuée à P{\displaystyle P} et T{\displaystyle T} constantes : dG=−Adξ{\displaystyle \mathrm {d} G=-{\mathcal {A}}\,\mathrm {d} \xi },
+la fonction enthalpie libre G{\displaystyle G} ne peut que décroître :
+Condition d'évolution spontanée de tout système chimique à P{\displaystyle P} et T{\displaystyle T} constantes : dG<0{\displaystyle \mathrm {d} G<0}
+lorsque G{\displaystyle G} ne varie plus, dG{\displaystyle \mathrm {d} G} est nulle, la fonction G{\displaystyle G} est minimale. Cela signifie que le système réactionnel est à l'équilibre :
+À l'équilibre : dG=0{\displaystyle \mathrm {d} G=0}
+
+pour une réaction chimique effectuée à V{\displaystyle V} et T{\displaystyle T} constants : dF=−Adξ{\displaystyle \mathrm {d} F=-{\mathcal {A}}\,\mathrm {d} \xi },
+la fonction énergie libre F{\displaystyle F} ne peut que décroître :
+Condition d'évolution spontanée de tout système chimique à V{\displaystyle V} et T{\displaystyle T} constants : dF<0{\displaystyle \mathrm {d} F<0}
+lorsque F{\displaystyle F} ne varie plus, dF{\displaystyle \mathrm {d} F} est nulle, la fonction F{\displaystyle F} est minimale. Cela signifie que le système réactionnel est à l'équilibre :À l'équilibre : dF=0{\displaystyle \mathrm {d} F=0}
+Les relations suivantes définissent également l'affinité chimique :
+
+Équilibres hétérogènes, rupture d'équilibre
+Un équilibre homogène est un équilibre dans lequel l'ensemble des réactifs et des produits se situent dans la même phase ; par exemple :
+
+l'équilibre du dioxyde et du trioxyde de soufre en phase gaz : 2SO2(g)+1O2(g)⇄2SO3(g){\displaystyle {\rm {2\,SO_{2}(g)+1\,O_{2}(g)\rightleftarrows 2\,SO_{3}(g)}}} ;
+l'autoprotolyse de l'eau en phase aqueuse : 2H2O(aq)⇄H3O+(aq)+OH−(aq){\displaystyle {\rm {2\,H_{2}O(aq)\rightleftarrows H_{3}O^{+}(aq)+OH^{-}(aq)}}} ;
+l'estérification en phase aqueuse : R1COOH(aq)+R2OH(aq)⇄R1COOR2(aq)+H2O(aq){\displaystyle {\rm {R_{1}COOH(aq)+R_{2}OH(aq)\rightleftarrows R_{1}COOR_{2}(aq)+H_{2}O(aq)}}}.Un équilibre hétérogène est un équilibre dans lequel l'un au moins des réactifs ou produits se situe dans une phase différente des autres constituants du milieu réactionnel ; par exemple :
+
+la précipitation ou dissolution du chlorure de sodium en phases aqueuse et solide : Na+(aq)+Cl−(aq)⇄NaCl(s){\displaystyle {\rm {Na^{+}(aq)+Cl^{-}(aq)\rightleftarrows NaCl(s)}}} ;
+la dissolution du dioxyde de carbone en phases gaz et aqueuse : CO2(g)+H2O(aq)⇄H2CO3(aq){\displaystyle {\rm {CO_{2}(g)+H_{2}O(aq)\rightleftarrows H_{2}CO_{3}(aq)}}} ;
+la réduction de l'oxyde de zinc en phases solide et gaz : ZnO(s)+H2(g)⇄Zn(s)+H2O(g){\displaystyle {\rm {ZnO(s)+H_{2}(g)\rightleftarrows Zn(s)+H_{2}O(g)}}} ;
+l'équilibre des formes allotropiques du carbone diamant et graphite : Cdiamant(s)⇄Cgraphite(s){\displaystyle {\rm {C_{\text{diamant}}(s)\rightleftarrows C_{\text{graphite}}(s)}}}, chacun des deux solides constituant une phase à lui seul ;
+la nitration aromatique et la sulfonation aromatique faisant intervenir une phase organique liquide et une phase minérale acide liquide, les deux liquides n'étant pas miscibles.Dans le cas des équilibres hétérogènes, si l'une des phases disparait au cours de la réaction l'état obtenu en fin de réaction n'est pas un état d'équilibre chimique : il y a rupture d'équilibre,. D'une façon générale, tout système en équilibre chimique présentant une variance faible (1 le plus souvent) présente des ruptures d'équilibre si l'opérateur impose plus de paramètres que ne le permet la variance. Par exemple, pour un équilibre de variance 1 l'opérateur peut fixer la température mais subit la concentration. Si l'opérateur impose une concentration autre que celle dictée par l'équilibre, alors le système réactionnel, à la température fixée, est hors équilibre : il y a rupture d'équilibre. Une rupture d'équilibre peut permettre d'obtenir une réaction totale, par épuisement de l'un des réactifs.
+
+Réaction à pression et température constantes
+Les démonstrations qui suivent sont valables pour une réaction ayant lieu à P{\displaystyle P} et T{\displaystyle T} constantes, en se basant sur l'enthalpie libre G{\displaystyle G}.
+
+Définitions
+Enthalpie libre de réaction
+L'enthalpie libre de réaction est définie par :
+
+(∂G∂ξ)P,T=∑k=1NνkG¯k=∑k=1Nνkμk=−A{\displaystyle \left({\partial G \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}{\bar {G}}_{k}=\sum _{k=1}^{N}\nu _{k}\mu _{k}=-{\mathcal {A}}}avec G¯k=μk{\displaystyle {\bar {G}}_{k}=\mu _{k}} l'enthalpie libre molaire partielle ou potentiel chimique du constituant k{\displaystyle k}.
+La différentielle de l'enthalpie libre est égale à :
+
+dG=VdP−SdT+(∂G∂ξ)P,Tdξ{\displaystyle \mathrm {d} G=V\,\mathrm {d} P-S\,\mathrm {d} T+\left({\partial G \over \partial \xi }\right)_{P,T}\,\mathrm {d} \xi }d'où, à P{\displaystyle P} et T{\displaystyle T} constantes :
+
+dG=(∂G∂ξ)P,Tdξ{\displaystyle \mathrm {d} G=\left({\partial G \over \partial \xi }\right)_{P,T}\,\mathrm {d} \xi }Cette grandeur est également notée avec l'opérateur de Lewis :
+
+ΔrG=(∂G∂ξ)P,T{\displaystyle \Delta _{\text{r}}G=\left({\partial G \over \partial \xi }\right)_{P,T}}L'enthalpie libre de réaction et l'affinité chimique sont donc définies par, :
+
+et à pression et température constantes on a :
+
+Enthalpie libre standard de réaction et quotient de réaction
+Le potentiel chimique μk{\displaystyle \mu _{k}} de chaque constituant k{\displaystyle k} dans le mélange réactionnel peut être exprimé en fonction du potentiel chimique μk∘{\displaystyle \mu _{k}^{\circ }} de ce constituant dans un état standard à la même température T{\displaystyle T} que le mélange réactionnel et de l'activité ak{\displaystyle a_{k}} du constituant selon la relation :
+
+Potentiel chimique : μk=μk∘+RTln⁡ak{\displaystyle \mu _{k}=\mu _{k}^{\circ }+RT\,\ln a_{k}}
+L'état standard peut être à une autre pression, une autre composition et dans un autre état que le mélange réactionnel réel, néanmoins il est obligatoirement à la même température que celui-ci.
+L'expression de l'enthalpie libre de réaction est développée selon :
+
+ΔrG=∑k=1Nνkμk=∑k=1Nνkμk∘+RT∑k=1Nνkln⁡ak{\displaystyle \Delta _{\text{r}}G=\sum _{k=1}^{N}\nu _{k}\mu _{k}=\sum _{k=1}^{N}\nu _{k}\mu _{k}^{\circ }+RT\,\sum _{k=1}^{N}\nu _{k}\ln a_{k}}Les termes standards μk∘{\displaystyle \mu _{k}^{\circ }} sont regroupés dans une grandeur appelée enthalpie libre standard de réaction :
+
+Les termes correspondant aux activités sont regroupés dans le quotient de réaction, :
+
+RT∑k=1Nνkln⁡ak=RT∑k=1Nln(akνk)=RTln(∏k=1Nakνk){\displaystyle RT\,\sum _{k=1}^{N}\nu _{k}\ln a_{k}=RT\,\sum _{k=1}^{N}\ln \!\left({a_{k}}^{\nu _{k}}\right)=RT\,\ln \!\left(\prod _{k=1}^{N}{a_{k}}^{\nu _{k}}\right)}En conséquence l'enthalpie libre de réaction s'écrit :
+
+Constante d'équilibre
+La constante d'équilibre K{\displaystyle K}, qui est toujours positive, est définie par la relation avec l'enthalpie standard de réaction :
+
+La constante d'équilibre peut être déterminée expérimentalement ou calculée à partir des seules propriétés des réactifs et produits à l'état standard,,,. Les propriétés dans l'état standard ne dépendant que de la température, la constante d'équilibre ne dépend elle-même que de la température. L'état standard est choisi à la même température T{\displaystyle T} que le mélange réactionnel réel (mais la pression et la composition peuvent être différentes).
+L'enthalpie libre standard de réaction est liée à l'enthalpie standard de réaction ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et à l'entropie standard de réaction ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} par la relation :
+
+ΔrG∘=ΔrH∘−TΔrS∘{\displaystyle \Delta _{\text{r}}G^{\circ }=\Delta _{\text{r}}H^{\circ }-T\Delta _{\text{r}}S^{\circ }}
+Lorsque ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} sont de même signe, ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }} peut être négative (K>1{\displaystyle K>1}, progression de la réaction favorisée) ou positive (K<1{\displaystyle K<1}, régression favorisée) : la réaction produit un équilibre d'autant plus déplacé vers la droite (vers les produits) que ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }} décroît et K{\displaystyle K} augmente. Nous retrouvons ici les principes de Berthelot et Matignon selon lesquels la réaction est favorisée si ΔrH∘<0{\displaystyle \Delta _{\text{r}}H^{\circ }<0} et ΔrS∘>0{\displaystyle \Delta _{\text{r}}S^{\circ }>0} : si tel est le cas, ΔrG∘≪0{\displaystyle \Delta _{\text{r}}G^{\circ }\ll 0} et K≫1{\displaystyle K\gg 1}, la réaction est totale. À contrario, la réaction est impossible si ΔrH∘>0{\displaystyle \Delta _{\text{r}}H^{\circ }>0} et ΔrS∘<0{\displaystyle \Delta _{\text{r}}S^{\circ }<0}, auquel cas ΔrG∘≫0{\displaystyle \Delta _{\text{r}}G^{\circ }\gg 0} et K≪1{\displaystyle K\ll 1}. Il est considéré en pratique qu'une réaction est totale pour K>104{\displaystyle K>10^{4}} et impossible pour K<10−4{\displaystyle K<10^{-4}}. La température à laquelle ΔrG∘=0{\displaystyle \Delta _{\text{r}}G^{\circ }=0} et K=1{\displaystyle K=1} est appelée température d'inversion, :
+
+Température d'inversion : Ti=ΔrH∘ΔrS∘{\displaystyle T_{i}={\Delta _{\text{r}}H^{\circ } \over \Delta _{\text{r}}S^{\circ }}}
+Elle correspond à la limite à partir de laquelle la réaction directe est favorisée ou non : pour une réaction exothermique (ΔrH∘<0{\displaystyle \Delta _{\text{r}}H^{\circ }<0}) il vaut mieux travailler à une température inférieure à Ti{\displaystyle T_{i}}, pour une réaction endothermique (ΔrH∘>0{\displaystyle \Delta _{\text{r}}H^{\circ }>0}) il vaut mieux travailler à une température supérieure.
+Les relations de Kirchhoff permettent d'établir une expression rigoureuse de la constante d'équilibre :
+
+ΔrH∘(T)=ΔrH∘(T∘)+∫T∘TΔrCP∘dT{\displaystyle \Delta _{\text{r}}H^{\circ }\!\left(T\right)=\Delta _{\text{r}}H^{\circ }\!\left(T^{\circ }\right)+\int _{T^{\circ }}^{T}\Delta _{\text{r}}C_{P}^{\circ }\,\mathrm {d} T}
+ΔrS∘(T)=ΔrS∘(T∘)+∫T∘TΔrCP∘TdT{\displaystyle \Delta _{\text{r}}S^{\circ }\!\left(T\right)=\Delta _{\text{r}}S^{\circ }\!\left(T^{\circ }\right)+\int _{T^{\circ }}^{T}{\Delta _{\text{r}}C_{P}^{\circ } \over T}\,\mathrm {d} T}ΔrG∘(T)=−RTln⁡K(T)=ΔrH∘(T∘)+∫T∘TΔrCP∘dT−TΔrS∘(T∘)−T∫T∘TΔrCP∘TdT{\displaystyle \Delta _{\text{r}}G^{\circ }\!\left(T\right)=-RT\,\ln K\!\left(T\right)=\Delta _{\text{r}}H^{\circ }\!\left(T^{\circ }\right)+\int _{T^{\circ }}^{T}\Delta _{\text{r}}C_{P}^{\circ }\,\mathrm {d} T-T\Delta _{\text{r}}S^{\circ }\!\left(T^{\circ }\right)-T\int _{T^{\circ }}^{T}{\Delta _{\text{r}}C_{P}^{\circ } \over T}\,\mathrm {d} T}
+avec :
+
+ΔrH∘(T∘)=∑k=1NνkH¯k∘(T∘){\displaystyle \Delta _{\text{r}}H^{\circ }\!\left(T^{\circ }\right)=\sum _{k=1}^{N}\nu _{k}{\bar {H}}_{k}^{\circ }\!\left(T^{\circ }\right)} l'enthalpie standard de réaction à T∘{\displaystyle T^{\circ }} ;
+H¯k∘(T∘){\displaystyle {\bar {H}}_{k}^{\circ }\!\left(T^{\circ }\right)} l'enthalpie molaire standard du constituant k{\displaystyle k} à T∘{\displaystyle T^{\circ }} ;
+ΔrS∘(T∘)=∑k=1NνkS¯k∘(T∘){\displaystyle \Delta _{\text{r}}S^{\circ }\!\left(T^{\circ }\right)=\sum _{k=1}^{N}\nu _{k}{\bar {S}}_{k}^{\circ }\!\left(T^{\circ }\right)} l'entropie standard de réaction à T∘{\displaystyle T^{\circ }} ;
+S¯k∘(T∘){\displaystyle {\bar {S}}_{k}^{\circ }\!\left(T^{\circ }\right)} l'entropie molaire standard du constituant k{\displaystyle k} à T∘{\displaystyle T^{\circ }} ;
+ΔrCP∘=∑k=1NνkC¯P,k∘{\displaystyle \Delta _{\text{r}}C_{P}^{\circ }=\sum _{k=1}^{N}\nu _{k}{\bar {C}}_{P,k}^{\circ }} la capacité thermique isobare standard de réaction, dépendante de T{\displaystyle T} ;
+C¯P,k∘{\displaystyle {\bar {C}}_{P,k}^{\circ }} la capacité thermique isobare molaire standard du constituant k{\displaystyle k}, dépendante de T{\displaystyle T} ;
+T∘{\displaystyle T^{\circ }} la température de référence.Sur des plages de température réduites l'enthalpie standard de réaction et l'entropie standard de réaction peuvent être considérées comme des constantes selon l'approximation d'Ellingham, ce qui revient à considérer que ΔrCP∘≈0{\displaystyle \Delta _{\text{r}}C_{P}^{\circ }\approx 0}. Aussi, en introduisant deux constantes A{\displaystyle A} et B{\displaystyle B} telles que :
+
+ΔrH∘=RB{\displaystyle \Delta _{\text{r}}H^{\circ }=RB} l'enthalpie standard de réaction ;
+ΔrS∘=RA{\displaystyle \Delta _{\text{r}}S^{\circ }=RA} l'entropie standard de réaction ;on obtient :
+
+ΔrG∘=RB−TRA=−RT(A−BT){\displaystyle \Delta _{\text{r}}G^{\circ }=RB-TRA=-RT\,\left(A-{B \over T}\right)}La constante K{\displaystyle K} d'équilibre peut être trouvée dans la littérature pour de nombreux équilibres sous la forme :
+
+ln⁡K=A−BT{\displaystyle \ln K=A-{B \over T}}
+Cette expression est la plus courante, il est nécessaire de vérifier son domaine de validité en température qui est souvent assez réduit. Puisque ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} et ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} sont le plus souvent de même signe dans une réaction équilibrée, les constantes A{\displaystyle A} et B{\displaystyle B} sont le plus souvent de même signe.
+
+D'autre part, la relation de Gibbs-Helmholtz permettant d'écrire, à pression constante :
+
+(∂ΔrG∘T∂T)P=−ΔrH∘T2{\displaystyle \left({\partial {\Delta _{\text{r}}G^{\circ } \over T} \over \partial T}\right)_{P}=-{\Delta _{\text{r}}H^{\circ } \over T^{2}}}on obtient la relation de van 't Hoff qui définit l'évolution de la constante d'équilibre K{\displaystyle K} en fonction de la température :
+
+En intégrant cette relation, en supposant que l'enthalpie standard de réaction ne varie pas avec la température, on obtient :
+
+∫ln⁡Kréfln⁡Kdln⁡K=∫TréfTΔrH∘RT2dT=ΔrH∘R∫TréfTdTT2{\displaystyle \int _{\ln K_{\text{réf}}}^{\ln K}\,\mathrm {d} \ln K=\int _{T_{\text{réf}}}^{T}{\Delta _{\text{r}}H^{\circ } \over RT^{2}}\,\mathrm {d} T={\Delta _{\text{r}}H^{\circ } \over R}\int _{T_{\text{réf}}}^{T}{\mathrm {d} T \over T^{2}}}ln(KKréf)=ΔrH∘R(1Tréf−1T){\displaystyle \ln \!\left({K \over K_{\text{réf}}}\right)={\Delta _{\text{r}}H^{\circ } \over R}\left({1 \over T_{\text{réf}}}-{1 \over T}\right)}
+Si l'on connait les valeurs de la constante d'équilibre Kréf{\displaystyle K_{\text{réf}}} et de l'enthalpie standard de réaction ΔrH∘{\displaystyle \Delta _{\text{r}}H^{\circ }} à la température Tréf{\displaystyle T_{\text{réf}}}, il est ainsi possible de déterminer la valeur de la constante d'équilibre K{\displaystyle K} à la température T{\displaystyle T}. Sous cette forme, les deux constantes A{\displaystyle A} et B{\displaystyle B} définies précédemment valent :
+
+A=ΔrH∘RTréf+ln⁡Kréf{\displaystyle A={\Delta _{\text{r}}H^{\circ } \over RT_{\text{réf}}}+\ln K_{\text{réf}}} ;
+B=ΔrH∘R{\displaystyle B={\Delta _{\text{r}}H^{\circ } \over R}}.On a donc, finalement :
+
+ΔrG=ΔrG∘+RTln⁡Qr{\displaystyle \Delta _{\text{r}}G=\Delta _{\text{r}}G^{\circ }+RT\,\ln Q_{\text{r}}}
+ΔrG∘=−RTln⁡K{\displaystyle \Delta _{\text{r}}G^{\circ }=-RT\,\ln K}En conséquence l'enthalpie libre de réaction s'écrit :
+
+Enthalpie libre de réaction et équilibre
+Sens de déplacement d'un équilibre, condition d'équilibre
+Étant donné la condition d'évolution spontanée de toute réaction et la définition de l'enthalpie libre de réaction :
+
+Adξ≥0{\displaystyle {\mathcal {A}}\,\mathrm {d} \xi \geq 0}
+ΔrG=−A{\displaystyle \Delta _{\text{r}}G=-{\mathcal {A}}}on a la condition d'évolution spontanée à pression et température constantes :
+
+Ainsi, à pression et température constantes, ΔrG{\displaystyle \Delta _{\text{r}}G} et dξ{\displaystyle \mathrm {d} \xi } ne peuvent être que de signes contraires :
+
+ΔrG<0{\displaystyle \Delta _{\text{r}}G<0} et dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse : l'équilibre se déplace de la gauche vers la droite, des réactifs sont consommés et des produits apparaissent ;
+ΔrG>0{\displaystyle \Delta _{\text{r}}G>0} et dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse : l'équilibre se déplace de la droite vers la gauche, des produits sont consommés et des réactifs apparaissent.À l'équilibre l'enthalpie libre ne varie pas, dG=0{\displaystyle \mathrm {d} G=0}, d'où deux cas possibles :
+
+ΔrG≠0{\displaystyle \Delta _{\text{r}}G\neq 0} et dξ=0{\displaystyle \mathrm {d} \xi =0}, la réaction pourrait avoir lieu car le potentiel de réaction est non nul, mais l'avancement de réaction ne varie pas ; les causes de ce défaut de réaction peuvent être :
+une cinétique extrêmement lente (la vitesse de réaction véq=dξdt≈0{\displaystyle v_{\text{éq}}={\mathrm {d} \xi  \over \mathrm {d} t}\approx 0}), l'équilibre est dit instable, c'est le cas de la transformation du diamant en graphite. Un catalyseur permet d'augmenter la vitesse d'une réaction ; à contrario un inhibiteur la diminue ; dans les deux cas l'équilibre n'est pas déplacé pour autant (voir paragraphe Emploi d'un catalyseur) ;
+ou l'absence d'un facteur déclenchant (énergie, étincelle, site de nucléation, circuit de pile électrique non fermé…), l'équilibre est dit métastable ;
+ΔrG=0{\displaystyle \Delta _{\text{r}}G=0} et dξ≠0{\displaystyle \mathrm {d} \xi \neq 0}, la réaction a eu lieu, le potentiel de réaction est désormais nul ; l'équilibre est dit stable ; nous ne nous intéresserons par la suite qu'à ce cas de figure.L'enthalpie libre de réaction étant liée aux enthalpie et entropie de réaction par la relation ΔrG=ΔrH−TΔrS{\displaystyle \Delta _{\text{r}}G=\Delta _{\text{r}}H-T\Delta _{\text{r}}S}, l'état d'équilibre correspond à l'égalité ΔrH=TΔrS{\displaystyle \Delta _{\text{r}}H=T\Delta _{\text{r}}S}, soit l'équilibre entre le facteur énergie et le facteur désordre.
+
+Loi d'action de masse
+En considérant la définition de l'enthalpie libre de réaction et la condition d'évolution spontanée à pression et température constantes :
+
+ΔrG=RTln(Qr/K){\displaystyle \Delta _{\text{r}}G=RT\,\ln \!\left({Q_{\text{r}}/K}\right)}
+dG=ΔrGdξ≤0{\displaystyle \mathrm {d} G=\Delta _{\text{r}}G\,\mathrm {d} \xi \leq 0}hors équilibre nous avons :
+
+si Qr<K{\displaystyle Q_{\text{r}}<K} alors ΔrG<0{\displaystyle \Delta _{\text{r}}G<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0} : la réaction progresse ;
+si Qr>K{\displaystyle Q_{\text{r}}>K} alors ΔrG>0{\displaystyle \Delta _{\text{r}}G>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0} : la réaction régresse.Lorsque la fonction G{\displaystyle G} est minimale, le système réactionnel est à l'équilibre ; dans ces conditions ΔrG=0{\displaystyle \Delta _{\text{r}}G=0}. On obtient Qr=K{\displaystyle Q_{\text{r}}=K}, soit la loi d'action de masse :
+
+Puisque par définition ΔrG=−A{\displaystyle \Delta _{\text{r}}G=-{\mathcal {A}}} et que A=0{\displaystyle {\mathcal {A}}=0} à l'équilibre, la loi d'action de masse est vraie quelles que soient les conditions de déroulement de la réaction (pression, volume, entropie ou température constants).
+Les activités chimiques qui interviennent dans le quotient de réaction dépendent de la pression P{\displaystyle P}, de la température T{\displaystyle T} et de la composition du mélange réactionnel, c'est-à-dire des quantités nk{\displaystyle n_{k}} des réactifs et produits de réaction, mais aussi des inertes :
+
+ak=ak(P,T,n1,⋯,nN){\displaystyle a_{k}=a_{k}\!\left(P,T,n_{1},\cdots ,n_{N}\right)}.La pression P{\displaystyle P} et la température T{\displaystyle T}, ainsi que les quantités nk0{\displaystyle n_{k}^{0}} des constituants dans le mélange réactionnel à l'instant initial (au temps t=0{\displaystyle t=0}) sont des données du problème. La réaction est menée à pression et température constantes. Les quantités nk{\displaystyle n_{k}} des constituants évoluent au cours de la réaction, hormis celles des inertes. L'équation comporte par conséquent autant d'inconnues qu'il y a de réactifs et de produits. Pour tout constituant k{\displaystyle k} intervenant dans la réaction, la quantité varie au cours du temps selon :
+
+nk=nk0+νkξ{\displaystyle n_{k}=n_{k}^{0}+\nu _{k}\xi }avec :
+
+nk0{\displaystyle n_{k}^{0}} la quantité du constituant k{\displaystyle k} à l'instant initial t=0{\displaystyle t=0} ;
+nk{\displaystyle n_{k}} la quantité du constituant k{\displaystyle k} à l'instant t{\displaystyle t} ;
+ξ{\displaystyle \xi } l'avancement de réaction à l'instant t{\displaystyle t} ; rappelons qu'à l'instant initial, par définition, ξ0=0{\displaystyle \xi ^{0}=0}.On peut donc remplacer dans l'expression des activités les nk{\displaystyle n_{k}} par nk0+νkξ{\displaystyle n_{k}^{0}+\nu _{k}\xi }. Les pression, température et composition initiale étant données, le quotient de réaction Qr{\displaystyle Q_{\text{r}}} devient alors à tout instant (y compris hors équilibre) une fonction de la seule variable avancement de réaction ξ{\displaystyle \xi }. L'équilibre est donc atteint pour l'avancement ξéq{\displaystyle \xi ^{\text{éq}}} tel que :
+
+La quantité de chaque réactif et produit à l'équilibre est à postériori calculée par nkéq=nk0+νkξéq{\displaystyle n_{k}^{\text{éq}}=n_{k}^{0}+\nu _{k}\xi ^{\text{éq}}}. L'équation n'a pas nécessairement une solution unique en ξ{\displaystyle \xi }. Il est entendu que sont écartées d'office les solutions mathématiques induisant des quantités nk{\displaystyle n_{k}} de constituants négatives (rappelons toutefois que l'avancement de réaction ξ{\displaystyle \xi }, lui, peut être négatif). Si plusieurs solutions sont trouvées, il est nécessaire de déterminer laquelle est la bonne, ou du moins laquelle est la plus réaliste du point de vue de la thermodynamique : celle qui minimise la fonction G{\displaystyle G}.
+
+Condition de stabilité d'un équilibre
+D'un point de vue mathématique, un minimum de G{\displaystyle G} est atteint si, en plus de l'annulation de sa dérivée première, sa dérivée seconde est positive strictement, soit, à l'équilibre, :
+
+C'est à cette seconde condition seulement que l'équilibre pourra être qualifié de stable.
+Il est impossible que (∂2G∂ξ2)P,T<0{\displaystyle \left({\partial ^{2}G \over \partial \xi ^{2}}\right)_{P,T}<0} à l'équilibre, ce qui supposerait un maximum de la fonction G{\displaystyle G}, et donc que G{\displaystyle G} a crû. Si cette solution est mathématiquement possible, elle est irréaliste du point de vue de la thermodynamique et doit donc être écartée ; mathématiquement, il s'agit d'un équilibre instable. Il est possible en revanche qu'à l'équilibre la dérivée seconde (∂2G∂ξ2)P,T=0{\displaystyle \left({\partial ^{2}G \over \partial \xi ^{2}}\right)_{P,T}=0} et la dérivée troisième (∂3G∂ξ3)P,T≠0{\displaystyle \left({\partial ^{3}G \over \partial \xi ^{3}}\right)_{P,T}\neq 0} : l'enthalpie libre a atteint un point d'inflexion et l'équilibre est un équilibre métastable, la moindre perturbation relancera la réaction jusqu'à ce qu'elle atteigne un équilibre stable. La situation est possible du point de vue de la thermodynamique. Si les dérivées seconde et troisième de l'enthalpie libre sont nulles à l'équilibre, la stabilité de l'équilibre doit être recherchée en étudiant les dérivées d'ordre supérieur. Si la première dérivée non nulle est d'ordre impair, alors l'équilibre est métastable, quel que soit son signe ; si l'ordre est pair, l'équilibre est stable si cette dérivée est positive, il est instable autrement. La condition de stabilité s'écrit donc de façon plus générale :
+
+Il est nécessaire aussi de vérifier que le minimum atteint n'est pas un minimum local, c'est-à-dire un minimum auquel la réaction revient si elle subit de petites perturbations, mais dont la réaction s'éloigne définitivement sous des perturbations plus importantes, conduisant à un autre minimum de G{\displaystyle G}. L'équilibre chimique à un minimum local de G{\displaystyle G} est un équilibre stable, néanmoins il ne s'agit pas de celui dans lequel l'enthalpie libre est minimale dans les conditions de la réaction. L'enthalpie libre peut présenter plusieurs minimums locaux. L'équilibre chimique réel est celui pour lequel l'enthalpie libre G{\displaystyle G} atteint le minimum global sur l'ensemble des valeurs possibles de l'avancement de réaction ξ{\displaystyle \xi }.
+Les situations d'équilibre métastable ou de minimum local ne sont que rarement observées expérimentalement, mais elles peuvent être obtenues lors de simulations numériques d'équilibres. Les dérivées première et seconde de G{\displaystyle G} ainsi que la possibilité d'un minimum local doivent être impérativement vérifiées pour garantir le résultat. Insistons également sur le fait que les modèles d'activité chimique ou les équations d'état utilisés dans les calculs thermodynamiques restent basés sur un certain nombre d'hypothèses pouvant conduire à des résultats numériquement corrects, mais néanmoins totalement irréalistes, surtout lorsque ces modèles sont employés en dehors de leur domaine de validité.
+Pour vérifier la condition de stabilité :
+
+(∂2G∂ξ2)P,T=(∂ΔrG∂ξ)P,T=(∂RTln(QrK)∂ξ)P,T=RT(∂ln⁡Qr∂ξ)P,T−RT(∂ln⁡K∂ξ)P,T⏟=0{\displaystyle \left({\partial ^{2}G \over \partial \xi ^{2}}\right)_{P,T}=\left({\partial \Delta _{\text{r}}G \over \partial \xi }\right)_{P,T}=\left({\partial RT\,\ln \!\left({Q_{\text{r}} \over K}\right) \over \partial \xi }\right)_{P,T}=RT\,\left({\partial \ln Q_{\text{r}} \over \partial \xi }\right)_{P,T}-RT\,\underbrace {\left({\partial \ln K \over \partial \xi }\right)_{P,T}} _{=0}}la constante d'équilibre K{\displaystyle K} ne dépendant que de la température, d'où :
+
+(∂2G∂ξ2)P,T=RT(∂ln⁡Qr∂ξ)P,T=RTQr(∂Qr∂ξ)P,T{\displaystyle \left({\partial ^{2}G \over \partial \xi ^{2}}\right)_{P,T}=RT\,\left({\partial \ln Q_{\text{r}} \over \partial \xi }\right)_{P,T}={RT \over Q_{\text{r}}}\left({\partial Q_{\text{r}} \over \partial \xi }\right)_{P,T}}Le quotient de réaction Qr{\displaystyle Q_{\text{r}}} est toujours positif par définition. Pour vérifier que (∂2G∂ξ2)P,T>0{\displaystyle \left({\partial ^{2}G \over \partial \xi ^{2}}\right)_{P,T}>0} à l'équilibre, il faut donc vérifier que :
+
+Loi d'Arrhenius
+Reprenons la convention d'écriture d'un équilibre chimique dans laquelle les coefficients stœchiométriques sont tous positifs (voir paragraphe Stœchiométrie, avancement de réaction) :
+
+|ν1|C1+|ν2|C2+⋯⇄⋯+|νN|CN{\displaystyle |\nu _{1}|\,{\rm {C}}_{1}+|\nu _{2}|\,{\rm {C}}_{2}+\cdots \rightleftarrows \cdots +|\nu _{N}|\,{\rm {C}}_{N}}
+On écrit, si les deux réactions sont des réactions élémentaires :
+
+la vitesse de la réaction directe : v→=k→∏iréactifsai|νi|{\displaystyle v_{\rightarrow }=k_{\rightarrow }\prod _{i\,{\text{réactifs}}}{a_{i}}^{|\nu _{i}|}} ;
+la vitesse de la réaction inverse : v←=k←∏jproduitsaj|νj|{\displaystyle v_{\leftarrow }=k_{\leftarrow }\prod _{j\,{\text{produits}}}{a_{j}}^{|\nu _{j}|}} ;avec :
+
+ak{\displaystyle a_{k}} l'activité du constituant k{\displaystyle k} ;
+k→=A→exp(−E→‡RT){\displaystyle k_{\rightarrow }=A_{\rightarrow }\exp \!\left(-{E_{\rightarrow }^{\ddagger } \over RT}\right)} la constante de vitesse de la réaction directe exprimée selon la loi d'Arrhenius ;
+k←=A←exp(−E←‡RT){\displaystyle k_{\leftarrow }=A_{\leftarrow }\exp \!\left(-{E_{\leftarrow }^{\ddagger } \over RT}\right)} la constante de vitesse de la réaction inverse ;
+E→‡{\displaystyle E_{\rightarrow }^{\ddagger }} et E←‡{\displaystyle E_{\leftarrow }^{\ddagger }} étant les énergies d'activation respectives ;
+A→{\displaystyle A_{\rightarrow }} et A←{\displaystyle A_{\leftarrow }} étant les facteurs de fréquence respectifs.À l'équilibre, l'égalité des vitesses des deux réactions v→=v←{\displaystyle v_{\rightarrow }=v_{\leftarrow }} conduit à :
+
+k→k←=∏jproduitsaj|νj|∏iréactifsai|νi|{\displaystyle {k_{\rightarrow } \over k_{\leftarrow }}={\prod _{j\,{\text{produits}}}{a_{j}}^{|\nu _{j}|} \over \prod _{i\,{\text{réactifs}}}{a_{i}}^{|\nu _{i}|}}}Noté selon la convention stœchiométrique, avec les coefficients de stœchiométrie des réactifs négatifs, le terme de droite est le quotient de réaction  :
+
+Qr=∏k=1Nakνk{\displaystyle Q_{\text{r}}=\prod _{k=1}^{N}{a_{k}}^{\nu _{k}}}Nous pouvons en conséquence à l'équilibre écrire, en considérant également la loi d'action de masse établie précédemment :
+
+k→k←=Qr=K{\displaystyle {k_{\rightarrow } \over k_{\leftarrow }}=Q_{\text{r}}=K}d'où les relations entre loi d'Arrhenius, constante d'équilibre et enthalpie libre standard de réaction :
+
+ln(k→k←)=ln(A→A←)−E→‡−E←‡RT{\displaystyle \ln \!\left({k_{\rightarrow } \over k_{\leftarrow }}\right)=\ln \!\left({A_{\rightarrow } \over A_{\leftarrow }}\right)-{E_{\rightarrow }^{\ddagger }-E_{\leftarrow }^{\ddagger } \over RT}}
+=ln⁡K=A−BT{\displaystyle =\ln K=A-{B \over T}}
+=−ΔrG∘RT=ΔrS∘R−ΔrH∘RT{\displaystyle =-{\Delta _{\text{r}}G^{\circ } \over RT}={\Delta _{\text{r}}S^{\circ } \over R}-{\Delta _{\text{r}}H^{\circ } \over RT}}et finalement, pour des réactions élémentaires,, :
+
+Récapitulatif
+De façon générale, à l'équilibre et hors équilibre :
+
+à P{\displaystyle P} et T{\displaystyle T} constantes, l'évolution spontanée de la réaction est dictée par le second principe de la thermodynamique :dG=(∂G∂ξ)P,Tdξ≤0{\displaystyle \mathrm {d} G=\left({\partial G \over \partial \xi }\right)_{P,T}\,\mathrm {d} \xi \leq 0}enthalpie libre de réaction :ΔrG=(∂G∂ξ)P,T=∑k=1Nνkμk{\displaystyle \Delta _{\text{r}}G=\left({\partial G \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}\mu _{k}}potentiels chimiques :μk=μk∘+RTln⁡ak{\displaystyle \mu _{k}=\mu _{k}^{\circ }+RT\,\ln a_{k}}enthalpie libre standard de réaction, potentiels chimiques à l'état standard et constante d'équilibre :ΔrG∘=∑k=1Nνkμk∘=−RTln⁡K{\displaystyle \Delta _{\text{r}}G^{\circ }=\sum _{k=1}^{N}\nu _{k}\mu _{k}^{\circ }=-RT\,\ln K}quotient de réaction et activités :Qr=∏k=1Nakνk{\displaystyle Q_{\text{r}}=\prod _{k=1}^{N}{a_{k}}^{\nu _{k}}}Avec les relations :
+
+ΔrG=ΔrG∘+RTln⁡Qr=RTln(QrK){\displaystyle \Delta _{\text{r}}G=\Delta _{\text{r}}G^{\circ }+RT\,\ln Q_{\text{r}}=RT\,\ln \!\left({Q_{\text{r}} \over K}\right)}L'enthalpie libre standard de réaction ΔrG∘{\displaystyle \Delta _{\text{r}}G^{\circ }}, liée à la constante d'équilibre K{\displaystyle K}, ne permet de définir que l'équilibre du système réactionnel. Le système réactionnel hors équilibre est étudié à l'aide de l'enthalpie libre de réaction ΔrG{\displaystyle \Delta _{\text{r}}G}. En effet, hors équilibre nous avons :
+
+si Qr<K{\displaystyle Q_{\text{r}}<K}, alors ΔrG<0{\displaystyle \Delta _{\text{r}}G<0} et dξ>0{\displaystyle \mathrm {d} \xi >0} : la réaction progresse ;
+si Qr>K{\displaystyle Q_{\text{r}}>K}, alors ΔrG>0{\displaystyle \Delta _{\text{r}}G>0} et dξ<0{\displaystyle \mathrm {d} \xi <0} : la réaction régresse ;et à l'équilibre :
+
+La constante d'équilibre K{\displaystyle K} peut être :
+
+calculée à partir des propriétés des réactifs et des produits dans leur état standard ;
+calculée à l'aide des paramètres de la loi d'Arrhenius des constantes dans l'expression des vitesses des réactions directe et inverse ;
+déterminée expérimentalement ;
+trouvée dans la littérature pour de nombreux équilibres.Lors d'un calcul d'équilibre, il convient également de vérifier que la solution obtenue correspond bien à un minimum de la fonction G{\displaystyle G} selon la condition de stabilité :
+
+Ces inégalités sont des inégalités strictes. Si la dérivée seconde de l'enthalpie libre est négative ou nulle, l'équilibre n'est pas stable et la réaction reprendra à la moindre perturbation pour atteindre un autre équilibre plus stable.
+
+Déplacement d'un équilibre chimique
+Principes généraux
+Principe de modération de Le Chatelier
+Soit un milieu réactionnel à l'équilibre. On modifie l'une des conditions de cet équilibre : température, pression, volume ou concentration de l'un des constituants. La réaction tend à rétablir l'équilibre, pour peu que les nouvelles conditions opératoires le permettent (pour peu que l'on ne soit pas en conditions de rupture d'équilibre). À la fin du XIXe siècle Le Chatelier (en 1884, généralisant la loi concernant la température publiée auparavant par van 't Hoff la même année) et Braun (en 1887) énoncèrent indépendamment l'un de l'autre un principe régissant ces déplacements d'équilibre. Ce principe est connu sous le nom de principe de modération, principe de Le Chatelier ou principe de Le Chatelier-Braun. Il énonce que :
+
+Le principe de Le Chatelier n'est cependant vrai que pour les modifications des paramètres intensifs qui conditionnent l'équilibre, :
+
+une augmentation de température déplace l'équilibre dans le sens qui absorbe de la chaleur (endothermique) et donc qui diminue la température (loi de van 't Hoff) ;
+une augmentation de pression déplace l'équilibre dans le sens qui diminue le nombre de constituants dans le mélange et donc qui diminue la pression (loi de Le Chatelier) ;
+l'augmentation du potentiel chimique d'un constituant (par augmentation de la quantité de ce constituant - réactif, produit, inerte) déplace l'équilibre dans le sens qui diminue ce potentiel chimique.Une augmentation du volume, qui est un paramètre extensif, induit un déplacement dans le sens de l'augmentation du volume du milieu réactionnel, et non de sa diminution. Toutefois, le principe de Le Chatelier est respecté si l'on considère la pression de ce système, qui est diminuée par l'augmentation du volume et augmentée par la réaction.
+Pour un équilibre dans lequel on modifie la composition par ajout ou extraction d'un constituant (réactif, produit, inerte), le principe de Le Chatelier peut ne pas être respecté si l'on considère la quantité de ce constituant, qui est un paramètre extensif. Il existe en effet des contre-exemples dans lesquels, sous certaines conditions, la réaction régresse lors d'un ajout de réactif, au lieu de progresser : la réaction augmente la quantité du réactif ajouté au lieu de la diminuer,. Toutefois, le principe de Le Chatelier est respecté si l'on considère le potentiel chimique de ce constituant, qui est augmenté par l'ajout du constituant et diminué par la réaction.
+
+Principe général d'étude du déplacement d'un équilibre chimique
+Soit un milieu réactionnel à l'équilibre. Son affinité chimique initiale est donc nulle :
+
+équilibre initial : A0=0{\displaystyle {\mathcal {A}}_{0}=0}
+On modifie l'une des conditions opératoires X{\displaystyle X} (par exemple la pression, la température ou la quantité de l'un des constituants). Cette condition est modifiée de dX{\displaystyle \mathrm {d} X} et devient X+dX{\displaystyle X+\mathrm {d} X}. Si l'on augmente X{\displaystyle X}, alors dX>0{\displaystyle \mathrm {d} X>0} ; si l'on diminue X{\displaystyle X}, alors dX<0{\displaystyle \mathrm {d} X<0}.
+Dans un premier temps, on considère que le milieu réactionnel est modifié en l'absence de réaction, il se trouve donc hors équilibre chimique après modification de X{\displaystyle X}. On considère que seule X{\displaystyle X} est modifiée et que les autres conditions opératoires Y≠X{\displaystyle Y\neq X} restent constantes. L'affinité chimique varie de :
+
+dA=(∂A∂X)Y≠XdX{\displaystyle \mathrm {d} {\mathcal {A}}=\left({\partial {\mathcal {A}} \over \partial X}\right)_{Y\neq X}\,\mathrm {d} X}
+et devient :
+
+après modification, avant réaction : A=A0+dA=dA{\displaystyle {\mathcal {A}}={\mathcal {A}}_{0}+\mathrm {d} {\mathcal {A}}=\mathrm {d} {\mathcal {A}}}
+On considère ensuite que la réaction débute seulement après cette modification. Le deuxième principe de la thermodynamique induit que la réaction se déplace dans le sens tel que, :
+
+condition d'évolution spontanée : Adξ=dAdξ≥0{\displaystyle {\mathcal {A}}\,\mathrm {d} \xi =\mathrm {d} {\mathcal {A}}\,\mathrm {d} \xi \geq 0}
+On obtient la relation qui détermine le sens de déplacement de la réaction :
+
+À Y≠X{\displaystyle Y\neq X} constantes, on modifie la valeur de X{\displaystyle X}, soit dX≠0{\displaystyle \mathrm {d} X\neq 0}. Si dA≠0{\displaystyle \mathrm {d} {\mathcal {A}}\neq 0}, l'affinité chimique est modifiée et n'est plus nulle ; le système se trouve hors équilibre et la réaction se déplace pour retrouver l'équilibre, soit dξ≠0{\displaystyle \mathrm {d} \xi \neq 0}. L'étude du déplacement de la réaction consiste donc :
+
+à établir, dans les conditions de l'équilibre initial, l'expression de (∂A∂X)Y≠X{\displaystyle \left({\partial {\mathcal {A}} \over \partial X}\right)_{Y\neq X}} et son signe ;
+à modifier la condition opératoire X{\displaystyle X}, ce qui revient à imposer le signe de dX{\displaystyle \mathrm {d} X} ;
+à déduire le signe de dξ{\displaystyle \mathrm {d} \xi } de la condition d'évolution spontanée, et donc le sens de déplacement de la réaction.Si (∂A∂X)Y≠X{\displaystyle \left({\partial {\mathcal {A}} \over \partial X}\right)_{Y\neq X}} et dX{\displaystyle \mathrm {d} X} sont de même signe, alors dξ{\displaystyle \mathrm {d} \xi } ne peut être que positif et la réaction ne peut que progresser. Inversement, s'ils sont de signes opposés alors la réaction ne peut que régresser.
+Si dA=0{\displaystyle \mathrm {d} {\mathcal {A}}=0} on étudie les différentielles d'ordre supérieur. En supposant que l'affinité est K{\displaystyle K} fois dérivable, le développement en série de Taylor donne :
+
+A≈A0+∑k=1K1k!dkA{\displaystyle {\mathcal {A}}\approx {\mathcal {A}}_{0}+\sum _{k=1}^{K}{1 \over k!}\,\mathrm {d} ^{k}{\mathcal {A}}}avec dkA=(∂kA∂Xk)Y≠X(dX)k{\displaystyle \mathrm {d} ^{k}{\mathcal {A}}=\left({\partial ^{k}{\mathcal {A}} \over {\partial X}^{k}}\right)_{Y\neq X}\,\left(\mathrm {d} X\right)^{k}} la différentielle d'ordre k{\displaystyle k} de A{\displaystyle {\mathcal {A}}} à Y{\displaystyle Y} constantes. On étudie le premier ordre m{\displaystyle m} auquel dmA≠0{\displaystyle \mathrm {d} ^{m}{\mathcal {A}}\neq 0} à l'équilibre. On a alors :
+
+A≈A0+1m!dmA=1m!(∂mA∂Xm)Y≠X(dX)m{\displaystyle {\mathcal {A}}\approx {\mathcal {A}}_{0}+{1 \over m!}\,\mathrm {d} ^{m}{\mathcal {A}}={1 \over m!}\left({\partial ^{m}{\mathcal {A}} \over {\partial X}^{m}}\right)_{Y\neq X}\,\left(\mathrm {d} X\right)^{m}}d'où la condition de déplacement de l'équilibre :
+
+Condition de déplacement de l'équilibre : 1m!(∂mA∂Xm)Y≠X(dX)mdξ≥0{\displaystyle {1 \over m!}\left({\partial ^{m}{\mathcal {A}} \over {\partial X}^{m}}\right)_{Y\neq X}\,\left(\mathrm {d} X\right)^{m}\,\mathrm {d} \xi \geq 0}
+avec, à l'équilibre, dmA≠0{\displaystyle \mathrm {d} ^{m}{\mathcal {A}}\neq 0} et dkA=0{\displaystyle \mathrm {d} ^{k}{\mathcal {A}}=0} pour tout 0<k<m{\displaystyle 0<k<m}.
+Il se peut que m{\displaystyle m} n'existe pas, autrement dit que quel que soit k{\displaystyle k} on ait dkA=0{\displaystyle \mathrm {d} ^{k}{\mathcal {A}}=0} : dans ce cas l'équilibre est neutre, totalement insensible à la modification de X{\displaystyle X}. Par exemple, l'ajout ou l'extraction du composant de la phase hétérogène d'un équilibre n'a aucune influence sur l'équilibre. De même, un équilibre est insensible à l'ajout ou l'extraction d'un inerte à volume et température constants. Si m{\displaystyle m} est impair, alors le signe de dξ{\displaystyle \mathrm {d} \xi } dépend du signe de dX{\displaystyle \mathrm {d} X} : l'augmentation et la diminution de X{\displaystyle X} ont des conséquences inverses sur la réaction. Par exemple, l'augmentation et la diminution de la température, ou de la pression, déplacent l'équilibre dans des sens opposés. Si m{\displaystyle m} est pair, alors le signe de dξ{\displaystyle \mathrm {d} \xi } ne dépend pas du signe de dX{\displaystyle \mathrm {d} X} : la réaction se déplace dans le même sens quelle que soit la modification de X{\displaystyle X}. Par exemple, dans certaines conditions de composition et de stœchiométrie, à pression et température constantes, la réaction régresse que l'on ajoute ou extraie l'un des réactifs.
+
+Principes généraux de déplacement de l'équilibre
+Selon les conditions opératoires, on considère le potentiel thermodynamique Φ{\displaystyle \Phi }, fonction des variables Y{\displaystyle Y}, tel que :
+
+A=−(∂Φ∂ξ)Y≠ξ{\displaystyle {\mathcal {A}}=-\left({\partial \Phi  \over \partial \xi }\right)_{Y\neq \xi }}Soit ΦX{\displaystyle \Phi _{X}} la variable conjuguée de X{\displaystyle X} :
+
+Variable conjuguée de X{\displaystyle X} : ΦX=(∂Φ∂X)Y≠X{\displaystyle \Phi _{X}=\left({\partial \Phi  \over \partial X}\right)_{Y\neq X}}
+Note - La « variable conjuguée » ΦX{\displaystyle \Phi _{X}} s'entend ici au sens de dérivée partielle du potentiel thermodynamique Φ{\displaystyle \Phi } par rapport à la variable X{\displaystyle X}, ce qui implique de tenir compte de son signe. Ainsi, au sens de l'enthalpie libre G{\displaystyle G}, la variable conjuguée de la pression P{\displaystyle P} est le volume, GP=(∂G/∂P)T,n=V{\displaystyle G_{P}=\left({\partial G/\partial P}\right)_{T,n}=V}. Mais au sens de l'énergie libre F{\displaystyle F}, la variable conjuguée du volume V{\displaystyle V} est l'opposé de la pression, FV=(∂F/∂V)T,n=−P{\displaystyle F_{V}=\left({\partial F/\partial V}\right)_{T,n}=-P}.
+Le théorème de Schwarz donne :
+
+(∂A∂X)Y≠X=−(∂∂X(∂Φ∂ξ)Y≠ξ)Y≠X=−(∂∂ξ(∂Φ∂X)Y≠X)Y≠ξ=−(∂ΦX∂ξ)Y≠ξ{\displaystyle \left({\partial {\mathcal {A}} \over \partial X}\right)_{Y\neq X}=-\left({\partial  \over \partial X}\left({\partial \Phi  \over \partial \xi }\right)_{Y\neq \xi }\right)_{Y\neq X}=-\left({\partial  \over \partial \xi }\left({\partial \Phi  \over \partial X}\right)_{Y\neq X}\right)_{Y\neq \xi }=-\left({\partial \Phi _{X} \over \partial \xi }\right)_{Y\neq \xi }}On note la variation de ΦX{\displaystyle \Phi _{X}} due à la réaction dans les conditions Y≠ξ{\displaystyle Y\neq \xi } constantes :
+
+dΦX|ξ=(∂ΦX∂ξ)Y≠ξdξ{\displaystyle \mathrm {d} \Phi _{X}|_{\xi }=\left({\partial \Phi _{X} \over \partial \xi }\right)_{Y\neq \xi }\,\mathrm {d} \xi }
+La condition de déplacement de l'équilibre dAdξ≥0{\displaystyle \mathrm {d} {\mathcal {A}}\,\mathrm {d} \xi \geq 0} devient finalement :
+
+Condition de déplacement de l'équilibre : dΦX|ξdX≤0{\displaystyle \mathrm {d} \Phi _{X}|_{\xi }\,\mathrm {d} X\leq 0}
+On en déduit que :
+
+On note la variation de ΦX{\displaystyle \Phi _{X}} en l'absence de réaction, dans les conditions Y≠X{\displaystyle Y\neq X} constantes :
+
+dΦX|X=(∂ΦX∂X)Y≠XdX{\displaystyle \mathrm {d} \Phi _{X}|_{X}=\left({\partial \Phi _{X} \over \partial X}\right)_{Y\neq X}\,\mathrm {d} X}
+La variable conjuguée ΦX{\displaystyle \Phi _{X}} varie en fonction de X{\displaystyle X} selon :
+
+Si X{\displaystyle X} est intensive, alors dΦX|XdX≤0{\displaystyle \mathrm {d} \Phi _{X}|_{X}\,\mathrm {d} X\leq 0}.
+Si X{\displaystyle X} est extensive, alors dΦX|XdX≥0{\displaystyle \mathrm {d} \Phi _{X}|_{X}\,\mathrm {d} X\geq 0}.
+En l'absence de réaction, l'augmentation d'une variable intensive fait diminuer sa variable conjuguée extensive, et l'augmentation d'une variable extensive fait augmenter sa variable conjuguée intensive.
+Le milieu réactionnel évolue à la fois par la modification externe de X{\displaystyle X} et par le déplacement interne de l'équilibre, ces deux évolutions pouvant aller dans le même sens ou s'opposer. On peut alors comparer les évolutions de ΦX{\displaystyle \Phi _{X}} en l'absence et en présence de la réaction :
+
+Évolution sans la réaction : dΦX=dΦX|X{\displaystyle \mathrm {d} \Phi _{X}=\mathrm {d} \Phi _{X}|_{X}}.
+Évolution avec la réaction : dΦX=dΦX|X+dΦX|ξ{\displaystyle \mathrm {d} \Phi _{X}=\mathrm {d} \Phi _{X}|_{X}+\mathrm {d} \Phi _{X}|_{\xi }}.
+On en déduit que :
+
+si X{\displaystyle X} est intensive, sa variable conjuguée ΦX{\displaystyle \Phi _{X}} est extensive :
+une augmentation de X{\displaystyle X}, soit dX>0{\displaystyle \mathrm {d} X>0}, induit que dΦX|X≤0{\displaystyle \mathrm {d} \Phi _{X}|_{X}\leq 0} et dΦX|ξ≤0{\displaystyle \mathrm {d} \Phi _{X}|_{\xi }\leq 0} ;
+une diminution de X{\displaystyle X}, soit dX<0{\displaystyle \mathrm {d} X<0}, induit que dΦX|X≥0{\displaystyle \mathrm {d} \Phi _{X}|_{X}\geq 0} et dΦX|ξ≥0{\displaystyle \mathrm {d} \Phi _{X}|_{\xi }\geq 0} ;
+la variation de ΦX{\displaystyle \Phi _{X}} est plus importante avec la réaction que sans la réaction : |dΦX|X+dΦX|ξ|≥|dΦX|X|{\displaystyle {\biggl |}\mathrm {d} \Phi _{X}|_{X}+\mathrm {d} \Phi _{X}|_{\xi }{\biggr |}\geq {\biggl |}\mathrm {d} \Phi _{X}|_{X}{\biggr |}} ;
+si X{\displaystyle X} est extensive, sa variable conjuguée ΦX{\displaystyle \Phi _{X}} est intensive :
+une augmentation de X{\displaystyle X}, soit dX>0{\displaystyle \mathrm {d} X>0}, induit que dΦX|X≥0{\displaystyle \mathrm {d} \Phi _{X}|_{X}\geq 0} et dΦX|ξ≤0{\displaystyle \mathrm {d} \Phi _{X}|_{\xi }\leq 0} ;
+une diminution de X{\displaystyle X}, soit dX<0{\displaystyle \mathrm {d} X<0}, induit que dΦX|X≤0{\displaystyle \mathrm {d} \Phi _{X}|_{X}\leq 0} et dΦX|ξ≥0{\displaystyle \mathrm {d} \Phi _{X}|_{\xi }\geq 0} ;
+la variation de ΦX{\displaystyle \Phi _{X}} est moins importante avec la réaction que sans la réaction : |dΦX|X+dΦX|ξ|≤|dΦX|X|{\displaystyle {\biggl |}\mathrm {d} \Phi _{X}|_{X}+\mathrm {d} \Phi _{X}|_{\xi }{\biggr |}\leq {\biggl |}\mathrm {d} \Phi _{X}|_{X}{\biggr |}}.En conséquence, le milieu réactionnel évolue selon les principes généraux suivants,, :
+
+Le tableau suivant résume les modifications de conditions opératoires les plus courantes d'un équilibre chimique.
+
+Avec :
+
+F{\displaystyle F} l'énergie libre ;
+G{\displaystyle G} l'enthalpie libre ;
+ni{\displaystyle n_{i}} la quantité du constituant i{\displaystyle i} (réactif, produit, inerte) - variable extensive ;
+P{\displaystyle P} la pression - variable intensive ;
+S{\displaystyle S} l'entropie du milieu réactionnel - variable extensive ;
+T{\displaystyle T} la température - variable intensive ;
+V{\displaystyle V} le volume du milieu réactionnel - variable extensive ;
+μi{\displaystyle \mu _{i}} le potentiel chimique du constituant i{\displaystyle i} (réactif, produit ou inerte) - variable intensive.
+
+Modification de la température
+Condition d'évolution spontanée par modification de la température
+Supposons un équilibre chimique à une condition (volume ou pression) X{\displaystyle X} et à température T{\displaystyle T}. La température est modifiée de dT{\displaystyle \mathrm {d} T}, la condition X{\displaystyle X} restant constante. On a la variation d'affinité chimique, :
+
+(∂A∂T)X,n=(∂S∂ξ)X,T{\displaystyle \left({\partial {\mathcal {A}} \over \partial T}\right)_{X,n}=\left({\partial S \over \partial \xi }\right)_{X,T}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la température :
+
+avec S{\displaystyle S} l'entropie du milieu réactionnel.
+
+Cas de la modification de la température à pression constante
+À pression constante on a la variation d'affinité chimique, :
+
+(∂A∂T)P,n=ΔrHT{\displaystyle \left({\partial {\mathcal {A}} \over \partial T}\right)_{P,n}={\Delta _{\text{r}}H \over T}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la température à pression constante :
+
+Condition d'évolution spontanée par modification de la température à pression constante : ΔrHdTTdξ≥0{\displaystyle \Delta _{\text{r}}H\,{\mathrm {d} T \over T}\,\mathrm {d} \xi \geq 0}
+avec :
+
+ΔrH=(∂H∂ξ)P,T=∑k=1NνkH¯k{\displaystyle \Delta _{\text{r}}H=\left({\partial H \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}{\bar {H}}_{k}} l'enthalpie de réaction ;
+H¯k{\displaystyle {\bar {H}}_{k}} l'enthalpie molaire partielle du constituant k{\displaystyle k}.
+Il vient cinq cas de figure,, :
+
+ΔrH=0{\displaystyle \Delta _{\text{r}}H=0}, la réaction est athermique, elle ne dégage ni n'absorbe aucune chaleur, d'où (∂A∂T)P,n=0{\displaystyle \left({\partial {\mathcal {A}} \over \partial T}\right)_{P,n}=0} ; l'affinité chimique n'est pas modifiée par la modification de la température, elle reste donc nulle : l'équilibre est neutre, insensible à la température, et ne se déplace pas (en toute rigueur, il faut étudier les dérivées d'ordre supérieur de A{\displaystyle {\mathcal {A}}} par rapport à la température) ;
+ΔrH<0{\displaystyle \Delta _{\text{r}}H<0}, la réaction est exothermique, la réaction dégage de la chaleur en progressant :
+si l'on augmente la température : dT>0{\displaystyle \mathrm {d} T>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on diminue la température : dT<0{\displaystyle \mathrm {d} T<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+ΔrH>0{\displaystyle \Delta _{\text{r}}H>0}, la réaction est endothermique, la réaction absorbe de la chaleur en progressant :
+si l'on augmente la température : dT>0{\displaystyle \mathrm {d} T>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on diminue la température : dT<0{\displaystyle \mathrm {d} T<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse.
+
+Cas de la modification de la température à volume constant
+À volume constant on a la variation d'affinité chimique, :
+
+(∂A∂T)V,n=1T(ΔrH−lΔrV){\displaystyle \left({\partial {\mathcal {A}} \over \partial T}\right)_{V,n}={1 \over T}\left(\Delta _{\text{r}}H-l\,\Delta _{\text{r}}V\right)}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la température à volume constant :
+
+Condition d'évolution spontanée par modification de la température à volume constant : [ΔrH−lΔrV]dTTdξ≥0{\displaystyle \left[\Delta _{\text{r}}H-l\,\Delta _{\text{r}}V\right]\,{\mathrm {d} T \over T}\,\mathrm {d} \xi \geq 0}
+avec :
+
+l=T(∂S∂V)T,ξ=T(∂P∂T)V,ξ{\displaystyle l=T\left({\partial S \over \partial V}\right)_{T,\xi }=T\left({\partial P \over \partial T}\right)_{V,\xi }} le coefficient de dilatation isotherme du milieu réactionnel, donné par la première relation de Clapeyron ;
+ΔrH=(∂H∂ξ)P,T=∑k=1NνkH¯k{\displaystyle \Delta _{\text{r}}H=\left({\partial H \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}{\bar {H}}_{k}} l'enthalpie de réaction ;
+H¯k{\displaystyle {\bar {H}}_{k}} l'enthalpie molaire partielle du constituant k{\displaystyle k} ;
+ΔrV=(∂V∂ξ)P,T=∑k=1NνkV¯k{\displaystyle \Delta _{\text{r}}V=\left({\partial V \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}{\bar {V}}_{k}} le volume de réaction ;
+V¯k{\displaystyle {\bar {V}}_{k}} le volume molaire partiel du constituant k{\displaystyle k}.
+Il vient cinq cas de figure, :
+
+ΔrH−lΔrV=0{\displaystyle \Delta _{\text{r}}H-l\,\Delta _{\text{r}}V=0}, la réaction est athermique, elle ne dégage ni n'absorbe aucune chaleur, d'où (∂A∂T)V,n=0{\displaystyle \left({\partial {\mathcal {A}} \over \partial T}\right)_{V,n}=0} ; l'affinité chimique n'est pas modifiée par la modification de la température, elle reste donc nulle : l'équilibre est neutre, insensible à la température, et ne se déplace pas (en toute rigueur, il faut étudier les dérivées d'ordre supérieur de A{\displaystyle {\mathcal {A}}} par rapport à la température) ;
+ΔrH−lΔrV<0{\displaystyle \Delta _{\text{r}}H-l\,\Delta _{\text{r}}V<0}, la réaction est exothermique, la réaction dégage de la chaleur en progressant :
+si l'on augmente la température : dT>0{\displaystyle \mathrm {d} T>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on diminue la température : dT<0{\displaystyle \mathrm {d} T<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+ΔrH−lΔrV>0{\displaystyle \Delta _{\text{r}}H-l\,\Delta _{\text{r}}V>0}, la réaction est endothermique, la réaction absorbe de la chaleur en progressant :
+si l'on augmente la température : dT>0{\displaystyle \mathrm {d} T>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on diminue la température : dT<0{\displaystyle \mathrm {d} T<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse.
+
+Cas général pour la modification de la température, loi de van 't Hoff
+Les deux cas sont résumés par la loi de van 't Hoff, qui la découvrit expérimentalement :
+
+Afin de comprendre en quoi le principe de Le Chatelier est respecté, imaginons un réacteur à la température T{\displaystyle T} auquel on communique une certaine chaleur. En l'absence de réaction on obtiendrait une température T′>T{\displaystyle T^{\prime }>T}. Cependant la réaction se déplace et, puisque la température a augmenté, elle absorbe de la chaleur (déplacement dans le sens endothermique) ; lorsque l'équilibre se stabilise on obtient une température T′′{\displaystyle T^{\prime \prime }}. Pour une même chaleur fournie au système, en l'absence de réaction toute la chaleur sert à chauffer le milieu réactionnel, tandis que la réaction absorbe une partie de cette chaleur, qui n'est donc pas transmise en totalité au milieu. La température en l'absence de réaction est donc supérieure à la température avec la réaction : T′>T′′{\displaystyle T^{\prime }>T^{\prime \prime }}. On obtient finalement une température plus faible que prévu : la réaction s'est opposée à l'augmentation de la température.
+
+Modification de la pression ou du volume
+Modification de la pression
+Condition d'évolution spontanée par modification de la pression
+Supposons un équilibre chimique à pression P{\displaystyle P} et température T{\displaystyle T}. La pression est modifiée de dP{\displaystyle \mathrm {d} P}, la température restant constante. On a la variation d'affinité chimique, :
+
+(∂A∂P)T,n=−ΔrV{\displaystyle \left({\partial {\mathcal {A}} \over \partial P}\right)_{T,n}=-\Delta _{\text{r}}V}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la pression :
+
+avec :
+
+ΔrV=(∂V∂ξ)P,T=∑k=1NνkV¯k{\displaystyle \Delta _{\text{r}}V=\left({\partial V \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}{\bar {V}}_{k}} le volume de réaction ;
+V¯k{\displaystyle {\bar {V}}_{k}} le volume molaire partiel du constituant k{\displaystyle k}.
+
+Cas général pour la modification de la pression
+Il vient cinq cas de figure :
+
+ΔrV=0{\displaystyle \Delta _{\text{r}}V=0}, la réaction ne modifie pas le volume du milieu réactionnel, d'où (∂A∂P)T,n=0{\displaystyle \left({\partial {\mathcal {A}} \over \partial P}\right)_{T,n}=0} ; l'affinité chimique n'est pas modifiée par la modification de la pression, elle reste donc nulle : l'équilibre est neutre, insensible à la pression, et ne se déplace pas (en toute rigueur, il faut étudier les dérivées d'ordre supérieur de A{\displaystyle {\mathcal {A}}} par rapport à la pression) ;
+ΔrV<0{\displaystyle \Delta _{\text{r}}V<0}, le volume du milieu réactionnel diminue lorsque la réaction progresse :
+si l'on augmente la pression : dP>0{\displaystyle \mathrm {d} P>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on diminue la pression : dP<0{\displaystyle \mathrm {d} P<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+ΔrV>0{\displaystyle \Delta _{\text{r}}V>0}, le volume du milieu réactionnel augmente lorsque la réaction progresse :
+si l'on augmente la pression : dP>0{\displaystyle \mathrm {d} P>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on diminue la pression : dP<0{\displaystyle \mathrm {d} P<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse.Pour résumer :
+
+Afin de comprendre en quoi le principe de Le Chatelier est respecté, imaginons un mélange réactionnel gazeux dans un piston. Soit P{\displaystyle P} la pression initiale. Pour modifier la pression, on pose des poids sur le piston. Soit V′{\displaystyle V^{\prime }} le volume que l'on atteindrait en l'absence de réaction chimique, avec la pression P′>P{\displaystyle P^{\prime }>P}. Cependant la réaction se déplace et, puisque la pression a augmenté, tend à diminuer le volume. Soit V′′{\displaystyle V^{\prime \prime }} le volume que l'on atteint avec la réaction chimique. On a par conséquent V′′<V′{\displaystyle V^{\prime \prime }<V^{\prime }} à P′{\displaystyle P^{\prime }}. On obtient finalement un volume plus faible que prévu : la réaction a amplifié la diminution du volume.
+Si, plutôt que de modifier la pression, on modifie le volume du piston, on impose V′{\displaystyle V^{\prime }}, auquel on souhaiterait obtenir la pression P′{\displaystyle P^{\prime }} en l'absence de réaction. On obtient, avec la réaction, une pression P′′<P′{\displaystyle P^{\prime \prime }<P^{\prime }} à V′{\displaystyle V^{\prime }}. On obtient finalement une pression plus faible que prévu : la réaction s'est opposée à l'augmentation de la pression.
+
+Cas des gaz parfaits pour la modification de la pression, loi de Le Chatelier
+Pour les gaz parfaits on a la variation d'affinité chimique :
+
+(∂A∙∂P)T,n=−Σν⋅RTP{\displaystyle \left({\partial {\mathcal {A}}^{\bullet } \over \partial P}\right)_{T,n}=-\Sigma \nu \cdot {RT \over P}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la pression :
+
+Condition d'évolution spontanée par modification de la pression : −ΣνRTdPPdξ≥0{\displaystyle -\Sigma \nu \,RT\,{\mathrm {d} P \over P}\,\mathrm {d} \xi \geq 0}
+avec Σν=∑k=1Nνk{\displaystyle \Sigma \nu =\sum _{k=1}^{N}\nu _{k}} la somme des coefficients stœchiométriques de la réaction, notés selon la convention stœchiométrique (coefficients des réactifs négatifs).
+
+Il vient cinq cas de figure :
+
+Σν=0{\displaystyle \Sigma \nu =0}, la réaction ne modifie pas la quantité totale de constituants (réactifs et produits) ; on a, pour tout m{\displaystyle m} entier naturel non nul, (∂mA∙∂Pm)T,n=0{\displaystyle \left({\partial ^{m}{\mathcal {A}}^{\bullet } \over {\partial P}^{m}}\right)_{T,n}=0} ; l'affinité chimique n'est pas modifiée par la modification de la pression, elle reste donc nulle : l'équilibre est neutre, insensible à la pression, et ne se déplace pas ;
+Σν<0{\displaystyle \Sigma \nu <0}, la quantité totale de constituants (réactifs et produits) diminue lorsque la réaction progresse :
+si l'on augmente la pression : dP>0{\displaystyle \mathrm {d} P>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on diminue la pression : dP<0{\displaystyle \mathrm {d} P<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+Σν>0{\displaystyle \Sigma \nu >0}, la quantité totale de constituants (réactifs et produits) augmente lorsque la réaction progresse :
+si l'on augmente la pression : dP>0{\displaystyle \mathrm {d} P>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on diminue la pression : dP<0{\displaystyle \mathrm {d} P<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse.Ces relations sont résumées par la loi de Le Chatelier, qui la découvrit expérimentalement :
+
+En augmentant la pression la réaction diminue la quantité de constituants, ce qui tend à diminuer la pression : la réaction s'oppose donc à la modification de pression.
+
+Modification du volume
+Condition d'évolution spontanée par modification du volume
+Supposons un équilibre chimique à volume V{\displaystyle V} et température T{\displaystyle T}. Le volume est modifié de dV{\displaystyle \mathrm {d} V}, la température restant constante. On a la variation d'affinité chimique :
+
+(∂A∂V)T,n=ΔrVVχT{\displaystyle \left({\partial {\mathcal {A}} \over \partial V}\right)_{T,n}={\Delta _{\text{r}}V \over V\chi _{T}}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification du volume :
+
+avec :
+
+ΔrV=(∂V∂ξ)P,T=∑k=1NνkV¯k{\displaystyle \Delta _{\text{r}}V=\left({\partial V \over \partial \xi }\right)_{P,T}=\sum _{k=1}^{N}\nu _{k}{\bar {V}}_{k}} le volume de réaction ;
+V¯k{\displaystyle {\bar {V}}_{k}} le volume molaire partiel du constituant k{\displaystyle k} ;
+χT=−1V(∂V∂P)T,n{\displaystyle \chi _{T}=-{1 \over V}\left({\partial V \over \partial P}\right)_{T,n}} le coefficient de compressibilité isotherme.
+
+Cas général pour la modification du volume
+Le deuxième principe de la thermodynamique implique qu'un système thermodynamique ne peut être stable que si son volume diminue lorsque la pression augmente, soit pour le coefficient de compressibilité isotherme (voir l'article Compressibilité) :
+
+χT≥0{\displaystyle \chi _{T}\geq 0}
+On a par ailleurs, à température et composition constantes :
+
+dV=−VχTdP{\displaystyle \mathrm {d} V=-V\chi _{T}\,\mathrm {d} P}
+On retrouve la condition d'évolution spontanée par modification de la pression :
+
+Condition d'évolution spontanée par modification de la pression : −ΔrVdPdξ≥0{\displaystyle -\Delta _{\text{r}}V\,\mathrm {d} P\,\mathrm {d} \xi \geq 0}
+En conséquence, si l'on diminue le volume du milieu réactionnel, soit dV<0{\displaystyle \mathrm {d} V<0}, l'équilibre se déplace dans le sens déterminé par une augmentation de pression, soit dP≥0{\displaystyle \mathrm {d} P\geq 0}, c'est-à-dire le sens dans lequel le volume du milieu réactionnel diminue (voir paragraphe Cas général pour la modification de la pression). Ainsi, contrairement à ce que prédit le principe de Le Chatelier, la réaction ne se déplace pas dans le sens qui s'oppose à la diminution du volume, au contraire, elle accompagne ce changement de volume. En revanche, elle s'oppose à l'augmentation de la pression,.
+Le déplacement de l'équilibre est conforme au principe de Le Chatelier au regard de la pression.
+
+Au regard du volume, les conclusions sont donc l'inverse de celles du principe de Le Chatelier : la réaction accompagne la modification du volume.
+Afin de comprendre en quoi le principe de Le Chatelier est respecté, imaginons un mélange réactionnel gazeux dans un piston. Soit V{\displaystyle V} le volume initial. Pour modifier le volume, on déplace le piston. Soit P′{\displaystyle P^{\prime }} la pression que l'on atteindrait en l'absence de réaction chimique, avec le volume V′<V{\displaystyle V^{\prime }<V}. Cependant la réaction se déplace et, puisque le volume a diminué, tend à diminuer la pression. Soit P′′{\displaystyle P^{\prime \prime }} la pression que l'on atteint avec la réaction chimique. On a par conséquent P′′<P′{\displaystyle P^{\prime \prime }<P^{\prime }} à V′{\displaystyle V^{\prime }}. On obtient finalement une pression plus faible que prévu : la réaction s'est opposé à l'augmentation de pression.
+Si, plutôt que de modifier le volume, on modifie la pression en posant des poids sur le piston, on impose P′{\displaystyle P^{\prime }}, à laquelle on souhaiterait obtenir le volume V′{\displaystyle V^{\prime }} en l'absence de réaction. On obtient, avec la réaction, un volume V′′<V′{\displaystyle V^{\prime \prime }<V^{\prime }} à P′{\displaystyle P^{\prime }}. On obtient finalement un volume plus faible que prévu : la réaction a amplifié la diminution du volume.
+
+Cas des gaz parfaits pour la modification du volume
+Pour les gaz parfaits on a la variation d'affinité chimique :
+
+(∂A∙∂V)T,n=Σν⋅RTV{\displaystyle \left({\partial {\mathcal {A}}^{\bullet } \over \partial V}\right)_{T,n}=\Sigma \nu \cdot {RT \over V}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification du volume :
+
+Condition d'évolution spontanée par modification du volume : ΣνRTdVVdξ≥0{\displaystyle \Sigma \nu \,RT\,{\mathrm {d} V \over V}\,\mathrm {d} \xi \geq 0}
+avec Σν=∑k=1Nνk{\displaystyle \Sigma \nu =\sum _{k=1}^{N}\nu _{k}} la somme des coefficients stœchiométriques de la réaction, notés selon la convention stœchiométrique (coefficients des réactifs négatifs).
+
+Il vient cinq cas de figure :
+
+Σν=0{\displaystyle \Sigma \nu =0}, la réaction ne modifie pas la quantité totale de constituants (réactifs et produits) ; on a, pour tout m{\displaystyle m} entier naturel non nul, (∂mA∙∂Vm)T,n=0{\displaystyle \left({\partial ^{m}{\mathcal {A}}^{\bullet } \over {\partial V}^{m}}\right)_{T,n}=0} ; l'affinité chimique n'est pas modifiée par la modification du volume, elle reste donc nulle : l'équilibre est neutre, insensible au volume, et ne se déplace pas ;
+Σν<0{\displaystyle \Sigma \nu <0}, la quantité totale de constituants (réactifs et produits) diminue lorsque la réaction progresse :
+si l'on augmente le volume : dV>0{\displaystyle \mathrm {d} V>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on diminue le volume : dV<0{\displaystyle \mathrm {d} V<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+Σν>0{\displaystyle \Sigma \nu >0}, la quantité totale de constituants (réactifs et produits) augmente lorsque la réaction progresse :
+si l'on augmente le volume : dV>0{\displaystyle \mathrm {d} V>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on diminue le volume : dV<0{\displaystyle \mathrm {d} V<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse.Pour résumer :
+
+Modification de la composition
+Condition d'évolution spontanée par modification de la composition
+Supposons un équilibre chimique à une condition (volume ou pression) X{\displaystyle X} et à température T{\displaystyle T}. La quantité ni{\displaystyle n_{i}} du constituant i{\displaystyle i} (réactif, produit, inerte) est modifiée de dni{\displaystyle \mathrm {d} n_{i}}, la condition X{\displaystyle X} et la température restant constantes. On a par définition l'affinité chimique :
+
+A=−∑k=1Nνkμk{\displaystyle {\mathcal {A}}=-\sum _{k=1}^{N}\nu _{k}\mu _{k}}
+et par conséquent sa variation :
+
+(∂A∂ni)X,T,nj≠i=−∑k=1Nνk(∂μk∂ni)X,T,nj≠i{\displaystyle \left({\partial {\mathcal {A}} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}=-\sum _{k=1}^{N}\nu _{k}\left({\partial \mu _{k} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la composition :
+
+avec :
+
+nk{\displaystyle n_{k}} la quantité du constituant k{\displaystyle k} (réactif, produit, inerte) ;
+X{\displaystyle X} la pression ou le volume ;
+μk{\displaystyle \mu _{k}} le potentiel chimique du constituant k{\displaystyle k}.Une étude plus fine est complexe. Elle nécessite de connaitre l'évolution des potentiels chimiques en fonction de la composition du milieu réactionnel, ce qui requiert l'utilisation d'un modèle d'activité chimique. La relation (voir le paragraphe Constante d'équilibre) :
+
+A=−ΔrG=RTln⁡K−RTln⁡Qr{\displaystyle {\mathcal {A}}=-\Delta _{\text{r}}G=RT\,\ln K-RT\,\ln Q_{\text{r}}}avec :
+
+ΔrG{\displaystyle \Delta _{\text{r}}G} l'enthalpie libre de réaction ;
+Qr=∏k=1Nakνk{\displaystyle Q_{\text{r}}=\prod _{k=1}^{N}{a_{k}}^{\nu _{k}}} le quotient de réaction ; ak{\displaystyle a_{k}} étant l'activité chimique du constituant k{\displaystyle k} ;
+K{\displaystyle K} la constante de réaction, ne dépendant que de la température T{\displaystyle T} ;donne :
+
+Condition d'évolution spontanée par modification de la composition
+−RT(∂ln⁡Qr∂ni)X,T,nj≠idnidξ=−RT∑k=1Nνk(∂ln⁡ak∂ni)X,T,nj≠idnidξ≥0{\displaystyle -RT\,\left({\partial \ln Q_{\text{r}} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\,\mathrm {d} n_{i}\,\mathrm {d} \xi =-RT\,\sum _{k=1}^{N}\nu _{k}\left({\partial \ln a_{k} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\,\mathrm {d} n_{i}\,\mathrm {d} \xi \geq 0}
+Cette étude peut être simplifiée dans le cas des solutions idéales, incluant les mélanges de gaz parfaits.
+
+Cas général pour la modification de composition, respect du principe de Le Chatelier
+On note de façon générique un potentiel thermodynamique Φ=Φ(X,T,n){\displaystyle \Phi =\Phi \!\left(X,T,n\right)}. Si la condition X{\displaystyle X} est le volume V{\displaystyle V}, il s'agit de l'énergie libre F=F(V,T,n){\displaystyle F=F\!\left(V,T,n\right)}. Si la condition X{\displaystyle X} est la pression P{\displaystyle P}, il s'agit de l'enthalpie libre G=G(P,T,n){\displaystyle G=G\!\left(P,T,n\right)}. On a les relations avec l'affinité chimique et le potentiel chimique :
+
+A=−(∂F∂ξ)V,T=−(∂G∂ξ)P,T=−(∂Φ∂ξ)X,T{\displaystyle {\mathcal {A}}=-\left({\partial F \over \partial \xi }\right)_{V,T}=-\left({\partial G \over \partial \xi }\right)_{P,T}=-\left({\partial \Phi  \over \partial \xi }\right)_{X,T}}
+μi=(∂F∂ni)V,T,nj≠i=(∂G∂ni)P,T,nj≠i=(∂Φ∂ni)X,T,nj≠i{\displaystyle \mu _{i}=\left({\partial F \over \partial n_{i}}\right)_{V,T,n_{j\neq i}}=\left({\partial G \over \partial n_{i}}\right)_{P,T,n_{j\neq i}}=\left({\partial \Phi  \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}}En application du théorème de Schwarz :
+
+(∂A∂ni)X,T,nj≠i=−(∂∂ni(∂Φ∂ξ)X,T)X,T,nj≠i=−(∂∂ξ(∂Φ∂ni)X,T,nj≠i)X,T=−(∂μi∂ξ)X,T{\displaystyle \left({\partial {\mathcal {A}} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}=-\left({\partial  \over \partial n_{i}}\left({\partial \Phi  \over \partial \xi }\right)_{X,T}\right)_{X,T,n_{j\neq i}}=-\left({\partial  \over \partial \xi }\left({\partial \Phi  \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\right)_{X,T}=-\left({\partial \mu _{i} \over \partial \xi }\right)_{X,T}}La condition d'évolution spontanée par modification de la composition peut donc également s'écrire :
+
+dAdξ=(∂A∂ni)X,T,nj≠idnidξ=−(∂μi∂ξ)X,Tdnidξ≥0{\displaystyle \mathrm {d} {\mathcal {A}}\,\mathrm {d} \xi =\left({\partial {\mathcal {A}} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\,\mathrm {d} n_{i}\,\mathrm {d} \xi =-\left({\partial \mu _{i} \over \partial \xi }\right)_{X,T}\,\mathrm {d} n_{i}\,\mathrm {d} \xi \geq 0}On note la variation du potentiel chimique du constituant due à la réaction dans les conditions X{\displaystyle X} et T{\displaystyle T} constantes :
+
+dμi|ξ=(∂μi∂ξ)X,Tdξ{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{\xi }=\left({\partial \mu _{i} \over \partial \xi }\right)_{X,T}\,\mathrm {d} \xi }On obtient finalement :
+
+par la réaction : −dμi|ξ⋅dni≥0{\displaystyle -\left.\mathrm {d} \mu _{i}\right|_{\xi }\cdot \mathrm {d} n_{i}\geq 0}
+Il vient trois cas de figure :
+
+dμi|ξ=0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{\xi }=0}, la réaction ne modifie pas le potentiel chimique du constituant i{\displaystyle i} : l'équilibre est insensible à la quantité de i{\displaystyle i} et ne se déplace pas que l'on ajoute ou extraie ce constituant ;
+si l'on ajoute le constituant i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dμi|ξ<0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{\xi }<0}, la réaction diminue son potentiel chimique ;
+si l'on extrait le constituant i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dμi|ξ>0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{\xi }>0}, la réaction augmente son potentiel chimique.Pour résumer :
+
+On n'en tire aucune conclusion quant au sens de déplacement de la réaction (le signe de dξ{\displaystyle \mathrm {d} \xi }), qui peut donc aussi bien progresser que régresser pour atteindre ce résultat. Le principe de modération voudrait que d'une façon générale l'ajout d'un réactif (ou l'extraction d'un produit) déplace l'équilibre dans le sens de la consommation du réactif (respectivement de l'apparition du produit), donc que la réaction progresse en diminuant la quantité du réactif ajouté (en augmentant la quantité du produit extrait). À contrario, l'extraction d'un réactif ou l'ajout d'un produit devrait avoir pour conséquence une régression de la réaction. Il n'en va pas toujours ainsi dans les faits. Il existe des cas où il ne se passe rien et des cas où l'effet inverse se produit, par exemple où l'ajout d'un réactif induit la régression de la réaction, et non sa progression : la réaction augmente la quantité du réactif ajouté. Ceci se démontre dans le cas des équilibres hétérogènes et dans le cas des équilibres en solution idéale. Ainsi, au regard de la quantité du constituant, le principe de Le Chatelier n'est pas toujours observé lors de l'ajout ou de l'extraction de l'un des constituants du mélange réactionnel,.
+Le principe de Le Chatelier est toutefois respecté si l'on considère non pas la quantité du constituant que l'on ajoute ou extrait, mais son potentiel chimique. Le deuxième principe de la thermodynamique induit en effet que le mélange de constituants, en l'absence de réaction, ne peut être stable que si :
+
+(∂μi∂ni)X,T,nj≠i≥0{\displaystyle \left({\partial \mu _{i} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\geq 0}De façon générale, quel que soit le signe de la modification dni{\displaystyle \mathrm {d} n_{i}}, on a donc :
+
+(∂μi∂ni)X,T,nj≠i(dni)2≥0{\displaystyle \left({\partial \mu _{i} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\,\left(\mathrm {d} n_{i}\right)^{2}\geq 0}On note la variation du potentiel chimique due à la modification de la quantité ni{\displaystyle n_{i}} du constituant i{\displaystyle i} (réactif, produit, inerte) en maintenant X{\displaystyle X}, T{\displaystyle T} et les quantités nj{\displaystyle n_{j}} des autres constituants constantes (en l'absence de réaction) :
+
+dμi|ni=(∂μi∂ni)X,T,nj≠idni{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{n_{i}}=\left({\partial \mu _{i} \over \partial n_{i}}\right)_{X,T,n_{j\neq i}}\,\mathrm {d} n_{i}}
+On obtient finalement :
+
+en l'absence de réaction : dμi|ni⋅dni≥0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{n_{i}}\cdot \mathrm {d} n_{i}\geq 0}
+Par conséquent, dans les conditions X{\displaystyle X} et T{\displaystyle T} constantes et en l'absence de réaction :
+
+si l'on ajoute le constituant i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dμi|ni≥0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{n_{i}}\geq 0}, son potentiel chimique augmente ;
+si l'on extrait le constituant i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dμi|ni≤0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{n_{i}}\leq 0}, son potentiel chimique diminue.La modification de la quantité ni{\displaystyle n_{i}} provoque une modification totale du potentiel chimique μi{\displaystyle \mu _{i}} égale à :
+
+avec la réaction : dμi=dμi|ni+dμi|ξ{\displaystyle \mathrm {d} \mu _{i}=\left.\mathrm {d} \mu _{i}\right|_{n_{i}}+\left.\mathrm {d} \mu _{i}\right|_{\xi }}
+Ainsi, si l'on augmente la quantité du constituant i{\displaystyle i}, soit dni>0{\displaystyle \mathrm {d} n_{i}>0}, on a dμi|ni≥0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{n_{i}}\geq 0} et dμi|ξ≤0{\displaystyle \left.\mathrm {d} \mu _{i}\right|_{\xi }\leq 0}. L'ajout du constituant augmente son potentiel chimique, tandis que la réaction le diminue. Inversement, l'extraction du constituant diminue son potentiel chimique, tandis que la réaction l'augmente. Le principe de Le Chatelier est donc respecté au regard du potentiel chimique du constituant dont on modifie la quantité, et non au regard de cette quantité : la réaction s'oppose à la modification des potentiels chimiques des constituants du milieu réactionnel, y compris des inertes.
+
+Cas des équilibres hétérogènes
+On considère un équilibre hétérogène dont la réaction chimique a lieu dans une phase α{\displaystyle \alpha } et implique une espèce i{\displaystyle i} pure dans une phase β{\displaystyle \beta } (par exemple, dans une réaction de précipitation, un solide β{\displaystyle \beta } produit par une réaction en phase α{\displaystyle \alpha } liquide) :
+
+∑j=1NνjCj(α)+νiCi(β)=0{\displaystyle \sum _{j=1}^{N}\nu _{j}\,{\rm {C}}_{j}(\alpha )+\nu _{i}\,{\rm {C}}_{i}(\beta )=0}
+L'affinité chimique vaut :
+
+A=−∑j=1Nνjμjα−νiμiβ{\displaystyle {\mathcal {A}}=-\sum _{j=1}^{N}\nu _{j}\mu _{j}^{\alpha }-\nu _{i}\mu _{i}^{\beta }}
+On modifie la quantité nk{\displaystyle n_{k}} d'un constituant k{\displaystyle k} quelconque à pression et température constantes, d'où :
+
+(∂A∂nk)P,T,n≠k=−∑j=1Nνj(∂μjα∂nk)P,T,n≠k−νi(∂μiβ∂nk)P,T,n≠k{\displaystyle \left({\partial {\mathcal {A}} \over \partial n_{k}}\right)_{P,T,n_{\neq k}}=-\sum _{j=1}^{N}\nu _{j}\left({\partial \mu _{j}^{\alpha } \over \partial n_{k}}\right)_{P,T,n_{\neq k}}-\nu _{i}\left({\partial \mu _{i}^{\beta } \over \partial n_{k}}\right)_{P,T,n_{\neq k}}}
+Si le constituant k{\displaystyle k} est l'espèce i{\displaystyle i}, celle-ci étant pure dans la phase β{\displaystyle \beta }, son potentiel chimique μiβ{\displaystyle \mu _{i}^{\beta }} ne dépend pas de la composition ; on a par conséquent, à pression et température constantes :
+
+(∂μiβ∂ni)P,T=0{\displaystyle \left({\partial \mu _{i}^{\beta } \over \partial n_{i}}\right)_{P,T}=0}La quantité de l'espèce i{\displaystyle i} en phase β{\displaystyle \beta } n'intervient pas dans les expressions des potentiels chimiques μjα{\displaystyle \mu _{j}^{\alpha }} des autres espèces j{\displaystyle j} dans le milieu réactionnel α{\displaystyle \alpha }, ces potentiels ne dépendant que de la pression, de la température et de la composition de la phase α{\displaystyle \alpha }. On a par conséquent, à pression et température constantes :
+
+(∂μjα∂ni)P,T,nj=0{\displaystyle \left({\partial \mu _{j}^{\alpha } \over \partial n_{i}}\right)_{P,T,n_{j}}=0}Aussi, à pression et température constantes, si l'on fait varier la quantité de l'espèce i{\displaystyle i} dans la phase β{\displaystyle \beta }, on a :
+
+(∂A∂ni)P,T,nj=0{\displaystyle \left({\partial {\mathcal {A}} \over \partial n_{i}}\right)_{P,T,n_{j}}=0}
+On a également, pour tout m{\displaystyle m} entier naturel non nul :
+
+(∂mA∂nim)P,T,nj=0{\displaystyle \left({\partial ^{m}{\mathcal {A}} \over {\partial n_{i}}^{m}}\right)_{P,T,n_{j}}=0}En conclusion, l'affinité chimique n'est pas modifiée par la modification de la quantité de i{\displaystyle i}, elle reste donc nulle ; l'équilibre est neutre, insensible à la quantité de i{\displaystyle i}, et ne se déplace pas :
+
+Cas des solutions idéales à pression constante
+Ce chapitre détaille l'évolution d'un équilibre chimique dont le milieu réactionnel se comporte comme une solution idéale. Ceci concerne donc aussi bien les solutions idéales liquides ou solides que les mélanges de gaz parfaits.
+
+Condition d'évolution spontanée à pression constante
+Supposons un équilibre chimique à pression P{\displaystyle P} et à température T{\displaystyle T}. La quantité ni{\displaystyle n_{i}} du constituant i{\displaystyle i} (réactif, produit, inerte) est modifiée de dni{\displaystyle \mathrm {d} n_{i}}, la pression et la température restant constantes. On a la variation d'affinité chimique, :
+
+(∂Aid∂ni)P,T,nj≠i=−[νi−xiΣν]⋅RTni{\displaystyle \left({\partial {\mathcal {A}}^{\text{id}} \over \partial n_{i}}\right)_{P,T,n_{j\neq i}}=-\left[\nu _{i}-x_{i}\Sigma \nu \right]\cdot {RT \over n_{i}}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la composition :
+
+Condition d'évolution spontanée par modification de la composition à pression constante
+−[νi−xiΣν]RTdninidξ≥0{\displaystyle -\left[\nu _{i}-x_{i}\Sigma \nu \right]\,RT\,{\mathrm {d} n_{i} \over n_{i}}\,\mathrm {d} \xi \geq 0}
+avec :
+
+xi{\displaystyle x_{i}} la fraction molaire du constituant i{\displaystyle i} dans l'équilibre initial ;
+νi{\displaystyle \nu _{i}} le coefficient stœchiométrique du constituant i{\displaystyle i} ;
+Σν=∑k=1Nνk{\displaystyle \Sigma \nu =\sum _{k=1}^{N}\nu _{k}} la somme des coefficients stœchiométriques de la réaction.Les coefficients stœchiométriques sont notés selon la convention stœchiométrique (coefficients des réactifs négatifs).
+Dans le cas particulier où νi−xiΣν=0{\displaystyle \nu _{i}-x_{i}\Sigma \nu =0}, soit xi=νi/Σν{\displaystyle x_{i}=\nu _{i}/\Sigma \nu }, la condition devient :
+
+Condition d'évolution spontanée par modification de la composition à pression constante
+si νi−xiΣν=0{\displaystyle \nu _{i}-x_{i}\Sigma \nu =0}, alors νi[1−xi]RT2(dnini)2dξ≥0{\displaystyle \nu _{i}\,\left[1-x_{i}\right]\,{RT \over 2}\,\left({\mathrm {d} n_{i} \over n_{i}}\right)^{2}\,\mathrm {d} \xi \geq 0}
+Puisque 0<xi<1{\displaystyle 0<x_{i}<1}, ce cas ne peut apparaitre que si 0<νi/Σν<1{\displaystyle 0<\nu _{i}/\Sigma \nu <1}.
+
+Pour les solutions idéales, y compris les mélanges de gaz parfaits, dont on modifie la composition à pression et température constantes, le principe de Le Chatelier est respecté si l'on considère la fraction molaire du constituant dont on modifie la quantité : si l'on augmente la fraction molaire d'un constituant, la réaction tend à la diminuer,.
+
+Ajout ou extraction d'un réactif ou d'un produit à pression constante
+Dans le cas de l'ajout ou de l'extraction d'un réactif ou d'un produit, c'est-à-dire d'un constituant intervenant dans la réaction, νi≠0{\displaystyle \nu _{i}\neq 0}, à pression et température constantes il vient six cas de figure, :
+
+νi−xiΣν<0{\displaystyle \nu _{i}-x_{i}\Sigma \nu <0} :
+si l'on ajoute le constituant i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on extrait le constituant i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+νi−xiΣν>0{\displaystyle \nu _{i}-x_{i}\Sigma \nu >0} :
+si l'on ajoute le constituant i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on extrait le constituant i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+νi−xiΣν=0{\displaystyle \nu _{i}-x_{i}\Sigma \nu =0} :
+si i{\displaystyle i} est un réactif : νi<0{\displaystyle \nu _{i}<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse que l'on ajoute ou extraie i{\displaystyle i} ;
+si i{\displaystyle i} est un produit : νi>0{\displaystyle \nu _{i}>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse que l'on ajoute ou extraie i{\displaystyle i}.Ceci se résume en termes de fraction molaire du constituant ajouté :
+
+Si Σν=0{\displaystyle \Sigma \nu =0} le principe de Le Chatelier est toujours respecté : l'ajout d'un réactif (νi<0{\displaystyle \nu _{i}<0}) ou l'extraction d'un produit (νi>0{\displaystyle \nu _{i}>0}) fait progresser la réaction ; à contrario l'extraction d'un réactif ou l'ajout d'un produit fait régresser la réaction.
+Si Σν≠0{\displaystyle \Sigma \nu \neq 0}, pour tout constituant i{\displaystyle i} (réactif ou produit) pour lequel 0<νiΣν<1{\displaystyle 0<{\nu _{i} \over \Sigma \nu }<1}, le sens de déplacement de la réaction dépend du positionnement de xi{\displaystyle x_{i}} par rapport à νiΣν{\displaystyle {\nu _{i} \over \Sigma \nu }}. En conséquence, selon la composition du mélange dans l'équilibre initial, l'ajout d'un constituant pourra déplacer l'équilibre dans un sens ou dans l'autre. Le principe de Le Chatelier peut ne pas être respecté au regard de la quantité du constituant ajouté. Par exemple, l'ajout d'un réactif peut déplacer l'équilibre dans le sens de la régression de la réaction (production du réactif ajouté), et non de sa progression (consommation du réactif ajouté) comme le voudrait le principe de modération. La réaction s'oppose néanmoins à l'augmentation de la fraction molaire de ce constituant. Cette fraction a pour expression xi=ni/n{\displaystyle x_{i}=n_{i}/n}. La réaction modifie à la fois la quantité ni{\displaystyle n_{i}} du constituant et la quantité de matière totale n{\displaystyle n}, celles-ci pouvant varier dans le même sens ou en sens opposés. La réaction se déplace dans le sens qui diminue la fraction xi{\displaystyle x_{i}}, quitte à ce que la quantité ni{\displaystyle n_{i}} augmente du moment que la quantité de matière totale n{\displaystyle n} augmente suffisamment pour que ni/n{\displaystyle n_{i}/n} diminue. Le déplacement d'équilibre respecte le principe de Le Chatelier au regard de la fraction molaire et non de la quantité du constituant modifié.
+
+Ajout ou extraction d'un inerte à pression constante
+Dans le cas de l'ajout ou de l'extraction d'un constituant inerte, c'est-à-dire d'un constituant qui n'intervient pas dans la réaction, νi=0{\displaystyle \nu _{i}=0}, à pression et température constantes, on a la variation d'affinité chimique, :
+
+(∂Aid∂ni)P,T,nj≠i=Σν⋅RTn{\displaystyle \left({\partial {\mathcal {A}}^{\text{id}} \over \partial n_{i}}\right)_{P,T,n_{j\neq i}}=\Sigma \nu \cdot {RT \over n}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la composition :
+
+Condition d'évolution spontanée par modification de la quantité d'un inerte à pression constante
+ΣνRTdnindξ≥0{\displaystyle \Sigma \nu \,RT\,{\mathrm {d} n_{i} \over n}\,\mathrm {d} \xi \geq 0}
+avec n=∑k=1Nnk{\displaystyle n=\sum _{k=1}^{N}n_{k}} la quantité de matière totale du mélange réactionnel (réactifs, produits et inertes).
+Il vient cinq cas de figure, :
+
+Σν=0{\displaystyle \Sigma \nu =0}, la réaction ne modifie pas la quantité totale de constituants (réactifs et produits, hors inertes) ; on a, pour tout m{\displaystyle m} entier naturel non nul, (∂mAid∂nim)P,T,nj≠i=0{\displaystyle \left({\partial ^{m}{\mathcal {A}}^{\text{id}} \over {\partial n_{i}}^{m}}\right)_{P,T,n_{j\neq i}}=0} ; l'affinité chimique n'est pas modifiée par la modification de la quantité d'inerte, elle reste donc nulle : l'équilibre est neutre, insensible à la quantité d'inerte, et ne se déplace pas ;
+Σν<0{\displaystyle \Sigma \nu <0}, le nombre total de constituants (réactifs et produits, hors inertes) diminue lorsque l'équilibre se déplace de la gauche vers la droite :
+si l'on ajoute de l'inerte i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on extrait de l'inerte i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+Σν>0{\displaystyle \Sigma \nu >0}, le nombre total de constituants (réactifs et produits, hors inertes) augmente lorsque l'équilibre se déplace de la gauche vers la droite :
+si l'on ajoute de l'inerte i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on extrait de l'inerte i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse.Pour résumer :
+
+Ce résultat peut sembler paradoxal : on pourrait s'attendre à ce que l'ajout d'un inerte déplace l'équilibre dans le sens d'une diminution de la quantité globale de réactifs et de produits, et non à une augmentation. Or la réaction, dans les conditions de pression et température constantes, doit tendre à diminuer la fraction molaire du constituant ajouté. Cette fraction a pour expression xi=ni/n{\displaystyle x_{i}=n_{i}/n}. La réaction n'ayant aucun impact sur la quantité ni{\displaystyle n_{i}} d'un inerte, par définition, elle ne peut diminuer sa fraction molaire qu'en faisant augmenter la quantité de matière totale n{\displaystyle n}. Dans le cas particulier où Σν=0{\displaystyle \Sigma \nu =0}, la réaction ne modifie pas la quantité de matière totale n{\displaystyle n} : l'ajout ou l'extraction d'inerte est sans effet sur l'équilibre.
+
+Récapitulatif pour la modification de composition à pression constante
+Le tableau suivant récapitule les divers cas de figure de déplacement de l'équilibre chimique en solution idéale, y compris les mélanges de gaz parfaits, par modification de la composition à pression et température constantes. On note :
+
+xi{\displaystyle x_{i}} la fraction molaire du constituant i{\displaystyle i} dans le mélange réactionnel à l'équilibre avant modification de la composition ;
+νi{\displaystyle \nu _{i}} le coefficient stœchiométrique du constituant i{\displaystyle i} ;
+Σν{\displaystyle \Sigma \nu } la somme des coefficients stœchiométriques de la réaction.Les coefficients stœchiométriques sont notés selon la convention stœchiométrique (coefficient d'un réactif négatif).
+
+De façon générale, l'ajout d'un constituant (réactif, produit, inerte) en solution idéale, y compris dans les mélanges de gaz parfaits, à pression et température constantes, déplace l'équilibre dans le sens qui diminue la fraction molaire de ce constituant,.
+
+Cas des gaz parfaits à volume constant
+Ce chapitre détaille l'évolution d'un équilibre chimique dont le milieu réactionnel est un mélange de gaz parfaits. Concernant les phases condensées (liquides en particulier), il est en pratique impossible d'ajouter ou d'extraire un composant sans faire varier le volume du milieu réactionnel.
+
+Condition d'évolution spontanée à volume constant
+Supposons un équilibre chimique au volume V{\displaystyle V} et à température T{\displaystyle T}. La quantité ni{\displaystyle n_{i}} du constituant i{\displaystyle i} (réactif, produit, inerte) est modifiée de dni{\displaystyle \mathrm {d} n_{i}}, le volume et la température restant constants. On a la variation d'affinité chimique :
+
+(∂A∙∂ni)V,T,nj≠i=−νi⋅RTni{\displaystyle \left({\partial {\mathcal {A}}^{\bullet } \over \partial n_{i}}\right)_{V,T,n_{j\neq i}}=-\nu _{i}\cdot {RT \over n_{i}}}
+On obtient la relation qui détermine le sens de déplacement de la réaction par modification de la composition :
+
+Condition d'évolution spontanée par modification de la composition à volume constant
+−νiRTdninidξ≥0{\displaystyle -\nu _{i}\,RT\,{\mathrm {d} n_{i} \over n_{i}}\,\mathrm {d} \xi \geq 0}
+avec νi{\displaystyle \nu _{i}} le coefficient stœchiométrique du constituant i{\displaystyle i} noté selon la convention stœchiométrique (coefficients des réactifs négatifs).
+
+Pour les mélanges de gaz parfaits dont on modifie la composition à volume et température constants, le principe de Le Chatelier est respecté si l'on considère la quantité du constituant que l'on modifie : si l'on augmente la quantité d'un constituant, la réaction tend à la diminuer.
+
+Ajout ou extraction d'un réactif ou d'un produit à volume constant
+Dans le cas de l'ajout ou de l'extraction d'un réactif ou d'un produit, c'est-à-dire d'un constituant intervenant dans la réaction, νi≠0{\displaystyle \nu _{i}\neq 0}, à volume et température constants il vient quatre cas de figure :
+
+νi<0{\displaystyle \nu _{i}<0} :
+si l'on ajoute le réactif i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse ;
+si l'on extrait le réactif i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+νi>0{\displaystyle \nu _{i}>0} :
+si l'on ajoute le produit i{\displaystyle i} : dni>0{\displaystyle \mathrm {d} n_{i}>0}, d'où dξ<0{\displaystyle \mathrm {d} \xi <0}, la réaction régresse ;
+si l'on extrait le produit i{\displaystyle i} : dni<0{\displaystyle \mathrm {d} n_{i}<0}, d'où dξ>0{\displaystyle \mathrm {d} \xi >0}, la réaction progresse.Pour résumer :
+
+Le principe de Le Chatelier est toujours respecté.
+
+Ajout ou extraction d'un inerte à volume constant
+Dans le cas d'un constituant inerte, c'est-à-dire d'un constituant qui n'intervient pas dans la réaction, νi=0{\displaystyle \nu _{i}=0}, à volume et température constants, on a la variation d'affinité chimique :
+
+(∂A∙∂ni)V,T,nj≠i=0{\displaystyle \left({\partial {\mathcal {A}}^{\bullet } \over \partial n_{i}}\right)_{V,T,n_{j\neq i}}=0}
+On a également, pour tout m{\displaystyle m} entier naturel non nul :
+
+(∂mA∙∂nim)V,T,nj≠i=0{\displaystyle \left({\partial ^{m}{\mathcal {A}}^{\bullet } \over {\partial n_{i}}^{m}}\right)_{V,T,n_{j\neq i}}=0}L'affinité chimique n'est pas modifiée par la modification de la quantité d'inerte, elle reste donc nulle ; l'équilibre est insensible à la quantité d'inerte et ne se déplace pas :
+
+Ce résultat peut sembler paradoxal : on pourrait s'attendre à ce que l'ajout d'un inerte déplace l'équilibre dans le sens d'une diminution de la quantité globale de réactifs et de produits. Or la réaction, dans les conditions de volume et température constants, doit tendre à diminuer la quantité du constituant ajouté. La réaction n'ayant aucun impact sur la quantité d'un inerte, par définition, la modification de celle-ci n'a aucune influence sur l'équilibre.
+
+Récapitulatif pour la modification de composition à volume constant
+Le tableau suivant récapitule les divers cas de figure de déplacement de l'équilibre chimique dans un mélange de gaz parfaits par modification de la composition à volume et température constants.
+
+De façon générale, l'ajout d'un constituant dans les mélanges de gaz parfaits, à volume et température constants, déplace l'équilibre dans le sens qui diminue la quantité de ce constituant. La réaction n'ayant aucun effet sur la quantité d'un inerte, cette modification est sans effet.
+
+Emploi d'un catalyseur
+Un catalyseur augmente la vitesse des réactions en abaissant leur énergie d'activation ; il permet donc d'atteindre plus vite l'équilibre,. Un catalyseur agit cependant de façon identique sur la réaction directe et la réaction inverse. Autrement dit, si l'énergie d'activation E→‡{\displaystyle E_{\rightarrow }^{\ddagger }} de la réaction directe varie de ΔE‡<0{\displaystyle \Delta E^{\ddagger }<0} par l'effet du catalyseur, devenant E→‡+ΔE‡{\displaystyle E_{\rightarrow }^{\ddagger }+\Delta E^{\ddagger }}, alors l'énergie d'activation E←‡{\displaystyle E_{\leftarrow }^{\ddagger }} de la réaction inverse devient E←‡+ΔE‡{\displaystyle E_{\leftarrow }^{\ddagger }+\Delta E^{\ddagger }}. L'enthalpie standard de réaction (voir le paragraphe Loi d'Arrhenius) n'est donc pas modifiée, puisque avant ajout du catalyseur on a :
+
+E→‡−E←‡=ΔrH∘{\displaystyle E_{\rightarrow }^{\ddagger }-E_{\leftarrow }^{\ddagger }=\Delta _{\text{r}}H^{\circ }}et après ajout du catalyseur on a :
+
+[E→‡+ΔE‡]−[E←‡+ΔE‡]=E→‡−E←‡=ΔrH∘{\displaystyle \left[E_{\rightarrow }^{\ddagger }+\Delta E^{\ddagger }\right]-\left[E_{\leftarrow }^{\ddagger }+\Delta E^{\ddagger }\right]=E_{\rightarrow }^{\ddagger }-E_{\leftarrow }^{\ddagger }=\Delta _{\text{r}}H^{\circ }}L'entropie standard de réaction ΔrS∘{\displaystyle \Delta _{\text{r}}S^{\circ }} n'étant pas non plus modifiée par le catalyseur, l'enthalpie libre standard de réaction et par conséquent la constante d'équilibre ne sont donc également pas modifiées par le catalyseur :
+
+ΔrH∘−TΔrS∘=ΔrG∘=−RTln⁡K{\displaystyle \Delta _{\text{r}}H^{\circ }-T\Delta _{\text{r}}S^{\circ }=\Delta _{\text{r}}G^{\circ }=-RT\,\ln K}En conclusion l'emploi d'un catalyseur ne permet pas de déplacer un équilibre. Il ne permet pas non plus de rendre possible une réaction thermodynamiquement impossible.
+
+Le raisonnement est le même pour un inhibiteur qui ralentit la réaction en augmentant son énergie d'activation (soit ΔE‡>0{\displaystyle \Delta E^{\ddagger }>0}) : l'équilibre est atteint plus lentement, mais il n'est pas déplacé.
+
+Équilibres chimiques simultanés
+Généralités
+Stœchiométrie, avancements de réaction
+Soit un milieu réactionnel siège de M{\displaystyle M} réactions simultanées impliquant N{\displaystyle N} constituants Cj{\displaystyle {\rm {C}}_{j}}, on note les diverses réactions selon, :
+
+On note :
+
+i{\displaystyle i} l'indice des réactions, i∈[1,⋯,M]{\displaystyle i\in \left[1,\cdots ,M\right]} ;
+j{\displaystyle j} l'indice des constituants, j∈[1,⋯,N]{\displaystyle j\in \left[1,\cdots ,N\right]} ;
+νi,j{\displaystyle \nu _{i,j}} le coefficient stœchiométrique du constituant j{\displaystyle j} dans la réaction i{\displaystyle i}, tel que :
+νi,j<0{\displaystyle \nu _{i,j}<0} pour un réactif ;
+νi,j>0{\displaystyle \nu _{i,j}>0} pour un produit ;
+νi,j=0{\displaystyle \nu _{i,j}=0} si le constituant j{\displaystyle j} n'intervient pas dans la réaction i{\displaystyle i}.Soit dni,j{\displaystyle \mathrm {d} n_{i,j}} la variation de quantité du constituant j{\displaystyle j} due à la réaction i{\displaystyle i}. On a dni,j=0{\displaystyle \mathrm {d} n_{i,j}=0} si νi,j=0{\displaystyle \nu _{i,j}=0}, c'est-à-dire si le constituant j{\displaystyle j} n'intervient pas dans la réaction i{\displaystyle i}. Pour chacun des N{\displaystyle N} constituants, on a la variation globale de quantité dans le mélange réactionnel dnj{\displaystyle \mathrm {d} n_{j}} :
+
+dnj=∑i=1Mdni,j{\displaystyle \mathrm {d} n_{j}=\sum _{i=1}^{M}\,\mathrm {d} n_{i,j}}Pour chacune des M{\displaystyle M} réactions, on définit un avancement de réaction ξi{\displaystyle \xi _{i}} tel que pour chacun des N{\displaystyle N} constituants :
+
+νi,jdξi=dni,j{\displaystyle \nu _{i,j}\,\mathrm {d} \xi _{i}=\mathrm {d} n_{i,j}}On a donc pour tout constituant j∈[1,⋯,N]{\displaystyle j\in \left[1,\cdots ,N\right]}, réactif, produit ou inerte :
+
+dnj=∑i=1Mνi,jdξi{\displaystyle \mathrm {d} n_{j}=\sum _{i=1}^{M}\nu _{i,j}\,\mathrm {d} \xi _{i}}
+ou, en intégrant entre l'instant initial et un instant t{\displaystyle t} quelconque, :
+
+nj=nj0+∑i=1Mνi,jξi{\displaystyle n_{j}=n_{j}^{0}+\sum _{i=1}^{M}\nu _{i,j}\xi _{i}}avec :
+
+nj0{\displaystyle n_{j}^{0}} la quantité du constituant j{\displaystyle j} à l'instant initial t=0{\displaystyle t=0} ;
+nj{\displaystyle n_{j}} la quantité du constituant j{\displaystyle j} à l'instant t{\displaystyle t} ;
+ξi{\displaystyle \xi _{i}} l'avancement de réaction i{\displaystyle i} à l'instant t{\displaystyle t} ; rappelons qu'à l'instant initial, par définition, ξi0=0{\displaystyle \xi _{i}^{0}=0}.
+La vitesse de la réaction i{\displaystyle i} est donnée par la dérivée de l'avancement de cette réaction par rapport au temps t{\displaystyle t} :
+
+Vitesse de la réaction i{\displaystyle i} : ξ˙i=dξidt{\displaystyle {\dot {\xi }}_{i}={\mathrm {d} \xi _{i} \over \mathrm {d} t}}
+En conséquence pour chaque constituant j{\displaystyle j} la quantité varie par rapport au temps selon, :
+
+Vitesse d'apparition du constituant j{\displaystyle j} : dnjdt=∑i=1Mνi,j⋅dξidt=∑i=1Mνi,j⋅ξ˙i{\displaystyle {\mathrm {d} n_{j} \over \mathrm {d} t}=\sum _{i=1}^{M}\nu _{i,j}\cdot {\mathrm {d} \xi _{i} \over \mathrm {d} t}=\sum _{i=1}^{M}\nu _{i,j}\cdot {\dot {\xi }}_{i}}
+
+Enthalpies libres de réaction
+Le potentiel chimique de chacun des N{\displaystyle N} constituants est défini sur l'ensemble du mélange réactionnel. La variation à pression et température constantes de l'enthalpie libre globale du système réactionnel vaut alors, :
+
+dG=∑j=1Nμjdnj=∑j=1Nμj[∑i=1Mνi,jdξi]=∑i=1M[∑j=1Nνi,jμj]dξi=∑i=1MΔrGidξi{\displaystyle \mathrm {d} G=\sum _{j=1}^{N}\mu _{j}\,\mathrm {d} n_{j}=\sum _{j=1}^{N}\mu _{j}\left[\sum _{i=1}^{M}\nu _{i,j}\,\mathrm {d} \xi _{i}\right]=\sum _{i=1}^{M}\left[\sum _{j=1}^{N}\nu _{i,j}\mu _{j}\right]\,\mathrm {d} \xi _{i}=\sum _{i=1}^{M}\Delta _{\text{r}}G_{i}\,\mathrm {d} \xi _{i}}avec ΔrGi=∑j=1Nνi,jμj=(∂G∂ξi)P,T,ξk≠i{\displaystyle \Delta _{\text{r}}G_{i}=\sum _{j=1}^{N}\nu _{i,j}\mu _{j}=\left({\partial G \over \partial \xi _{i}}\right)_{P,T,\xi _{k\neq i}}} l'enthalpie libre de réaction de la réaction i{\displaystyle i}. On a par conséquent :
+
+Variation de l'enthalpie libre globale du système réactionnel à P{\displaystyle P} et T{\displaystyle T} constantes : dG=∑i=1MΔrGidξi{\displaystyle \mathrm {d} G=\sum _{i=1}^{M}\Delta _{\text{r}}G_{i}\,\mathrm {d} \xi _{i}}
+Les potentiels chimiques sont des fonctions de l'ensemble des quantités des N{\displaystyle N} constituants du mélange réactionnel : μj=μj(P,T,n1,⋯,nN){\displaystyle \mu _{j}=\mu _{j}\!\left(P,T,n_{1},\cdots ,n_{N}\right)}. Chacune des M{\displaystyle M} enthalpies libres de réaction est donc fonction de l'ensemble des M{\displaystyle M} avancements de réaction :
+
+ΔrGi=ΔrGi(P,T,ξ1,⋯,ξM){\displaystyle \Delta _{\text{r}}G_{i}=\Delta _{\text{r}}G_{i}\!\left(P,T,\xi _{1},\cdots ,\xi _{M}\right)}
+
+Constantes d'équilibre, quotients de réaction
+Pour chacun des N{\displaystyle N} constituants, on choisit un état standard unique, valable pour l'ensemble des M{\displaystyle M} réactions. Le potentiel chimique μj{\displaystyle \mu _{j}} du constituant j{\displaystyle j} dans le mélange réactionnel est lié au potentiel μj∘{\displaystyle \mu _{j}^{\circ }} du constituant dans son état standard par une activité chimique aj{\displaystyle a_{j}} telle que :
+
+μj=μj∘+RTln⁡aj{\displaystyle \mu _{j}=\mu _{j}^{\circ }+RT\,\ln a_{j}}L'activité du constituant j{\displaystyle j} est donc également unique et valable pour l'ensemble des M{\displaystyle M} réactions du mélange réactionnel. Pour chacune des M{\displaystyle M} réactions simultanées, on peut définir une constante d'équilibre Ki{\displaystyle K_{i}} et un quotient de réaction Qr,i{\displaystyle Q_{{\text{r}},i}} :
+
+ΔrGi=∑j=1Nνi,jμj=∑j=1Nνi,jμj∘+RTln(∏j=1Najνi,j){\displaystyle \Delta _{\text{r}}G_{i}=\sum _{j=1}^{N}\nu _{i,j}\mu _{j}=\sum _{j=1}^{N}\nu _{i,j}\mu _{j}^{\circ }+RT\,\ln \!\left(\prod _{j=1}^{N}{a_{j}}^{\nu _{i,j}}\right)}
+ΔrGi∘=∑j=1Nνi,jμj∘=−RTln⁡Ki{\displaystyle \Delta _{\text{r}}G_{i}^{\circ }=\sum _{j=1}^{N}\nu _{i,j}\mu _{j}^{\circ }=-RT\,\ln K_{i}}
+Qr,i=∏j=1Najνi,j{\displaystyle Q_{{\text{r}},i}=\prod _{j=1}^{N}{a_{j}}^{\nu _{i,j}}}Ainsi pour toute réaction peut-on écrire :
+
+ΔrGi=RTln(Qr,iKi){\displaystyle \Delta _{\text{r}}G_{i}=RT\,\ln \!\left({Q_{{\text{r}},i} \over K_{i}}\right)}
+
+Évolution du système
+Condition d'évolution spontanée, couplage chimique
+Le deuxième principe de la thermodynamique induit que, à pression et température constantes, l'enthalpie libre globale du système réactionnel ne peut que décroître, soit, :
+
+Ceci implique que, contrairement au cas d'une réaction seule, une réaction (ou plusieurs réactions) du système réactionnel peut évoluer selon ΔrGidξi>0{\displaystyle \Delta _{\text{r}}G_{i}\,\mathrm {d} \xi _{i}>0}, c'est-à-dire avec ΔrGi{\displaystyle \Delta _{\text{r}}G_{i}} et dξi{\displaystyle \mathrm {d} \xi _{i}} de même signe, du moment que les autres réactions compensent cette augmentation et que G{\displaystyle G} décroît. Autrement dit, cette réaction seule diminue l'entropie, mais les autres réactions l'augmentent suffisamment pour que le bilan entropique global du système réactionnel soit positif : le deuxième principe de la thermodynamique est donc respecté. Ainsi, une réaction qui, seule, ne pourrait être spontanée peut être provoquée dans un milieu réactionnel siège de plusieurs réactions dans les mêmes conditions, ce phénomène est appelé couplage chimique.
+Une réaction exergonique est une réaction qui dégage de l'énergie en progressant : à pression et température constantes la variation d'enthalpie libre engendrée est négative, soit dG=ΔrGdξ<0{\displaystyle \mathrm {d} G=\Delta _{\text{r}}G\,\mathrm {d} \xi <0} avec ΔrG<0{\displaystyle \Delta _{\text{r}}G<0} et dξ>0{\displaystyle \mathrm {d} \xi >0} ; elle est spontanée. Une réaction endergonique est une réaction qui a besoin d'un apport d'énergie pour progresser et ne peut donc être spontanée : à pression et température constantes la variation d'enthalpie libre engendrée est positive, soit dG=ΔrGdξ>0{\displaystyle \mathrm {d} G=\Delta _{\text{r}}G\,\mathrm {d} \xi >0} avec ΔrG>0{\displaystyle \Delta _{\text{r}}G>0} et dξ>0{\displaystyle \mathrm {d} \xi >0} ; c'est la réaction inverse (dξ<0{\displaystyle \mathrm {d} \xi <0}) qui est spontanée. Un couplage chimique nécessite deux conditions :
+
+1. deux réactions chimiques dans lesquelles un produit de l'une est un réactif de l'autre ; par exemple :
+réaction 1 : A+B⇄C+D{\displaystyle {\rm {A+B\rightleftarrows C+\color {Red}{D}}}} ;
+réaction 2 : D+E⇄F+G{\displaystyle {\rm {{\color {Red}{D}}+E\rightleftarrows F+G}}} ;
+2. que l'une des réactions soit fortement exergonique, soit ΔrG1≪0{\displaystyle \Delta _{\text{r}}G_{1}\ll 0}, et l'autre endergonique, soit ΔrG2>0{\displaystyle \Delta _{\text{r}}G_{2}>0}, la combinaison des deux réactions étant une réaction exergonique : ΔrG1+ΔrG2<0{\displaystyle \Delta _{\text{r}}G_{1}+\Delta _{\text{r}}G_{2}<0}.La progression de la réaction 1 est spontanée car dG1=ΔrG1dξ1<0{\displaystyle \mathrm {d} G_{1}=\Delta _{\text{r}}G_{1}\,\mathrm {d} \xi _{1}<0} avec dξ1>0{\displaystyle \mathrm {d} \xi _{1}>0} ; celle de la réaction 2 ne l'est pas car dG2=ΔrG2dξ2>0{\displaystyle \mathrm {d} G_{2}=\Delta _{\text{r}}G_{2}\,\mathrm {d} \xi _{2}>0} avec dξ2>0{\displaystyle \mathrm {d} \xi _{2}>0}. Le couplage chimique permet la progression de la réaction 2 : on peut obtenir dG=dG1+dG2<0{\displaystyle \mathrm {d} G=\mathrm {d} G_{1}+\mathrm {d} G_{2}<0} avec dξ2>0{\displaystyle \mathrm {d} \xi _{2}>0} si dG2<−dG1{\displaystyle \mathrm {d} G_{2}<-\mathrm {d} G_{1}}. La réaction 2 qui n'est pas spontanée peut ainsi être provoquée.
+
+Condition d'équilibre
+L'équilibre correspond au minimum de la fonction G{\displaystyle G}, soit :
+
+À l'équilibre : dG=∑i=1MΔrGidξi=0{\displaystyle \mathrm {d} G=\sum _{i=1}^{M}\Delta _{\text{r}}G_{i}\,\mathrm {d} \xi _{i}=0}
+Ceci implique que l'enthalpie libre de réaction de chacune des M{\displaystyle M} réactions est nulle. On obtient ainsi un ensemble de M{\displaystyle M} équations à M{\displaystyle M} inconnues (les avancements ξi{\displaystyle \xi _{i}}), :
+
+ΔrGi=RTln(Qr,iKi)=0{\displaystyle \Delta _{\text{r}}G_{i}=RT\,\ln \!\left({Q_{{\text{r}},i} \over K_{i}}\right)=0} pour tout i∈[1,⋯,M]{\displaystyle i\in \left[1,\cdots ,M\right]}À l'équilibre, on a donc pour chacune des M{\displaystyle M} réactions une loi d'action de masse :
+
+Lois d'action de masse : Qr,i=Ki{\displaystyle Q_{{\text{r}},i}=K_{i}} pour tout i∈[1,⋯,M]{\displaystyle i\in \left[1,\cdots ,M\right]}
+On note à l'aide de l'opérateur nabla le gradient de la fonction G{\displaystyle G} :
+
+∇G=(ΔrG1⋮ΔrGi⋮ΔrGM){\displaystyle \nabla G={\begin{pmatrix}\Delta _{\text{r}}G_{1}\\\vdots \\\Delta _{\text{r}}G_{i}\\\vdots \\\Delta _{\text{r}}G_{M}\end{pmatrix}}}Il s'agit d'un ensemble de M{\displaystyle M} fonctions des M{\displaystyle M} avancements de réaction ξi{\displaystyle \xi _{i}}. L'équilibre est donc atteint lorsque le gradient est nul :
+
+Condition de stabilité
+Comme pour une réaction seule, la solution mathématique de ∇G=0{\displaystyle \nabla G=0} pour un ensemble de réactions simultanées n'est pas nécessairement unique. Il convient donc également, lors d'une simulation numérique d'un système réactionnel à réactions simultanées, de vérifier qu'une solution obtenue en annulant les enthalpies libres de réaction est bien un minimum stable de la fonction G{\displaystyle G} globale du système réactionnel. Pour cela on définit la matrice hessienne ∇2G{\displaystyle \nabla ^{2}G} de la fonction G{\displaystyle G} à pression et température constantes :
+
+Matrice hessienne de G{\displaystyle G} : ∇2G=(∂2G∂ξ12∂2G∂ξ1∂ξ2⋯∂2G∂ξ1∂ξj⋯∂2G∂ξ1∂ξM∂2G∂ξ2∂ξ1∂2G∂ξ22⋯∂2G∂ξ2∂ξj⋯∂2G∂ξ2∂ξM⋮⋮⋱⋮⋱⋮∂2G∂ξi∂ξ1∂2G∂ξi∂ξ2⋯∂2G∂ξi∂ξj⋯∂2G∂ξi∂ξM⋮⋮⋱⋮⋱⋮∂2G∂ξM∂ξ1∂2G∂ξM∂ξ2⋯∂2G∂ξM∂ξj⋯∂2G∂ξM2){\displaystyle \nabla ^{2}G={\begin{pmatrix}{\partial ^{2}G \over {\partial \xi _{1}}^{2}}&{\partial ^{2}G \over \partial \xi _{1}\partial \xi _{2}}&\cdots &{\partial ^{2}G \over \partial \xi _{1}\partial \xi _{j}}&\cdots &{\partial ^{2}G \over \partial \xi _{1}\partial \xi _{M}}\\{\partial ^{2}G \over \partial \xi _{2}\partial \xi _{1}}&{\partial ^{2}G \over {\partial \xi _{2}}^{2}}&\cdots &{\partial ^{2}G \over \partial \xi _{2}\partial \xi _{j}}&\cdots &{\partial ^{2}G \over \partial \xi _{2}\partial \xi _{M}}\\\vdots &\vdots &\ddots &\vdots &\ddots &\vdots \\{\partial ^{2}G \over \partial \xi _{i}\partial \xi _{1}}&{\partial ^{2}G \over \partial \xi _{i}\partial \xi _{2}}&\cdots &{\partial ^{2}G \over \partial \xi _{i}\partial \xi _{j}}&\cdots &{\partial ^{2}G \over \partial \xi _{i}\partial \xi _{M}}\\\vdots &\vdots &\ddots &\vdots &\ddots &\vdots \\{\partial ^{2}G \over \partial \xi _{M}\partial \xi _{1}}&{\partial ^{2}G \over \partial \xi _{M}\partial \xi _{2}}&\cdots &{\partial ^{2}G \over \partial \xi _{M}\partial \xi _{j}}&\cdots &{\partial ^{2}G \over {\partial \xi _{M}}^{2}}\end{pmatrix}}}
+Cette matrice est carrée (de dimension M×M{\displaystyle M\times M}) et, en vertu du théorème de Schwarz, symétrique (pour deux réactions i{\displaystyle i} et j{\displaystyle j} quelconques : ∂2G∂ξi∂ξj=∂2G∂ξj∂ξi{\displaystyle {\partial ^{2}G \over \partial \xi _{i}\partial \xi _{j}}={\partial ^{2}G \over \partial \xi _{j}\partial \xi _{i}}}). D'autre part, pour tous i{\displaystyle i} et j{\displaystyle j} :
+
+∂2G∂ξi∂ξj=(∂∂ξi(∂G∂ξj)P,T,ξk≠j)P,T,ξk≠i=(∂∂ξiΔrGj)P,T,ξk≠i=(∂∂ξiRTln(Qr,jKj))P,T,ξk≠i{\displaystyle {\partial ^{2}G \over \partial \xi _{i}\partial \xi _{j}}=\left({\partial  \over \partial \xi _{i}}\left({\partial G \over \partial \xi _{j}}\right)_{P,T,\xi _{k\neq j}}\right)_{P,T,\xi _{k\neq i}}=\left({\partial  \over \partial \xi _{i}}\Delta _{\text{r}}G_{j}\right)_{P,T,\xi _{k\neq i}}=\left({\partial  \over \partial \xi _{i}}RT\,\ln \!\left({Q_{{\text{r}},j} \over K_{j}}\right)\right)_{P,T,\xi _{k\neq i}}}La dérivée se fait à température constante, et les constantes d'équilibre Kj{\displaystyle K_{j}} ne dépendent que de la température, d'où :
+
+∂2G∂ξi∂ξj=RT(∂ln⁡Qr,j∂ξi)P,T,ξk≠i=RTQr,j(∂Qr,j∂ξi)P,T,ξk≠i=RTQr,i(∂Qr,i∂ξj)P,T,ξk≠j{\displaystyle {\partial ^{2}G \over \partial \xi _{i}\partial \xi _{j}}=RT\,\left({\partial \ln Q_{{\text{r}},j} \over \partial \xi _{i}}\right)_{P,T,\xi _{k\neq i}}={RT \over Q_{{\text{r}},j}}\left({\partial Q_{{\text{r}},j} \over \partial \xi _{i}}\right)_{P,T,\xi _{k\neq i}}={RT \over Q_{{\text{r}},i}}\left({\partial Q_{{\text{r}},i} \over \partial \xi _{j}}\right)_{P,T,\xi _{k\neq j}}}Au point d'équilibre ξ{\displaystyle \xi } tel que ∇G=0{\displaystyle \nabla G=0}, pour tout vecteur de variations élémentaires :
+
+dξ=(dξ1⋮dξi⋮dξM){\displaystyle \mathrm {d} \xi ={\begin{pmatrix}\mathrm {d} \xi _{1}\\\vdots \\\mathrm {d} \xi _{i}\\\vdots \\\mathrm {d} \xi _{M}\end{pmatrix}}}avec dξT{\displaystyle \mathrm {d} \xi ^{\mathsf {T}}} son vecteur transposé, on pose d2G{\displaystyle \mathrm {d} ^{2}G} la différentielle d'ordre 2 de l'enthalpie libre à pression et température constantes :
+
+Différentielle d'ordre 2 de G{\displaystyle G}
+d2G=dξT×∇2G×dξ=∑i=1M∑j=1M∂2G∂ξi∂ξjdξidξj{\displaystyle \mathrm {d} ^{2}G=\mathrm {d} \xi ^{\mathsf {T}}\times \nabla ^{2}G\times \mathrm {d} \xi =\sum _{i=1}^{M}\sum _{j=1}^{M}{\partial ^{2}G \over \partial \xi _{i}\partial \xi _{j}}\,\mathrm {d} \xi _{i}\,\mathrm {d} \xi _{j}}
+L'équilibre est stable si et seulement si G{\displaystyle G} a atteint un minimum. À partir de cet équilibre G{\displaystyle G} ne peut qu'augmenter, l'enthalpie libre est donc convexe à pression et température constantes. La condition de stabilité des équilibres chimiques simultanés est en conséquence vérifiée si et seulement si la matrice hessienne de G{\displaystyle G} est définie positive pour la solution de ∇G=0{\displaystyle \nabla G=0}, ce qui se traduit par :
+
+Si la matrice est définie négative au point d'équilibre, soit d2G<0{\displaystyle \mathrm {d} ^{2}G<0}, alors G{\displaystyle G} est concave en ce point et a atteint un maximum : l'équilibre est instable. Si la matrice n'est pas définie, soit d2G=0{\displaystyle \mathrm {d} ^{2}G=0}, l'équilibre peut être métastable : il est nécessaire d'étudier les différentielles d'ordre supérieur. Comme pour la réaction seule, le système peut avoir atteint un minimum local, il est nécessaire de rechercher le minimum global de la fonction G{\displaystyle G}.
+Plutôt que de résoudre d'abord le système de M{\displaystyle M} équations à M{\displaystyle M} inconnues et de tester à postériori la stabilité des diverses solutions, il est préférable de rechercher la meilleure solution directement à l'aide d'un algorithme de minimisation sous contrainte (par exemple la méthode des multiplicateurs de Lagrange) appliqué à la fonction G{\displaystyle G} globale, les contraintes étant que la quantité de chacun des N{\displaystyle N} constituants doit rester positive et que la masse globale du système réactionnel est conservée.
+
+Notes et références
+Notes
+Références
+Bibliographie
+J. Willard Gibbs (trad. Henry Le Chatelier, accessible sur Gallica), Équilibre des systèmes chimiques, Paris, G. Carré et C. Naud, 1899 (lire en ligne).
+Jean-Pierre Corriou, Thermodynamique chimique : Équilibres thermodynamiques, vol. J 1028, Techniques de l'ingénieur, coll. « base documentaire Thermodynamique et cinétique chimique, pack Opérations unitaires. Génie de la réaction chimique, univers Procédés chimie - bio - agro », 1985 (lire en ligne), p. 1-31.
+P. Infelta et M. Graetzel, Thermodynamique : Principes et Applications, BrownWalker Press, 2006, 484 p. (ISBN 978-1-58112-995-3, lire en ligne), chapitres 9 et 10.
+J. Mesplède, Chimie PSI : Cours - Méthodes - Exercices résolus, Bréal, coll. « Les nouveaux précis Bréal », 2004, 350 p. (ISBN 978-2-7495-2063-6, lire en ligne), partie I - Thermodynamique ; Chapitre 2 - Équilibres chimiques pp. 37-80 ; Chapitre 3 - Déplacement des équilibres pp. 81-116.
+Michel Soustelle, Équilibres chimiques, vol. 4, Londres, ISTE Group, coll. « Génie des procédés / Thermodynamique chimique approfondie », 2015, 196 p. (ISBN 978-1-78405-103-7, lire en ligne).
+Pierre Trambouze et Jean-Paul Euzen, Les réacteurs chimiques : De la conception à la mise en œuvre, Éditions OPHRYS, coll. « Publications de l'Institut français du pétrole », 2002 (ISBN 2-7108-1121-9, lire en ligne).
+
+Liens externes
+« Les équilibres chimiques », sur sciences-en-ligne.com (consulté le 9 mai 2020).
+Jacques Schwartzentruber, École nationale supérieure des mines d'Albi-Carmaux, « Les équilibres chimiques », sur nte.mines-albi.fr, 11 mars 2021 (consulté le 26 novembre 2021).
+
+Voir aussi
+Exemples d'équilibres
+Aldolisation
+Autoprotolyse
+Estérification / Hydrolyse
+Équilibre calco-carbonique
+Équilibre de Boudouard
+Équilibre de Schlenk
+Précipitation chimique / Solubilité
+Réaction acido-basique
+Réaction d'hydratation / Réaction de déshydratation
+Réaction d'oxydoréduction
+Réaction du gaz à l'eau
+Sulfonation
+
+Articles connexes
+Activité chimique
+Affinité chimique
+Constante d'équilibre
+Détermination des constantes d'équilibre
+Deuxième principe de la thermodynamique
+Enthalpie libre
+Équilibre thermodynamique
+Fugacité
+Grandeur de réaction
+Loi d'action de masse
+Potentiel chimique
+Relations de Kirchhoff
+ Portail de la physique   Portail de la chimie

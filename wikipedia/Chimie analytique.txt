@@ -1,0 +1,52 @@
+La chimie analytique est la partie de la chimie qui concerne l'analyse des produits, c'est-à-dire l'identification et la caractérisation de substances chimiques connues ou non. La substance chimique dont on cherche à déterminer les propriétés est appelée « analyte ».
+Ses applications vont du suivi de production (vérifier qu'une chaîne fabrique un produit conforme aux spécifications) à l'enquête policière (déterminer la nature d'une trace, la provenance d'une terre, d'une peinture, etc.).
+
+Description
+Le mot « analyse » comporte le suffixe « lyse » qui signifie « décomposer » (cf. pyrolyse, hydrolyse, électrolyse). En effet, une des premières préoccupations de la chimie depuis Antoine Lavoisier a été de déterminer les éléments, c'est-à-dire les produits dont sont composés tous les corps. Il a donc fallu trouver des méthodes pour diviser les corps complexes, puis caractériser les corps élémentaires issus de cette décomposition.
+Jusqu'au début du XXe siècle, la chimie analytique consistait à faire réagir le produit inconnu avec des produits connus pour déterminer sa nature (à l'instar de Martin Heinrich Klaproth considéré comme le « père de la chimie analytique »). L'introduction de méthodes quantitatives, en utilisant les concepts de la chimie physique, a marqué un renouvellement de la chimie analytique (par exemple, en 1943, Gaston Charlot mit au point la méthode qui porte son nom pour remplacer les tests classiques au sulfure d'hydrogène).
+De nos jours, on utilise volontiers des méthodes faisant appel à la physique, qui permettent de déterminer et de quantifier toute une gamme d'éléments en une seule opération.
+
+Séparation, purification : analyse immédiate
+Avant d'analyser un composé, on en prélève un échantillon, puis on sépare les différents constituants du mélange. Si le mélange est constitué de plusieurs phases, on commence par séparer ces phases. Par exemple, on peut séparer la phase solide de la phase liquide par filtration ou tamisage. La séparation d'un mélange homogène utilise les différences de propriétés physiques entre les constituants. Par exemple, on extrait facilement le sel d'un mélange sel-sable au moyen de l'eau, car le sel est soluble dans l'eau et le sable ne l'est pas. Par contre, la limaille de fer et le sable sont tous deux insolubles dans l'eau : on ne pourra donc pas les séparer par différence de solubilité dans ce liquide. Cependant, seule la limaille de fer est magnétique, on pourra donc la récupérer par triage magnétique. On peut séparer des constituants liquides par distillations successives ou fractionnées. Dans certains cas, des cristallisations successives permettent de séparer les constituants solides.
+La chromatographie est la méthode de séparation la plus souvent applicable. Elle a un grand nombre de variantes selon la nature du revêtement de la colonne utilisée pour les analyses et de l'interaction composant-échantillon. Les deux principaux types de chromatographie sont la chromatographie par perméation de gel et la chromatographie par échanges d'ions. La première méthode consiste à séparer les molécules selon leur taille ; dans la seconde méthode, les particules sont séparées selon leur charge. La chromatographie en phase gazeuse sépare les composants volatils d'un échantillon et la chromatographie liquide/liquide sépare les molécules neutres de petite taille en solution.
+La chromatographie permet de purifier un corps ou un constituant avant son dosage ou d'éliminer les composés qui gêneraient son dosage. Il est inutile de purifier un composé avant son analyse dans le cas où la méthode d'analyse n'agit que sur le composé étudié. Par exemple, déterminer le pH (concentration en ions oxonium) du sang avec une électrode de verre ne nécessite pas d'étape de séparation préalable.
+L'étalonnage constitue une autre étape préparatoire pour les analyses qualitative et quantitative. La réponse et la sensibilité de l'appareillage mécanique ou électronique au composant recherché doivent être étalonnées en utilisant un composant pur ou un échantillon contenant une quantité connue du composant.
+
+Classement des analyses chimiques
+La chimie analytique peut être classée de diverses manières.
+Avant d'aborder les différentes méthodes de l'analyse chimique conventionnelle, on doit en général procéder à un certain nombre d'opérations généralement connues sous le nom d'« analyse immédiate ». Il s'agit pour l'essentiel de méthodes physiques (surtout) voire chimiques (quand elles sont suffisamment spécifiques) dont le but est de séparer les différentes espèces chimiques présentes dans un échantillon. Le broyage, le tamisage, l'élutriation, la distillation, la cristallisation, la filtration, la centrifugation, etc., sont parmi beaucoup d'autres des opérations de l'analyse immédiate. Les méthodes chromatographiques et les méthodes analogues (telles les électrophorèses) sont des techniques de séparation extrêmement puissantes et font partie de l'ensemble des techniques propres à l'analyse immédiate. L'approche moderne des méthodes dites « non destructives » où l'échantillon est traité comme un tout dont la consommation reste négligeable vis-à-vis de la masse totale de celui-ci, offre évidemment l'économie de l'analyse immédiate, conserve cet échantillon aux fins de contre-analyse si nécessaire, mais se heurte à des difficultés redoutables telles les effets de matrice et les problèmes de l'étalonnage. Il est commode de distinguer dans tout échantillon quel qu'il soit les deux termes suivants : 
+
+ce que l'on cherche à déterminer : l'analyte ;
+tout le reste : la matrice.Par essence, tout échantillon est donc unique, car il suffit que l'un varie vis-à-vis de l'autre pour que le problème analytique hier connu se transforme en un « nouveau a priori inconnu ».
+Les analyses peuvent donc être classées :
+
+selon le type : analyse qualitative ou quantitative. L'analyse qualitative peut être par méthodes classiques ou instrumentales. L’échantillon est soumis à l’analyse soit pour connaître l’identité de ses constituants soit pour déterminer les teneurs de ses constituants. Si l'on ne sait pas à quel type de matériau on a affaire, il peut être nécessaire de faire une analyse qualitative avant de faire une analyse quantitative ;
+selon la manière de l’exécuter : analyse classique, ou titrage, ou analyse instrumentale. Les techniques d’analyse classiques (ou non instrumentales) utilisent, en général, des réactions quantitatives en phase aqueuse ou des mesures de volume en phase gazeuse. Les instruments utilisés sont simples comme la verrerie graduée (éprouvettes graduées, pipettes graduées, etc.), balances analytiques, pH-mètres. Les analyses sont, en général destructives. Lorsqu'elles font appel à des solutions aqueuses, on parle de « voie humide ». Les techniques d’analyse instrumentale, dont les différentes spectrométries, utilisent un appareillage qui permet les déterminations se basant sur des propriétés physiques des analytes. Ces analyses sont exécutées soit sur l’échantillon tel quel (elle est alors non destructive), soit sur des solides préparés, soit sur des solutions des échantillons ;
+selon le produit cible : analyse organique ou analyse minérale. L'analyse organique regroupe des méthodes chimiques propres à l’analyse qualitative et quantitative et qui visent à identifier les composés organiques et à élucider leur composition ainsi que leur structure (« élucidation structurale »). L’analyse minérale s’applique au produit non organique mais aussi aux minéraux contenus dans des produits organiques comme le plomb dans l’essence ;
+selon la quantité d’échantillons utilisée : macro- ou microanalyse. Selon la technique utilisée, cette quantité peut être de l’ordre de quelques grammes ou des fractions de milligramme. Des techniques de microanalyse ont surtout été développées en analyse qualitative (réactions sur des gouttes de solution) ;
+selon la conservation postérieure de l’échantillon : analyse destructive ou non destructive. En général, l’analyse classique est destructive, et l’analyse instrumentale ne l’est pas toujours ;
+selon l’automaticité : analyse manuelle ou automatique. L’analyse automatique est beaucoup utilisée dans l’industrie pour suivre et orienter les paramètres d’un procédé, par exemple la teneur en monoxyde de carbone d’un gaz de combustion, la qualité du produit ou la qualité des rejets environnementaux. Elle est aussi appliquée dans les laboratoires qui reçoivent de nombreux échantillons de même type : suivi des paramètres de la qualité des eaux par exemple.
+
+Prospective
+Les progrès matériels et informatiques ont permis de produire des analyseurs de plus en plus performants en termes de vitesse d'analyse, de nombre de molécules analysées et de précision. On cherche aussi à développer des matériels d'analyse en flux continu, automatiques, autonettoyants et inencrassables, et/ou mobiles et plus légers (matériel X ray-fluorescence par exemple, analyseurs dotés de puces ou de nanosenseurs, par exemple pour la détection de molécules d'explosifs ou des substances à risque NRBC (nucléaire, radiologique, biologique et chimique).
+À la suite de travaux de recherche néerlandais, un analyseur en forme de stylo, doté d'une plume microscopique pourrait être bientôt disponible. Il s'agit en fait d'une forme de microscope à force atomique utilisant une sonde à pointe fine pour balayer les surfaces à l'échelle atomique. Des gouttelettes de mercure produites à son extrémité agiraient comme un capteur chimique.
+
+Exemples de techniques d'analyse
+Les techniques les plus connues en chimie analytique sont la spectroscopie, l'analyse élémentaire, la chromatographie, l'électroanalyse, le titrage, l'analyse gravimétrique, l'analyse radiochimique, etc.
+
+Notes et références
+Voir aussi
+Articles connexes
+Activation neutronique
+Analyse chimique environnementale
+Analytical Abstracts
+Chimiométrie
+Interaction rayonnement-matière
+Résonance magnétique nucléaire (RMN)
+Liste des revues scientifiques de chimie analytique
+
+Liens externes
+
+Ressources relatives à la santé : Medical Subject Headings WikiSkripta 
+
+ Portail de la chimie
