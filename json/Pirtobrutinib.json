@@ -1,0 +1,890 @@
+[
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pirtobrutinib",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "médicament",
+            "id": "NULL"
+        },
+        {
+            "mot": "anticancéreux",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "vendu",
+            "id": "2967541"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "marque",
+            "id": "413401"
+        },
+        {
+            "mot": "Jaypirca",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Usage",
+            "id": "415670"
+        },
+        {
+            "mot": "médical",
+            "id": "NULL"
+        },
+        {
+            "mot": "Est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "médicament",
+            "id": "NULL"
+        },
+        {
+            "mot": "anticancéreux",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "traiter",
+            "id": "99270"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "lymphome",
+            "id": "17051945"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "cellules",
+            "id": "1858797"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "manteau",
+            "id": "139550"
+        },
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "inhibe",
+            "id": "2057162"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prolifération",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "survie",
+            "id": "2456151"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "lymphocytes",
+            "id": "17051869"
+        },
+        {
+            "mot": "B",
+            "id": "143220"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "liant",
+            "id": "119991147"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "inhibant",
+            "id": "103033"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "tyrosine",
+            "id": "16981175"
+        },
+        {
+            "mot": "kinase",
+            "id": "1857374"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Bruton",
+            "id": "35939"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "pris",
+            "id": "3174760"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "voie",
+            "id": "397744"
+        },
+        {
+            "mot": "orale",
+            "id": "250011031"
+        }
+    ],
+    [
+        {
+            "mot": "Effets",
+            "id": "425012"
+        },
+        {
+            "mot": "secondaires",
+            "id": "14486756"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "secondaires",
+            "id": "14486756"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "médicament",
+            "id": "NULL"
+        },
+        {
+            "mot": "comprennent",
+            "id": "2153156"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fatigue",
+            "id": "10179020"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "musculo",
+            "id": "17346288"
+        },
+        {
+            "mot": "squelettiques",
+            "id": "409752"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "diarrhée",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "enflure",
+            "id": "253222185"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "essoufflement",
+            "id": "156424904"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pneumonie",
+            "id": "99882428"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "ecchymoses",
+            "id": "106819"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "indésirables",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "courants",
+            "id": "430134"
+        },
+        {
+            "mot": "lorsqu'",
+            "id": "2218988"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "utilisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "traiter",
+            "id": "99270"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "leucémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "lymphoïde",
+            "id": "NULL"
+        },
+        {
+            "mot": "chronique",
+            "id": "402275"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "petite",
+            "id": "141683"
+        },
+        {
+            "mot": "leucémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "lymphoïde",
+            "id": "NULL"
+        },
+        {
+            "mot": "comprennent",
+            "id": "2153156"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fatigue",
+            "id": "10179020"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "ecchymoses",
+            "id": "106819"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "toux",
+            "id": "17051775"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "musculo",
+            "id": "17346288"
+        },
+        {
+            "mot": "squelettiques",
+            "id": "409752"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "COVID",
+            "id": "15190401"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "diarrhée",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pneumonie",
+            "id": "99882428"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "abdominales",
+            "id": "396944"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dyspnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hémorragie",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "œdème",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "nausées",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pyrexie",
+            "id": "39327"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "maux",
+            "id": "2530847"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "tête",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Histoire",
+            "id": "5814360"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "utilisation",
+            "id": "5998994"
+        },
+        {
+            "mot": "médicale",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "pirtobrutinib",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "approuvée",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "États",
+            "id": "NULL"
+        },
+        {
+            "mot": "Unis",
+            "id": "11442574"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "Europe",
+            "id": "102820584"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "approbation",
+            "id": "15958020"
+        },
+        {
+            "mot": "conditionnelle",
+            "id": "153988"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "recommandée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "États",
+            "id": "NULL"
+        },
+        {
+            "mot": "Unis",
+            "id": "11442574"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "coûte",
+            "id": "NULL"
+        },
+        {
+            "mot": "environ",
+            "id": "6014146"
+        },
+        {
+            "mot": "USD",
+            "id": "286436"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "mois",
+            "id": "416784"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "partir",
+            "id": "15765426"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Lectures",
+            "id": "157596"
+        },
+        {
+            "mot": "complémentaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "Pirtobrutinib",
+            "id": "NULL"
+        },
+        {
+            "mot": "after",
+            "id": "412725"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "Covalent",
+            "id": "17206812"
+        },
+        {
+            "mot": "BTK",
+            "id": "12091368"
+        },
+        {
+            "mot": "Inhibitor",
+            "id": "16936389"
+        },
+        {
+            "mot": "in",
+            "id": "14424506"
+        },
+        {
+            "mot": "Chronic",
+            "id": "16950900"
+        },
+        {
+            "mot": "Lymphocytic",
+            "id": "16952879"
+        },
+        {
+            "mot": "Leukemia",
+            "id": "16892046"
+        },
+        {
+            "mot": "The",
+            "id": "171040515"
+        },
+        {
+            "mot": "New",
+            "id": "102827757"
+        },
+        {
+            "mot": "England",
+            "id": "37133"
+        },
+        {
+            "mot": "Journal",
+            "id": "137258"
+        },
+        {
+            "mot": "of",
+            "id": "12862803"
+        },
+        {
+            "mot": "Medicine",
+            "id": "1268954"
+        },
+        {
+            "mot": "vol",
+            "id": "393128"
+        }
+    ],
+    [
+        {
+            "mot": "no",
+            "id": "1839814"
+        },
+        {
+            "mot": "juillet",
+            "id": "141954"
+        },
+        {
+            "mot": "p",
+            "id": "137760"
+        }
+    ],
+    [
+        {
+            "mot": "PMID",
+            "id": "391759"
+        },
+        {
+            "mot": "DOI",
+            "id": "6015626"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "NEJMoa",
+            "id": "NULL"
+        },
+        {
+            "mot": "S2CID",
+            "id": "NULL"
+        },
+        {
+            "mot": "Liens",
+            "id": "409339"
+        },
+        {
+            "mot": "externes",
+            "id": "16087769"
+        },
+        {
+            "mot": "Pirtobrutinib",
+            "id": "NULL"
+        },
+        {
+            "mot": "National",
+            "id": "1645204"
+        },
+        {
+            "mot": "Cancer",
+            "id": "140121"
+        },
+        {
+            "mot": "Institute",
+            "id": "2213013"
+        },
+        {
+            "mot": "février",
+            "id": "NULL"
+        },
+        {
+            "mot": "Pirtobrutinib",
+            "id": "NULL"
+        },
+        {
+            "mot": "NCI",
+            "id": "16871633"
+        },
+        {
+            "mot": "Drug",
+            "id": "434520"
+        },
+        {
+            "mot": "Dictionary",
+            "id": "249972817"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        }
+    ]
+]

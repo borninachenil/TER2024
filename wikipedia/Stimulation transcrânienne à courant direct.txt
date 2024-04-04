@@ -1,0 +1,60 @@
+La stimulation transcrânienne à courant direct ou stimulation transcrânienne à courant continu (tDCS) est une technique d’électrostimulation du cerveau, ou stimulation électrique transcrânienne (tES). Elle permet de moduler l'excitabilité corticospinale : deux électrodes, une anode (excitatrice) et une cathode (inhibitrice), sont positionnées sur le crâne en fonction des régions dont on souhaite influencer le fonctionnement. La tDCS fonctionne par l'induction d'un courant électrique de un à deux milliampères d’amplitude pendant dix à trente minutes, passant de l'anode vers la cathode à travers les tissus. Les effets observés sont la conséquence de l’hyperexcitabilité des neurones causée par l’anode ou l’hypoexcitabilité par la cathode.
+La tDCS peut être utilisée avec des sujets sains comme méthode d'investigation du fonctionnement normal, ou avec différentes populations cliniques à fins thérapeutiques. Des sujets atteints de la maladie d'Alzheimer, de Parkinson, de Huntington, d’une parésie d’un membre, d'aphasie, de dépression, de fibromyalgie, d'autisme, de schizophrénie ou d’un TDA/H par exemple ont fait l'objet d'études de traitement.
+
+Fonctionnement
+Installation et configuration
+Afin de procéder à la stimulation, les zones qui recevront les électrodes doivent être préalablement préparées. Elles sont désinfectées et exfoliées afin d'éliminer le plus d'obstacles entre le scalp et l'électrode. Les sites de stimulation sont habituellement déterminés selon le système 10-20 de positionnement des électrodes. Elles peuvent aussi être placées de manière plus précise en utilisant des techniques d'imagerie cérébrales anatomiques telles l'IRM et un système de guidage par triangulation. Les électrodes sont recouvertes d'un manchon en tissus spongieux qui est trempé dans une solution saline afin de permettre la conduction sécuritaire et de diminuer les effets relatifs au passage du courant à travers le scalp. Les électrodes sont habituellement maintenues en place à l'aide d'une bande de caoutchouc. La majorité des systèmes permettent une augmentation et une diminution graduelle de l'intensité du courant au début et à la fin de la stimulation. Ceci permet de minimiser l'inconfort pouvant être relié à la stimulation. La majorité des appareils permettent de déterminer une durée de stimulation et l'appareil s'arrête automatiquement.
+
+Types de stimulation
+Bilatérale
+Les électrodes sont positionnées sur les deux parties homologues de l'hémisphère droit et de l'hémisphère gauche. Suivant le principe d'inhibition interhémisphérique, l'effet excitateur de l'anode et inhibiteur de la cathode est amplifié.
+
+Unilatérale
+Une des deux électrodes est positionnée sur la région d'intérêt et l'autre est positionnée sur une zone neutre du côté controlatéral (habituellement le cou ou l'épaule), afin d'éviter d'influencer d'autres structures cérébrales.
+
+Placebo
+L'appareil est mis en marche pendant une durée de quelques secondes à une minute afin de générer la sensation de picotement retrouvée au début de la stimulation. Le courant est par la suite interrompu pour le reste de la longueur du protocole et aucune altération significative de l'excitabilité corticale n'est retrouvée. La présence de stimulation placebo est importante afin de déterminer ce qui est exclusivement attribuable à la tDCS et ce qui est attribuable aux attentes de l'individu.
+
+Potentiel et limites
+Avantages
+La tDCS est simple, fiable, non invasive et peu coûteuse ; elle ne produit aucun effet d’utilisation indésirable (par exemple du bruit) et son imprécision dans la diffusion du courant électrique dans le cortex permet de stimuler une plus grande surface.
+La tDCS pourrait être utilisée en centre de réadaptation, en combinaison avec la thérapie ou de la médication et pourrait même remplacer certains médicaments.
+
+Inconvénients
+Les sujets ayant un pacemaker ou un objet métallique implanté dans le cerveau sont exclus, les effets durent au maximum une heure, il y a  de 40 à 60 % de perte de l’influx au niveau du scalp et son imprécision (voir avantages) amène une difficulté à attribuer les résultats aux régions stimulées, car il est possible que des régions environnantes aient été touchées. 
+Il faut préciser la durée de stimulation optimale, ainsi que la force et le nombre de répétitions de la stimulation apportant les meilleurs résultats et qui pourraient mener à des bénéfices qui dureraient plus longtemps. Les effets à moyen et long terme restent à préciser. Finalement, certains expérimentateurs n’ont pas considéré le type de lésion impliqué lors de la stimulation, une précision importante pour assurer la validité des résultats.
+
+Sécurité
+Des normes de sécurité strictes ont été développées afin de réguler l'utilisation de la tDCS. Les machines vendues et approuvées respectent ces normes et il est impossible de régler la machine afin qu'elle sorte de ces balises prédéfinies. Étant donné la simplicité de cet appareil, il est possible d'en construire un facilement à des coûts très minimes. Ces appareils faits maison peuvent être potentiellement dangereux et ne respectent pas les critères de sécurité en vigueur, la communauté scientifique déconseille vivement l'utilisation de tels appareils.
+
+La tDCS à but thérapeutique
+Dans la maladie de la sclérose en plaques
+La stimulation transcrânienne à courant direct pourrait avoir un rôle dans l'amélioration des douleurs et semble diminuer la fatigue.
+
+Dans les troubles moteurs
+Les troubles moteurs associés à une atteinte du cervelet peuvent répondre à la tDCS en particulier en raison de l'action du courant sur le cortex cérébelleux.
+
+Dans les troubles psychiatriques
+Un nombre croissant de données cliniques et précliniques indiquent que la tDCS aurait des effets bénéfiques sur les symptômes associés aux troubles de l'humeur, psychotiques, ou liés aux addiction.
+
+Dans les troubles du langage
+L’étude des sujets sains permet principalement d’identifier les fonctions reliées aux régions cérébrales en analysant le comportement résultant de l’excitation ou de l’inhibition. Il est possible d’améliorer leur performance dans certaines tâches langagières,. L’étude des sujets lésés (naturellement ou artificiellement) permet d’explorer de nouvelles thérapies et d’analyser le fonctionnement cérébral des patients lésés. 
+La stimulation excitatrice améliore la performance pour les fonctions d’une région donnée chez les sujets sains (si appliquée directement sur la région) et chez les sujets lésés (si appliquée sur la région péri-lésionnelle); la stimulation inhibitrice la diminue chez les sujets sains (si appliquée sur la région), mais l’augmente chez les sujets lésés (si appliquée sur la région lésée ou sur la région controlatérale à la lésion). Cet effet s’explique par la hausse anormale de l’inhibition de l’hémisphère affecté et de l’inhibition interhémisphérique après une lésion; la récupération est en partie liée à la diminution de cette inhibition. En diminuant l’excitabilité des neurones de ces circuits inhibiteurs, la stimulation inhibitrice permet une plus grande activation des neurones de la région lésée, effet ayant un potentiel bénéfique dans la récupération post-lésionnelle. 
+Aire de Broca (cortex frontal, aires 44 et 45). Chez les sujets sains, la stimulation excitatrice de cette région augmente la fluidité sémantique et phonémique et la précision dans les jugements de grammaticalité. Chez les sujets lésés, sa stimulation excitatrice et inhibitrice et celle de la région homologue augmente la capacité de dénomination. La tDCS pourrait donc être utilisée dans le traitement de l’aphasie avec difficulté d’accès phonémique et/ou lexical et d’utilisation des règles et des troubles articulatoires. Deux pistes de traitement complémentaires (sur la lésion ou sur la région homologue) sont possibles.
+Aire de Wernicke (cortex temporal, aire 22). Sa stimulation excitatrice chez les sujets sains accroît la capacité et la précision dans l’apprentissage d’un nouveau lexique. Elle pourrait donc être utilisée dans les thérapies de réacquisition du vocabulaire et dans l’acquisition des langues. Elle augmente également la capacité de dénomination chez les sujets sains et les sujets lésés, ce qui amène l’hypothèse que l’aire de Wernicke serait elle aussi impliquée dans les processus d’accès lexical et qu’elle pourrait être utilisée dans les traitements pour les troubles associés à ces derniers. Sa stimulation inhibitrice et celle de la région homologue chez les sujets lésés augmente la compréhension verbale orale. Cette double amélioration souligne l’importance de l’aire de Wernicke dans la compréhension verbale orale.
+Cortex moteur gauche. La stimulation inhibitrice chez les sujets sains diminue la capacité d’apprendre des verbes d’action, mais pas d’autres catégories sémantiques. Cela nous informe sur la distribution neuronale dans l’acquisition de la sémantique en apportant des preuves soutenant que le cortex moteur serait impliqué dans l’apprentissage des verbes d’action motrice. Sa stimulation excitatrice chez des sujets lésés avec parésie des membres supérieurs améliore les fonctions langagières globales, probablement en raison de la proximité de l’aire motrice de la main et de l’aire du langage.
+
+Dans les douleurs cancéreuses réfractaires
+La thérapie tDCS pour traiter la douleur cancéreuse résistante chez les patients en soins palliatifs est une méthode de traitement testée en 2023 : elle s'adresse particulièrement aux patients hospitalisés et les résultats des premiers essais semblent très encourageants.
+
+Comparaison avec d'autres techniques de tES
+La stimulation électrique transcrânienne (tES) comprend généralement les techniques suivantes :
+
+La stimulation transcrânienne à courant alternatif (tACS)
+La stimulation transcrânienne à courant direct (tDCS)
+La stimulation transcrânienne par bruit aléatoire (tRNS)
+La stimulation transcrânienne à courant pulsé (tPCS)
+
+Notes et références
+
+ Portail de la médecine   Portail des neurosciences

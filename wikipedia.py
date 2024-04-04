@@ -2,9 +2,7 @@ import wikipediaapi
 import json
 import sys
 import re
-import nltk
 import os
-import string
 
 def wikipedia(page_title):
     chemin_fichier_texte = f"wikipedia/{page_title}.txt"
@@ -35,18 +33,13 @@ def clean(mot):
     return mot if mot else None
 
 def toMots(texte):
-    # Utiliser une expression régulière pour trouver tous les mots, y compris ceux avec apostrophe et points
     pattern = re.compile(r"\b\w+'?\w*\b\.?")
     mots_trouves = pattern.findall(texte)
-    
     mots_nettoyes = []
     for mot in mots_trouves:
-        # Nettoyer chaque mot
         mot_nettoye = clean(mot)
         if mot_nettoye:
-            # Gérer spécifiquement les mots avec apostrophes
             if "'" in mot_nettoye:
-                # Séparer à l'apostrophe et ajouter les deux parties comme mots distincts
                 partie1, partie2 = mot_nettoye.split("'", 1)
                 mots_nettoyes.append(partie1 + "'")
                 mots_nettoyes.append(partie2)

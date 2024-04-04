@@ -1,0 +1,44 @@
+Un agent de messages (parfois appelé courtier de messages, message broker en anglais) est un module logiciel qui convertit le protocole d’un message.
+
+Utilisation
+Un agent de messages peut valider, transformer et rediriger les messages. Il agit comme médiateur entre les émetteurs et les récepteurs en leur permettant de communiquer efficacement avec un couplage minimum entre eux.
+La communication asynchrone ne peut se faire sans la présence d’un MOM (Message Oriented Middleware) entre le client et le serveur.  Ce middleware va permettre de mettre en attente les messages envoyés par le client en direction du serveur, et inversement. Le stockage et le routage des messages sont les principales fonctionnalités d’un MOM. C’est ce rôle de MOM que vont remplir les brokers de messages. Il en existe deux grands types. Certains brokers utilisent une implémentation à base de queues, quand d’autres privilégient le système de Publish/Subscribe.
+
+Exemples d’utilisation d’un agent de messages
+Routage des messages vers une ou plusieurs destinations.
+Transformation des messages en une représentation alternative.
+Agrégation des messages par décomposition préalable en plusieurs messages, envoi à destination, puis recomposition des réponses en un seul message.
+Interaction avec un dépôt externe pour augmenter un message ou l’enregistrer.
+Récupération de données sur des services web.
+Permet le routage de messages en utilisant le patron de publication-souscription.
+
+Liste d’agents de messages
+Apache ActiveMQ (en)
+Apache Kafka
+Apache Qpid (en)
+Celery (software) (en)
+Comverse Message Broker (Comverse Technology)
+Financial Fusion Message Broker (Sybase)
+Fuse Message Broker (en) (enterprise ActiveMQ)
+Gearman (en)
+HornetQ (en) (Red Hat)
+IBM Integration Bus (en)
+JBoss Messaging (en) (JBoss)
+JORAM
+Microsoft BizTalk Server (Microsoft)
+Microsoft Azure Service Bus (Microsoft)
+NATS Messaging (MIT Open Source License, programmé en Go)
+Open Message Queue (en)
+Oracle Message Broker (Oracle Corporation)
+RabbitMQ (Mozilla Public License, programmé en Erlang)
+Redis (licence BSD)
+SAP NetWeaver Process Integration (en) (SAP AG)
+Spread Toolkit (en)
+Tarantool (en), base NoSQL avec des procédures stockées pour les queues de message
+WSO2 (en)
+Enduro/X (en) Transactional Message Queue (TMQ)
+
+Notes et références
+Voir aussi
+Patron de publication-souscription
+Message-oriented middleware Portail de l’informatique

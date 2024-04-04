@@ -1,0 +1,1892 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "française",
+            "id": "15517133"
+        },
+        {
+            "mot": "NF",
+            "id": "14424572"
+        },
+        {
+            "mot": "X",
+            "id": "144726"
+        },
+        {
+            "mot": "énonce",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "spécifications",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "AFNOR",
+            "id": "1826904"
+        },
+        {
+            "mot": "concernant",
+            "id": "428757"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "enceintes",
+            "id": "159912"
+        },
+        {
+            "mot": "climatiques",
+            "id": "286083"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "thermostatiques",
+            "id": "286082"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "caractérisations",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "vérifications",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "validée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "octobre",
+            "id": "164656"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "annulée",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "remplacée",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "FD",
+            "id": "16785377"
+        },
+        {
+            "mot": "X",
+            "id": "144726"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "mai",
+            "id": "457810"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Présentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "définit",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "précise",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "critères",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "enceinte",
+            "id": "5558675"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "circulation",
+            "id": "5710204"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "air",
+            "id": "11010982"
+        },
+        {
+            "mot": "forcée",
+            "id": "NULL"
+        },
+        {
+            "mot": "climatique",
+            "id": "252790172"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "régulation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "humidité",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "thermostatique",
+            "id": "86734"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "régulation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "moyens",
+            "id": "425889"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "mettre",
+            "id": "3341424"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "œuvre",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "caractérisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "cartographie",
+            "id": "408792"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "connaître",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "assurer",
+            "id": "16387720"
+        },
+        {
+            "mot": "périodiquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "performances",
+            "id": "17638176"
+        },
+        {
+            "mot": "réelles",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "enceinte",
+            "id": "5558675"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "air",
+            "id": "11010982"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "volume",
+            "id": "16090378"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "travail",
+            "id": "17638133"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "partir",
+            "id": "15765426"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "neuf",
+            "id": "165039"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "quinze",
+            "id": "429695"
+        },
+        {
+            "mot": "points",
+            "id": "262263"
+        },
+        {
+            "mot": "suivant",
+            "id": "171040074"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "volume",
+            "id": "16090378"
+        },
+        {
+            "mot": "utile",
+            "id": "404925"
+        },
+        {
+            "mot": "précisément",
+            "id": "NULL"
+        },
+        {
+            "mot": "situés",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "humidité",
+            "id": "NULL"
+        },
+        {
+            "mot": "relative",
+            "id": "3308697"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "air",
+            "id": "11010982"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "enceinte",
+            "id": "5558675"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "mesurée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "moyens",
+            "id": "425889"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "font",
+            "id": "2606175"
+        },
+        {
+            "mot": "appel",
+            "id": "16819062"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "hygromètre",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "condensation",
+            "id": "93585718"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "centrale",
+            "id": "231312"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "reliée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuf",
+            "id": "165039"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "quinze",
+            "id": "429695"
+        },
+        {
+            "mot": "capteurs",
+            "id": "250805400"
+        },
+        {
+            "mot": "thermométriques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "homogénéité",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "régime",
+            "id": "NULL"
+        },
+        {
+            "mot": "établi",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "fixe",
+            "id": "420916"
+        },
+        {
+            "mot": "font",
+            "id": "2606175"
+        },
+        {
+            "mot": "partie",
+            "id": "15691780"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "paramètres",
+            "id": "NULL"
+        },
+        {
+            "mot": "caractérisés",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "enceinte",
+            "id": "5558675"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "déclarée",
+            "id": "NULL"
+        },
+        {
+            "mot": "conforme",
+            "id": "44143"
+        },
+        {
+            "mot": "lorsque",
+            "id": "10052624"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "chaque",
+            "id": "431220"
+        },
+        {
+            "mot": "capteur",
+            "id": "16322287"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "moyenne",
+            "id": "79320188"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mesures",
+            "id": "5619572"
+        },
+        {
+            "mot": "associées",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "incertitude",
+            "id": "5842143"
+        },
+        {
+            "mot": "appartient",
+            "id": "421000"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "étendue",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "erreurs",
+            "id": "249988256"
+        },
+        {
+            "mot": "maximales",
+            "id": "2224051"
+        },
+        {
+            "mot": "tolérées",
+            "id": "NULL"
+        },
+        {
+            "mot": "EMT",
+            "id": "2475341"
+        },
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "principe",
+            "id": "418540"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "adaptée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "caractérisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "vérification",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "fours",
+            "id": "435427"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "NF",
+            "id": "14424572"
+        },
+        {
+            "mot": "X",
+            "id": "144726"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "voisine",
+            "id": "404743"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "internationale",
+            "id": "16161703"
+        },
+        {
+            "mot": "CEI",
+            "id": "18607"
+        },
+        {
+            "mot": "publiée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "concurrente",
+            "id": "401671"
+        },
+        {
+            "mot": "devrait",
+            "id": "2065220"
+        },
+        {
+            "mot": "remplacer",
+            "id": "52286"
+        },
+        {
+            "mot": "progressivement",
+            "id": "24254"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "norme",
+            "id": "14002870"
+        },
+        {
+            "mot": "française",
+            "id": "15517133"
+        }
+    ],
+    [
+        {
+            "mot": "Plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "enceintes",
+            "id": "159912"
+        },
+        {
+            "mot": "thermostatiques",
+            "id": "286082"
+        },
+        {
+            "mot": "concernées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "normes",
+            "id": "5841136"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "celles",
+            "id": "2018436"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "chauffage",
+            "id": "16892877"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "convection",
+            "id": "102110494"
+        },
+        {
+            "mot": "dites",
+            "id": "10990184"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "ventilées",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "ventilation",
+            "id": "16090377"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "congélateurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "réfrigérateurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "zones",
+            "id": "2934163"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "atmosphère",
+            "id": "NULL"
+        },
+        {
+            "mot": "contrôlée",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "caractérisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vérification",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "enceintes",
+            "id": "159912"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "site",
+            "id": "201975238"
+        },
+        {
+            "mot": "client",
+            "id": "411419"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "assurées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "laboratoires",
+            "id": "405592"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "métrologie",
+            "id": "NULL"
+        },
+        {
+            "mot": "prestataires",
+            "id": "2251461"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aide",
+            "id": "408189"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "instruments",
+            "id": "403503"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "référence",
+            "id": "NULL"
+        },
+        {
+            "mot": "certifiés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "laboratoire",
+            "id": "407934"
+        },
+        {
+            "mot": "accrédité",
+            "id": "NULL"
+        },
+        {
+            "mot": "Cofrac",
+            "id": "11219761"
+        }
+    ],
+    [
+        {
+            "mot": "De",
+            "id": "3320102"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "nombreux",
+            "id": "16088515"
+        },
+        {
+            "mot": "secteurs",
+            "id": "14156890"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "concernés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "bon",
+            "id": "4319096"
+        },
+        {
+            "mot": "respect",
+            "id": "429779"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "humidité",
+            "id": "NULL"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "stockage",
+            "id": "14482867"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "substances",
+            "id": "432182"
+        },
+        {
+            "mot": "actives",
+            "id": "268164"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "thermolabiles",
+            "id": "3054838"
+        },
+        {
+            "mot": "vaccins",
+            "id": "143330271"
+        },
+        {
+            "mot": "agroalimentaire",
+            "id": "10078298"
+        },
+        {
+            "mot": "chaîne",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "froid",
+            "id": "15519190"
+        },
+        {
+            "mot": "aéronautique",
+            "id": "NULL"
+        },
+        {
+            "mot": "caractérisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "vieillissement",
+            "id": "10179112"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "matériaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "chimie",
+            "id": "152212"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "électronique",
+            "id": "NULL"
+        },
+        {
+            "mot": "salle",
+            "id": "406598"
+        },
+        {
+            "mot": "blanche",
+            "id": "138649"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "normes",
+            "id": "5841136"
+        },
+        {
+            "mot": "NF",
+            "id": "14424572"
+        },
+        {
+            "mot": "Recommandation",
+            "id": "16089344"
+        },
+        {
+            "mot": "générale",
+            "id": "NULL"
+        },
+        {
+            "mot": "Bonnes",
+            "id": "166379"
+        },
+        {
+            "mot": "pratiques",
+            "id": "425735"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "laboratoire",
+            "id": "407934"
+        },
+        {
+            "mot": "Justesse",
+            "id": "250137232"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "Stratification",
+            "id": "17341616"
+        },
+        {
+            "mot": "thermique",
+            "id": "5391722"
+        },
+        {
+            "mot": "responsable",
+            "id": "16089284"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hétérogénéité",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "température",
+            "id": "NULL"
+        },
+        {
+            "mot": "Enregistreur",
+            "id": "417080"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "données",
+            "id": "NULL"
+        },
+        {
+            "mot": "Étuve",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "laboratoire",
+            "id": "407934"
+        },
+        {
+            "mot": "Régulateur",
+            "id": "NULL"
+        },
+        {
+            "mot": "PID",
+            "id": "3350815"
+        },
+        {
+            "mot": "Bain",
+            "id": "140574"
+        },
+        {
+            "mot": "thermostaté",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "droit",
+            "id": "152208"
+        },
+        {
+            "mot": "français",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "énergie",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "froid",
+            "id": "15519190"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "climatisation",
+            "id": "5724523"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "production",
+            "id": "415522"
+        },
+        {
+            "mot": "industrielle",
+            "id": "1858980"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "électricité",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "électronique",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "physique",
+            "id": "16089538"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "chimie",
+            "id": "152212"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "matériaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "microbiologie",
+            "id": "100299316"
+        },
+        {
+            "mot": "Alimentation",
+            "id": "17050565"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "gastronomie",
+            "id": "152553"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aéronautique",
+            "id": "NULL"
+        }
+    ]
+]

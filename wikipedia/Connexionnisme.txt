@@ -1,0 +1,58 @@
+Le connexionnisme est une approche utilisée en sciences cognitives, neurosciences, psychologie, philosophie de l'esprit et intelligence artificielle. Le connexionnisme modélise les phénomènes mentaux ou comportementaux comme des processus émergents de réseaux d'unités simples interconnectées. Le plus souvent les connexionnistes modélisent ces phénomènes à l'aide de réseaux de neurones. Il s'agit d'une théorie qui a émergé à la fin des années 1980 en tant qu'alternative au computationnalisme (Putnam, Fodor, etc.) alors dominant.
+Le connexionnisme est un courant de recherche assez vaste qui constitue une voie originale dans l’étude des phénomènes cognitifs. Les modèles connexionnistes utilisent ce que l’on appelle des réseaux de neurones formels, ou réseaux neuromimétiques, dont l’organisation et le fonctionnement rappellent, à un certain niveau d’abstraction, les systèmes neuronaux physiologiques, dans le but de simuler des comportements du type de ceux que l’on observe en psychologie expérimentale. Ainsi ces modèles cherchent à faire le lien entre le fonctionnement du cerveau et celui de l’esprit, en proposant des mécanismes plausibles du point de vue neurophysiologique qui pourraient expliquer certains aspects de la cognition humaine ; on parle ainsi de "modèles bio-inspirés". Ce champ de recherche, aux frontières de l’intelligence artificielle et de la modélisation en neurophysiologie et en psychologie, a suscité beaucoup d’intérêt depuis la fin des années 1980, où il est apparu comme une alternative bienvenue à la modélisation classique en sciences cognitives fondée sur le modularisme et le calcul symbolique.
+
+Principes de base
+Le principe de base du connexionnisme est que les phénomènes mentaux peuvent être décrits à l'aide de réseaux d'unités simples interconnectées. La forme des connexions et des unités peut varier selon les modèles. Par exemple, les unités d'un réseau peuvent représenter des neurones et les connexions peuvent représenter des synapses.
+Une variation de ce modèle pourrait être que chaque unité du réseau soit un mot et que chaque connexion soit un indicateur de la similarité sémantique.
+
+La diffusion d'activation
+Un concept important pour les modèles connexionnistes est celui d'activation. À chaque instant, une unité du réseau a un certain niveau d'activation. Par exemple, si les unités du modèle sont des neurones, l'activation pourrait représenter la probabilité que le neurone génère un potentiel d'action. Si ce modèle est un modèle à diffusion d'activation, alors une fois le seuil d'activation atteint, l'activation va se propager à toutes les unités connectées.
+
+Réseaux neuronaux
+Les réseaux de neurones sont, de loin, les modèles connexionnistes les plus répandus aujourd'hui. Beaucoup de recherches utilisant des réseaux de neurones se réclament du connexionnisme. Les réseaux connexionnistes répondent à deux caractéristiques :
+
+Chaque état mental peut être représenté comme un vecteur à n dimensions représentant les valeurs d'activation des unités neuronales ;
+Le réseau peut apprendre en modifiant le poids des connexions entre ses unités. La force des connexions (ou poids) est généralement représentée comme une matrice à n dimensions.En revanche, les modèles peuvent différer de par : 
+
+La définition de l'activation : L'activation peut être définie de différentes façons. Par exemple, dans une machine de Boltzmann, l'activation est interprétée comme la probabilité de générer un potentiel d'action. Cette probabilité est déterminée par une fonction logistique dépendant de la somme des entrées d'une unité ;
+L'algorithme d'apprentissage : Il définit la façon dont les poids des connexions vont changer au fur et à mesure du temps.
+
+Réalisme biologique
+Apprentissage
+Historique
+Ainsi les idées qui ont donné naissance au connexionnisme remontent à plus d'un siècle. Néanmoins, les idées connexionnistes n'étaient rien de plus que de simples spéculations jusqu'au milieu du XXe siècle. Il faut attendre les années 1980 pour que le connexionnisme devienne une perspective populaire auprès des scientifiques. Pascal Mettens fait de Sigmund Freud le père fondateur du connexionnisme qui, avec l’Esquisse d'une psychologie scientifique, a établi un réseau de neurones.
+
+La théorie freudienne des frayages
+Dans Projet pour une explication physiologique des phénomènes psychiques (1895-1896) Freud écrivait déjà :« La mémoire est représentée par les frayages existant entre les neurones Ψ […] Le frayage dépend de la quantité (Q η) qui traverse le neurone au cours du processus d’excitation, et du nombre de fois où le processus se répète […] Il est […] tout à fait clair que l’état de frayage d’une barrière de contact donnée doit être indépendant de celui de toutes les autres barrières de contact du même neurone Ψ… ». Il est à noter qu'à cette époque, le mot de synapse n'a pas encore été choisi (Charles Scott Sherrington ne le proposera qu'en 1897). Freud parle donc encore de barrière de contact.
+Et en 1920 dans  Au-delà du principe de plaisir :« Le fait de l'apparition de la conscience est certainement en rapport avec la nature des modifications subies aussi bien par la substance que par les processus d'excitation qui l'atteignent et la traversent. Quelle est exactement cette nature ? A cette question il est possible de donner plusieurs réponses, dont aucune n'est encore susceptible de vérification expérimentale. On peut supposer qu'en passant d'un élément à un autre, l'excitation doit vaincre une résistance et que c'est à la diminution de la résistance qu'on doit rattacher la trace durable laissée par l'excitation (trajet frayé) ». À l'époque où Donald Hebb formalise sa théorie, l'ouvrage de Freud s'est largement diffusé dans la société, tant parmi les médecins que dans le grand public.
+Le choix du terme de frayage (Bahnung) par Freud aurait été, selon Jones et Sulloway, inspiré par le travail du neurophysiologiste Sigmund Exner qui parlait (en 1894) d'« extension de voies » (Ausfahren von Bahnen),.
+Dans son livre sur l'intelligence artificielle, Paul Jorion souligne que "Le fait que la définition du frayage soit aujourd’hui attribuée à Hebb et non à Exner est cependant significatif de l’ignorance qui prévaut beaucoup trop souvent en IA quant à l’origine des concepts qu’elle utilise."
+
+Références
+Voir aussi
+Bibliographie
+(fr) William Bechtel et Adele Abrahamsen (trad. Joëlle Proust), Le connexionnisme et l'esprit : introduction au traitement parallèle par réseaux, Éditions La Découverte, 1993, 365 p.  (ISBN 2707122211)
+(fr) Denis Bonnet, Apport du connexionnisme aux méthodes statistiques de la prévision, 1997, 244 p.
+(fr) Rui Da Silva Neves, « Le connexionnisme. Les assemblées de neurones », Sciences humaines, hors-série spécial, no 7, septembre-octobre 2008
+(en) Rumelhart, D.E., J.L. McClelland and the PDP Research Group (1986). Parallel Distributed Processing: Explorations in the Microstructure of Cognition. Volume 1: Foundations, Cambridge, MA: MIT Press
+(en) McClelland, J.L., D.E. Rumelhart and the PDP Research Group (1986). Parallel Distributed Processing: Explorations in the Microstructure of Cognition. Volume 2: Psychological and Biological Models, Cambridge, MA: MIT Press
+(en) Pinker, Steven and Mehler, Jacques (1988). Connections and Symbols, Cambridge MA: MIT Press.
+(en) Jeffrey L. Elman, Elizabeth A. Battes, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett (1996). Rethinking Innateness: A connectionist perspective on development, Cambridge MA: MIT Press.
+(en) Marcus, Gary F. (2000). The Algebraic Mind: Integrating Connectionism and Cognitive Science (Learning, Development, and Conceptual Change), Cambridge, MA: MIT Press
+
+Articles connexes
+ADALINE
+Béhaviorisme
+Cybernétique
+Éliminativisme
+Neurosciences computationnelles
+Réseau de neurones
+Réseau de neurones (biologie)
+Intelligence artificielle
+Donald Hebb et Règle de Hebb
+
+Liens externes
+A Brief History of Connectionism
+Dictionary of Philosophy of Mind entry on connectionism
+Stanford Encyclopedia of Philosophy entry on connectionism
+ Portail des neurosciences   Portail de la psychologie

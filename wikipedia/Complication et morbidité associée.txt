@@ -1,0 +1,23 @@
+En hospitalisation de court séjour (médecine chirurgie obstétrique) en France, secteur public / privé non lucratif / privé lucratif, les séjours hospitaliers sont payés par l'Assurance Maladie à l'établissement qui réalise le séjour. Pour ce faire, l'établissement recueille des informations structurées sur le séjour dans le cadre du PMSI, et un tarif est calculé dans le cadre de la T2A. Les CMA (complication et morbidité associée) sont des diagnostics associés significatifs codés en CIM-10, dont il a été montré qu'ils rallongeaient significativement la durée de séjour et donc le coût du séjour. Par conséquent, ils sont pris en compte par la T2A et permettent généralement une augmentation du tarif du séjour,.
+
+Discussion
+Le terme de CMA réfère à deux concepts :
+
+les morbidités associées sont des maladies intercurrentes qui peuvent être indépendantes du motif d'admission (exemple : un cancer de la prostate pour un patient venant pour une fracture du fémur, une obésité morbide, une infection VIH, etc.)
+les complications, il peut s'agir de complications de la maladie ou de son traitement (exemple : une désunion de plaie opératoire à la suite d'une appendicectomie)Les CMA ne sont pas systématiquement valorisées  :
+
+il existe des exclusions. Ainsi par exemple, l'insuffisance rénale (CMA potentielle) n'est pas prise en compte si le patient est déjà porteur d'une maladie rénale qui inclut de fait une insuffisance rénale
+les CMA ne sont prises en compte qu'au-delà d'une certaine durée
+
+Exemple
+Prenons le cas des "appendicectomies avec complication" (racine de GHM 06C08) dans le secteur public privé non lucratif. Le graphique ci-dessous représente le prix que recevra l'établissement en fonction de la durée totale de séjour. Les 4 courbes correspondent à quatre niveau :
+
+la courbe verte correspond au niveau 1 (pas de CMA)
+la courbe jaune correspond au niveau 2 (ex : paraplégie spastique)
+la courbe rouge correspond au niveau 3 (ex : paraplégie flasque)
+la courbe marron correspond au niveau 3 (ex : tétraplégie flasque)Pour les courtes durées, les niveaux élevés ne sont pas pris en compte, ce qui explique que les courbes se rejoignent sur la gauche du graphique. Pour les durées très élevées, une majoration des séjours fait que généralement les courbes se rejoignent, mais ce n'est pas systématique. 
+Ces graphiques existent pour tous les GHM, tarifs publics comme privés.
+
+Références
+
+ Portail de la médecine

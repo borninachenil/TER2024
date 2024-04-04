@@ -1,0 +1,2524 @@
+[
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "NSC",
+            "id": "174109"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "champ",
+            "id": "11539790"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "applique",
+            "id": "145952"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "découvrir",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "principes",
+            "id": "413136"
+        },
+        {
+            "mot": "computationnels",
+            "id": "7766128"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuronale",
+            "id": "398299"
+        },
+        {
+            "mot": "c'",
+            "id": "2140163"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "dire",
+            "id": "15765513"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "algorithmes",
+            "id": "412844"
+        },
+        {
+            "mot": "génériques",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "comprendre",
+            "id": "10457935"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "implémentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "notre",
+            "id": "15380127"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "nerveux",
+            "id": "17341686"
+        },
+        {
+            "mot": "central",
+            "id": "14760311"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "associé",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "nos",
+            "id": "8863320"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "cognitives",
+            "id": "14730934"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "défini",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "lieu",
+            "id": "406039"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "David",
+            "id": "143955"
+        },
+        {
+            "mot": "Marr",
+            "id": "5934554"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "série",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "articles",
+            "id": "408042"
+        },
+        {
+            "mot": "fondateurs",
+            "id": "3414863"
+        }
+    ],
+    [
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "essaie",
+            "id": "15519030"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "comprendre",
+            "id": "10457935"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "opéré",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "aide",
+            "id": "408189"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "modèles",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "informatiques",
+            "id": "5720830"
+        },
+        {
+            "mot": "combinés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "expérimentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "simulations",
+            "id": "5720598"
+        },
+        {
+            "mot": "numériques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Historiquement",
+            "id": "14581248"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "premiers",
+            "id": "402211"
+        },
+        {
+            "mot": "modèles",
+            "id": "NULL"
+        },
+        {
+            "mot": "introduits",
+            "id": "14635260"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "modèle",
+            "id": "NULL"
+        },
+        {
+            "mot": "intègre",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "tire",
+            "id": "414964"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "Louis",
+            "id": "17585219"
+        },
+        {
+            "mot": "Lapicque",
+            "id": "27799"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "Cet",
+            "id": "413881"
+        },
+        {
+            "mot": "article",
+            "id": "231646648"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "influent",
+            "id": "11602"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "théoriques",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "introduit",
+            "id": "85964454"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "modèles",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "populaires",
+            "id": "2944606"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "heure",
+            "id": "3358295"
+        },
+        {
+            "mot": "actuelle",
+            "id": "17638138"
+        }
+    ],
+    [
+        {
+            "mot": "Cet",
+            "id": "413881"
+        },
+        {
+            "mot": "article",
+            "id": "231646648"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "traduit",
+            "id": "427501"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "anglais",
+            "id": "172944"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "occasion",
+            "id": "15404292"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "centenaire",
+            "id": "5936952"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "parution",
+            "id": "573265"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "visent",
+            "id": "2096421"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "développer",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "mieux",
+            "id": "432113"
+        },
+        {
+            "mot": "comprendre",
+            "id": "10457935"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "relations",
+            "id": "406638"
+        },
+        {
+            "mot": "complexes",
+            "id": "431331"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "structure",
+            "id": "425739"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "nerveux",
+            "id": "17341686"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Outre",
+            "id": "415019"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "meilleure",
+            "id": "430444"
+        },
+        {
+            "mot": "connaissance",
+            "id": "416724"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cognition",
+            "id": "118142174"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ses",
+            "id": "11254312"
+        },
+        {
+            "mot": "dysfonctionnements",
+            "id": "464588"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "démarche",
+            "id": "NULL"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "appliquer",
+            "id": "255515332"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "transfert",
+            "id": "2924541"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "connaissances",
+            "id": "412451"
+        },
+        {
+            "mot": "neuroscientifiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "proposant",
+            "id": "149887"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nouvelles",
+            "id": "405724"
+        },
+        {
+            "mot": "méthodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "dispositifs",
+            "id": "17050564"
+        },
+        {
+            "mot": "technologiques",
+            "id": "14112939"
+        },
+        {
+            "mot": "innovants",
+            "id": "2212729"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "appliquer",
+            "id": "255515332"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "niveaux",
+            "id": "9971818"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "description",
+            "id": "414393"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "molécule",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "comportement",
+            "id": "8004903"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "nécessite",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intégration",
+            "id": "NULL"
+        },
+        {
+            "mot": "constructive",
+            "id": "11012097"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nombreux",
+            "id": "16088515"
+        },
+        {
+            "mot": "domaines",
+            "id": "415783"
+        },
+        {
+            "mot": "disciplinaires",
+            "id": "399650"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sciences",
+            "id": "152690"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "vivant",
+            "id": "409490"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "modélisation",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "incluses",
+            "id": "2047665"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "bio",
+            "id": "10086580"
+        },
+        {
+            "mot": "informatique",
+            "id": "152211"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "champ",
+            "id": "11539790"
+        },
+        {
+            "mot": "recouvre",
+            "id": "1781672"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "applications",
+            "id": "146702"
+        },
+        {
+            "mot": "informatiques",
+            "id": "5720830"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "biochimie",
+            "id": "410176"
+        },
+        {
+            "mot": "génétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "phylogénie",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Histoire",
+            "id": "5814360"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "introduit",
+            "id": "85964454"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "psychologue",
+            "id": "100686088"
+        },
+        {
+            "mot": "cognitif",
+            "id": "99171"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "neuroscientifique",
+            "id": "143275241"
+        },
+        {
+            "mot": "américain",
+            "id": "NULL"
+        },
+        {
+            "mot": "Eric",
+            "id": "2325696"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        }
+    ],
+    [
+        {
+            "mot": "Schwartz",
+            "id": "12206329"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "conférence",
+            "id": "NULL"
+        },
+        {
+            "mot": "tenue",
+            "id": "426303"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "Carmel",
+            "id": "144090"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Californie",
+            "id": "143267"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "demande",
+            "id": "15406475"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "Systems",
+            "id": "2293911"
+        },
+        {
+            "mot": "Development",
+            "id": "4333290"
+        },
+        {
+            "mot": "Foundation",
+            "id": "11518998"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "voulait",
+            "id": "411691"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "résumé",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "état",
+            "id": "NULL"
+        },
+        {
+            "mot": "actuel",
+            "id": "16084349"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "domaine",
+            "id": "142250"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "jusque",
+            "id": "16531269"
+        },
+        {
+            "mot": "là",
+            "id": "NULL"
+        },
+        {
+            "mot": "était",
+            "id": "NULL"
+        },
+        {
+            "mot": "connu",
+            "id": "255842025"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "différents",
+            "id": "NULL"
+        },
+        {
+            "mot": "noms",
+            "id": "410940"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "modélisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "théorie",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "réseaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "neuronaux",
+            "id": "427674"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "débats",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "conférence",
+            "id": "NULL"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "tard",
+            "id": "415397"
+        },
+        {
+            "mot": "publiés",
+            "id": "NULL"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "titre",
+            "id": "11409607"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Computational",
+            "id": "11008342"
+        },
+        {
+            "mot": "Neuroscience",
+            "id": "5722401"
+        }
+    ],
+    [
+        {
+            "mot": "Thèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "recherche",
+            "id": "141896"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "classée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "thèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "majeurs",
+            "id": "5965071"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "plupart",
+            "id": "429767"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neuroscientifiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "computationnels",
+            "id": "7766128"
+        },
+        {
+            "mot": "collaborent",
+            "id": "2150553"
+        },
+        {
+            "mot": "étroitement",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "expérimentateurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "analyse",
+            "id": "402333"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "données",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "synthèse",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nouveaux",
+            "id": "405929"
+        },
+        {
+            "mot": "modèles",
+            "id": "NULL"
+        },
+        {
+            "mot": "biologiques",
+            "id": "255470081"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "sens",
+            "id": "232840358"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "nombres",
+            "id": "140937"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "propre",
+            "id": "420477"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "espèce",
+            "id": "NULL"
+        },
+        {
+            "mot": "humaine",
+            "id": "5720851"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "présent",
+            "id": "NULL"
+        },
+        {
+            "mot": "dès",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nouveau",
+            "id": "146411"
+        },
+        {
+            "mot": "né",
+            "id": "NULL"
+        },
+        {
+            "mot": "tests",
+            "id": "5560972"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "réactions",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "nouveauté",
+            "id": "NULL"
+        },
+        {
+            "mot": "Plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "espèces",
+            "id": "NULL"
+        },
+        {
+            "mot": "animales",
+            "id": "573237"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "enfant",
+            "id": "405825"
+        },
+        {
+            "mot": "dès",
+            "id": "NULL"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "ans",
+            "id": "408844"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "calculs",
+            "id": "10442161"
+        },
+        {
+            "mot": "élémentaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "comparaisons",
+            "id": "10969794"
+        },
+        {
+            "mot": "approximatives",
+            "id": "1990161"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nombres",
+            "id": "140937"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cheval",
+            "id": "145246"
+        },
+        {
+            "mot": "Hans",
+            "id": "5934320"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "Malin",
+            "id": "141834"
+        },
+        {
+            "mot": "était",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "supercherie",
+            "id": "256057500"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "poissons",
+            "id": "143932"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "batraciens",
+            "id": "144171"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "oiseaux",
+            "id": "13589882"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "singes",
+            "id": "412594"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "suffisamment",
+            "id": "101429"
+        },
+        {
+            "mot": "développé",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "capables",
+            "id": "2006328"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "calculs",
+            "id": "10442161"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "imagerie",
+            "id": "407973"
+        },
+        {
+            "mot": "cérébrale",
+            "id": "NULL"
+        },
+        {
+            "mot": "montre",
+            "id": "11219652"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "humain",
+            "id": "435764"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "circuits",
+            "id": "6067006"
+        },
+        {
+            "mot": "spécialisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "alors",
+            "id": "15412652"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "eu",
+            "id": "154090"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "évoluer",
+            "id": "NULL"
+        },
+        {
+            "mot": "génétiquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "depuis",
+            "id": "432818"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "invention",
+            "id": "137768"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "arithmétique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "expliquer",
+            "id": "89042"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "faculté",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "neuroscientifique",
+            "id": "143275241"
+        },
+        {
+            "mot": "Stanislas",
+            "id": "125354"
+        },
+        {
+            "mot": "Dehaene",
+            "id": "1857004"
+        },
+        {
+            "mot": "développe",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hypothèse",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "recyclage",
+            "id": "94000866"
+        },
+        {
+            "mot": "neuronal",
+            "id": "61925"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "grâce",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "plasticité",
+            "id": "NULL"
+        },
+        {
+            "mot": "synaptique",
+            "id": "75666"
+        },
+        {
+            "mot": "mobilise",
+            "id": "2227035"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "anciennes",
+            "id": "403853"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "lobe",
+            "id": "5881708"
+        },
+        {
+            "mot": "pariétal",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "utilisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "approximatif",
+            "id": "37261"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "reconnaissance",
+            "id": "461401"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "formes",
+            "id": "406188"
+        },
+        {
+            "mot": "visuelles",
+            "id": "429257"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "quantités",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "réoriente",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "calcul",
+            "id": "404213"
+        },
+        {
+            "mot": "exact",
+            "id": "5720732"
+        }
+    ],
+    [
+        {
+            "mot": "Conscience",
+            "id": "140246"
+        },
+        {
+            "mot": "Modèle",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "neurone",
+            "id": "15016123"
+        },
+        {
+            "mot": "unique",
+            "id": "16088752"
+        },
+        {
+            "mot": "Chez",
+            "id": "420868"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "singe",
+            "id": "431266"
+        },
+        {
+            "mot": "macaque",
+            "id": "2730452"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "enregistrés",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "uniques",
+            "id": "407515"
+        },
+        {
+            "mot": "dédiés",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        }
+    ],
+    [
+        {
+            "mot": "De",
+            "id": "3320102"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "découverts",
+            "id": "NULL"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "homme",
+            "id": "17638134"
+        }
+    ],
+    [
+        {
+            "mot": "Références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Annexes",
+            "id": "15808840"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "Computationnalisme",
+            "id": "107228567"
+        },
+        {
+            "mot": "Liens",
+            "id": "409339"
+        },
+        {
+            "mot": "externes",
+            "id": "16087769"
+        },
+        {
+            "mot": "Neurocomp",
+            "id": "NULL"
+        },
+        {
+            "mot": "liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "complète",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "équipes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        },
+        {
+            "mot": "computationnelles",
+            "id": "3245243"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        }
+    ],
+    [
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Biographie",
+            "id": "273751"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "D",
+            "id": "142231"
+        }
+    ],
+    [
+        {
+            "mot": "Marr",
+            "id": "5934554"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Site",
+            "id": "201975238"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "Blue",
+            "id": "10077161"
+        },
+        {
+            "mot": "Brain",
+            "id": "401748"
+        },
+        {
+            "mot": "Project",
+            "id": "5999577"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        }
+    ]
+]

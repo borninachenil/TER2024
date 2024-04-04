@@ -1,0 +1,17 @@
+Le nombre de sujets à traiter (NST) (en anglais : number needed to treat (NNT), est le résultat d'un calcul basé sur des études épidémiologiques et destiné à apprécier l'efficacité d'une intervention de santé publique, notamment médicamenteuse. Le NST est le nombre de patients à traiter pendant une période donnée pour éviter l'apparition d'un évènement défavorable. Il a été décrit en 1988 et est défini par l'inverse de la réduction du risque absolu.
+
+Principe
+Le NST s'exprime en nombre de patients par unité de temps. Le NST idéal est 1 : dans ce cas, chaque patient s'améliore avec le traitement étudié et aucun patient ne s'améliore spontanément dans le groupe placebo. Plus le NST est grand, moins le traitement est efficace.
+
+Exemple
+En général, le NST est calculé à partir de l'évolution de deux populations sous un traitement A et un traitement B. Par exemple, soit A un traitement pendant cinq ans par une molécule testée et soit B un traitement pendant cinq ans par un placebo. Un critère de jugement final doit être défini a priori, par exemple l'apparition d'un cancer du côlon au bout d'une période de cinq ans. Si les probabilité de p(A) et de p(B) sont connues, alors le NST est calculé par la formule 1/[p(A)-p(B)].
+
+Pertinence
+Le NST est une mesure pertinente en pharmacoéconomie. Sa compréhension intuitive en fait un nombre plus facile à retenir que la différence absolue de risques.
+Des variantes de ce concept existent : 
+
+le nombre de patients à traiter pour nuire, le nombre de patients à traiter pour voir apparaitre un effet indésirable (number needed to harm).
+le nombre de patient à vacciner.
+
+Références
+http://www.minerva-ebm.be/fr/article.asp?id=1623 Portail de la médecine   Portail de la pharmacie

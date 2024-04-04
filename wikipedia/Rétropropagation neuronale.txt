@@ -1,0 +1,8 @@
+La rétropropagation neuronale désigne la propagation d'un potentiel d'action dans un neurone, non pas vers la terminaison de l'axone (propagation normale), mais au rebours, en direction des dendrites, d'où provenait la dépolarisation originelle. Ce phénomène a été modélisé algorithmiquement sous le nom de rétropropagation dans les perceptrons multicouche, un type de réseau de neurones artificiel.
+
+Références
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Neural backpropagation » (voir la liste des auteurs).
+
+Voir aussi
+Plasticité neuronale
+Plasticité synaptique Portail des neurosciences

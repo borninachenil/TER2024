@@ -1,0 +1,79 @@
+Le potentiel d'action, autrefois et encore parfois appelé influx nerveux, est un événement court durant lequel le potentiel électrique d'une cellule (notamment les neurones, mais aussi d'autres cellules excitables telles que les cellules musculaires, les cellules endocrines ou les cellules végétales des tubes criblés du phloème) augmente puis chute rapidement.
+La membrane plasmique présente une perméabilité sélective (voir perméase), modulable par différents facteurs comme son degré de polarisation ou par des neurotransmetteurs, à l'égard de différents ions (en particulier, sodium Na+, potassium K+, chlore Cl− et calcium Ca2+).
+La différence de concentration ionique résultante détermine la valeur locale du potentiel transmembranaire.
+Au repos, il existe un potentiel transmembranaire d'environ −70 mV : c'est le potentiel de repos. Étant donné que la membrane mesure 7 nm d'épaisseur, cela correspond à un champ électrique de dix millions de volts par mètre.
+Le potentiel d'action, est défini comme étant une inversion, non généralisée mais locale, de la polarité membranaire qui a la propriété de se propager suivant un sens unidirectionnel.
+De ce fait, chaque potentiel d'action comprend une phase de dépolarisation membranaire suivie immédiatement d'une phase de repolarisation membranaire.
+Le potentiel d'action est donc constitué d'une succession d'événements :
+
+une dépolarisation transitoire et locale de cet état de repos, d'une amplitude spécifique de +100 mV, le potentiel de la membrane interne passant de −70 à +30 mV ;
+une repolarisation (en) de la membrane interne dont le potentiel repasse à −70 mV ;
+une hyperpolarisation, pour les cellules non myélinisées, où le potentiel diminue plus qu'à l'état basal (-80 mV), pour ensuite retourner à −70 mV. Durant ce temps on ne peut plus induire d'autre potentiel d'action, c'est la période réfractaire.Le potentiel d'action dure entre 1 et 2 millisecondes.
+
+Mise en place
+La genèse du potentiel d'action a lieu au niveau du cône d'émergence, à la base du corps cellulaire du neurone (ou le péricaryon) qui fait la sommation des potentiels gradués provenant des synapses situées le long des dendrites et sur le corps cellulaire :
+
+si cette somme ne dépasse pas le seuil d'excitabilité du neurone (−55 mV en général), le message nerveux n'est pas relayé par l'axone ;
+si ce seuil est atteint, un potentiel d'action émerge : l'ouverture des canaux de la membrane dépend du courant membranaire, ainsi ce seuil correspond à l'ouverture des canaux, ces canaux laissent passer des ions qui dépolarisent la membrane et engendrent le potentiel d'action ce qui transmet une plus forte dépolarisation sur une portion membranaire voisine induisant l'ouverture des canaux de cette portion voisine donc la propagation du potentiel d'action ;
+s'ensuit la période réfractaire.Tout d'abord la période réfractaire absolue : durant environ 1,5 ms le seuil d'excitabilité devient infini, il est donc impossible de développer un autre potentiel d'action au même endroit que précédemment.Puis vient la période réfractaire relative, durant laquelle le seuil d'excitabilité diminue jusqu'à revenir à valeur normale de −70 mV. Si pendant cette phase, le potentiel du corps cellulaire est encore supérieur au seuil d'excitabilité, ou le redevient par action des dendrites, un nouveau potentiel d'action émerge, et ainsi de suite jusqu'à ce que le seuil d'excitabilité ne soit plus dépassé.Tous les potentiels d'action ayant la même amplitude (+100 mV), le codage de l'influx nerveux se fait donc en modulation de fréquence.
+Il faut rappeler que les valeurs ici décrites sont celles du neurone « idéal » des électrophysiologistes, elles peuvent avoir des valeurs très différentes pour le seuil d'excitabilité, le potentiel de repos…
+Les potentiels d'action se propagent par processus des bases ioniques.Les potentiels d'action, de repos et gradués dépendent :
+
+des gradients de concentration ;
+de la perméabilité de la membrane aux ions potassium et sodium.Initiation du potentiel d'action :
+
+augmentation de la perméabilité de la membrane ;
+diffusion des ions sodium et potassium le long des gradients de concentration.
+
+Différentes étapes d'un potentiel d'action
+Au repos, les canaux de fuites sont les mêmes que ceux qui sont perméables au potassium :
+
+très peu de canaux sodiques ouverts ;
+potentiel de repos est proche du potentiel d'équilibre du potassium (−70 mV).1. Dépolarisation jusqu'au potentiel seuil (V < V0) :
+
+la stimulation entraîne une ouverture d'un nombre croissant de canaux sodiques voltage-dépendants, qui laissent entrer selon le gradient électrochimique un nombre croissant d'ions Na+ dans le milieu intracellulaire ; puisque des charges positives s'ajoutent du côté interne de la membrane, V augmente.2. Potentiel seuil atteint (V = V0) :
+
+la dépolarisation est alors suffisante pour ouvrir un maximum de canaux sodium.3. Maximum de potentiel (V = V max ~ V d'équilibre du Na+) :
+
+le gradient électrochimique, force motrice du Na+, n'a pas tout à fait le temps de s'annuler, puisque les canaux sodium s'inactivent (bien qu'ouverts, ils deviennent bloqués). La dépolarisation cesse donc quand V a une valeur proche de V d'équilibre du Na+. Il est à noter qu'un très faible influx de Na+ (de l'ordre de la picomole par centimètre carré) est suffisant pour faire croître V par environ 100 mV ; la concentration interne de Na+ augmente donc de moins de 0,01 %.4. Repolarisation vers un niveau de repos :
+
+ouverture différée des canaux de rectification au potassium voltage-dépendant qui laissent sortir selon le gradient électrochimique le potassium intracellulaire, tandis-que les canaux Na+ demeurent inactivés ;
+cette perte de charge positive compense l'entrée antérieure des charges positives sodiques conduisant à une repolarisation progressive du neurone.5. Mais…
+
+après l'inactivation des canaux sodiques voltage-dépendants, trop de canaux potassiques restent momentanément ouverts (comparativement au nombre ouverts quand la membrane est au repos) laissant sortir plus de potassium qu'il n'était entré de sodium ; au lieu de revenir à sa valeur de repos, V décroît jusqu'à la valeur d'équilibre pour K+.⇒ Hyperpolarisation de la membrane.6. D'où l'apparition d'une hyperpolarisation transitoire (V < V0).
+
+Période réfractaire absolueUn 2e stimulus ne pourrait pas déclencher un 2e potentiel d'action.
+Lorsque la membrane s'est dépolarisée, il faut attendre un certain temps avant qu'elle puisse de nouveau subir une dépolarisation. Cette absence d'excitabilité est due au grand nombre de canaux sodium encore inactivés : même si un stimulus provoquait leur ouverture, ils sont encore bloqués.
+
+Période réfractaire relativeC'est la période qui se produit juste après la période absolue… C'est un intervalle de temps (1 à 15 ms) durant lequel un stimulus ne déclencherait plus un potentiel d'action sauf si celui-ci est supérieur à la normale.
+7. Retour de V à sa valeur de repos
+
+Pendant la période réfractaire, la proportion de canaux potassium ouvert décroît lentement vers sa valeur de repos et les canaux sodium récupèrent de leur inactivation. Ceci éloigne légèrement V de la valeur d'équilibre du K+ et le ramène à sa valeur de repos. Il est à noter que les charges responsables de la croissance de V vers cette valeur de repos ne traversent ni les canaux sodium, ni les canaux potassium.8. Retour des concentrations ioniques à leur valeur initiale
+
+La restauration du potentiel de repos ne signifie pas que les conditions ioniques initiales ont été restaurées. Sur une échelle de temps qui excède de beaucoup la durée du potentiel d'action, une pompe ionique sodium-potassium ATP dépendante fait rentrer activement le potassium et fait sortir l'excédent de sodium afin de restaurer les conditions de départ.
+
+Conduction
+Lorsqu'un potentiel d'action apparaît à un endroit donné de l'axone, la portion voisine qui lui a donné naissance entre en période réfractaire, ce qui l'empêche d'être excitée à son tour. Cette période réfractaire est expliquée par la désensibilisation des canaux sodiques dépendant du voltage.
+En revanche la portion voisine qui n'a pas encore présenté de potentiel d'action commence à être excitée. Cette excitation provient de petits courants électriques très locaux qui s'établissent entre portion excitée et portion non encore excitée. De proche en proche, se créent donc les conditions de naissance d'un potentiel d'action à côté de la portion qui est en train de réaliser un potentiel d'action (propagation régénérative).
+Ainsi, la période réfractaire explique l'unidirectionalité de l'influx nerveux, depuis le cône d'émergence jusqu'à ses extrémités, les terminaisons synaptiques.
+L'influx nerveux conserve toutes ses caractéristiques (amplitude, fréquence) durant sa progression : il est conservatif.
+La conduction peut se faire soit de proche en proche le long de l'axone lorsque ce dernier est nu, soit de manière saltatoire lorsque l'axone possède une gaine de myéline.
+La myéline est maintenue autour de l'axone par les cellules de Schwann pour les neurones du système nerveux périphérique (ensemble des nerfs) et par les oligodendrocytes pour les neurones du système nerveux central (encéphale + moelle épinière), et chacune de ces cellules est séparée de ses deux voisines par un petit espace appelé nœud de Ranvier : l'influx nerveux saute alors (origine étymologique de saltatoire) de nœud de Ranvier en nœud de Ranvier, car la myéline joue le rôle d'isolant électrique ce qui permet une conduction beaucoup plus rapide (jusqu'à plus de 100 m/s, au lieu d'environ 1 m/s).
+
+Modulation
+Les potentiels d'action dans le système nerveux sont très souvent couplés de telle façon que ce n'est plus leur profil (amplitude, durée, etc.) qui importe mais les rythmes qu'ils suivent dans leurs émissions, leur fréquence, et le codage de l'information nerveuse se fait par cette fréquence.
+
+Notes et références
+Voir aussi
+Articles connexes
+Potentiel d'action cardiaque
+Potentiel électrochimique de membrane
+Classement thématique des neurosciences
+Rhéobase
+Synapse
+
+Liens externes
+
+Ressources relatives à la santé : Medical Subject Headings WikiSkripta 
+
+ Portail des neurosciences   Portail de la médecine   Portail de la biologie

@@ -1,0 +1,54 @@
+La connectomique est l'établissement et l'étude du connectome, c'est-à-dire de l'ensemble des connexions neuronales du cerveau.
+La connectomique est la production et l'étude des connectomes : des cartes complètes des connexions au sein du système nerveux d'un organisme. Plus généralement, on peut considérer qu'il s'agit de l'étude des schémas de câblage neuronaux, en mettant l'accent sur la façon dont la connectivité structurelle, les synapses individuelles, la morphologie et l'ultrastructure cellulaires contribuent à la constitution d'un réseau. Le système nerveux est un réseau constitué de milliards de connexions et ces connexions sont responsables de nos pensées, émotions, actions, souvenirs, fonctions et dysfonctionnements. Par conséquent, l'étude de la connectomique vise à faire progresser notre compréhension de la santé mentale et de la cognition en comprenant comment les cellules du système nerveux sont connectées et communiquent. Ces structures étant extrêmement complexes, les méthodes de ce domaine utilisent une application de criblage à haut débit d'imagerie neuronale fonctionnelle et structurelle, le plus souvent l'imagerie par résonance magnétique (IRM), la microscopie électronique et les techniques histologiques, afin d'augmenter la vitesse, l'efficacité et la résolution de ces cartes du système nerveux. À ce jour, des dizaines d'ensembles de données à grande échelle ont été collectés, couvrant le système nerveux, y compris les différentes zones du cortex, le cervelet,, la rétine, le système nerveux périphérique et les jonctions neuromusculaires.
+D'une manière générale, il existe deux types de connectomes : les connectomes à macro-échelle et les connectomes à micro-échelle. La connectomique à macro-échelle consiste à utiliser les données de l'IRM fonctionnelle et structurelle pour cartographier les grands trajets de fibres et les zones de matière grise fonctionnelle dans le cerveau en termes de flux sanguin (fonctionnel) et de diffusivité de l'eau (structurel). La connectomique à micro-échelle est la cartographie du connectome complet des petits organismes à l'aide de la microscopie et de l'histologie ; on considère donc là toutes les connexions qui existent dans leur système nerveux central.
+
+Méthodes
+Connectomique à macro-échelle
+Les connectomes à macro-échelle sont généralement collectés à l'aide de l'imagerie par résonance magnétique de diffusion (IRMd) et de l'imagerie par résonance magnétique fonctionnelle (IRMf). Les ensembles de données d'IRMd peuvent couvrir l'ensemble du cerveau, en imagerie de la substance blanche entre le cortex et le sous-cortex. En revanche, les ensembles de données d'IRMf mesurent le débit sanguin cérébral, en tant que marqueur de l'activation neuronale. L'un des avantages de l'IRM est qu'elle fournit des informations in vivo sur la connectivité entre les différentes zones du cerveau. La connectomique à macro-échelle a permis de mieux comprendre divers réseaux cérébraux, notamment les réseaux visuels,, du tronc cérébral,, et du langage,.
+
+Connectomique à micro-échelle
+D'autre part, les connectomes à micro-échelle se concentrent sur une zone beaucoup plus petite du système nerveux avec une résolution beaucoup plus élevée. Ces ensembles de données sont généralement collectés à l'aide de l'imagerie par microscopie électronique et offrent une résolution synaptique unique de circuits locaux entiers. Parmi les jalons de la connectomique à micro-échelle, citons le système nerveux entier du nématode Caenorhabditis elegans, un cerveau entier de mouche et, plus récemment, un cube millimétrique des cortex de la souris et de l'homme.
+
+Outils
+L'IRM est l'un des principaux outils utilisés pour la recherche en connectomique à l'échelle macroscopique. Lorsqu'elles sont utilisées ensemble, un ensemble de données d'IRMf et d'IRMd à l'état de repos fournit une vue complète de la manière dont les régions du cerveau sont structurellement connectées et de l'intensité de leur communication,. Le principal outil de recherche en connectomique à l'échelle microscopique est la préservation chimique du cerveau, suivie de la microscopie électronique en 3D, utilisée pour la reconstruction des circuits neuronaux (en). La microscopie corrélative (en), qui combine la fluorescence avec la microscopie électronique 3D, permet d'obtenir des données plus interprétables, car elle est capable de détecter automatiquement des types de neurones spécifiques et de les tracer dans leur intégralité à l'aide de marqueurs fluorescents.
+Pour voir l'un des premiers micro-connectomes à pleine résolution, visitez le site Open Connectome Project, qui héberge plusieurs ensembles de données sur le connectome, dont l'ensemble de données de 12 To de Bock et al. (2011).
+
+Systèmes modèles
+Outre le cerveau humain, certains des systèmes modèles utilisés pour la recherche en connectomique sont la souris, la drosophile,, le nématode C. elegans,, et la chouette effraie.
+
+Applications
+En comparant des connectomes malades et sains, on peut mieux comprendre certaines psychopathologies, telle la douleur neuropathique, et les thérapies potentielles pour celles-ci. D'une manière générale, le domaine des neurosciences bénéficierait de la normalisation et des données brutes. Les réseaux neuronaux actuels reposent principalement sur des représentations probabilistes des schémas de connectivité. Les matrices de connectivité (diagrammes en damier de la connectomique) ont été utilisées dans la récupération d'un accident vasculaire cérébral pour évaluer la réponse au traitement par stimulation magnétique transcrânienne. De même, les connectogrammes (diagrammes circulaires de la connectomique) ont été utilisés dans des cas de lésions cérébrales traumatiques pour documenter l'étendue des dommages causés aux réseaux neuronaux,Le connectome humain peut être considéré comme un graphe, et les riches outils, définitions et algorithmes de la théorie des graphes peuvent être appliqués à ces graphes. En comparant les connectomes (ou braingraphes) de femmes et d'hommes en bonne santé, Szalkai et al,. ont montré que pour plusieurs paramètres profonds de la théorie des graphes, le connectome structurel des femmes est significativement mieux connecté que celui des hommes. Par exemple, le connectome des femmes a plus d'arêtes, une largeur minimale de bipartition plus élevée, un eigengap (en) plus grand, une couvertureVertex cover minimale de sommets plus grande que celui des hommes. La largeur minimale de bipartition (ou, en d'autres termes, la coupe minimale équilibrée) est une mesure bien connue de la qualité des réseaux informatiques d'interconnexion à plusieurs étages (en), elle décrit les éventuels goulets d'étranglement dans la communication du réseau : Plus cette valeur est élevée, meilleur est le réseau. Le plus grand eigengap montre que le connectome des femmes est un meilleur graphe expansif que le connectome des hommes. La meilleure propriété d'expansion, la plus grande largeur de bipartition minimale et la plus grande couverture de sommet minimale montrent des avantages profonds dans la connectivité du réseau dans le cas du connectome féminin.
+Des mesures locales de différence entre les populations de ces graphes ont également été introduites, par exemple pour comparer les groupes de cas par rapport aux groupes de contrôle[34]. Celles-ci peuvent être trouvées en utilisant soit un test de Student ajusté, soit un modèle de sparsité, dans le but de trouver des connexions statistiquement significatives qui sont différentes parmi ces groupes.
+Les connectomes humains ont une variabilité individuelle, qui peut être mesurée à l'aide de la fonction de distribution cumulative, comme cela a été montré dans la référence. En analysant la variabilité individuelle des connectomes humains dans des zones cérébrales distinctes, on a constaté que les lobes frontal et limbique sont plus conservateurs, et que les bords des lobes temporal et occipital sont plus diversifiés. Une distribution « hybride » conservatrice/diversifiée a été détectée dans le lobule paracentral et le gyrus fusiforme. Des zones corticales plus petites ont également été évaluées : les gyrus précentraux se sont révélés plus conservateurs, tandis que les gyrus postcentraux et temporaux supérieurs étaient très diversifiés.
+
+Comparaison avec la génomique
+Le Projet Génome humain a initialement fait l'objet de plusieurs des critiques susmentionnées, mais il a néanmoins été achevé plus tôt que prévu et a permis de nombreuses avancées en génétique. Certains ont fait valoir que des analogies peuvent être faites entre la génomique et la connectomique, et que nous devrions donc être au moins légèrement plus optimistes quant aux perspectives de la connectomique. D'autres ont critiqué les tentatives d'élaboration d'un connectome à micro-échelle, arguant que nous n'avons pas suffisamment de connaissances sur les endroits où chercher des informations, ou qu'il ne peut être réalisé dans un délai réaliste.
+
+Le jeu EyeWire
+Eyewire est un jeu en ligne développé par le scientifique américain Sebastian Seung (en) de l'Université de Princeton. Il utilise l'informatique sociale (en) pour aider à cartographier le connectome du cerveau. Il a attiré plus de 130 000 joueurs de plus de 100 pays.
+
+Données publiques
+Sites web permettant d'explorer les ensembles de données connectomiques accessibles au public :
+Connectomique à macro-échelle (données sur de jeunes adultes en bonne santé) :
+
+Human Connectome Project Young Adult
+Amsterdam Open MRI Collection
+Harvard Brain Genomic Superstruct ProjectPour une liste plus complète de jeux de données ouverts à grande échelle, consultez cet article.
+Connectomique à micro-échelle :
+
+Whole C. elegans connectome
+NeuPRINT  Fly Hemibrain
+Flywire (whole fly brain)
+MICrONS Explorer (mouse cortical data)
+H01 Browser Release (human cortical data)
+
+Voir aussi
+Dynamic functional connectivity (en)
+List of functional connectivity software (en)
+Human Connectome Project (en)
+Budapest Reference Connectome (en)
+
+Notes et références
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Connectomics  » (voir la liste des auteurs).
+
+ Portail des neurosciences

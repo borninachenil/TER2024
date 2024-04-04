@@ -1,0 +1,958 @@
+[
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "syndrome",
+            "id": "16089555"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Evans",
+            "id": "13336119"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "trouble",
+            "id": "159719"
+        },
+        {
+            "mot": "hématologique",
+            "id": "NULL"
+        },
+        {
+            "mot": "chronique",
+            "id": "402275"
+        },
+        {
+            "mot": "rare",
+            "id": "1843233"
+        },
+        {
+            "mot": "associant",
+            "id": "1991995"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "anémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "hémolytique",
+            "id": "NULL"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immune",
+            "id": "122570955"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "purpura",
+            "id": "111273423"
+        },
+        {
+            "mot": "thrombocytopénique",
+            "id": "NULL"
+        },
+        {
+            "mot": "immunologique",
+            "id": "180612314"
+        },
+        {
+            "mot": "PTI",
+            "id": "14424625"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "parfois",
+            "id": "14886690"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "neutropénie",
+            "id": "NULL"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immune",
+            "id": "122570955"
+        },
+        {
+            "mot": "sans",
+            "id": "16089511"
+        },
+        {
+            "mot": "étiologie",
+            "id": "NULL"
+        },
+        {
+            "mot": "connue",
+            "id": "250661786"
+        }
+    ],
+    [
+        {
+            "mot": "Sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "prévalence",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Europe",
+            "id": "102820584"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "estimée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "individus",
+            "id": "276294"
+        }
+    ],
+    [
+        {
+            "mot": "Description",
+            "id": "414393"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "anémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "hémolytique",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immune",
+            "id": "122570955"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "destruction",
+            "id": "425661"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "globules",
+            "id": "16785475"
+        },
+        {
+            "mot": "rouges",
+            "id": "416747"
+        },
+        {
+            "mot": "GR",
+            "id": "16785499"
+        },
+        {
+            "mot": "provoquant",
+            "id": "26527"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "libération",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "hémoglobine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Hb",
+            "id": "13759268"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "plasma",
+            "id": "434164"
+        },
+        {
+            "mot": "sanguin",
+            "id": "5563419"
+        },
+        {
+            "mot": "causant",
+            "id": "87618"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "raccourcissement",
+            "id": "252814777"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "vie",
+            "id": "431353"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "globules",
+            "id": "16785475"
+        },
+        {
+            "mot": "rouges",
+            "id": "416747"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "jours",
+            "id": "402416"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "destruction",
+            "id": "425661"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "hématies",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "anticorps",
+            "id": "105788554"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "accompagné",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "certain",
+            "id": "414263"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "sources",
+            "id": "77176080"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "thrombopénie",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "Syndrome",
+            "id": "16089555"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Evans",
+            "id": "13336119"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "considéré",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "complication",
+            "id": "100162770"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "anémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "hémolytique",
+            "id": "NULL"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immune",
+            "id": "122570955"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "baisse",
+            "id": "144644787"
+        },
+        {
+            "mot": "variable",
+            "id": "426543"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "plaquettes",
+            "id": "16786279"
+        },
+        {
+            "mot": "sanguines",
+            "id": "5570646"
+        },
+        {
+            "mot": "évolue",
+            "id": "NULL"
+        },
+        {
+            "mot": "parfois",
+            "id": "14886690"
+        },
+        {
+            "mot": "source",
+            "id": "15648314"
+        },
+        {
+            "mot": "insuffisante",
+            "id": "2062505"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "syndrome",
+            "id": "16089555"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Evans",
+            "id": "13336119"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "purpura",
+            "id": "111273423"
+        }
+    ],
+    [
+        {
+            "mot": "Ce",
+            "id": "138967"
+        },
+        {
+            "mot": "purpura",
+            "id": "111273423"
+        },
+        {
+            "mot": "thrombopénique",
+            "id": "NULL"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immun",
+            "id": "95334"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "accompagne",
+            "id": "1981703"
+        },
+        {
+            "mot": "habituellement",
+            "id": "15627245"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "signes",
+            "id": "425465"
+        },
+        {
+            "mot": "hémorragiques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "D'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "rajouter",
+            "id": "87561"
+        }
+    ],
+    [
+        {
+            "mot": "Diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "différentiel",
+            "id": "NULL"
+        },
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "inclut",
+            "id": "2047705"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "microangiopathies",
+            "id": "6085356"
+        },
+        {
+            "mot": "telles",
+            "id": "10055284"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "purpura",
+            "id": "111273423"
+        },
+        {
+            "mot": "thrombotique",
+            "id": "436250"
+        },
+        {
+            "mot": "thrombocytopénique",
+            "id": "NULL"
+        },
+        {
+            "mot": "PTT",
+            "id": "139018"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "syndrome",
+            "id": "16089555"
+        },
+        {
+            "mot": "hémolytique",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "urémique",
+            "id": "NULL"
+        },
+        {
+            "mot": "SHU",
+            "id": "597998"
+        },
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "auto",
+            "id": "15652031"
+        },
+        {
+            "mot": "immune",
+            "id": "122570955"
+        },
+        {
+            "mot": "anémie",
+            "id": "NULL"
+        },
+        {
+            "mot": "hémolytique",
+            "id": "NULL"
+        },
+        {
+            "mot": "autoimmune",
+            "id": "16921406"
+        },
+        {
+            "mot": "Lien",
+            "id": "5814227"
+        },
+        {
+            "mot": "externe",
+            "id": "409051"
+        },
+        {
+            "mot": "Bon",
+            "id": "4319096"
+        },
+        {
+            "mot": "article",
+            "id": "231646648"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "sujet",
+            "id": "10586218"
+        },
+        {
+            "mot": "Bibliographie",
+            "id": "249394043"
+        },
+        {
+            "mot": "Guilherme",
+            "id": "3298847"
+        },
+        {
+            "mot": "Lavras",
+            "id": "11258629"
+        },
+        {
+            "mot": "Costallat",
+            "id": "156523191"
+        },
+        {
+            "mot": "Simone",
+            "id": "3372605"
+        },
+        {
+            "mot": "Appenzeller",
+            "id": "10050816"
+        },
+        {
+            "mot": "Lilian",
+            "id": "88227"
+        },
+        {
+            "mot": "Tereza",
+            "id": "2953880"
+        },
+        {
+            "mot": "Lavras",
+            "id": "11258629"
+        },
+        {
+            "mot": "Costallat",
+            "id": "156523191"
+        },
+        {
+            "mot": "Syndrome",
+            "id": "16089555"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "Evans",
+            "id": "13336119"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "lupus",
+            "id": "6260731"
+        },
+        {
+            "mot": "érythémateux",
+            "id": "NULL"
+        },
+        {
+            "mot": "systémique",
+            "id": "NULL"
+        },
+        {
+            "mot": "présentation",
+            "id": "NULL"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "évolution",
+            "id": "NULL"
+        },
+        {
+            "mot": "Revue",
+            "id": "409672"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "Rhumatisme",
+            "id": "3749227"
+        },
+        {
+            "mot": "Volume",
+            "id": "16090378"
+        },
+        {
+            "mot": "N",
+            "id": "138276"
+        },
+        {
+            "mot": "mai",
+            "id": "457810"
+        },
+        {
+            "mot": "Pages",
+            "id": "124680086"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hématologie",
+            "id": "NULL"
+        }
+    ]
+]

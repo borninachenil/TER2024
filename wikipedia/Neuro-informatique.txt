@@ -1,0 +1,195 @@
+La neuro-informatique est un champ de recherche visant à l'organisation des données des neurosciences par l'application de modèles informatiques et d'outils analytiques. Ces domaines de recherche sont importants pour l'intégration et l'analyse d’un nombre croissant de données expérimentales tant par le volume que par la complexité et la précision. Les bioinformaticiens fournissent des outils informatiques, des modèles mathématiques, et créent des bases de données interopérables pour les cliniciens et les chercheurs. La neuroscience est un champ hétérogène, composé de nombreuses et diverses sous-disciplines (par exemple, la psychologie cognitive, les neurosciences comportementales ou encore la génétique comportementale). Pour que la compréhension du cerveau puisse être approfondie, il est nécessaire que toutes ces sous-disciplines soient en mesure de partager leurs données et conclusions. La neuro-informatique tente de faciliter ce processus.
+La neuro-informatique se situe à l'intersection des neurosciences et des sciences de l'information. Des exemples précédents, comme la génomique, ont démontré l'efficacité des bases de données librement distribuées et l'application de modèles théoriques et informatiques pour résoudre des problèmes complexes. Pour la neuro-informatique, ces dispositifs doivent permettre aux chercheurs de confirmer plus facilement leurs théories de travail par modélisation informatique. En outre, la neuro-informatique favorise la recherche collaborative. L’étude du cerveau se fait de surcroit à de multiples échelles.
+Il existe trois principaux objectifs pour la neuro-informatique :
+
+le développement d'outils et de bases de données pour la gestion et le partage de données des neurosciences à tous les niveaux d'analyse,
+le développement d'outils pour l'analyse et la modélisation des données des neurosciences,
+le développement de modèles informatiques du système nerveux et des processus neuronaux.Lors de la dernière décennie, de vastes quantités de données diverses sur le cerveau ont été recueillies par de nombreux groupes de recherche. Le problème s’est rapidement posé de savoir comment intégrer les données provenant de milliers de publications en un modèle cohérent afin de permettre la création d’outils efficaces facilitant la poursuite des recherches. Les données issues de la biologie et des neurosciences sont fortement interconnectées et complexes, et pour cette raison, l'intégration représente un défi important pour les scientifiques.
+La combinaison de la recherche informatique et sur le cerveau fournit des avantages pour les deux domaines. D'une part, l'informatique facilite le traitement des données du cerveau et la manipulation de données, en fournissant de nouvelles technologies électroniques et logiciels pour l'organisation des bases de données, pour la modélisation et la communication des résultats issus de la recherche sur le cerveau. D'autre part, les découvertes dans le domaine des neurosciences vont permettre à terme le développement de nouvelles technologies de l'information (TI).
+
+Histoire
+À partir de 1989, l'Institut national de la santé mentale des États-Unis (United States National Institute of Mental Health - NIMH), l'Institut national des addictions aux drogues (National Institute of Drug Abuse - NIDA) et la fondation nationale de la science (National Science Foundation - NSF), ont financé l'académie nationale des sciences et l’Institut de médecine (National Academy of Sciences - Institute of Medicine) pour analyser l’opportunité de créer des bases de données, de partager les données neuroscientifiques et pour examiner comment les technologies de l'information pourraient permettre de créer les outils rendus nécessaires par l'augmentation du volume et de la complexité des données neuroscientifiques. Les conclusions de l’étude ont été rendues en 1991 (“Mapping The Brain And Its Functions. Integrating Enabling Technologies Into Neuroscience Research." National Academy Press, Washington, D.C. ed. Pechura, C.M., and Martin, J.B.) Le rapport a eu pour conséquence la création du "Human Brain Project" (HBP) par le NIMH, désormais dirigé par Allan Leshner. Les premières subventions furent attribuées en 1993. Le HBP a été dirigée par Koslow en coopération avec d’autres instituts comme le NIH, la NSF, la National Aeronautics and Space Administration et le ministère de l'Énergie. Le HBP a légèrement précédé le développement fulgurant d’internet. De 1993 à 2004, le budget du programme a augmenté pour atteindre plus de 100 millions de dollars de subventions.
+L’internationalisation de l'HBP et de la neuro-informatique s’est effectuée grâce au soutien de l'Union européenne et de l'organisation de coopération et de développement économiques de l’OCDE. Deux opportunités se sont révélées cruciales en 1996.
+
+La première était l'existence du groupe de travail États-Unis / Commission européenne sur les Biotechnologies coprésidé par Mary Clutter de la NSF. Dans le cadre du mandat de ce comité, dont Koslow était un membre. Le Comité États-Unis-Europe pour la neuro-informatique fut créé et coprésidé par Koslow. Ce comité a abouti à une initiative de la Commission européenne pour initier la neuro-informatique et un soutien actif aux activités de recherche et de formation dans le domaine de la neuro-informatique.
+Une seconde chance pour l’internationalisation de la neuro-informatique est survenue lorsqu'il a été demandé aux gouvernements participant au Mega Science Forum (MSF) de l'OCDE s'is avaient des nouvelles initiatives scientifiques à présenter pour la coopération scientifique dans le monde entier. Le bureau politique scientifique et technologique de la Maison-Blanche a demandé aux agences de rencontrer le gouvernement fédéral au NIH pour décider si une coopération internationale pouvait être bénéfique. Le NIH a tenu une série de réunions au cours desquelles des propositions de différents organismes ont été discutées. La proposition de recommandation des États-Unis pour le MSF était une combinaison des propositions de la NSF et du NIH. Jim Edwards, de la NSF a soutenu la nécessité de créer des bases de données et de les rendre accessibles dans le domaine de la biodiversité. Koslow a pour sa part proposé le HBP comme un modèle pour le partage de données neuroscientifiques et a proposé le nouveau nom de neuro-informatique.Les deux initiatives ont été combinées pour former la proposition des États-Unis sur l'« informatique biologique ». Cette initiative a été soutenue par le bureau politique scientifique et technologique de la Maison Blanche et a présenté au MSF de l’OCDE par Edwards et Koslow. Un comité du MSF a été créé sur l'informatique biologique avec deux sous-comités : 1. Biodiversité (président, James Edwards, NSF), et 2. neuro-informatique (président, Stephen Koslow, NIH). Au bout de deux ans le sous-comité neuroinformatique du Groupe de travail a publié un rapport sur la biologie faisant la promotion d’un effort mondial en neuro-informatique. Koslow, en collaboration avec le NIH et le Bureau politique scientifique et technologique de la Maison Blanche a participé à l'établissement d'un nouveau groupe de travail pour développer des recommandations spécifiques pour soutenir les recommandations plus générales du premier rapport. Le Forum mondial de la science (Global Science Forum - GSF, renommé de MSF) de l'OCDE a appuyé cette recommandation.
+
+Le centre international de coordination de la neuro-informatique
+Ce comité a présenté 3 recommandations aux gouvernements membres du GSF. Ces recommandations sont les suivantes :
+
+Des programmes nationaux de neuro-informatique devraient être poursuivis ou entrepris dans chaque pays et devraient disposer d’un centre de coordination national pour à la fois fournir des ressources de recherche à l'échelle nationale et pour servir de contact pour la coordination nationale et internationale.
+Un Fonds international de coordination neuro-informatique (International Neuroinformatics Coordinating Facility INCF) devrait être établi. Le INCF coordonnera la mise en œuvre d'un réseau de neuro-informatique mondial grâce à l'intégration de centres de neuro-informatique nationales.
+Un nouveau régime de financement international devrait être établi. Ce système devrait permettre d'éliminer les barrières nationales et disciplinaires et de fournir une approche plus efficace pour la recherche collaborative et globale et le partage de données. Dans ce nouveau système, chaque pays devra financer ses chercheurs participants au programme.Le comité de la neuro-informatique GSF a ensuite développé un plan d'affaires pour l'opération, le soutien et la mise en place du INCF qui a été appuyé et approuvé par les ministres des Sciences GSF à sa réunion de 2004. En 2006, le INCF a été créé et son bureau central établi et mis en service à l'Institut Karolinska à Stockholm en Suède sous la direction de Sten Grillner. Seize pays (Australie, Canada, Chine, République tchèque, Danemark, Finlande, France, Allemagne, Inde, Italie, Japon, Pays-Bas, Norvège, Suède, Suisse, Royaume-Uni et États-Unis), et la Commission de l'UE ont établi une base juridique pour la INCF et le Programme international en neuro-informatique (PIN). À ce jour, quatorze pays (République tchèque, Finlande, France, Allemagne, Italie, Japon, Norvège, Suède, Suisse et États-Unis) sont membres de l'INCF. L'adhésion est en cours pour plusieurs autres pays.
+L'objectif de l’INCF est de coordonner et de promouvoir les activités internationales en neuro-informatique. L’INCF contribue au développement et au maintien des mécanismes de base de données et de l'infrastructure informatique et de soutien pour les applications en neurosciences. Le système est prévu pour fournir un accès à toutes les données du cerveau humain librement accessibles et des ressources à la communauté internationale de la recherche. La tâche la plus générale de l’INCF est de fournir des conditions pour le développement d'applications pratiques et flexibles pour les laboratoires en neurosciences afin d'améliorer nos connaissances sur le cerveau humain et de ses troubles.
+
+Société du groupe d'information des neurosciences du cerveau
+Sur la base de toutes ces activités, Huda Akil, le président 2003 de la Society for Neuroscience (SfN) a établi le Groupe d'information sur le cerveau (Brain Information Group BIG) pour évaluer l'importance de la neuro-informatique pour les neurosciences et spécifiquement pour la SfN. Après le rapport du BIG, la SfN a également créé un comité de neuro-informatique.
+En 2004, la SfN a annoncé la création de la base de données de neurosciences passerelle (NDG). Il s’agit d’une ressource universelle pour les neuroscientifiques à travers laquelle presque toutes les bases de données et des outils neurosciences peuvent être atteints. Le NDG a été établi avec le financement du NIDA, NINDS et NIMH. La base Neuroscience Database Gateway a migré vers une nouvelle plate-forme renforcée : the Neuroscience Information Framework (NIF) http://www.neuinfo.org. Financé par le NIH Neuroscience Blueprint, le NIF est un portail dynamique offrant un accès à des ressources en neurosciences pertinentes (données, outils, matériaux) à partir d'une seule interface de recherche. Le NIF se fonde sur la Neuroscience Database Gateway, mais fournit en plus un ensemble unique d'outils adaptés spécialement pour les neuroscientifiques: un catalogue plus large, la possibilité de rechercher plusieurs bases de données directement à partir de la page d'accueil du NIF, un indice web personnalisé des ressources en neurosciences et une fonction de recherche de la littérature axée sur les neurosciences.
+
+Modèles informatiques du système nerveux et des processus neuronaux
+Les méthodes d’apprentissage machine sont en partie issues des neurosciences et sont utilisées notamment pour traiter des données dégradées ou non labellisées pour pouvoir en extraire une information utile. Ces méthodes permettent également de créer des algorithmes dynamiques s’adaptant à des changements de situation. On distingue deux types d’algorithme d’apprentissage machine : l’apprentissage supervisé et l’apprentissage non supervisé. Des méthodes intermédiaires telles que l’apprentissage par renforcement existe. Les réseaux neuronaux sont beaucoup utilisés pour la reconnaissance de patterns comme pour la compréhension des images par exemple. La mémoire adressable par contenu (CAM) est une autre application issue de la neuro-informatique.
+La neuro-informatique est une discipline de l’informatique relativement récente cependant cette branche est déjà largement enseignée au sein des universités et instituts de recherche.
+
+Modélisation d’un réseau de neurones
+Il existe de nombreux modèle de réseau de neurones artificiels. Les modèles simulent des séries de neurones en réseaux et leurs interactions. Ces neurones peuvent être plus ou moins proches des neurones biologiques suivant les propriétés simulées. On peut citer parmi ces différents types de modèle :
+
+Perceptron (Frank Rosenblatt) et perceptron multicouche
+Hétéro-association
+Rétropropagation du gradient
+Réseau de neurones à base radiale (RBF)Réseau avec mécanisme de concurrence :
+
+Auto-organisateur de Kohonen (Teuvo Kohonen)
+Méthode des k plus proches voisins
+Learning vector quantization (LVQ)
+Théorie de la Résonance Adaptative (ART)Réseau de neurones récurrents :
+
+Réseau de neurones de Hopfield (John Hopfield)
+Auto-Association
+Machine de Boltzmann (Terrence J. Sejnowski, Geoffrey Hinton)
+
+Voir aussi
+Réseau de neurones artificiels
+Réseau de neurones (biologie)
+
+Collaboration avec d'autres disciplines
+La neuro-informatique est à l’interface des domaines suivants :
+
+neurosciences
+informatique
+biologie
+psychologie expérimentale
+médecine
+ingénierie
+sciences physiques
+mathématiques
+chimieLa biologie concerne les données moléculaires à partir de gènes à l’expression spécifique dans la cellule. La médecine et l'anatomie se rapportent à la structure de l'anatomie et des synapses des systèmes cérébraux. L’ingénierie - électrophysiologie comprend de simples canaux jusqu’aux électroencéphalographies sur la surface complète du cuir chevelu, ou encore l'imagerie cérébrale. L’informatique recouvre les bases de données, les logiciels, les sciences mathématiques. La chimie étudie des modèles de neurotransmetteurs, etc. Les neurosciences utilisent toutes les études expérimentales et théoriques susmentionnées pour comprendre le fonctionnement du cerveau à travers ses différents niveaux. Les spécialistes médicaux et biologiques aident à identifier les types de cellules uniques, leurs caractéristiques et les connexions anatomiques. La fonction et les structures de molécules organiques complexes, y compris une myriade de mécanismes biochimiques, moléculaires, génétiques et qui régissent le fonctionnement du cerveau sont déterminés par des spécialistes en chimie et en biologie cellulaire. L'imagerie cérébrale détermine l'information structurale et fonctionnelle pendant l'activité mentale et comportementale. Les spécialistes en biophysique et en physique sont responsables de l'étude de la physiologie des cellules neurales dans des réseaux neuronaux. Les données de ces domaines de recherche sont analysées et disposés dans des bases de données et des modèles neuronaux afin d'intégrer divers éléments dans un système sophistiqué. La neuro-informatique est donc le point de rencontre de nombreuses disciplines.
+Les neurosciences fournissent les types de données et d'informations suivantes à partir desquels opère la neuro-informatique :
+
+Les données moléculaires et cellulaires (canal ionique, potentiels d'action, la génétique, la cytologie de neurones, les voies de protéines),
+Les données provenant des organes et systèmes (cortex visuel, la perception, l'audition, le système sensoriel, la douleur, le goût, la psychomotricité, la moelle épinière),
+Données cognitives (le langage, l'émotion, l'apprentissage moteur, le comportement sexuel, la prise de décision, les neurosciences sociales),
+L'information de développement (la différenciation neuronale, la survie cellulaire, la formation synaptique, la psychomotricité, les blessures et la régénération, le guidage axonal, les facteurs de croissance),
+Informations sur les maladies et le vieillissement (système nerveux autonome, la dépression, l'anxiété, la maladie de Parkinson, les addictions, la perte de mémoire),
+Données d'ingénierie (interface cerveau-ordinateur),
+Les données issues des neurosciences computationnelles (modèles de différents systèmes neuronaux, des courants membranaires, des protéines de l'apprentissage et la mémoire).La neuro-informatique utilise des bases de données, Internet et des systèmes de visualisation des données et analyses produites par les neurosciences comme susmentionné.
+
+Programmes et groupes de recherche
+Neuroscience Information Framework
+Le Neuroscience Information Framework (NIF) est une initiative des NIH pour la recherche en neurosciences, qui a été créé en 2004. Contrairement aux moteurs de recherche généraux, NIF offre un accès plus profond à un ensemble plus ciblé de ressources qui sont pertinentes pour les neurosciences. Les algorithmes de recherche sont spécialement adaptés aux neurosciences et permettent l'accès à du contenu qui est traditionnellement «caché» aux moteurs de recherche Web classiques. Le NIF est un inventaire dynamique des bases de données des neurosciences, annoté et intégré avec un système unifié de terminologie biomédicale (par exemple NeuroLex). NIF supporte les requêtes à travers de multiples échelles de structure biologique et de multiples niveaux de fonction biologique, permettant de rechercher plus facilement et de rendre les résultats plus compréhensibles. NIF fournira également un registre qui permettra aux fournisseurs de ressources de communiquer la disponibilité de ressources appropriées pour la recherche en neurosciences. NIF n’est pas destiné à être un « dépôt » lui-même, mais un moyen de divulgation et de recherche de ressources non ou difficilement disponibles autrement.
+
+Des gènes à la cognition
+Le projet des gènes à la cognition (Genes to Cognition Project) est un programme de recherche en neurosciences qui étudie les gènes, le cerveau, leur comportement et leurs liens réciproques. Le projet consiste en une étude à grande échelle de la fonction des molécules présentes dans les synapses. Ceci est principalement axé sur les protéines qui interagissent avec le récepteur de NMDA qui est un récepteur du neurotransmetteur glutamate. Le glutamate est nécessaire aux processus de plasticité synaptique tels que la potentialisation à long terme (LTP). Bon nombre des techniques utilisées produisent de grandes quantités d’information, ce qui a soulevé de nombreuses questions informatiques pour pouvoir gérer efficacement ces flux de données. Le programme est principalement géré par le professeur Seth Grant à l'Institut Wellcome Trust Sanger, mais il existe beaucoup d'autres équipes de collaborateurs à travers le monde.
+
+Neurogenetics: GeneNetwork
+Le projet Genenetwork a commencé en tant que composant du Human Brain Project du NIH en 1999 avec un accent sur l'analyse génétique de la structure et la fonction du cerveau. Ce programme international se compose de bases de données étroitement intégrées du génome et phénome pour l'homme, la souris et le rat. Les bases de données sont conçues spécifiquement pour des systèmes et réseaux de grande échelle et des études reliant des variations génétiques à des différences dans l'ARNm et l'expression de protéines et de différences dans la structure et le comportement du système nerveux central. La grande majorité des données sont en libre accès. GeneNetwork est lié au site web de neuro-imagerie (the Mouse Brain Library) qui contient des images à haute résolution pour des milliers de souches génétiquement définies de souris.
+
+Projet Blue Brain
+Le projet Blue Brain a été fondée en mai 2005, et utilise un supercalculateur 8 000 Blue Gene / L développé par IBM. À l'époque, ce fut l'un des superordinateurs les plus rapides dans le monde. Le projet comprend :
+
+des bases de données : des modèles 3D des neurones, des synapses, des voies synaptiques, des microcircuits, des modèles informatiques de neurones, des modèles de neurones virtuels.
+des systèmes de visualisation des résultats de simulation 2D et 3D sont en cours d'élaboration ainsi qu’un système de création de microcircuits.
+des simulations : un environnement de simulation pour les grandes simulations à l'échelle de neurones morphologiquement complexes sur les 8 000 processeurs du supercalculateur Blue Gene d'IBM.
+des simulations et des expériences pour vérifier les modèles de calcul et explorer les prédictions à l'échelle de microcircuits néocorticales.L’objectif du projet Blue Brain est de comprendre le fonctionnement et dysfonctionnements du cerveau des mammifères grâce à des simulations détaillées. Le projet Blue Brain encourage les chercheurs à construire leurs propres modèles de différentes régions du cerveau chez les différentes espèces à différents niveaux de détail à l'aide du logiciel Blue Brain fourni pour la simulation sur Blue Gene. Ces modèles seront déposés dans une base de données Internet à partir de laquelle le logiciel Blue Brain peut extraire et connectez modèles ensemble pour assembler les différentes régions du cerveau et commencer les premières simulations de cerveau complet.
+
+Portail pilote de neuro-informatique
+Le projet fait partie d'un effort plus vaste visant à améliorer l'échange de données en neurosciences, des outils d'analyse de données, et des logiciels de modélisation. Le portail est soutenu par de nombreux membres du Groupe de travail de l'OCDE pour la neuro-informatique. Le portail pilote de neuro-informatique est promu par le Ministère allemand de la science et l'éducation.
+
+The Neuronal Time Series Analysis (NTSA)
+Le NTSA est un ensemble d'outils, de techniques et de normes visant à répondre aux besoins des neuroscientifiques qui travaillent avec des données de séries chronologiques neuronale. Le but de ce projet est de développer le système d'information qui gèrera le stockage, l'organisation, la recherche, l'analyse et le partage des données neuronales expérimentales et simulées. Le but est de développer un ensemble d'outils, de techniques et de normes afin de satisfaire les besoins des neuroscientifiques qui travaillent avec des données neuronales.
+
+Centre de documentation national de neuro-informatique du Japon
+La plate-forme Visiome est un service de recherche en neuro-informatique qui donne accès à des modèles mathématiques, des données expérimentales, des bibliothèques d'analyse et des ressources connexes.
+Un portail en ligne pour le partage de données neurophysiologique est également disponible à BrainLiner.jp dans le cadre du Programme de recherche stratégique MEXT pour les sciences du cerveau (SRPBS).
+
+Projet CARMEN
+Le projet de Carmen est un projet de recherche présent sur 11 universités au Royaume-Uni visant à utiliser des grilles informatiques pour permettre aux neuroscientifiques d’archiver leurs données dans une base de données structurée, en les rendant par là même largement accessible pour des recherches ultérieures et pour les développeurs d'algorithmes.
+
+L'Atlas cognitif
+L’atlas cognitif est un projet de développement d'une banque commune de connaissances dans les sciences cognitives et les neurosciences. Celle-ci comprend deux types de données : les tâches et les concepts, avec leurs définitions et propriétés, mais également leurs relations. Une caractéristique importante du site est la capacité de citer la littérature pour des assertions et de discuter de leur validité. Le projet contribue à NeuroLex et au Neuroscience Information Framework, ce qui permet un accès programmatique à la base de données. De fait, le projet est construit autour de technologies du web sémantique.
+
+Groupes de recherche
+L'Institut de neuro-informatique (INI) a été créé à l'Université de Zurich à la fin de 1995. La mission de l'Institut est de découvrir les principes clés du cerveau et de les implémenter dans des systèmes artificiels interagissant intelligemment avec le monde réel.
+Le Centre pour la neuro-informatique THOR a été créé en avril 1998 par le département de modélisation mathématique de l’Université technique du Danemark. Outre la poursuite d’objectifs de recherche indépendants, le Centre THOR accueille un certain nombre de projets connexes concernant les réseaux de neurones, la neuro-imagerie fonctionnelle, le traitement du signal et le traitement des signaux biomédicaux.
+Le programme d'État des Pays-Bas de neuro-informatique a commencé à la lumière du Forum mondial de l'OCDE des sciences dont l'objectif est de créer un programme mondial en neuro-informatique.
+Shun-ichi Amari, Laboratoire de Neuroscience mathématique, RIKEN Brain Science Institute Wako, Saitama, au Japon. La cible du Laboratoire de Neuroscience mathématique est d'établir les bases mathématiques des calculs effectués par le pour permettre la construction d'un nouveau type de science de l'information.
+Gary Egan, neuro-imagerie et neuro-informatique, Howard Florey Institute, Université de Melbourne, Melbourne, Australie. Scientifiques de l'Institut utilisent des techniques d'imagerie du cerveau, telles que l'imagerie par résonance magnétique, pour révéler l'organisation des réseaux cérébraux impliqués dans la pensée humaine.
+Andreas VM Herz Computational Neuroscience, ITB, Université Humboldt de Berlin, Berlin Allemagne. Ce groupe se concentre sur la neurobiologie computationnelle, en particulier sur la dynamique et les capacités de traitement du signal des systèmes avec neurones impulsionnels.
+Nicolas Le Novere, EBI Computational neurobiologie, EBI-EMBL Hinxton, Royaume-Uni. L'objectif principal du groupe est de construire des modèles réalistes de la fonction neuronale à différents niveaux, de la synapse au micro-circuit, basé sur la connaissance précise des fonctions moléculaires et interactions (Systems Biology).
+Le Groupe neuro-informatique de Bielefeld a été actif dans le domaine des réseaux de neurones artificiels depuis 1989. Les programmes de recherche en cours au sein du groupe sont axés sur l'amélioration des interfaces homme-machine, des commandes à retour de force de robot, des expériences d’interface par le regard, la vision machinelle, la réalité virtuelle et les systèmes distribués.
+Hanchuan Peng, Institut Allen Brain Science, Seattle, États-Unis. Ce groupe a mis l'accent sur l'utilisation de techniques d'imagerie informatique à grande échelle et l'analyse des données pour reconstruire des modèles de neurones simples et les cartographier dans le cerveau de différents animaux.Laboratoire de neurosciences computationnelles intrinsèques (LOCEN), Institut des sciences cognitives et des technologies, le Conseil national italien de recherche (CNR-ISTC), Rome, Italie. Ce groupe, fondé en 2006 et actuellement dirigé par Gianluca Baldassarre, a deux objectifs : (a) la compréhension des mécanismes cérébraux qui sous-tendent l'apprentissage et l'expression de comportement sensori-moteur, les motivations connexes et les mécanismes de cognition de niveau supérieur basés sur elle, sur la base de modèles de calcul intrinsèques, (b) à transférer les connaissances acquises vers la construction de contrôleurs innovants pour les robots humanoïdes autonomes capables d'apprendre de façon ouverte sur la base de motivations intrinsèques et extrinsèques.
+
+Bibliographie
+Computing the Brain: A Guide to Neuroinformatics de Michael A. Arbib et Jeffrey S. Grethe (2001),  (ISBN 978-0123885432)
+Electronic Collaboration in Science (Progress in Neuroinformatics Research Series) de Stephen H. Koslow et Michael F. Huerta (2000),  (ISBN 978-1138003187)
+Databasing the Brain: From Data to Knowledge (Neuroinformatics) de Steven H. Koslow et Shankar Subramaniam, (2005),  (ISBN 978-0471309215)
+Neuroinformatics: An Overview of the Human Brain Project (Progress in Neuroinformatics Research Series) de Stephen H. Koslow et Michael F. Huerta (1997),
+Neuroscience Databases: A Practical Guide par Rolf Kötter (2002),
+Biomedical Informatics: Computer Applications in Health Care and Biomedicine (Health Informatics) de James J. Cimino et Edward H. Shortliffe. (2006),
+Computational Neuroanatomy: Principles and Methods édité par Giorgio Ascoli (2002),
+Observed Brain Dynamics de Partha P. Mitra et Hemant Bokil (2007),  (ISBN 978-0195178081)
+Neuroinformatics In: Methods in Molecular Biology. Ed. Chiquito J. Crasto, (2007),
+Principles of Computational Modelling in Neuroscience par David Steratt et al. (2011)
+Raúl Rojas: Theorie der neuronalen Netze, Springer-Lehrbuch, Berlin 1996,  (ISBN 3-540-56353-9) (Version anglaise en ligne)
+R. Beale und T. Jackson: Neural Computing an Introduction, Adam Hilger, Bristol 1990
+IBM will das Gehirn nachbauen. heise. 2008.
+JA. Hertz, A. Krogh und RG. Palmer : Introduction to the Theory of Neural Computation, Addison-Wesley, 1991
+P.D. Wassermann : Advanced methods in neural Computing, Van Nostrand Reinhold, New York 1993,  (ISBN 0-442-00461-3)
+A. Zell : Simulation neuronaler Netze, Addison Wesley, 1994,  (ISBN 978-3-486-24350-5)
+B. Lenze : Einführung in die Mathematik neuronaler Netze, Logos Verlag, Berlin 2009, dritte Auflage,  (ISBN 3-89722-021-0)
+Simon Haykin : Neural Networks – A Comprehensive Foundation , Prentice Hall, 6th July 1998,  (ISBN 0-13-147139-2)
+Christof Koch : Biophysics of Computation: Information Processing in Single Neurons, Oxford U. Press, 1999,  (ISBN 0-19-518199-9)
+
+Revues scientifiques
+Frontiers in Neuroinformatics
+Neuroinformatics
+Journal of Computational Neuroscience
+PLoS Computational Biology
+Brain Informatics
+Biological Cybernetics
+Brain Topography
+ Neural Computation
+Journal on Web Semantics
+Journal of Integrative Neuroscience
+Neural Information Processing
+Interdisciplinary Description of Complex Systems
+Neuron
+Science
+
+Technologies et développements
+Les principales tendances technologiques en neuro-informatique sont :
+
+L’application de l'informatique pour la construction de bases de données, d’outils et de réseaux en neurosciences
+Analyse et modélisation de systèmes neuronaux.Afin d'organiser et de travailler avec les données neuronales les scientifiques ont besoin d'utiliser une terminologie standard et un atlas qui décrivent précisément les structures cérébrales et leurs relations.
+
+Le traçage des neurones et la reconstruction de leurs connexions est une technique essentielle pour établir des modèles numériques de la morphologie des neurones. Une telle morphologie est utile pour la classification des neurones et les simulations.
+BrainML est un système qui fournit un metaformat XML standard pour l'échange de données en neurosciences.
+Le Réseau de recherche en informatique biomédicale (BIRN) est un exemple de système de grille pour les neurosciences. BIRN est une communauté virtuelle de ressources partagées distribuée géographiquement offrant un vaste éventail de services pour faire progresser le diagnostic et le traitement des maladies. BIRN permet de combiner les bases de données, les interfaces et les outils dans un seul environnement.
+Budapest Reference Connectome est un outil de visualisation 3D basé sur le Web pour parcourir les connexions dans le cerveau humain. Les nœuds et les connexions sont calculés à partir de l'ensemble des données d'IRM du projet Connectome humain (Human Connectome Project).
+Le projet GeneWays  concerne la morphologie cellulaire et les circuits. GeneWays est un système d'extraction automatique, d'analyse, de visualisation et d'intégration des données moléculaires à partir de la littérature scientifique. Le système met l'accent sur les interactions entre les substances et les actions moléculaires, offrant une représentation graphique des informations recueillies et permet aux chercheurs d'examiner et de rectifier plus aisément l'information intégrée.
+Base de données des microcircuits du néocortex (NMDB). Une base de données variée sur le cerveau comprenant aussi bien les cellules que les structures complexes. Les chercheurs sont en mesure non seulement d'ajouter des données à la base de données, mais aussi d'acquérir et de modifier.
+SenseLab. SenseLab est un effort à long terme pour construire des modèles multidisciplinaires intégrés de neurones et de systèmes neuronaux. Le projet a commencé en 1993 dans le cadre du Human Brain Project. SenseLab contient six bases de données connexes qui appuient la recherche expérimentale et théorique sur les propriétés des membranes qui interviennent dans le traitement des informations dans les cellules nerveuses, en utilisant la voie olfactive en tant que système modèle.
+BrainMaps.org est un Atlas interactif du cerveau numériques à haute résolution utilisant une base de données à haute vitesse et un microscope virtuel basé sur plus de 12 millions de mégapixels d’images numérisées de plusieurs espèces, y compris les humains.Une autre approche pour la cartographie du cerveau est l'atlas probabiliste obtenu à partir de données réelles de groupes différents de personnes, formés par des facteurs spécifiques, comme l'âge, le sexe, malades, etc. Cette démarche fournit des outils plus souples pour les recherches sur le cerveau et permettent d'obtenir des résultats précis et plus fiables, qui ne peuvent être réalisés qu’avec l'aide d'atlas du cerveau traditionnels.
+
+Références
+Voir aussi
+Articles connexes
+Neurosciences computationnelles
+Neurosciences des systèmes
+Human Brain Project (projet européen)
+Neuroéthologie
+Brain Activity Map Project
+
+Bibliographie
+Adee, S., « Reverse Engineering the Brain », Spectrum, IEEE, vol. 45, no 6,‎ 2008, p. 51–53 (DOI 10.1109/MSPEC.2008.4531462)
+INCF Strategy Overview 2008-2010, 2010
+Daniel Gardner and Gordon M. Shepherd, « A gateway to the future of Neuroinformatics », Neuroinformatics, vol. 2, no 3,‎ 2004, p. 271–274 (PMID 15365191, DOI 10.1385/NI:2:3:271)
+Ascoli GA, De Schutter E et Kennedy DN, « An information science infrastructure for neuroscience », Neuroinformatics, vol. 1, no 1,‎ 2003, p. 1–2 (PMID 15055390, DOI 10.1385/NI:1:1:001)
+Society for neuroscience Annual Report. Navigating a changing landscape. FY2006
+Stephen H. Koslow, Michael F. Huerta, Neuroinformatics. An overview of the Human Brain Project
+Beltrame F et Koslow SH, « Neuroinformatics as a megascience issue », IEEE Transactions on Information Technology in Biomedicine, vol. 3, no 3,‎ septembre 1999, p. 239–40 (PMID 10719488, DOI 10.1109/4233.788587)
+(en) Steven H. Koslow et Shankar Subramaniam, Databasing the Brain : From Data to Knowledge, (Neuroinformatics), Hoboken, John Wiley & Sons, 2005, 466 p. (ISBN 0-471-30921-4)
+M. A. Arbib and J. S. Grethe, Computing the Brain, A Guide to Neuroinformatics. San Diego, CA, USA, 2001.
+
+Liens externes
+
+ Portail des neurosciences

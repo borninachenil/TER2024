@@ -1,0 +1,35 @@
+La plasticité fonction du temps d'occurrence des impulsions (en anglais : Spike-timing-dependent plasticity, STDP) est un processus de modification du poids des synapses. Cette modification dépend du moment de déclenchement du potentiel d'action dans les neurones pré- et post-synaptique. Ce processus permettrait d'expliquer partiellement le développement cérébral et la mémorisation, en provoquant potentialisation à long terme (en anglais : Long-term potentiation, LTP) et dépression à long terme (en anglais : Long-term depression, LTD) des synapses.
+
+Processus
+La STDP est une interprétation de la théorie de Hebb, souvent résumée par la formule : « des neurones qui s'excitent ensemble se lient entre eux. ». L'objectif de ce mécanisme de plasticité est de renforcer les connexions synaptiques où les activations du neurone pré-synaptique mènent aux activations du neurone post-synaptique et de diminuer les connexions où le neurone pré-synaptique n'a pas d'influence sur les activations du neurone post-synaptique.
+
+Modélisation
+La STDP s'implémente dans les réseaux de neurones à impulsions pour modéliser un processus d'apprentissage non supervisé et local (c'est-à-dire que la mise à jour des poids synaptiques ne dépend uniquement que des deux neurones reliés). Elle permet aux réseaux de neurones d'apprendre, sans supervision, des caractéristiques propres aux données d'entrées,,,.
+Différentes implémentations existent, plus ou moins fidèles aux observations biologiques, et leur utilisation varie selon les besoins, l'architecture du réseau ou encore le modèle de neurone utilisé.
+
+Règle biologique
+La règle biologique est la plus proche du mécanisme de plasticité observé dans notre cerveau. La mise à jour des poids d'une connexion synaptique dépend de la différence entre les temps d'occurrence des impulsions et peut se formuler de la manière suivante :
+ΔW={A+×exp⁡((tpre−tpost)τ),if tpost>tpreA−×exp⁡((tpost−tpre)τ),if tpost<tpre{\displaystyle \Delta W={\begin{cases}A_{+}\times \exp({(\mathrm {tpre} -\mathrm {tpost} ) \over \tau }),&{\text{if }}\mathrm {tpost} >\mathrm {tpre} \\A_{-}\times \exp({(\mathrm {tpost} -\mathrm {tpre} ) \over \tau }),&{\text{if }}\mathrm {tpost} <\mathrm {tpre} \end{cases}}}
+avec W{\displaystyle W} les poids synaptiques, A+{\displaystyle A_{+}} et A−{\displaystyle A_{-}} les taux d'apprentissages, tpre{\displaystyle \mathrm {tpre} } et tpost{\displaystyle \mathrm {tpost} } les temps d'occurrences des impulsions des neurones pré et post-synaptiques, et τ{\displaystyle \tau } la constante de temps.
+
+Règle additive
+Une simplification de la règle biologique peut être réalisée en s'abstrayant des temps exacts d’occurrences des impulsions :
+ΔW={A+,if tpost>tpreA−,if tpost<tpre{\displaystyle \Delta W={\begin{cases}A_{+},&{\text{if }}\mathrm {tpost} >\mathrm {tpre} \\A_{-},&{\text{if }}\mathrm {tpost} <\mathrm {tpre} \end{cases}}}
+Cette simplification dépend uniquement du signe de tpost−tpre{\displaystyle \mathrm {tpost} -\mathrm {tpre} }, ce qui permet notamment de diminuer la complexité de calcul.
+
+Règle multiplicative
+Une autre adaptation de la STDP améliore la règle additive en ajoutant des termes pour contrôler la saturation des poids :
+ΔW={A+×exp⁡(−βw−wminwmax−wmin),if tpost>tpreA−×exp⁡(−βwmax−wwmax−wmin),if tpost<tpre{\displaystyle \Delta W={\begin{cases}A_{+}\times \exp(-\beta {w-w_{min} \over w_{max}-w_{min}}),&{\text{if }}\mathrm {tpost} >\mathrm {tpre} \\A_{-}\times \exp(-\beta {w_{max}-w \over w_{max}-w_{min}}),&{\text{if }}\mathrm {tpost} <\mathrm {tpre} \end{cases}}} 
+avec β{\displaystyle \beta } le facteur de saturation, w{\displaystyle w} le poids de la connexion, wmin{\displaystyle w_{min}} et wmax{\displaystyle w_{max}} les valeurs minimum et maximum des poids.
+Cette règle peut aussi se formuler de la manière suivante, où la saturation des poids est contrôlée par le terme w(1−w){\displaystyle w(1-w)},, : 
+ΔW={A+×w(1−w),if tpost>tpreA−×w(1−w),if tpost<tpre{\displaystyle \Delta W={\begin{cases}A_{+}\times w(1-w),&{\text{if }}\mathrm {tpost} >\mathrm {tpre} \\A_{-}\times w(1-w),&{\text{if }}\mathrm {tpost} <\mathrm {tpre} \end{cases}}} 
+À noter que, si le modèle de synapse utilisé n'intègre pas de délai synaptique, il peut être judicieux de considérer tpost≥tpre{\displaystyle \mathrm {tpost} \geq \mathrm {tpre} } pour la potentialisation à long terme. Dans ce cas, les neurones pré-synaptiques qui s'activent en même temps que le neurone post-synaptique contribuent à son activation. De plus, de nombreux travaux,,, appliquent la dépression à long terme pour les connexions où le neurone pré-synaptique ne s'active pas, considérant donc son temps d'occurrence tpre=+∞{\displaystyle \mathrm {tpre} =+\infty }.
+
+Modulation par la récompense
+De nombreuses études suggèrent que le système de récompense de notre cerveau joue un rôle important dans notre apprentissage. Notamment, certaines montrent que ce système utilise la dopamine pour modifier la polarité de la plasticité synaptique ou encore pour prédire les futures récompenses d'une action.
+La STDP modulée par la récompense (en anglais : reward-modulated STDP, R-STDP) est une interprétation de la plasticité synaptique qui permet de prendre en compte le rôle du système de récompense de notre cerveau. Ce mécanisme de plasticité, similaire à la STDP, intègre un processus permettant de moduler ou même de changer le signe de la mise à jour des poids synaptiques.
+
+Notes et références
+Voir aussi
+Plasticité neuronale
+Plasticité synaptique Portail des neurosciences   Portail de la physiologie

@@ -1,0 +1,1568 @@
+[
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "hospitalisation",
+            "id": "8850039"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "court",
+            "id": "410877"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "chirurgie",
+            "id": "151903"
+        },
+        {
+            "mot": "obstétrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "secteur",
+            "id": "1388972"
+        },
+        {
+            "mot": "public",
+            "id": "1645208"
+        },
+        {
+            "mot": "privé",
+            "id": "NULL"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "lucratif",
+            "id": "14631394"
+        },
+        {
+            "mot": "privé",
+            "id": "NULL"
+        },
+        {
+            "mot": "lucratif",
+            "id": "14631394"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "séjours",
+            "id": "NULL"
+        },
+        {
+            "mot": "hospitaliers",
+            "id": "2953156"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "payés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "Assurance",
+            "id": "152882"
+        },
+        {
+            "mot": "Maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "établissement",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "réalise",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "établissement",
+            "id": "NULL"
+        },
+        {
+            "mot": "recueille",
+            "id": "2099393"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "informations",
+            "id": "272760"
+        },
+        {
+            "mot": "structurées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cadre",
+            "id": "11009201"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "PMSI",
+            "id": "14424617"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "tarif",
+            "id": "406395"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "calculé",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cadre",
+            "id": "11009201"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "T2A",
+            "id": "16878077"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "CMA",
+            "id": "17607517"
+        },
+        {
+            "mot": "complication",
+            "id": "100162770"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "morbidité",
+            "id": "NULL"
+        },
+        {
+            "mot": "associée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "diagnostics",
+            "id": "3245092"
+        },
+        {
+            "mot": "associés",
+            "id": "NULL"
+        },
+        {
+            "mot": "significatifs",
+            "id": "403522"
+        },
+        {
+            "mot": "codés",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "CIM",
+            "id": "2928579"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "montré",
+            "id": "NULL"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "rallongeaient",
+            "id": "2081460"
+        },
+        {
+            "mot": "significativement",
+            "id": "54720"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "coût",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Par",
+            "id": "409087"
+        },
+        {
+            "mot": "conséquent",
+            "id": "NULL"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pris",
+            "id": "3174760"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "T2A",
+            "id": "16878077"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "augmentation",
+            "id": "6015574"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "tarif",
+            "id": "406395"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        },
+        {
+            "mot": "Discussion",
+            "id": "1856260"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "CMA",
+            "id": "17607517"
+        },
+        {
+            "mot": "réfère",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "concepts",
+            "id": "412816"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "morbidités",
+            "id": "NULL"
+        },
+        {
+            "mot": "associées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "maladies",
+            "id": "1763365"
+        },
+        {
+            "mot": "intercurrentes",
+            "id": "2064949"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "indépendantes",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "motif",
+            "id": "5834437"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "admission",
+            "id": "4326007"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "cancer",
+            "id": "140121"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prostate",
+            "id": "98488147"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "venant",
+            "id": "435156"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "fracture",
+            "id": "464859"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fémur",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "obésité",
+            "id": "NULL"
+        },
+        {
+            "mot": "morbide",
+            "id": "15817262"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "infection",
+            "id": "17051343"
+        },
+        {
+            "mot": "VIH",
+            "id": "319344"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "complications",
+            "id": "16785054"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "agir",
+            "id": "1873633"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "complications",
+            "id": "16785054"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "désunion",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "plaie",
+            "id": "94620768"
+        },
+        {
+            "mot": "opératoire",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "suite",
+            "id": "10934677"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "appendicectomie",
+            "id": "83982"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "CMA",
+            "id": "17607517"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "systématiquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "valorisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "existe",
+            "id": "45446"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "exclusions",
+            "id": "2196146"
+        }
+    ],
+    [
+        {
+            "mot": "Ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "insuffisance",
+            "id": "16084384"
+        },
+        {
+            "mot": "rénale",
+            "id": "NULL"
+        },
+        {
+            "mot": "CMA",
+            "id": "17607517"
+        },
+        {
+            "mot": "potentielle",
+            "id": "14566533"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "déjà",
+            "id": "NULL"
+        },
+        {
+            "mot": "porteur",
+            "id": "591845"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "rénale",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "inclut",
+            "id": "2047705"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "insuffisance",
+            "id": "16084384"
+        },
+        {
+            "mot": "rénale",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "CMA",
+            "id": "17607517"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "prises",
+            "id": "10789127"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "delà",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "certaine",
+            "id": "16071157"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "Exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "Prenons",
+            "id": "16089073"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "appendicectomies",
+            "id": "2127144"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "complication",
+            "id": "100162770"
+        },
+        {
+            "mot": "racine",
+            "id": "15517205"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "GHM",
+            "id": "790723"
+        },
+        {
+            "mot": "C",
+            "id": "142716"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "secteur",
+            "id": "1388972"
+        },
+        {
+            "mot": "public",
+            "id": "1645208"
+        },
+        {
+            "mot": "privé",
+            "id": "NULL"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "lucratif",
+            "id": "14631394"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "graphique",
+            "id": "3158929"
+        },
+        {
+            "mot": "ci",
+            "id": "1830223"
+        },
+        {
+            "mot": "dessous",
+            "id": "404147"
+        },
+        {
+            "mot": "représente",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "prix",
+            "id": "14529203"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "recevra",
+            "id": "2092744"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "établissement",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "totale",
+            "id": "418218"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "séjour",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "courbes",
+            "id": "2509451"
+        },
+        {
+            "mot": "correspondent",
+            "id": "2160584"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "quatre",
+            "id": "15412664"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "courbe",
+            "id": "571785"
+        },
+        {
+            "mot": "verte",
+            "id": "151282"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "CMA",
+            "id": "17607517"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "courbe",
+            "id": "571785"
+        },
+        {
+            "mot": "jaune",
+            "id": "145159"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "ex",
+            "id": "135423172"
+        },
+        {
+            "mot": "paraplégie",
+            "id": "NULL"
+        },
+        {
+            "mot": "spastique",
+            "id": "74056"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "courbe",
+            "id": "571785"
+        },
+        {
+            "mot": "rouge",
+            "id": "145113"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "ex",
+            "id": "135423172"
+        },
+        {
+            "mot": "paraplégie",
+            "id": "NULL"
+        },
+        {
+            "mot": "flasque",
+            "id": "165823345"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "courbe",
+            "id": "571785"
+        },
+        {
+            "mot": "marron",
+            "id": "411229"
+        },
+        {
+            "mot": "correspond",
+            "id": "2160577"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "ex",
+            "id": "135423172"
+        },
+        {
+            "mot": "tétraplégie",
+            "id": "NULL"
+        },
+        {
+            "mot": "flasque",
+            "id": "165823345"
+        },
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "courtes",
+            "id": "2414455"
+        },
+        {
+            "mot": "durées",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "niveaux",
+            "id": "9971818"
+        },
+        {
+            "mot": "élevés",
+            "id": "NULL"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "pris",
+            "id": "3174760"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "explique",
+            "id": "398915"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "courbes",
+            "id": "2509451"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "rejoignent",
+            "id": "2108663"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "gauche",
+            "id": "406033"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "graphique",
+            "id": "3158929"
+        }
+    ],
+    [
+        {
+            "mot": "Pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "durées",
+            "id": "NULL"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "élevées",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "majoration",
+            "id": "16073473"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "séjours",
+            "id": "NULL"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "courbes",
+            "id": "2509451"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "rejoignent",
+            "id": "2108663"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "systématique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "graphiques",
+            "id": "249988797"
+        },
+        {
+            "mot": "existent",
+            "id": "2196971"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "tous",
+            "id": "417137"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "GHM",
+            "id": "790723"
+        },
+        {
+            "mot": "tarifs",
+            "id": "16074469"
+        },
+        {
+            "mot": "publics",
+            "id": "11158447"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "privés",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        }
+    ]
+]

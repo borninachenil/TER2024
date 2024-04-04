@@ -1,0 +1,21 @@
+La séquence Fluid-attenuated inversion recovery (FLAIR) est une séquence IRM en inversion récupération qui annule le signal des fluides. Cette séquence est généralement utilisée pour l'IRM cérébrale pour supprimer le signal du liquide cérébrospinal (LCS), ce qui permet de mieux observer certaines pathologies, notamment celles présentes à l'interface parenchyme-LCS,. La séquence fut développée dans les années 1990 par l'équipe de recherche de Hammersmith (constituée de Graeme Bydder, Joseph Hajnal, et Ian Young.
+
+Technique
+En réglant le temps d'inversion (TI), le signal d'un tissu particulier peut être annulé. Le TI approprié diffère en fonction du tissu. On obtient le TI via la formule :
+
+TI=ln⁡(2)⋅T1,{\displaystyle {\textrm {TI}}=\ln(2)\cdot T_{1},\,}en d'autres termes, il faut généralement utiliser un TI d'environ 70 % de la valeur T1 . Dans le cas de la suppression du LCS, on vise des images pondérées T1, qui privilégient le signal de la graisse par rapport à celui de l'eau. Ducoup si le TI long est ajusté de sorte que le signal est récupéré au point où le signal de l'eau est nul, on obtiendra une image où le signal du LCS est "effacé".
+
+Applications cliniques
+La séquence FLAIR est particulièrement utile dans l'évaluation et l'étude des troubles du système nerveux central (SNC), notamment :
+
+L'accident vasculaire cérébral (AVC)
+Sclérose en plaques (SEP)
+Hémorragie sous-arachnoïdienne
+Les traumatismes crâniens
+Méningite
+
+Références
+Liens utiles
+ https://www.imaios.com/fr/e-mri/sequences/inversion-recuperation-stir-et-flair
+« FLAIR », sur info-radiologie.ch (consulté le 25 décembre 2023)
+(en) Raymond Chieng, « Fluid attenuated inversion recovery », sur radiopaedia.org, 2 juin 2023 (consulté le 25 décembre 2023) Portail de la médecine

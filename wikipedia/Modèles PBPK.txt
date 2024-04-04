@@ -1,0 +1,58 @@
+Un modèle pharmacocinétique physiologique (PBPK) est un modèle mathématique construit pour prédire l'absorption, la distribution, le métabolisme et l'excrétion (ADME) de substances chimiques naturelles ou synthétiques chez l'homme ou l'animal. Ce type de modèle est utilisé dans la recherche et le développement de nouveaux médicaments, pour l'évaluation des risques de toxicité des substances chimiques et en biologie.
+Les modèles PBPK essayent d'être mécanistes tout en décrivant mathématiquement la succession des phénomènes anatomiques, physiologiques, physiques, et chimiques impliqués dans le processus complexe de l'absorption, distribution, métabolisme et excrétion. Les modèles PBPK peuvent être utilisés de façon purement prédictive, mais depuis le développement méthodes statistiques bayésiennes capables de traiter les modèles complexes (Gelman et al. 1996), ils peuvent recevoir des applications inférentielles, c'est-à-dire être partiellement ajustés à des données expérimentales (Bois et al. 2010). Ceci est vrai tant pour leurs applications en pharmacologie qu'en évaluation des risques.
+Ces modèles reposent a priori sur une description anatomique et physiologique du corps, et sur la biochimie du métabolisme. Ils comprennent en général plusieurs compartiments correspondant à des organes ou tissus prédéfinis, avec des interconnexions correspondant au flux sanguin ou lymphatique (et éventuellement à des diffusions). Un système d'équations différentielles pour les concentration ou quantité de substance dans chaque compartiment peut être écrit, et ses paramètres correspondent au débits sanguins, au débit de ventilation pulmonaire, aux volumes d'organes etc. Un exemple de modèle PBPK à 7 compartiments est représenté sur la Figure jointe.
+
+Historique
+Le premier modèle pharmacocinétique décrit dans la littérature scientifique (Teorell 1937) était en fait un modèle PBPK (à compléter voir article en anglais). Cependant, ses équations étaient insolubles à l'époque. On s'est alors intéressé à des modèles plus simples, pour lesquels des solutions analytiques étaient disponibles (ces solutions sont de simples sommes d'exponentielles). Au début des années 1970, La diffusion des ordinateurs et d'algorithmes d'intégration numérique robustes a conduit à un renouveau d'intérêt pour les modèles physiologiques. Depuis, des centaines de publications scientifiques ont décrit et utilisé des modèles PBPK, et plusieurs entreprises commerciales proposent une expertise dans ce domaine.
+
+Construction d'un modèle PBPK
+Les équations d'un modèle PBPK utilisent les principes physiques du transport de masse, de la dynamique des fluides, et de la biochimie pour décrire et simuler le devenir d'une substance chimique dans le corps. Les connexions entre compartiments correspondent à leurs connexions physiologiques (par exemple, le sang veineux en sortie du tractus gastro-intestinal passe ensuite en majorité par le foie, etc.)
+La distribution d'une substance dans un tissu du corps peut être en général limitée soit par la perfusion sanguine, soit par la perméabilité des membranes tissulaires ou cellulaires. Dans le cas d'une limitation par perfusion, si la substance est majoritairement transportée par le sang, la vitesse de transport vers les cellules du tissu est limitée par le débit de sang irriguant le tissu. Cela est en général vrai pour les petites molécules lipophiles. Dans ces conditions, la variation instantanée de la quantité de substance dans un compartiment est simplement égale au produit du débit sanguin volumétrique par la différence entre les concentrations entrantes et sortantes de substance. Pour un compartiment générique, i, l'équation différentielle pour la quantité Qi de substance est:
+
+dQidt=Fi(Cart−QiPiVi){\displaystyle {dQ_{i} \over dt}=F_{i}(C_{art}-{{Q_{i}} \over {P_{i}V_{i}}})}
+où Fi est le flux sanguin, Cart la concentration de substance dans le sang entrant le tissu, Pi le coefficient de partage entre le tissu et le sang etVi le volume du compartiment i.
+Si l'on note Ci la concentration de substance dans le tissu i, 
+
+Ci=QiVi{\displaystyle {C_{i}}={{Q_{i}} \over {V_{i}}}}
+et un système complet d'équations differentielles pour le modèle à 7 compartiment de la Figure ci-dessus peut alors s'écrire (il peut y avoir des simplifications possibles):
+
+Tractus gastro-intestinal:dQgdt=Fg(Cart−CgPg){\displaystyle {dQ_{g} \over dt}=F_{g}(C_{art}-{{C_{g}} \over {P_{g}}})}
+Rein:dQrdt=Fr(Cart−CrPr){\displaystyle {dQ_{r} \over dt}=F_{r}(C_{art}-{{C_{r}} \over {P_{r}}})}
+Tissus faiblement perfusés (muscles et peau):dQmdt=Fm(Cart−CmPm){\displaystyle {dQ_{m} \over dt}=F_{m}(C_{art}-{{C_{m}} \over {P_{m}}})}
+Cerveau:dQcdt=Fc(Cart−CcPc){\displaystyle {dQ_{c} \over dt}=F_{c}(C_{art}-{{C_{c}} \over {P_{c}}})}
+Poumons:dQpdt=Fp(Cart−CpPp){\displaystyle {dQ_{p} \over dt}=F_{p}(C_{art}-{{C_{p}} \over {P_{p}}})}
+Graisses:dQldt=Fl(Cart−ClPl){\displaystyle {dQ_{l} \over dt}=F_{l}(C_{art}-{{C_{l}} \over {P_{l}}})}
+Foie:dQfdt=Fg(CgPg−ClPl){\displaystyle {dQ_{f} \over dt}=F_{g}({{C_{g}} \over {P_{g}}}-{{C_{l}} \over {P_{l}}})}
+
+Utilisations des modèles PBPK
+Certaines compagnie privée développent des modèles PBPK utilisés en routine par l'industrie pharmaceutique. Des évaluations de risques de l'US EPA ou US OSHA pour des substances chimiques importantes (dichlorométhane, trichloréthylène, tétrachloréthylène...) ont fait appel à la modélisation PBPK pour différentes extrapolations.
+Extrapolations (à compléter voir article en anglais):
+
+Doses: ...
+Durées d'exposition: ...
+Voies d'administration: ...
+Entre espèces: ...
+Entre individus: ...
+
+Limites et extensions des modèles PBPK
+La principale limitation de ces modèles, comme pour tous les modèles, est qu'ils reposent sur la connaissance à un temps donné de la physiologie. Ils peuvent donc être inexacts. Il est connu que tous les modèles sont faux, et qu'ils se différencient par leur utilité. Les valeurs obtenues in vitro ou ex vivo pour les paramètres de ces modèles (volumes d'organes) peuvent dépendre des conditions expérimentales. La découverte de nouveaux mécanismes transporteurs peuvent également conduire à réviser certaines approximations (faites par exemple dans le simple modèle décrit ci-dessus). Il est important de noter que les valeurs des paramètres dépendent aussi fortement des individus. Il faut donc se méfier des paramètres standard. Des méthodes (simulations Monte Carlo, par exemple) existent cependant pour prendre en compte cette variabilité lors des calculs.
+D'autre part, une partie des paramètres de ces modèles dépendent de la structure chimique des substances étudiées (une partie seulement car les volumes d'organes ou de tissu, ou les flux sanguins, par exemple n'en dépendent pas). Un modèle développé pour une classe chimique et a fortiori pour un produit particulier sera probablement faux pour une autre classe ou molécule. 
+En ne se basant que sur la considération de la parcimonie, les modèles PBPK peuvent être sur-paramétrés. Cependant ils compensent ce défaut éventuel par des capacités de prédiction bien supérieures aux modèles pharmacocinétiques classiques (voir applications, ci-dessus).
+Ces modèles tendent actuellement à être améliorés par l'inclusion de description plus fines des différents organes (modèles d'organes virtuels), ainsi que par la prise en compte des données de la biochimie sur les mécanismes fins de transport et de métabolisme des substances (biologie systémique).
+
+Références
+Balant L.P. Gex-Fabry M. (1990) Physiological pharmacokinetic modelling Xenobiotica 20: 1241-1257.Bois F.Y. (2009) Physiologically-based modelling and prediction of drug interactions, Basic and Clinical Pharmacology and Toxicology, 106:154-161.Bois F.Y., Jamei M., Clewell H.J. (2010) PBPK modelling of inter-individual variability in the pharmacokinetics of environmental chemicals, Toxicology, 278:256–267.Bouvier d’Yvoire M., Prieto P., Blaauboer B.J., Bois F., Boobis A., Brochot C., Coecke S., Freidig A., Gundert-Remy U., Hartung T., Jacobs M. N., Lavé T., Leahy D.E., Lennernäs H., Loizou G.D., Meek B., Pease C., Rowland M., Spendiff M., Yang J., Zeilmaker M. (2007) Physiologically-based kinetic modelling (PBK modelling): meeting the 3Rs agenda - The report and recommendations of ECVAM Workshop 63a, Alternatives to Laboratory Animals, 35:661–671.Menzel D.B. (1987) Physiological pharmacokinetic modeling Environmental Science and Technology 21:944-950.Droz P.O., Guillemin M.P. (1983) Human styrene exposure - V. Development of a model for biological monitoring International Archives of Occupational and Environmental Health 53:19-36.Gelman A., Bois F., Jiang J. (1996) Physiological pharmacokinetic analysis using population modeling and informative prior distributions Journal of the American Statistical Association, 91:1400-1412.Gerlowski L.E., Jain R.K. (1983) Physiologically based pharmacokinetic modeling: principles and applications Journal of Pharmaceutical Sciences 72: 1103-1127.Ramsey J.C., Andersen M. (1984) A physiologically based description of the inhalation pharmacokinetics of styrene in rats and humans Toxicology and Applied Pharmacology 73: 159-175.Reddy M. et al. (2005) Physiologically Based Pharmacokinetic Modeling : Science and Applications, Wiley-Interscience.Teorell T. (1937). Kinetics of distribution of substances administered to the body Archives Internationales de Pharmacodynamie et de Thérapie 57: 205-240.
+
+Forums
+pbpk.org (en anglais)
+
+Logiciels
+AcslX software for PBPK modeling
+Cyprotex - CloePK
+Ecolego - PBPK modelling and simulation
+GNU MCSIM: GNU MCSim - Logiciel libre
+PK-Sim - Physiologically based pharmacokinetic modelling and simulation
+PottersWheel - Matlab toolbox for parameter calibration of PKPD and Systems Biology models
+Aureus Sciences DMPK Dashboard
+Simcyp Simulator Simcyp - Population-based pharmacokinetic modelling and simulation
+Simulations Plus - GastroPlus Portail de la médecine

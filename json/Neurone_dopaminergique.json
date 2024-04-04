@@ -1,0 +1,502 @@
+[
+    [
+        {
+            "mot": "Un",
+            "id": "256126039"
+        },
+        {
+            "mot": "neurone",
+            "id": "15016123"
+        },
+        {
+            "mot": "dopaminergique",
+            "id": "255263154"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "neurone",
+            "id": "15016123"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "produit",
+            "id": "567414"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dopamine",
+            "id": "3229576"
+        }
+    ],
+    [
+        {
+            "mot": "Rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "dopaminergiques",
+            "id": "257317218"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "dopaminergiques",
+            "id": "257317218"
+        },
+        {
+            "mot": "produisent",
+            "id": "2252297"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dopamine",
+            "id": "3229576"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "dopamine",
+            "id": "3229576"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "neurotransmetteur",
+            "id": "136560401"
+        },
+        {
+            "mot": "notamment",
+            "id": "4240"
+        },
+        {
+            "mot": "impliqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "régulation",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mouvements",
+            "id": "16512581"
+        }
+    ],
+    [
+        {
+            "mot": "Liens",
+            "id": "409339"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Parkinson",
+            "id": "149556"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "observe",
+            "id": "10368863"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "destruction",
+            "id": "425661"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "dopaminergiques",
+            "id": "257317218"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "atteints",
+            "id": "1992801"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Parkinson",
+            "id": "149556"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Parkinson",
+            "id": "149556"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "caractérise",
+            "id": "NULL"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "mort",
+            "id": "146499"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "certain",
+            "id": "414263"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "sécrètent",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dopamine",
+            "id": "3229576"
+        },
+        {
+            "mot": "dits",
+            "id": "10672322"
+        },
+        {
+            "mot": "dopaminergiques",
+            "id": "257317218"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "situés",
+            "id": "NULL"
+        },
+        {
+            "mot": "préférentiellement",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "petite",
+            "id": "141683"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "substance",
+            "id": "428339"
+        },
+        {
+            "mot": "noire",
+            "id": "16090012"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "locus",
+            "id": "5538223"
+        },
+        {
+            "mot": "niger",
+            "id": "249394006"
+        },
+        {
+            "mot": "https",
+            "id": "2209010"
+        },
+        {
+            "mot": "institutducerveau",
+            "id": "NULL"
+        },
+        {
+            "mot": "icm",
+            "id": "10008022"
+        }
+    ],
+    [
+        {
+            "mot": "org",
+            "id": "10911541"
+        },
+        {
+            "mot": "fr",
+            "id": "256517200"
+        },
+        {
+            "mot": "parkinson",
+            "id": "149556"
+        },
+        {
+            "mot": "mecanismes",
+            "id": "17051987"
+        },
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Neurone",
+            "id": "15016123"
+        },
+        {
+            "mot": "Dopamine",
+            "id": "3229576"
+        },
+        {
+            "mot": "Système",
+            "id": "NULL"
+        },
+        {
+            "mot": "dopaminergique",
+            "id": "255263154"
+        },
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "biologie",
+            "id": "151907"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        }
+    ]
+]

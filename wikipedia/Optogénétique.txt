@@ -1,0 +1,66 @@
+L'optogénétique est un domaine de recherche et d’application associant les techniques de l’optique à celles de la génétique. Elle permet, par une stimulation lumineuse, d'altérer spécifiquement et localement un nombre limité de cellules modifiées génétiquement pour y être sensibles, sans perturber directement l'état des cellules voisines.
+Conceptualisée à la fin des années 1970, elle est consacrée par un mot dédié en 2006, puis élue méthode de l’année par Nature Methods en 2010. Les applications, en nombre croissant, incluent la cartographie fine des réseaux neuronaux, l'étude de leur physiologie et de leurs communications normales et pathologiques, et de potentielles interventions médicales restaurant par exemple l'audition ou la vision.
+
+Principe
+L'optogénétique s'appuie sur l'insertion, dans la membrane d'une cellule nerveuse, de molécules sensibles à la lumière qui, sous l'effet d'une stimulation lumineuse, vont modifier l'état de polarisation de la membrane. Les neurones codent l'information en signaux électriques qui déclenchent la libération de neurotransmetteurs par la cellule nerveuse. Ces transmetteurs modulant l'activité des neurones appartenant au même réseau, l'induction lumineuse du changement de polarisation revient à contrôler l'activité de la cellule modifiée et des cellules de son réseau.
+
+Génétique
+La partie génétique de l’optogénétique repose sur l’insertion, dans le génome de cellules nerveuses ciblées, d'un gène codant une protéine « photo-activable », c'est-à-dire dont l'activité biologique dépend de la lumière à laquelle elle est exposée ; il s'agit le plus souvent de protéines d’origine bactérienne de type opsine.
+L’insertion génomique de la séquence codant l’opsine peut être réalisée par deux méthodes différentes  :
+
+Le recours à un vecteur viral modifié, où le gène à transférer est placé dans le génome viral sous le contrôle d’un promoteur fort et ubiquitaire. La particule virale infecte les cellules au site d'injection, l'intégration du génome viral dans le génome cellulaire conduisant à la production d’une quantité élevée de protéine y compris dans les prolongements cellulaires les plus fins.
+La génération d’animaux  transgéniques où la molécule photoactivable est insérée dans le génome hôte sous contrôle d’un promoteur spécifique d’un type cellulaire. Cependant ce promoteur est rarement assez fort pour permettre l’expression d’une quantité de protéine suffisante.
+
+Optique
+Les opsines produites par les cellules hôte sont activables par une lumière de longueur d’onde particulière, à l’aide d’une fibre optique directement implantée dans le cerveau de l’animal. Les canaux que forme l’opsine s’ouvrent et, en fonction de leur nature, peuvent provoquer la dépolarisation ou l’hyperpolarisation du neurone. Cela conduit à l’observation de résultats comportementaux et à des enregistrements électrophysiologiques.
+La technique dispose aujourd'hui de toute une diversité d’opsines, réagissant à des longueurs d'onde différentes. Les deux principales sont  :
+
+La channelrhodopsine 2 (ChR2), dont le gène est tiré d’algues unicellulaires, s’ouvre en lumière bleue, laissant entrer les ions Na+ dans les neurones, ce qui les dépolarise et les rend excitables.
+L’halorhodopsine (NpHR), dont le gène est tiré d’archéobactéries, s’ouvre en lumière jaune, laissant entrer les ions Cl- dans les neurones, ce qui les hyperpolarise et les rend inexcitables.
+
+Matériaux pour application optique
+La réussite de l'expérimentation dépend du matériel optique (par exemple les sources de lumière à fibres optiques et à semi-conducteurs intégrées) acheminant la lumière à des cellules spécifiques, même au plus profond du cerveau, de manière contrôlée tout en permettant aux animaux de se comporter librement.
+Le plus souvent, cet objectif est atteint en utilisant des diodes à couplage par fibre optique introduites en 2007. Pour éviter l'utilisation d'électrodes implantées, une "fenêtre" transparente en zircone est  implantée dans le crâne des souris ce qui permet aux ondes optiques de pénétrer plus profondément pour stimuler ou inhiber les neurones individuels.
+La stimulation des zones cérébrales superficielles telles que le cortex cérébral est assurée par des fibres optiques ou des LED directement montées sur le crâne de l'animal. Pour les zones crébrales plus profondes, on doit exploiter des fibres optiques pénétrant sous la surface. En complément des approches par fibre optique, qui contraignent l'animal à rester proche de l'appareil expérimental, des techniques entièrement sans fil ont été développées avec une alimentation sans fil et des LED portatives pour une étude sans entraves de comportements complexes dans des organismes se comportant librement.
+Plus récemment, des LEDs organiques (OLEDs) ont été utilisées pour la source de lumière. Le fonctionnement en mode pulsé permet, au moins in vitro, une stimulation neuronale dans une région de température compatible dont la précision temporelle du contrôle est de l'ordre de la milliseconde.
+
+Historique
+Depuis longtemps, les scientifiques tentent de comprendre comment fonctionne le cerveau, notamment son intervention dans la mise en place des mouvements. Tous les travaux visant à stimuler et à visualiser l’activité neuronale ont participé à l’avènement de l’optogénétique.
+
+1783 : L'anatomiste italien Luigi Galvani utilise l'électricité pour provoquer la contraction de la patte d'une grenouille morte.
+1937 : Le Britannique Charles Sherrington imagine de représenter l'activité neuronale par des points lumineux.
+1971 : Les colorants fluorescents sensibles au voltage apparaissent, de plus Stoeckenius et Oesterhelt découvrent que la protéine bactériorhodopsine agit comme une pompe à ion, pouvant être rapidement activée par la lumière visible.
+1977 : Découverte de l'halorhodopsine par Matsuno-Yagi et Mukohata
+1979 : Francis Crick suggère que les propriétés de la lumière peuvent servir d'un outil de contrôle intéressant en neurosciences, puisque les médicaments étaient long à agir et que les électrodes ne pouvaient pas être utilisées pour cibler précisément les cellules définies.
+1980 : Des colorants fluorescents capables de révéler des changements de concentration des ions calcium dans une cellule sont synthétisés.
+1997 : Les premiers colorants codés génétiquement révèlent l'activité des neurones.
+2002 : Les premiers activateurs codés génétiquement sont développés : ces protéines stimulent les neurones quand on les expose à la lumière.Découverte de la channelrhodopsine (ChR2) dans une algue par les équipes de Hegemann et Nagel
+
+2005 : Première utilisation de la lumière pour contrôler le comportement de mouches modifiées génétiquement et qui fabriquent un activateur.Première étude sur des mammifères par Ed Boyden et le neurologiste et psychiatre Karl Deisseroth (en) à Stanford avec la channelrhodopsine permettant de découvrir que l'introduction d'un gène microbien d'opsine induit une réponse des neurones sélectionnés.
+
+2006 : Le terme d'optogénétique est inventé par Nathalie Janel et Mark J. Schnitzer
+2007 : Utilisation de la fibre optique en optogénétique
+2010 : De nombreuses études ont montré que la channelrhodopsine, bactériorhodopsine et halorhodopsine peuvent activer ou inhiber les neurones rapidement et en toute sécurité en réponse à la lumière à diverses longueurs d’onde.
+
+Des usages en développement
+L'objectif de l'optogénétique est d'avoir un moyen de stimulation précis dans le temps (stimulation et arrêt de la stimulation). L'animal étudié est son propre témoin, contrairement aux techniques de modification génétiques de perte ou de gain de fonctions souris knock-out. La caractéristique de l'optogénétique est l'introduction de canaux rapidement activés par la lumière et d'enzymes qui permettent une manipulation des évènements électriques et biochimiques très précise dans le temps. Cette technique a permis une meilleure compréhension de certaines pathologies neurodégénératives comme la maladie de Parkinson.
+Née dans les neurosciences, cette technique s’étend désormais à tous les types cellulaires et progresse grâce à l’utilisation d’autre type d’opsine tel que la mélanopsine qui induit des changements métaboliques dans tous les types cellulaires. Grâce à cette protéine il est possible de coupler des canaux sensibles à la lumière et des récepteurs couplés aux protéines G pour définir la concentration en second messager intracellulaire, AMPc et IP3 dans les cellules ciblées.
+
+Notes et références
+Voir aussi
+Bibliographie
+« Method of the Year 2010 », éditorial, Nature Methods, vol. 8, n° 1, p. 1, janvier 2011.
+Olivier Dessibourg, « Contrôler le cerveau avec de la lumière », Le Temps, n° 3909, p. 3, 26 janvier 2011.
+Vidéo sur l'optogénétique
+La Recherche, n°455, septembre 2011. « Des organes passent sous le contrôle lumineux » par Florence Heimburger, p. 8-10
+La recherche, n°460, février 2012. « L'optogénétique gagne tous les organes » par Pascaline Minet, p. 62-64
+La recherche, n°466, novembre 2010. « Modifier le comportement de neurones par la lumière » par Marine Benoiste avec la collaboration du docteur Cédric Bardy de l'institut Pasteur, p. 58-59
+Pour la Science, n°376, février 2009. « De la lumière dans le cerveau » par Gero Miessenböck p. 35-40
+
+Vidéographie, audiographie
+Richard Kramer (University of Berkeley), 2016, Qu'attendre de l'optogénétique ? (1/3) ; Colloque  du 6 juin 2016 14:50 15:25 Amphithéâtre Marguerite de Navarre - Marcelin Berthelot
+Richard Kramer (University of Berkeley), 2016, Qu'attendre de l'optogénétique ? (2/3) ; Colloque  du 6 juin 2016 14:50 15:25 Amphithéâtre Marguerite de Navarre - Marcelin Berthelot
+Richard Kramer (University of Berkeley), 2016, Qu'attendre de l'optogénétique ? (3/3) ; Colloque  du 6 juin 2016 15:25 16:00 Amphithéâtre Marguerite de Navarre - Marcelin Berthelot
+
+Liens externes
+Martin Koppe, « Comment l’optogénétique a en partie rendu la vue à un aveugle », sur CNRS, 24 juin 2021 (consulté le 10 juillet 2021) Portail des neurosciences

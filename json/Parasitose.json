@@ -1,0 +1,860 @@
+[
+    [
+        {
+            "mot": "Parasitose",
+            "id": "16768396"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "désignant",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ensemble",
+            "id": "16133193"
+        },
+        {
+            "mot": "maladies",
+            "id": "1763365"
+        },
+        {
+            "mot": "dues",
+            "id": "423891"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "parasites",
+            "id": "9973840"
+        },
+        {
+            "mot": "maladies",
+            "id": "1763365"
+        },
+        {
+            "mot": "parasitaires",
+            "id": "1920504"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "maladies",
+            "id": "1763365"
+        },
+        {
+            "mot": "parasitiques",
+            "id": "6265052"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "parasitologie",
+            "id": "100299841"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "science",
+            "id": "142229"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "étudie",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "parasitoses",
+            "id": "16786231"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "Homme",
+            "id": "17638134"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "espèces",
+            "id": "NULL"
+        },
+        {
+            "mot": "animaux",
+            "id": "5636021"
+        },
+        {
+            "mot": "champignons",
+            "id": "139195"
+        },
+        {
+            "mot": "plantes",
+            "id": "415132"
+        },
+        {
+            "mot": "Classification",
+            "id": "273455"
+        },
+        {
+            "mot": "Classification",
+            "id": "273455"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "causes",
+            "id": "193336232"
+        },
+        {
+            "mot": "On",
+            "id": "2529893"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "placer",
+            "id": "10872702"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "parasitoses",
+            "id": "16786231"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "trois",
+            "id": "141878"
+        },
+        {
+            "mot": "groupes",
+            "id": "276293"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "agents",
+            "id": "405506"
+        },
+        {
+            "mot": "parasites",
+            "id": "9973840"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "protozoaires",
+            "id": "138515"
+        },
+        {
+            "mot": "parasites",
+            "id": "9973840"
+        },
+        {
+            "mot": "unicellulaires",
+            "id": "156441850"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "métazoaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "parasites",
+            "id": "9973840"
+        },
+        {
+            "mot": "pluricellulaires",
+            "id": "264919"
+        },
+        {
+            "mot": "vers",
+            "id": "422076"
+        },
+        {
+            "mot": "parasites",
+            "id": "9973840"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "arthropodes",
+            "id": "143108"
+        },
+        {
+            "mot": "servent",
+            "id": "171039410"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "vecteur",
+            "id": "121793395"
+        },
+        {
+            "mot": "permettant",
+            "id": "2242077"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "transport",
+            "id": "152338"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "parasite",
+            "id": "416605"
+        }
+    ],
+    [
+        {
+            "mot": "Classification",
+            "id": "273455"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "siège",
+            "id": "NULL"
+        },
+        {
+            "mot": "Certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "parasitoses",
+            "id": "16786231"
+        },
+        {
+            "mot": "affectent",
+            "id": "1983994"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "zone",
+            "id": "13397228"
+        },
+        {
+            "mot": "particulière",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "organisme",
+            "id": "3322090"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "parasitoses",
+            "id": "16786231"
+        },
+        {
+            "mot": "intestinales",
+            "id": "402767"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "oxyurose",
+            "id": "156516254"
+        },
+        {
+            "mot": "affecte",
+            "id": "1983992"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "intestins",
+            "id": "44659"
+        }
+    ],
+    [
+        {
+            "mot": "Physiopathologie",
+            "id": "111273409"
+        },
+        {
+            "mot": "humaine",
+            "id": "5720851"
+        },
+        {
+            "mot": "Chez",
+            "id": "420868"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "homme",
+            "id": "17638134"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "animal",
+            "id": "152685"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "infestation",
+            "id": "10460336"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "manières",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "voie",
+            "id": "397744"
+        },
+        {
+            "mot": "buccale",
+            "id": "264322"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intermédiaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "piqûre",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "insecte",
+            "id": "141474"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "paludisme",
+            "id": "96635691"
+        },
+        {
+            "mot": "transmis",
+            "id": "46065"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intermédiaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "piqûre",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "anophèle",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "moustique",
+            "id": "141068"
+        },
+        {
+            "mot": "Une",
+            "id": "15606674"
+        },
+        {
+            "mot": "seule",
+            "id": "15606675"
+        },
+        {
+            "mot": "piqure",
+            "id": "156535527"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "morsure",
+            "id": "10327242"
+        },
+        {
+            "mot": "morsure",
+            "id": "10327242"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "tique",
+            "id": "121223631"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "introduire",
+            "id": "111075"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "parasites",
+            "id": "9973840"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "plusieurs",
+            "id": "412067"
+        },
+        {
+            "mot": "espèces",
+            "id": "NULL"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "voie",
+            "id": "397744"
+        },
+        {
+            "mot": "pulmonaire",
+            "id": "4312322"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "œufs",
+            "id": "NULL"
+        },
+        {
+            "mot": "directement",
+            "id": "251839577"
+        },
+        {
+            "mot": "déposés",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "blessure",
+            "id": "11411813"
+        }
+    ],
+    [
+        {
+            "mot": "Liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "maladies",
+            "id": "1763365"
+        },
+        {
+            "mot": "parasitaires",
+            "id": "1920504"
+        },
+        {
+            "mot": "humaines",
+            "id": "10918748"
+        },
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Infestation",
+            "id": "10460336"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "Bibliographie",
+            "id": "249394043"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Bonsall",
+            "id": "NULL"
+        },
+        {
+            "mot": "Michael",
+            "id": "10345071"
+        },
+        {
+            "mot": "Parasite",
+            "id": "416605"
+        },
+        {
+            "mot": "Replication",
+            "id": "6274590"
+        },
+        {
+            "mot": "and",
+            "id": "5538562"
+        },
+        {
+            "mot": "the",
+            "id": "171040515"
+        },
+        {
+            "mot": "Evolutionary",
+            "id": "426815"
+        },
+        {
+            "mot": "Epidemiology",
+            "id": "11160348"
+        },
+        {
+            "mot": "of",
+            "id": "12862803"
+        },
+        {
+            "mot": "Parasite",
+            "id": "416605"
+        },
+        {
+            "mot": "Virulence",
+            "id": "99882467"
+        }
+    ],
+    [
+        {
+            "mot": "PLoS",
+            "id": "9973813"
+        },
+        {
+            "mot": "ONE",
+            "id": "2445149"
+        },
+        {
+            "mot": "e12440",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "DOI",
+            "id": "6015626"
+        },
+        {
+            "mot": "",
+            "id": "15910085"
+        }
+    ],
+    [
+        {
+            "mot": "journal",
+            "id": "137258"
+        }
+    ],
+    [
+        {
+            "mot": "pone",
+            "id": "10958635"
+        }
+    ],
+    [
+        {
+            "mot": "Articles",
+            "id": "408042"
+        },
+        {
+            "mot": "connexes",
+            "id": "403121"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "parasitologie",
+            "id": "100299841"
+        }
+    ]
+]

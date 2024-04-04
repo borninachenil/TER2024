@@ -1,0 +1,808 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "hospitalière",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "branche",
+            "id": "435235"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "pratiquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hôpital",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "collectivité",
+            "id": "NULL"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        },
+        {
+            "mot": "privée",
+            "id": "NULL"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "À",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "différence",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "collègue",
+            "id": "NULL"
+        },
+        {
+            "mot": "exerçant",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "ville",
+            "id": "15686656"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "hospitalier",
+            "id": "407960"
+        },
+        {
+            "mot": "exerce",
+            "id": "2196476"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "sein",
+            "id": "137512"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "usage",
+            "id": "415670"
+        },
+        {
+            "mot": "intérieur",
+            "id": "NULL"
+        },
+        {
+            "mot": "PUI",
+            "id": "13641958"
+        },
+        {
+            "mot": "intégrée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "établissement",
+            "id": "NULL"
+        },
+        {
+            "mot": "hospitalier",
+            "id": "407960"
+        }
+    ],
+    [
+        {
+            "mot": "Différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "concernant",
+            "id": "428757"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "dispositifs",
+            "id": "17050564"
+        },
+        {
+            "mot": "médicaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "confiées",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "hospitalier",
+            "id": "407960"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "approvisionnement",
+            "id": "10078297"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "détention",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dispensation",
+            "id": "5832969"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "dispositifs",
+            "id": "17050564"
+        },
+        {
+            "mot": "médicaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "préparation",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "nutrition",
+            "id": "411315"
+        },
+        {
+            "mot": "parentérale",
+            "id": "NULL"
+        },
+        {
+            "mot": "reconstitution",
+            "id": "429924"
+        },
+        {
+            "mot": "centralisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "chimiothérapies",
+            "id": "NULL"
+        },
+        {
+            "mot": "radiopharmaceutiques",
+            "id": "6265716"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dispositifs",
+            "id": "17050564"
+        },
+        {
+            "mot": "médicaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "stériles",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dispensation",
+            "id": "5832969"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "hospitalisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ambulatoires",
+            "id": "399192"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "rétrocessions",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "hospitalisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "dosage",
+            "id": "627833"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "suivi",
+            "id": "5832960"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "concentration",
+            "id": "5934126"
+        },
+        {
+            "mot": "sanguine",
+            "id": "146513"
+        },
+        {
+            "mot": "pharmacocinétique",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "contrôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacovigilance",
+            "id": "100129584"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sécurisation",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "circuit",
+            "id": "12117991"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "médicament",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "matériovigilance",
+            "id": "NULL"
+        },
+        {
+            "mot": "dispositifs",
+            "id": "17050564"
+        },
+        {
+            "mot": "médicaux",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "formation",
+            "id": "405296"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médecins",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "infirmiers",
+            "id": "252569935"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        }
+    ],
+    [
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "clinique",
+            "id": "430177"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vérification",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "préparations",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "dispensations",
+            "id": "2169309"
+        },
+        {
+            "mot": "effectuées",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "préparateurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "analyse",
+            "id": "402333"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "exactitude",
+            "id": "250797722"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ordonnance",
+            "id": "411204"
+        },
+        {
+            "mot": "informatisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "correspondance",
+            "id": "143881"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prescription",
+            "id": "567655"
+        },
+        {
+            "mot": "médicale",
+            "id": "NULL"
+        },
+        {
+            "mot": "originale",
+            "id": "10939181"
+        }
+    ],
+    [
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "hospitalier",
+            "id": "407960"
+        },
+        {
+            "mot": "Pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "Préparateur",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        }
+    ]
+]

@@ -1,0 +1,31 @@
+Dans le domaine de l'imagerie cérébrale, la notion de marquage neuronal regroupe toutes les méthodes permettant de rendre les neurones visibles par un marqueur (coloration, fluorescence) pour les étudier ou étudier leur disposition, systèmes ou comportement.
+Autrefois, l'observation ne pouvait porter que sur des neurones morts. Depuis peu, des marqueurs spécifiques (utilisant la fluorescence de certaines protéines qu'on fait produire par les neurones génétiquement modifiés) permettent de rendre visibles des neurones vivants, et même uniquement certaines catégories de neurones ou d'autres cellules associées.
+
+Méthodes
+Deux grandes méthodes peuvent être distinguées selon qu'elles tuent ou non les neurones :
+
+la coloration des neurones morts. Elle est utilisée depuis plus de 100 ans, avec l'invention de la coloration de Golgi (autrefois dite « réaction noire ») qui a permis la première description de réseaux de neurones (rendus visibles par du chromate d'argent sur tissus morts). On a ensuite utilisé des enzymes (beta-galactosidase, phosphatase alcaline), mais celles-ci tuaient les cellules. Le marqueur peut être un anticorps dirigé contre des neurofilaments ou contre la protéine tau, qui ne sont retrouvés que dans les neurones.
+la mise en évidence de neurones vivants ;Deux méthodes sont utilisées :
+
+l'injection d'ADN codant une protéine marqueur (fluorescente). Cette injection se fait via des vecteurs viraux ou par électroporation, mais ces deux techniques sont invasives et modifient l'organisme. Elles ne permettant donc pas d'observer le comportement normal du tissu nerveux in vivo.
+un marquage ready made, obtenu par génie génétique, qui est à l'origine d'une révolution dans l'imagerie des tissus nerveux. Il permet maintenant des colorations différentiées de différents types de cellules, vivantes, rendues visibles de manière très claire et contrastée en microscopie à fluorescence ; dans ce cas ce sont les cellules nerveuses, modifiées par introduction d'un transgène (dit Brainbow) qui vont elles-mêmes produire un marqueur fluorescent (vert, cyan, rouge ou jaune selon les cas).On a d'abord utilisé la GFP (Green fluorescent protein) isolée en 1962 au Japon chez une méduse (Aequorea victoria) et que le génie génétique s'est depuis largement approprié. Cette fluorescence verte est rendue visible par des filtres spéciaux posés sur les optiques des microscopes ou micro-caméras. On suppose que le transgène et la fluorescence exprimés par des protéines nouvelles dans l'espace intercellulaire des neurones ne modifient a priori pas le fonctionnement global du système nerveux que l'on observe ainsi, par exemple dans le cerveau de lignées de souris génétiquement modifiées, brevetées et commercialisées. l'inconvénient de la GFP, était que tous les neurones étaient colorés de la même manière. On a ensuite par mutation du gène de la GFP et clonage de protéines proches trouvées chez des coraux produit de nouvelles protéines fluorescentes (jaune et rouge).
+
+Principales protéines fluorescentes
+GFP (vert)
+CFP (Cyan)
+YFP (Jaune)
+RFP (Rouge)
+
+Prospective
+En 2010, le motif coloré obtenu, ou plus précisément la couleur produite par les neurones, reste pour partie aléatoire. On utilise des souriceaux nés de souris possédant un transgène Brainbow contrôlé par un promoteur neuronal croisées avec des souris exprimant une forme de la recombinase Cre inductible par un produit chimique (tamoxifène en l'occurrence) ; ce système cre/lox était déjà utilisé pour distribuer aléatoirement un ou deux transgènes dans une population de cellules, ce qui permet une expression différentiée des protéines fluorescentes codées par ces gènes ; le transgène Brainbow produit une fluorescence rouge et les cellules recombinées par le Cre produisent les autres couleurs. Toutes les cellules ne recombinant pas, on obtient un motif différenciant le réseau neuronal.
+On cherche aujourd'hui à :
+
+créer une palette encore plus étendue de couleurs ;
+produire et contrôler des interrupteurs moléculaires permettant de commander la production de protéines fluorescentes uniquement dans certains réseaux neuronaux, ou dans certaines circonstances, ou dans un nombre contrôlé de cellules nerveuses,.
+
+Notes et références
+Voir aussi
+Articles connexes
+Liens externes
+Bibliographie
+Qu'est-ce qu'un neurone ? B. Calvino (Le Pommier, 2006)  (ISBN 2746502801) Portail des neurosciences   Portail de la médecine   Portail de la biologie

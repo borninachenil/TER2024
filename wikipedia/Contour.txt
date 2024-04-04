@@ -1,0 +1,50 @@
+En arts plastiques, le contour est la ligne qui délimite la surface extérieure d'un objet.
+La psychologie de la forme a recherché les indices que l'être humain utilise pour concevoir la forme. Le contour représente en général un moyen efficace de désigner un objet. Certaines illusions visuelles montrent que le tracé du contour n'est pas absolument nécessaire, ni suffisant, pour cela.
+La détection automatisée du contour est un problème important dans l'imagerie numérique.
+Quand il ne s'agit pas d'arts plastiques, le mot contour signifie, par synecdoque, l'extérieur, la superficialité, la forme d'ensemble.
+
+Représentations
+Le théâtre d'ombres, la silhouette, que le mythe de Boutadès place à l'origine de la peinture, se basent exclusivement sur la limite extérieure de la figure, remplie d'une couleur uniforme. Le dessin de contour indique en plus la limite des parties qui se trouvent devant d'autres parties, donnant ainsi la première indication de volume, alors que la silhouette est irrémédiablement plate, ce qui donne lieu à de nombreuses ambiguïtés qu'exploitent des illusions visuelles.
+André Félibien donne son sens moderne au mot contour à la fin du XVIIe siècle : « les extrémités d'une figure et les lignes qui décrivent et environnent quelque corps, et par le moyen desquelles on en marque la forme ». 
+Le dessin au trait ou linéaire consiste en le tracé des contours. Dans ce contexte, ligne peut signifier contour. « Ligne et contour sont, quand il s'agit de dessin et de sculpture, synonymes autant que deux mots puissent l'être ». Cet usage se trouve au-delà des arts graphiques : la ligne de crête est à proprement parler le contour des reliefs.
+En dessin technique, on représente le contour des objets en trait continu ; un trait interrompu indique les arêtes et contours cachés.
+
+Contour apparent
+Du point de vue des arts pictoriaux et graphiques, le contour est une ligne qui appartient au plan de l'image. La géométrie définit le contour apparent comme une ligne de l'objet.
+Monge écrit dans sa Géométrie descriptive « La partie visible d'un objet est séparée de celle que l'œil ne peut apercevoir par une ligne que l'on appelle contour apparent ». En plus des contours apparents, y compris ceux des plis et fronces, le dessin linéaire indique invariablement les arêtes, même si les deux surfaces qu'elles séparent et joignent sont toutes deux visibles, dès lors que ces arêtes, saillantes ou rentrantes, définissent une ligne sur l'objet. Le dessin tel que le définit la géométrie descriptive est, comme le dessin en perspective tel qu'Alberti l'a défini au XVe siècle, la projection de toutes ces lignes de la surface de l'objet sur le plan de l'image.
+Les définitions rigoureuses de la géométrie et son traitement numérique des grandeurs impliquées permettent aux logiciels de conception en trois dimensions de produire des représentations planes.
+
+Perception
+La perception d'un contour suffit le plus souvent à désigner un objet. Les études de camouflage engagées à partir de la première Guerre mondiale ont établi que l'identification se trouble quand les contours se mélangent. Les psychologues expérimentaux ont utilisé des stimulus simples pour rechercher les conditions de reconnaissance d'une structure dessinée.
+Le psychologue italien Gaetano Kanizsa a démontré, en présentant une forme simple, que la représentation intégrale du contour n'est pas nécessaire pour concevoir la forme d'un objet. Le motif de Kanizsa présente six segments de droite formant deux à deux un angle et trois disques noirs dont un secteur a été coupé. On y repère cependant normalement deux triangles l'un au-dessus de l'autre.
+L'information réduite que présente le contour peut aboutir à une ambiguïté dans la ségrégation figure-fond ; tandis que l'interprétation d'un tracé comme contour, associé à l'habitude de la perspective peut amener la perplexité devant un objet impossible comme le blivet.
+
+Détection des contours
+La détection des contours dans une image matricielle numérisée, telle que produite par une photographie numérique, présente un grand intérêt pratique dans de nombreux domaines. Elle aboutit à la création de deux zones, comme on peut le faire manuellement à l'écran par détourage.
+Dans de nombreux cas, la détection de contours est une simple détection des variations rapides de la luminosité pour aboutir à une ligne de partage des eaux. L'existence de passages où le fond a la même luminosité que l'objet rend un traitement supplémentaire nécessaire pour définir une ligne de contour continue et fermée, qui permette la segmentation de l'image, équivalent en traitement d'images de la ségrégation de l'objet et du fond en psychologie de la forme. Ce traitement convertit l'image matricielle en image vectorielle du contour.
+En vidéo, selon un procédé inventé au cinéma, on utilise souvent la détection de couleur pour détourer un sujet sur un fond dont la couleur ne se trouve en aucune de ses parties. Le signal sert ensuite pour l'incrustation.
+
+Esthétique
+Les plasticiens, tout comme la critique d'art, attachent des valeurs esthétiques fortement divergentes au contour.
+Le tracé du contour est à la base du dessin linéaire que des artistes comme John Flaxman investissent d'une valeur suprême. En peinture, l'exaltation du contour aboutit soit à peindre la figure et le fond dans des teintes très différentes, soit à marquer un cerne autour des figures. Cette tendance s'illustre du XVe siècle avec Sandro Botticelli au XXe siècle avec Pablo Picasso ou Amedeo Modigliani. En photographie, ce cerne, clair, s'obtient avec une forte lumière à contre-jour.
+L'école caravagesque utilise une lumière fortement contrastée, dans laquelle seule une partie du contour est très marquée, tandis qu'il se perd dans la partie du sujet restée dans l'ombre, et que les reliefs intérieurs acquièrent un contour indépendant.
+La peinture classique exige au contraire que le contour soit atténué, et laisse des passages en certains endroits où la couleur de l'objet se confond avec celle du fond.
+Lorsqu'une option domine, il arrive fréquemment que des artistes en prennent le contrepied ; ainsi, au XIXe siècle, l'école de Pont-Aven s'oppose avec le cloisonnisme aux contours vaporeux et indéfinis qu'Eugène Carrière affectionnait peu auparavant. Quelques années plus tard, Paul Cézanne s'oppose vigoureusement à l'école qui « circonscrit les contours d'un trait noir, défaut qu'il faut combattre à toute force ».
+Au début du XXe siècle, l'Art nouveau, le Jugendstil, Egon Schiele développent au contraire une esthétique basée sur le contour des sujets.
+L'artiste américain Kimon Nicolaides fit du dessin de contour (Contour drawing), sans quitter le modèle des yeux, le premier exercice de son enseignement.
+Dans le domaine des arts graphiques, du dessin de presse à la bande dessinée, le contour règne.
+
+Annexes
+Bibliographie
+Anne Souriau (dir.), Vocabulaire d'esthétique : par Étienne Souriau (1892-1979), Paris, PUF, coll. « Quadrige », 2010 (1re éd. 1990), 1493 p. (ISBN 9782130573692).
+(en) Kimon Nicolaides (en), The natural way to draw, Boston, Houghton-Mifflin, 1969 (1re éd. 1941)
+Claude-Henri Watelet, Beaux-arts, t. 1, Panckoucke, coll. « Encyclopédie méthodique », 1791 (lire en ligne), p. 142
+
+Articles connexes
+Contour apparent
+Détourage
+Sfumato
+
+Références
+
+ Portail de la peinture   Portail de la psychologie   Portail de l’imagerie numérique

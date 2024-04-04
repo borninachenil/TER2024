@@ -65,11 +65,12 @@ def extraire_mots_intermediaires(json_filename, relations_filename, paires, resu
                     mots_intermediaires = " ".join(mots[end_index1:start_index2])
                 else: 
                     mots_intermediaires = " ".join(mots[start_index2:end_index1])
-                if abs(index1 - index2) <= 7 or abs(end_index1 - start_index2) <= 7: 
+                if (abs(index1 - index2) <= 7 or abs(end_index1 - start_index2) <= 7) and mots_intermediaires.strip(): 
                     cle = (mots_intermediaires, nom_fichier_relations)
                     resultats_existant[cle] = resultats_existant.get(cle, 0) + 1
                     
     return resultats_existant
+
 
 
 

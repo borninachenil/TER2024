@@ -1,0 +1,6242 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "direct",
+            "id": "418498"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "continu",
+            "id": "250661588"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "technique",
+            "id": "152187"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "électrostimulation",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "tES",
+            "id": "6082122"
+        },
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "moduler",
+            "id": "97310"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "excitabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "corticospinale",
+            "id": "6267351"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "anode",
+            "id": "156547140"
+        },
+        {
+            "mot": "excitatrice",
+            "id": "148079"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "cathode",
+            "id": "15190137"
+        },
+        {
+            "mot": "inhibitrice",
+            "id": "17050495"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "positionnées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "crâne",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "dont",
+            "id": "461256"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "souhaite",
+            "id": "2100795"
+        },
+        {
+            "mot": "influencer",
+            "id": "250774307"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "fonctionnement",
+            "id": "11836266"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "fonctionne",
+            "id": "407541"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "induction",
+            "id": "14563504"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "milliampères",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "amplitude",
+            "id": "9998571"
+        },
+        {
+            "mot": "pendant",
+            "id": "10130227"
+        },
+        {
+            "mot": "dix",
+            "id": "144495"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "trente",
+            "id": "140233"
+        },
+        {
+            "mot": "minutes",
+            "id": "419628"
+        },
+        {
+            "mot": "passant",
+            "id": "3186245"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "anode",
+            "id": "156547140"
+        },
+        {
+            "mot": "vers",
+            "id": "422076"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cathode",
+            "id": "15190137"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "travers",
+            "id": "137301"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "tissus",
+            "id": "5933763"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "observés",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "conséquence",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hyperexcitabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "causée",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "anode",
+            "id": "156547140"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hypoexcitabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cathode",
+            "id": "15190137"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "investigation",
+            "id": "432393"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "fonctionnement",
+            "id": "11836266"
+        },
+        {
+            "mot": "normal",
+            "id": "6260714"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "différentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "populations",
+            "id": "573236"
+        },
+        {
+            "mot": "cliniques",
+            "id": "193336237"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "fins",
+            "id": "2398213"
+        },
+        {
+            "mot": "thérapeutiques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Des",
+            "id": "314234"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "atteints",
+            "id": "1992801"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "Alzheimer",
+            "id": "251480"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Parkinson",
+            "id": "149556"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Huntington",
+            "id": "17522"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "parésie",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "membre",
+            "id": "412460"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "aphasie",
+            "id": "101426529"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dépression",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "fibromyalgie",
+            "id": "101438291"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autisme",
+            "id": "104076393"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "schizophrénie",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "TDA",
+            "id": "12112143"
+        },
+        {
+            "mot": "H",
+            "id": "140485"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "fait",
+            "id": "46933112"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "objet",
+            "id": "413085"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        }
+    ],
+    [
+        {
+            "mot": "Fonctionnement",
+            "id": "11836266"
+        },
+        {
+            "mot": "Installation",
+            "id": "424996"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "configuration",
+            "id": "412569"
+        },
+        {
+            "mot": "Afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "procéder",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "zones",
+            "id": "2934163"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "recevront",
+            "id": "2092752"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "doivent",
+            "id": "2077013"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "préalablement",
+            "id": "NULL"
+        },
+        {
+            "mot": "préparées",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "désinfectées",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "exfoliées",
+            "id": "NULL"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "éliminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "obstacles",
+            "id": "429393"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "scalp",
+            "id": "10053513"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "électrode",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sites",
+            "id": "429318"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "habituellement",
+            "id": "15627245"
+        },
+        {
+            "mot": "déterminés",
+            "id": "NULL"
+        },
+        {
+            "mot": "selon",
+            "id": "2577623"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "positionnement",
+            "id": "11078553"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "placées",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "manière",
+            "id": "NULL"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "précise",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "imagerie",
+            "id": "407973"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "anatomiques",
+            "id": "459645"
+        },
+        {
+            "mot": "telles",
+            "id": "10055284"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "IRM",
+            "id": "17342433"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "système",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "guidage",
+            "id": "186744651"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "triangulation",
+            "id": "122787722"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "recouvertes",
+            "id": "1978375"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "manchon",
+            "id": "94549959"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "tissus",
+            "id": "5933763"
+        },
+        {
+            "mot": "spongieux",
+            "id": "127420"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "trempé",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "solution",
+            "id": "428092"
+        },
+        {
+            "mot": "saline",
+            "id": "2572634"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "permettre",
+            "id": "19292"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "conduction",
+            "id": "9936515"
+        },
+        {
+            "mot": "sécuritaire",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "diminuer",
+            "id": "113326"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "relatifs",
+            "id": "117833"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "passage",
+            "id": "17052437"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "travers",
+            "id": "137301"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "scalp",
+            "id": "10053513"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "habituellement",
+            "id": "15627245"
+        },
+        {
+            "mot": "maintenues",
+            "id": "2220189"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "place",
+            "id": "434490"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "aide",
+            "id": "408189"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "bande",
+            "id": "15404359"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "caoutchouc",
+            "id": "143598"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "majorité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "systèmes",
+            "id": "NULL"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "augmentation",
+            "id": "6015574"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "diminution",
+            "id": "15406690"
+        },
+        {
+            "mot": "graduelle",
+            "id": "399973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "intensité",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "début",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fin",
+            "id": "403436"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        }
+    ],
+    [
+        {
+            "mot": "Ceci",
+            "id": "405777"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "minimiser",
+            "id": "80830"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "inconfort",
+            "id": "250660993"
+        },
+        {
+            "mot": "pouvant",
+            "id": "1971842"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "relié",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "majorité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "appareils",
+            "id": "6082042"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "appareil",
+            "id": "413330"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "arrête",
+            "id": "NULL"
+        },
+        {
+            "mot": "automatiquement",
+            "id": "9464"
+        }
+    ],
+    [
+        {
+            "mot": "Types",
+            "id": "417517"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "Bilatérale",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "positionnées",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "parties",
+            "id": "409982"
+        },
+        {
+            "mot": "homologues",
+            "id": "418352"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hémisphère",
+            "id": "NULL"
+        },
+        {
+            "mot": "droit",
+            "id": "152208"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hémisphère",
+            "id": "NULL"
+        },
+        {
+            "mot": "gauche",
+            "id": "406033"
+        }
+    ],
+    [
+        {
+            "mot": "Suivant",
+            "id": "171040074"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "principe",
+            "id": "418540"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "inhibition",
+            "id": "5833549"
+        },
+        {
+            "mot": "interhémisphérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "excitateur",
+            "id": "255142585"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "anode",
+            "id": "156547140"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "inhibiteur",
+            "id": "397115"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "cathode",
+            "id": "15190137"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "amplifié",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Unilatérale",
+            "id": "NULL"
+        },
+        {
+            "mot": "Une",
+            "id": "15606674"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "électrodes",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "positionnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "intérêt",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "autre",
+            "id": "404604"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "positionnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "zone",
+            "id": "13397228"
+        },
+        {
+            "mot": "neutre",
+            "id": "4337327"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "côté",
+            "id": "NULL"
+        },
+        {
+            "mot": "controlatéral",
+            "id": "NULL"
+        },
+        {
+            "mot": "habituellement",
+            "id": "15627245"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cou",
+            "id": "3376825"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "épaule",
+            "id": "NULL"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "éviter",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "influencer",
+            "id": "250774307"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "structures",
+            "id": "11083355"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Placebo",
+            "id": "1367337"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "appareil",
+            "id": "413330"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "mis",
+            "id": "16813093"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "marche",
+            "id": "16090035"
+        },
+        {
+            "mot": "pendant",
+            "id": "10130227"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "secondes",
+            "id": "156557647"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "minute",
+            "id": "31491"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "générer",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sensation",
+            "id": "5842055"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "picotement",
+            "id": "65867"
+        },
+        {
+            "mot": "retrouvée",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "début",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "suite",
+            "id": "10934677"
+        },
+        {
+            "mot": "interrompu",
+            "id": "55753"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "reste",
+            "id": "5998567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "longueur",
+            "id": "5162213"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "protocole",
+            "id": "16717746"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "aucune",
+            "id": "426445"
+        },
+        {
+            "mot": "altération",
+            "id": "NULL"
+        },
+        {
+            "mot": "significative",
+            "id": "321512"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "excitabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "corticale",
+            "id": "147142"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "retrouvée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "présence",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "placebo",
+            "id": "1367337"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "importante",
+            "id": "161295"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "déterminer",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "exclusivement",
+            "id": "118110"
+        },
+        {
+            "mot": "attribuable",
+            "id": "88642"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "attribuable",
+            "id": "88642"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "attentes",
+            "id": "250929603"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "individu",
+            "id": "425525"
+        }
+    ],
+    [
+        {
+            "mot": "Potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "limites",
+            "id": "418461"
+        },
+        {
+            "mot": "Avantages",
+            "id": "10867815"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "simple",
+            "id": "17341162"
+        },
+        {
+            "mot": "fiable",
+            "id": "15013843"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "invasive",
+            "id": "5933438"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "coûteuse",
+            "id": "NULL"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "produit",
+            "id": "567414"
+        },
+        {
+            "mot": "aucun",
+            "id": "2512318"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "utilisation",
+            "id": "5998994"
+        },
+        {
+            "mot": "indésirable",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "exemple",
+            "id": "15532284"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "bruit",
+            "id": "420282"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "imprécision",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "diffusion",
+            "id": "409122"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimuler",
+            "id": "257426104"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "grande",
+            "id": "15625670"
+        },
+        {
+            "mot": "surface",
+            "id": "15465584"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "pourrait",
+            "id": "421721"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "centre",
+            "id": "11179232"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réadaptation",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "combinaison",
+            "id": "15404412"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "thérapie",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médication",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "pourrait",
+            "id": "421721"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "remplacer",
+            "id": "52286"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Inconvénients",
+            "id": "NULL"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "pacemaker",
+            "id": "54581"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "objet",
+            "id": "413085"
+        },
+        {
+            "mot": "métallique",
+            "id": "NULL"
+        },
+        {
+            "mot": "implanté",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cerveau",
+            "id": "411477"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "exclus",
+            "id": "156368"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "durent",
+            "id": "2083241"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "maximum",
+            "id": "120030374"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "heure",
+            "id": "3358295"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "perte",
+            "id": "121534633"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "influx",
+            "id": "53527"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "niveau",
+            "id": "4894369"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "scalp",
+            "id": "10053513"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "imprécision",
+            "id": "NULL"
+        },
+        {
+            "mot": "voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "avantages",
+            "id": "10867815"
+        },
+        {
+            "mot": "amène",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "difficulté",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "attribuer",
+            "id": "74828"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "résultats",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "stimulées",
+            "id": "NULL"
+        },
+        {
+            "mot": "car",
+            "id": "11494787"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "environnantes",
+            "id": "2192905"
+        },
+        {
+            "mot": "aient",
+            "id": "1985549"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "touchées",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "faut",
+            "id": "420502"
+        },
+        {
+            "mot": "préciser",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "durée",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "optimale",
+            "id": "222396857"
+        },
+        {
+            "mot": "ainsi",
+            "id": "15404421"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "force",
+            "id": "10968387"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "répétitions",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "apportant",
+            "id": "1989723"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "meilleurs",
+            "id": "428253"
+        },
+        {
+            "mot": "résultats",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "pourraient",
+            "id": "2250867"
+        },
+        {
+            "mot": "mener",
+            "id": "15937886"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "bénéfices",
+            "id": "NULL"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "dureraient",
+            "id": "2083251"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "longtemps",
+            "id": "15943739"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "moyen",
+            "id": "217273920"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "long",
+            "id": "142571"
+        },
+        {
+            "mot": "terme",
+            "id": "217273921"
+        },
+        {
+            "mot": "restent",
+            "id": "2116573"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "préciser",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Finalement",
+            "id": "15519368"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "expérimentateurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "n",
+            "id": "138276"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "considéré",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "type",
+            "id": "5813161"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "lésion",
+            "id": "NULL"
+        },
+        {
+            "mot": "impliqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "lors",
+            "id": "15562521"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "précision",
+            "id": "NULL"
+        },
+        {
+            "mot": "importante",
+            "id": "161295"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "assurer",
+            "id": "16387720"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "validité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "résultats",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Sécurité",
+            "id": "NULL"
+        },
+        {
+            "mot": "Des",
+            "id": "314234"
+        },
+        {
+            "mot": "normes",
+            "id": "5841136"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sécurité",
+            "id": "NULL"
+        },
+        {
+            "mot": "strictes",
+            "id": "2107048"
+        },
+        {
+            "mot": "ont",
+            "id": "16512778"
+        },
+        {
+            "mot": "été",
+            "id": "NULL"
+        },
+        {
+            "mot": "développées",
+            "id": "NULL"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réguler",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "utilisation",
+            "id": "5998994"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "machines",
+            "id": "420415"
+        },
+        {
+            "mot": "vendues",
+            "id": "252716"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "approuvées",
+            "id": "NULL"
+        },
+        {
+            "mot": "respectent",
+            "id": "2115974"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "normes",
+            "id": "5841136"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "impossible",
+            "id": "402113"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "régler",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "machine",
+            "id": "16087932"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "sorte",
+            "id": "11128275"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "balises",
+            "id": "10603438"
+        },
+        {
+            "mot": "prédéfinies",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Étant",
+            "id": "NULL"
+        },
+        {
+            "mot": "donné",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "simplicité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cet",
+            "id": "413881"
+        },
+        {
+            "mot": "appareil",
+            "id": "413330"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "construire",
+            "id": "10053385"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "facilement",
+            "id": "38277"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "coûts",
+            "id": "NULL"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "minimes",
+            "id": "2499093"
+        }
+    ],
+    [
+        {
+            "mot": "Ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "appareils",
+            "id": "6082042"
+        },
+        {
+            "mot": "faits",
+            "id": "2929135"
+        },
+        {
+            "mot": "maison",
+            "id": "146500"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "potentiellement",
+            "id": "11879"
+        },
+        {
+            "mot": "dangereux",
+            "id": "1156224"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "respectent",
+            "id": "2115974"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "critères",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sécurité",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "vigueur",
+            "id": "5898936"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "communauté",
+            "id": "NULL"
+        },
+        {
+            "mot": "scientifique",
+            "id": "1650866"
+        },
+        {
+            "mot": "déconseille",
+            "id": "NULL"
+        },
+        {
+            "mot": "vivement",
+            "id": "402136"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "utilisation",
+            "id": "5998994"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "appareils",
+            "id": "6082042"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "thérapeutique",
+            "id": "NULL"
+        },
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "maladie",
+            "id": "16512576"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sclérose",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "plaques",
+            "id": "16090037"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "direct",
+            "id": "418498"
+        },
+        {
+            "mot": "pourrait",
+            "id": "421721"
+        },
+        {
+            "mot": "avoir",
+            "id": "402552"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "amélioration",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "semble",
+            "id": "17399061"
+        },
+        {
+            "mot": "diminuer",
+            "id": "113326"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fatigue",
+            "id": "10179020"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "moteurs",
+            "id": "414063"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "moteurs",
+            "id": "414063"
+        },
+        {
+            "mot": "associés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "atteinte",
+            "id": "16075753"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "cervelet",
+            "id": "121223539"
+        },
+        {
+            "mot": "peuvent",
+            "id": "409650"
+        },
+        {
+            "mot": "répondre",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "particulier",
+            "id": "2932560"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "raison",
+            "id": "15504811"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "action",
+            "id": "434203"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "cérébelleux",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "psychiatriques",
+            "id": "399184"
+        },
+        {
+            "mot": "Un",
+            "id": "256126039"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "croissant",
+            "id": "413312"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "données",
+            "id": "NULL"
+        },
+        {
+            "mot": "cliniques",
+            "id": "193336237"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "précliniques",
+            "id": "NULL"
+        },
+        {
+            "mot": "indiquent",
+            "id": "2051745"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "aurait",
+            "id": "1993553"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "effets",
+            "id": "425012"
+        },
+        {
+            "mot": "bénéfiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "symptômes",
+            "id": "NULL"
+        },
+        {
+            "mot": "associés",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "humeur",
+            "id": "5721909"
+        },
+        {
+            "mot": "psychotiques",
+            "id": "2257823"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "liés",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "addiction",
+            "id": "10370587"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "langage",
+            "id": "152396"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "principalement",
+            "id": "65756"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "identifier",
+            "id": "401719"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "reliées",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "régions",
+            "id": "NULL"
+        },
+        {
+            "mot": "cérébrales",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "analysant",
+            "id": "156455165"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "comportement",
+            "id": "8004903"
+        },
+        {
+            "mot": "résultant",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "excitation",
+            "id": "98056234"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "inhibition",
+            "id": "5833549"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "améliorer",
+            "id": "NULL"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "performance",
+            "id": "423459"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "tâches",
+            "id": "NULL"
+        },
+        {
+            "mot": "langagières",
+            "id": "NULL"
+        },
+        {
+            "mot": "L",
+            "id": "138915"
+        },
+        {
+            "mot": "étude",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "naturellement",
+            "id": "10996870"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "artificiellement",
+            "id": "26083"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "explorer",
+            "id": "10077124"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nouvelles",
+            "id": "405724"
+        },
+        {
+            "mot": "thérapies",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "analyser",
+            "id": "427071"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "fonctionnement",
+            "id": "11836266"
+        },
+        {
+            "mot": "cérébral",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "excitatrice",
+            "id": "148079"
+        },
+        {
+            "mot": "améliore",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "performance",
+            "id": "423459"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "donnée",
+            "id": "NULL"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "appliquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "directement",
+            "id": "251839577"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "appliquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "péri",
+            "id": "NULL"
+        },
+        {
+            "mot": "lésionnelle",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "inhibitrice",
+            "id": "17050495"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "diminue",
+            "id": "2068511"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "appliquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "augmente",
+            "id": "1773823"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "appliquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "lésée",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "controlatérale",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "lésion",
+            "id": "NULL"
+        },
+        {
+            "mot": "Cet",
+            "id": "413881"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "s",
+            "id": "163464"
+        },
+        {
+            "mot": "explique",
+            "id": "398915"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "hausse",
+            "id": "408700"
+        },
+        {
+            "mot": "anormale",
+            "id": "254752153"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "inhibition",
+            "id": "5833549"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hémisphère",
+            "id": "NULL"
+        },
+        {
+            "mot": "affecté",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "inhibition",
+            "id": "5833549"
+        },
+        {
+            "mot": "interhémisphérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "lésion",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "récupération",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "partie",
+            "id": "15691780"
+        },
+        {
+            "mot": "liée",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "diminution",
+            "id": "15406690"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "inhibition",
+            "id": "5833549"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "diminuant",
+            "id": "64203"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "excitabilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "circuits",
+            "id": "6067006"
+        },
+        {
+            "mot": "inhibiteurs",
+            "id": "1857966"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "inhibitrice",
+            "id": "17050495"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "grande",
+            "id": "15625670"
+        },
+        {
+            "mot": "activation",
+            "id": "9021139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurones",
+            "id": "16786121"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "lésée",
+            "id": "NULL"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "ayant",
+            "id": "255259909"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "potentiel",
+            "id": "11753100"
+        },
+        {
+            "mot": "bénéfique",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "récupération",
+            "id": "NULL"
+        },
+        {
+            "mot": "post",
+            "id": "1842001"
+        },
+        {
+            "mot": "lésionnelle",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Broca",
+            "id": "460391"
+        },
+        {
+            "mot": "cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "frontal",
+            "id": "10053745"
+        },
+        {
+            "mot": "aires",
+            "id": "411849"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "Chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "excitatrice",
+            "id": "148079"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "cette",
+            "id": "419981"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "augmente",
+            "id": "1773823"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "fluidité",
+            "id": "NULL"
+        },
+        {
+            "mot": "sémantique",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "phonémique",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "précision",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "jugements",
+            "id": "430152"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "grammaticalité",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "excitatrice",
+            "id": "148079"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "inhibitrice",
+            "id": "17050495"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "celle",
+            "id": "177480"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "homologue",
+            "id": "196665022"
+        },
+        {
+            "mot": "augmente",
+            "id": "1773823"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "capacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dénomination",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "pourrait",
+            "id": "421721"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aphasie",
+            "id": "101426529"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "difficulté",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "phonémique",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "lexical",
+            "id": "198271314"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "utilisation",
+            "id": "5998994"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "règles",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "articulatoires",
+            "id": "1991241"
+        }
+    ],
+    [
+        {
+            "mot": "Deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "pistes",
+            "id": "1131060"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "complémentaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "lésion",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "homologue",
+            "id": "196665022"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "possibles",
+            "id": "160889"
+        }
+    ],
+    [
+        {
+            "mot": "Aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Wernicke",
+            "id": "17346495"
+        },
+        {
+            "mot": "cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "temporal",
+            "id": "10849210"
+        },
+        {
+            "mot": "aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "Sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "excitatrice",
+            "id": "148079"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "accroît",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "capacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "précision",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "apprentissage",
+            "id": "5722523"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "nouveau",
+            "id": "146411"
+        },
+        {
+            "mot": "lexique",
+            "id": "413167"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "pourrait",
+            "id": "421721"
+        },
+        {
+            "mot": "donc",
+            "id": "10897693"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "thérapies",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "réacquisition",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "vocabulaire",
+            "id": "410022"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "acquisition",
+            "id": "592485"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "langues",
+            "id": "411604"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "augmente",
+            "id": "1773823"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "capacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "dénomination",
+            "id": "NULL"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "amène",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "hypothèse",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Wernicke",
+            "id": "17346495"
+        },
+        {
+            "mot": "serait",
+            "id": "16513097"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "impliquée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "processus",
+            "id": "567654"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "lexical",
+            "id": "198271314"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "qu",
+            "id": "214790705"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "pourrait",
+            "id": "421721"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "utilisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "traitements",
+            "id": "156583671"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "troubles",
+            "id": "16090034"
+        },
+        {
+            "mot": "associés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "ces",
+            "id": "2446001"
+        },
+        {
+            "mot": "derniers",
+            "id": "427910"
+        }
+    ],
+    [
+        {
+            "mot": "Sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "inhibitrice",
+            "id": "17050495"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "celle",
+            "id": "177480"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "région",
+            "id": "NULL"
+        },
+        {
+            "mot": "homologue",
+            "id": "196665022"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "augmente",
+            "id": "1773823"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "compréhension",
+            "id": "NULL"
+        },
+        {
+            "mot": "verbale",
+            "id": "161915"
+        },
+        {
+            "mot": "orale",
+            "id": "250011031"
+        }
+    ],
+    [
+        {
+            "mot": "Cette",
+            "id": "419981"
+        },
+        {
+            "mot": "double",
+            "id": "16088763"
+        },
+        {
+            "mot": "amélioration",
+            "id": "NULL"
+        },
+        {
+            "mot": "souligne",
+            "id": "2101237"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "importance",
+            "id": "430937"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Wernicke",
+            "id": "17346495"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "compréhension",
+            "id": "NULL"
+        },
+        {
+            "mot": "verbale",
+            "id": "161915"
+        },
+        {
+            "mot": "orale",
+            "id": "250011031"
+        }
+    ],
+    [
+        {
+            "mot": "Cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "moteur",
+            "id": "412888"
+        },
+        {
+            "mot": "gauche",
+            "id": "406033"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "inhibitrice",
+            "id": "17050495"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "sains",
+            "id": "2410397"
+        },
+        {
+            "mot": "diminue",
+            "id": "2068511"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "capacité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "apprendre",
+            "id": "213077732"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "verbes",
+            "id": "143764938"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "action",
+            "id": "434203"
+        },
+        {
+            "mot": "mais",
+            "id": "397741"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "catégories",
+            "id": "NULL"
+        },
+        {
+            "mot": "sémantiques",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Cela",
+            "id": "15550577"
+        },
+        {
+            "mot": "nous",
+            "id": "220485313"
+        },
+        {
+            "mot": "informe",
+            "id": "145713"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "distribution",
+            "id": "90064129"
+        },
+        {
+            "mot": "neuronale",
+            "id": "398299"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "acquisition",
+            "id": "592485"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "sémantique",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "apportant",
+            "id": "1989723"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "preuves",
+            "id": "16073906"
+        },
+        {
+            "mot": "soutenant",
+            "id": "83587"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "cortex",
+            "id": "5752870"
+        },
+        {
+            "mot": "moteur",
+            "id": "412888"
+        },
+        {
+            "mot": "serait",
+            "id": "16513097"
+        },
+        {
+            "mot": "impliqué",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "apprentissage",
+            "id": "5722523"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "verbes",
+            "id": "143764938"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "action",
+            "id": "434203"
+        },
+        {
+            "mot": "motrice",
+            "id": "156529347"
+        }
+    ],
+    [
+        {
+            "mot": "Sa",
+            "id": "187135358"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "excitatrice",
+            "id": "148079"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "sujets",
+            "id": "55668689"
+        },
+        {
+            "mot": "lésés",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "parésie",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "membres",
+            "id": "426006"
+        },
+        {
+            "mot": "supérieurs",
+            "id": "NULL"
+        },
+        {
+            "mot": "améliore",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "fonctions",
+            "id": "404927"
+        },
+        {
+            "mot": "langagières",
+            "id": "NULL"
+        },
+        {
+            "mot": "globales",
+            "id": "566803"
+        },
+        {
+            "mot": "probablement",
+            "id": "122441"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "raison",
+            "id": "15504811"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "proximité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "motrice",
+            "id": "156529347"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "main",
+            "id": "142354"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "aire",
+            "id": "16892021"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "langage",
+            "id": "152396"
+        }
+    ],
+    [
+        {
+            "mot": "Dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "douleurs",
+            "id": "5832806"
+        },
+        {
+            "mot": "cancéreuses",
+            "id": "NULL"
+        },
+        {
+            "mot": "réfractaires",
+            "id": "NULL"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "thérapie",
+            "id": "NULL"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "traiter",
+            "id": "99270"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "douleur",
+            "id": "417682"
+        },
+        {
+            "mot": "cancéreuse",
+            "id": "NULL"
+        },
+        {
+            "mot": "résistante",
+            "id": "NULL"
+        },
+        {
+            "mot": "chez",
+            "id": "420868"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "soins",
+            "id": "10057510"
+        },
+        {
+            "mot": "palliatifs",
+            "id": "417355"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "méthode",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "testée",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "s'",
+            "id": "2282608"
+        },
+        {
+            "mot": "adresse",
+            "id": "15953627"
+        },
+        {
+            "mot": "particulièrement",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "hospitalisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "résultats",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "premiers",
+            "id": "402211"
+        },
+        {
+            "mot": "essais",
+            "id": "158403"
+        },
+        {
+            "mot": "semblent",
+            "id": "2090270"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "encourageants",
+            "id": "253387781"
+        }
+    ],
+    [
+        {
+            "mot": "Comparaison",
+            "id": "425494"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "autres",
+            "id": "402129"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "tES",
+            "id": "6082122"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "électrique",
+            "id": "NULL"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "tES",
+            "id": "6082122"
+        },
+        {
+            "mot": "comprend",
+            "id": "2153138"
+        },
+        {
+            "mot": "généralement",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "techniques",
+            "id": "16090005"
+        },
+        {
+            "mot": "suivantes",
+            "id": "1854293"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "alternatif",
+            "id": "88310908"
+        },
+        {
+            "mot": "tACS",
+            "id": "2294550"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "direct",
+            "id": "418498"
+        },
+        {
+            "mot": "tDCS",
+            "id": "17024223"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "bruit",
+            "id": "420282"
+        },
+        {
+            "mot": "aléatoire",
+            "id": "NULL"
+        },
+        {
+            "mot": "tRNS",
+            "id": "235564356"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "stimulation",
+            "id": "17341605"
+        },
+        {
+            "mot": "transcrânienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "pulsé",
+            "id": "NULL"
+        },
+        {
+            "mot": "tPCS",
+            "id": "NULL"
+        },
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "médecine",
+            "id": "NULL"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "neurosciences",
+            "id": "11807364"
+        }
+    ]
+]

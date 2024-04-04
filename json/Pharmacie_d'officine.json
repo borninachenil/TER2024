@@ -1,0 +1,4426 @@
+[
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "spécialité",
+            "id": "NULL"
+        },
+        {
+            "mot": "regroupant",
+            "id": "2107108"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "travaillent",
+            "id": "2102378"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmacies",
+            "id": "155123"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "ville",
+            "id": "15686656"
+        },
+        {
+            "mot": "appelées",
+            "id": "NULL"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "officines",
+            "id": "2067305"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "délivrés",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "public",
+            "id": "1645208"
+        }
+    ],
+    [
+        {
+            "mot": "Histoire",
+            "id": "5814360"
+        },
+        {
+            "mot": "Une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "origine",
+            "id": "273472"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "on",
+            "id": "2529893"
+        },
+        {
+            "mot": "prépare",
+            "id": "NULL"
+        },
+        {
+            "mot": "conserve",
+            "id": "105661274"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "vend",
+            "id": "431801"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "responsabilités",
+            "id": "NULL"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "validation",
+            "id": "403478"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "délivrance",
+            "id": "NULL"
+        },
+        {
+            "mot": "dispensation",
+            "id": "5832969"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "ordonnances",
+            "id": "10845957"
+        },
+        {
+            "mot": "prescrites",
+            "id": "2251276"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médecins",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "conseils",
+            "id": "416213"
+        },
+        {
+            "mot": "associés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prise",
+            "id": "414468"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "hygiène",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "nutrition",
+            "id": "411315"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "globalement",
+            "id": "115468"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "publique",
+            "id": "15168389"
+        }
+    ],
+    [
+        {
+            "mot": "De",
+            "id": "3320102"
+        },
+        {
+            "mot": "manière",
+            "id": "NULL"
+        },
+        {
+            "mot": "annexe",
+            "id": "10352907"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "vend",
+            "id": "431801"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "produits",
+            "id": "414121"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "parapharmacie",
+            "id": "156589474"
+        }
+    ],
+    [
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "Haute",
+            "id": "15519191"
+        },
+        {
+            "mot": "Autorité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "élargi",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "compétences",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "désormais",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "professionnels",
+            "id": "411617"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "recours",
+            "id": "430517"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vaccination",
+            "id": "140248"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "adultes",
+            "id": "420789"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "travail",
+            "id": "17638133"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "analyse",
+            "id": "402333"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ordonnance",
+            "id": "411204"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "vérification",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "posologies",
+            "id": "2249834"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "interactions",
+            "id": "10763845"
+        },
+        {
+            "mot": "médicamenteuses",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "contre",
+            "id": "426382"
+        },
+        {
+            "mot": "indications",
+            "id": "5832578"
+        },
+        {
+            "mot": "existantes",
+            "id": "399427"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "état",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "étant",
+            "id": "NULL"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "bout",
+            "id": "432653"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "chaîne",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prescription",
+            "id": "567655"
+        },
+        {
+            "mot": "médicale",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "responsable",
+            "id": "16089284"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "délivrés",
+            "id": "NULL"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "erreur",
+            "id": "397629"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "négligence",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "part",
+            "id": "396844"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        },
+        {
+            "mot": "prescripteur",
+            "id": "37034"
+        }
+    ],
+    [
+        {
+            "mot": "À",
+            "id": "NULL"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "titre",
+            "id": "11409607"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "refuser",
+            "id": "43881"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "délivrer",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ordonnance",
+            "id": "411204"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "bien",
+            "id": "15532334"
+        },
+        {
+            "mot": "modifier",
+            "id": "14567327"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "posologies",
+            "id": "2249834"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "souvent",
+            "id": "3382915"
+        },
+        {
+            "mot": "après",
+            "id": "NULL"
+        },
+        {
+            "mot": "accord",
+            "id": "428873"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        },
+        {
+            "mot": "prescripteur",
+            "id": "37034"
+        }
+    ],
+    [
+        {
+            "mot": "Il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "suivi",
+            "id": "5832960"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "traitement",
+            "id": "16090024"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "aider",
+            "id": "25600667"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "établissement",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "plan",
+            "id": "14895280"
+        },
+        {
+            "mot": "pharmacothérapique",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Au",
+            "id": "138621"
+        },
+        {
+            "mot": "Québec",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "jouit",
+            "id": "2053240"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "élargi",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "prescrire",
+            "id": "5622707"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "analyses",
+            "id": "6564706"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "laboratoire",
+            "id": "407934"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "nécessaire",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Toutefois",
+            "id": "14670793"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "cas",
+            "id": "1010733"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "problème",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "nécessite",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "diagnostic",
+            "id": "426024"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "incitera",
+            "id": "2047336"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "patient",
+            "id": "15406494"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "consulter",
+            "id": "414915"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "médecin",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "habilité",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "formé",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "diagnostiquer",
+            "id": "68229"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pathologies",
+            "id": "3229339"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "lesquelles",
+            "id": "16087745"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "délivrer",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "dits",
+            "id": "10672322"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "conseils",
+            "id": "416213"
+        },
+        {
+            "mot": "tels",
+            "id": "53063"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "état",
+            "id": "NULL"
+        },
+        {
+            "mot": "grippal",
+            "id": "132232"
+        },
+        {
+            "mot": "toux",
+            "id": "17051775"
+        },
+        {
+            "mot": "conjonctivite",
+            "id": "156518143"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "bactérienne",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "mycoses",
+            "id": "16786034"
+        },
+        {
+            "mot": "dermatologiques",
+            "id": "2167546"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "rôle",
+            "id": "NULL"
+        },
+        {
+            "mot": "social",
+            "id": "426640"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "mesure",
+            "id": "15412655"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "indiquer",
+            "id": "61284"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "personnes",
+            "id": "1133448"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "difficulté",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "organismes",
+            "id": "408616"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "structures",
+            "id": "11083355"
+        },
+        {
+            "mot": "compétentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "matière",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "publique",
+            "id": "15168389"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "aides",
+            "id": "99198280"
+        },
+        {
+            "mot": "sociales",
+            "id": "2315228"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "profession",
+            "id": "426411"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "profession",
+            "id": "426411"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "encadrée",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "consacre",
+            "id": "2155861"
+        },
+        {
+            "mot": "son",
+            "id": "5619461"
+        },
+        {
+            "mot": "temps",
+            "id": "1845924"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "conseil",
+            "id": "16768380"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "écoute",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "prévention",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "but",
+            "id": "10076653"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "publique",
+            "id": "15168389"
+        }
+    ],
+    [
+        {
+            "mot": "Depuis",
+            "id": "432818"
+        },
+        {
+            "mot": "quelques",
+            "id": "16308420"
+        },
+        {
+            "mot": "années",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "profession",
+            "id": "426411"
+        },
+        {
+            "mot": "doit",
+            "id": "461257"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "face",
+            "id": "16088731"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "tous",
+            "id": "417137"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "secteurs",
+            "id": "14156890"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "économie",
+            "id": "NULL"
+        },
+        {
+            "mot": "depuis",
+            "id": "432818"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "début",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "crise",
+            "id": "141316"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "années",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "certain",
+            "id": "414263"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "faillites",
+            "id": "400875"
+        }
+    ],
+    [
+        {
+            "mot": "Cependant",
+            "id": "101535"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "monopole",
+            "id": "5812556"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "exercice",
+            "id": "425502"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "numérus",
+            "id": "NULL"
+        },
+        {
+            "mot": "clausus",
+            "id": "9567205"
+        },
+        {
+            "mot": "très",
+            "id": "NULL"
+        },
+        {
+            "mot": "restrictif",
+            "id": "17390552"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "fixe",
+            "id": "420916"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "nombre",
+            "id": "402302"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "étudiants",
+            "id": "NULL"
+        },
+        {
+            "mot": "admis",
+            "id": "415574"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "deuxième",
+            "id": "NULL"
+        },
+        {
+            "mot": "année",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "permettent",
+            "id": "2242079"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "rester",
+            "id": "3225588"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "secteurs",
+            "id": "14156890"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "rentables",
+            "id": "2113761"
+        },
+        {
+            "mot": "financièrement",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "effet",
+            "id": "15519170"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "libéraux",
+            "id": "NULL"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "appelés",
+            "id": "NULL"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "titulaires",
+            "id": "16341638"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "différence",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "adjoints",
+            "id": "15808805"
+        },
+        {
+            "mot": "salariés",
+            "id": "NULL"
+        },
+        {
+            "mot": "avec",
+            "id": "15404438"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "revenu",
+            "id": "1700992"
+        },
+        {
+            "mot": "médian",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "mois",
+            "id": "416784"
+        },
+        {
+            "mot": "rapport",
+            "id": "16088730"
+        },
+        {
+            "mot": "IGF",
+            "id": "16064661"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "professionnels",
+            "id": "411617"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "mieux",
+            "id": "432113"
+        },
+        {
+            "mot": "rémunérés",
+            "id": "NULL"
+        },
+        {
+            "mot": "derrière",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "biologistes",
+            "id": "110688705"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "mois",
+            "id": "416784"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "devant",
+            "id": "2576352"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médecins",
+            "id": "NULL"
+        },
+        {
+            "mot": "spécialistes",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "mois",
+            "id": "416784"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "chirurgiens",
+            "id": "10161254"
+        },
+        {
+            "mot": "dentistes",
+            "id": "17400779"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "mois",
+            "id": "416784"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "médecins",
+            "id": "NULL"
+        },
+        {
+            "mot": "généralistes",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "mois",
+            "id": "416784"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "INSEE",
+            "id": "230847"
+        },
+        {
+            "mot": "précise",
+            "id": "NULL"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "ses",
+            "id": "11254312"
+        },
+        {
+            "mot": "études",
+            "id": "NULL"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "récentes",
+            "id": "NULL"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "revenus",
+            "id": "14510127"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "difficilement",
+            "id": "29430"
+        },
+        {
+            "mot": "comparables",
+            "id": "2152331"
+        },
+        {
+            "mot": "car",
+            "id": "11494787"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "professions",
+            "id": "16089093"
+        },
+        {
+            "mot": "majoritairement",
+            "id": "8885852"
+        },
+        {
+            "mot": "soumises",
+            "id": "319832"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "IS",
+            "id": "2524893"
+        },
+        {
+            "mot": "impôt",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "sociétés",
+            "id": "NULL"
+        },
+        {
+            "mot": "comme",
+            "id": "186744723"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "radiologues",
+            "id": "268090"
+        },
+        {
+            "mot": "ne",
+            "id": "2447781"
+        },
+        {
+            "mot": "comptabilisent",
+            "id": "2153307"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "revenus",
+            "id": "14510127"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "activité",
+            "id": "NULL"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "partie",
+            "id": "15691780"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "dividendes",
+            "id": "156559852"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "ils",
+            "id": "427503"
+        },
+        {
+            "mot": "se",
+            "id": "313787"
+        },
+        {
+            "mot": "versent",
+            "id": "2092023"
+        }
+    ],
+    [
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "salaire",
+            "id": "420288"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "adjoints",
+            "id": "15808805"
+        },
+        {
+            "mot": "dépend",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "coefficient",
+            "id": "5905577"
+        },
+        {
+            "mot": "lié",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "ancienneté",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "coefficients",
+            "id": "13301803"
+        },
+        {
+            "mot": "vont",
+            "id": "421198"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "salaire",
+            "id": "420288"
+        },
+        {
+            "mot": "mensuel",
+            "id": "584392"
+        },
+        {
+            "mot": "net",
+            "id": "435690"
+        },
+        {
+            "mot": "estimé",
+            "id": "NULL"
+        },
+        {
+            "mot": "compris",
+            "id": "46612"
+        },
+        {
+            "mot": "entre",
+            "id": "15585076"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "La",
+            "id": "14424533"
+        },
+        {
+            "mot": "création",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "répartition",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "pharmacies",
+            "id": "155123"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "régie",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "loi",
+            "id": "405271"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "fonction",
+            "id": "15633113"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "démographie",
+            "id": "NULL"
+        },
+        {
+            "mot": "environ",
+            "id": "6014146"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "objectif",
+            "id": "414120"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "assurer",
+            "id": "16387720"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "soins",
+            "id": "10057510"
+        },
+        {
+            "mot": "identique",
+            "id": "250663081"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "tous",
+            "id": "417137"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        }
+    ],
+    [
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "ouverture",
+            "id": "404697"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "transfert",
+            "id": "2924541"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "création",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "communes",
+            "id": "415669"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "comptent",
+            "id": "410549"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Guyane",
+            "id": "68081"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Moselle",
+            "id": "10985145"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "Alsace",
+            "id": "186744655"
+        },
+        {
+            "mot": "Ensuite",
+            "id": "15518959"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "ouverture",
+            "id": "404697"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "transfert",
+            "id": "2924541"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "nouvelles",
+            "id": "405724"
+        },
+        {
+            "mot": "pharmacies",
+            "id": "155123"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "autorisés",
+            "id": "NULL"
+        },
+        {
+            "mot": "par",
+            "id": "409087"
+        },
+        {
+            "mot": "tranche",
+            "id": "2602712"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "seconde",
+            "id": "404340"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "peut",
+            "id": "3577738"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "implantée",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "commune",
+            "id": "17121759"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "compte",
+            "id": "4276097"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "implantation",
+            "id": "662188"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "commune",
+            "id": "17121759"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "moins",
+            "id": "15660263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        },
+        {
+            "mot": "n'",
+            "id": "2233812"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "pas",
+            "id": "1853062"
+        },
+        {
+            "mot": "autorisée",
+            "id": "NULL"
+        },
+        {
+            "mot": "sauf",
+            "id": "2932154"
+        },
+        {
+            "mot": "si",
+            "id": "184281"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "commune",
+            "id": "17121759"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "précédemment",
+            "id": "NULL"
+        },
+        {
+            "mot": "disposé",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "desservait",
+            "id": "2057183"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "habitants",
+            "id": "2578926"
+        }
+    ],
+    [
+        {
+            "mot": "Une",
+            "id": "15606674"
+        },
+        {
+            "mot": "ordonnance",
+            "id": "411204"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "janvier",
+            "id": "138451"
+        },
+        {
+            "mot": "adapte",
+            "id": "1775684"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "critères",
+            "id": "NULL"
+        },
+        {
+            "mot": "devant",
+            "id": "2576352"
+        },
+        {
+            "mot": "être",
+            "id": "NULL"
+        },
+        {
+            "mot": "respectés",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "ouvrir",
+            "id": "16512805"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "rendre",
+            "id": "254334089"
+        },
+        {
+            "mot": "possible",
+            "id": "5965847"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "ouverture",
+            "id": "404697"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "certaines",
+            "id": "9987968"
+        },
+        {
+            "mot": "conditions",
+            "id": "13990213"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "proximité",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "maison",
+            "id": "146500"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "centre",
+            "id": "11179232"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "centre",
+            "id": "11179232"
+        },
+        {
+            "mot": "commercial",
+            "id": "5538818"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "encore",
+            "id": "145009"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "aéroport",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "instaure",
+            "id": "2061648"
+        },
+        {
+            "mot": "également",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mesures",
+            "id": "5619572"
+        },
+        {
+            "mot": "propres",
+            "id": "414556"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "certains",
+            "id": "425463"
+        },
+        {
+            "mot": "territoires",
+            "id": "406271"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "accès",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "population",
+            "id": "214730"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "médicament",
+            "id": "NULL"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "plus",
+            "id": "5721165"
+        },
+        {
+            "mot": "difficile",
+            "id": "15547284"
+        },
+        {
+            "mot": "afin",
+            "id": "16110651"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "préserver",
+            "id": "NULL"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "réseau",
+            "id": "NULL"
+        },
+        {
+            "mot": "officinal",
+            "id": "110430"
+        },
+        {
+            "mot": "y",
+            "id": "144184"
+        },
+        {
+            "mot": "compris",
+            "id": "46612"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "territoires",
+            "id": "406271"
+        },
+        {
+            "mot": "ruraux",
+            "id": "416767"
+        }
+    ],
+    [
+        {
+            "mot": "Elle",
+            "id": "9986297"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "directeur",
+            "id": "145648"
+        },
+        {
+            "mot": "général",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l",
+            "id": "138915"
+        },
+        {
+            "mot": "ARS",
+            "id": "1856215"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "prendre",
+            "id": "3158889"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "mesures",
+            "id": "5619572"
+        },
+        {
+            "mot": "destinées",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "favoriser",
+            "id": "16795832"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "maintenir",
+            "id": "16512595"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "offre",
+            "id": "425347"
+        },
+        {
+            "mot": "pharmaceutique",
+            "id": "156584312"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "utilisant",
+            "id": "257439093"
+        },
+        {
+            "mot": "le",
+            "id": "14488905"
+        },
+        {
+            "mot": "fonds",
+            "id": "408276"
+        },
+        {
+            "mot": "d",
+            "id": "142231"
+        },
+        {
+            "mot": "intervention",
+            "id": "415283"
+        },
+        {
+            "mot": "régional",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Délivrance",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "génériques",
+            "id": "NULL"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "reconnu",
+            "id": "10586098"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "droit",
+            "id": "152208"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "substitution",
+            "id": "15685364"
+        },
+        {
+            "mot": "lui",
+            "id": "14773174"
+        },
+        {
+            "mot": "permettant",
+            "id": "2242077"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "délivrer",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "génériques",
+            "id": "NULL"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "leur",
+            "id": "15633114"
+        },
+        {
+            "mot": "dénomination",
+            "id": "NULL"
+        },
+        {
+            "mot": "commune",
+            "id": "17121759"
+        },
+        {
+            "mot": "internationale",
+            "id": "16161703"
+        },
+        {
+            "mot": "inscrits",
+            "id": "592602"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "Répertoire",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "génériques",
+            "id": "NULL"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "prescription",
+            "id": "567655"
+        },
+        {
+            "mot": "médicale",
+            "id": "NULL"
+        },
+        {
+            "mot": "où",
+            "id": "NULL"
+        },
+        {
+            "mot": "figurent",
+            "id": "2009056"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "médicaments",
+            "id": "NULL"
+        },
+        {
+            "mot": "dits",
+            "id": "10672322"
+        },
+        {
+            "mot": "princeps",
+            "id": "14670348"
+        },
+        {
+            "mot": "sous",
+            "id": "16089533"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "dénomination",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "laboratoire",
+            "id": "407934"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "commercialisé",
+            "id": "NULL"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "premier",
+            "id": "17340841"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "substance",
+            "id": "428339"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "Amérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Nord",
+            "id": "138334"
+        },
+        {
+            "mot": "En",
+            "id": "93554597"
+        },
+        {
+            "mot": "Amérique",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "Nord",
+            "id": "138334"
+        },
+        {
+            "mot": "les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmacies",
+            "id": "155123"
+        },
+        {
+            "mot": "telles",
+            "id": "10055284"
+        },
+        {
+            "mot": "que",
+            "id": "14890876"
+        },
+        {
+            "mot": "Pharmaprix",
+            "id": "10601136"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "Canada",
+            "id": "11442550"
+        },
+        {
+            "mot": "Jean",
+            "id": "16512830"
+        },
+        {
+            "mot": "Coutu",
+            "id": "5676538"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "Québec",
+            "id": "NULL"
+        },
+        {
+            "mot": "sont",
+            "id": "5558034"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "propriété",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "chaînes",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "supermarché",
+            "id": "NULL"
+        },
+        {
+            "mot": "respectivement",
+            "id": "122803"
+        },
+        {
+            "mot": "Loblaws",
+            "id": "10597957"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "Métro",
+            "id": "NULL"
+        }
+    ],
+    [
+        {
+            "mot": "Elles",
+            "id": "3181199"
+        },
+        {
+            "mot": "vendent",
+            "id": "2089900"
+        },
+        {
+            "mot": "toutes",
+            "id": "427824"
+        },
+        {
+            "mot": "sortes",
+            "id": "256180721"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "produits",
+            "id": "414121"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "services",
+            "id": "16236775"
+        },
+        {
+            "mot": "non",
+            "id": "2409585"
+        },
+        {
+            "mot": "reliés",
+            "id": "NULL"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "homéopathie",
+            "id": "NULL"
+        },
+        {
+            "mot": "parfums",
+            "id": "426933"
+        },
+        {
+            "mot": "cosmétiques",
+            "id": "NULL"
+        },
+        {
+            "mot": "service",
+            "id": "404805"
+        },
+        {
+            "mot": "photo",
+            "id": "405162"
+        },
+        {
+            "mot": "nourriture",
+            "id": "5570501"
+        },
+        {
+            "mot": "sèche",
+            "id": "NULL"
+        },
+        {
+            "mot": "boissons",
+            "id": "5814225"
+        },
+        {
+            "mot": "etc",
+            "id": "111768245"
+        },
+        {
+            "mot": "Les",
+            "id": "15021325"
+        },
+        {
+            "mot": "pharmacies",
+            "id": "155123"
+        },
+        {
+            "mot": "étant",
+            "id": "NULL"
+        },
+        {
+            "mot": "stratégiquement",
+            "id": "NULL"
+        },
+        {
+            "mot": "placées",
+            "id": "NULL"
+        },
+        {
+            "mot": "dans",
+            "id": "17638136"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "lieux",
+            "id": "15943738"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "forte",
+            "id": "2572348"
+        },
+        {
+            "mot": "densité",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "population",
+            "id": "214730"
+        },
+        {
+            "mot": "il",
+            "id": "1836399"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "courant",
+            "id": "420853"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "retrouver",
+            "id": "114541"
+        },
+        {
+            "mot": "au",
+            "id": "138621"
+        },
+        {
+            "mot": "sein",
+            "id": "137512"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "même",
+            "id": "NULL"
+        },
+        {
+            "mot": "lieu",
+            "id": "406039"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "bureau",
+            "id": "142845"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "Postes",
+            "id": "2924535"
+        },
+        {
+            "mot": "Canada",
+            "id": "11442550"
+        },
+        {
+            "mot": "ce",
+            "id": "138967"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "permet",
+            "id": "308648"
+        },
+        {
+            "mot": "aux",
+            "id": "15504815"
+        },
+        {
+            "mot": "résidants",
+            "id": "NULL"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "quartier",
+            "id": "407895"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "faire",
+            "id": "14890873"
+        },
+        {
+            "mot": "leurs",
+            "id": "413434"
+        },
+        {
+            "mot": "opérations",
+            "id": "NULL"
+        },
+        {
+            "mot": "postales",
+            "id": "408784"
+        }
+    ],
+    [
+        {
+            "mot": "Postes",
+            "id": "2924535"
+        },
+        {
+            "mot": "Canada",
+            "id": "11442550"
+        },
+        {
+            "mot": "a",
+            "id": "143768"
+        },
+        {
+            "mot": "peu",
+            "id": "16088737"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "points",
+            "id": "262263"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "service",
+            "id": "404805"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "nom",
+            "id": "254652531"
+        },
+        {
+            "mot": "propre",
+            "id": "420477"
+        }
+    ],
+    [
+        {
+            "mot": "Commerces",
+            "id": "16589249"
+        },
+        {
+            "mot": "annexes",
+            "id": "15808840"
+        },
+        {
+            "mot": "Parapharmacie",
+            "id": "156589474"
+        },
+        {
+            "mot": "Beaucoup",
+            "id": "430768"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "pharmaciens",
+            "id": "12686116"
+        },
+        {
+            "mot": "réalisent",
+            "id": "NULL"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "parapharmacie",
+            "id": "156589474"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "vendent",
+            "id": "2089900"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "produits",
+            "id": "414121"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "hygiène",
+            "id": "NULL"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "soins",
+            "id": "10057510"
+        }
+    ],
+    [
+        {
+            "mot": "Controverse",
+            "id": "416371"
+        },
+        {
+            "mot": "L'",
+            "id": "263030"
+        },
+        {
+            "mot": "émission",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "information",
+            "id": "16566618"
+        },
+        {
+            "mot": "Cash",
+            "id": "404261"
+        },
+        {
+            "mot": "Investigation",
+            "id": "432393"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "révèle",
+            "id": "NULL"
+        },
+        {
+            "mot": "Quand",
+            "id": "403311"
+        },
+        {
+            "mot": "qu'",
+            "id": "14718918"
+        },
+        {
+            "mot": "environ",
+            "id": "6014146"
+        },
+        {
+            "mot": "une",
+            "id": "15606674"
+        },
+        {
+            "mot": "officine",
+            "id": "10984861"
+        },
+        {
+            "mot": "sur",
+            "id": "409373"
+        },
+        {
+            "mot": "deux",
+            "id": "14665637"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "France",
+            "id": "10914926"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "équipée",
+            "id": "NULL"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "un",
+            "id": "256126039"
+        },
+        {
+            "mot": "logiciel",
+            "id": "3572703"
+        },
+        {
+            "mot": "qui",
+            "id": "14890871"
+        },
+        {
+            "mot": "transmet",
+            "id": "2100983"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "données",
+            "id": "NULL"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "santé",
+            "id": "NULL"
+        },
+        {
+            "mot": "anonymisées",
+            "id": "NULL"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "patients",
+            "id": "248701277"
+        },
+        {
+            "mot": "à",
+            "id": "NULL"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "entreprise",
+            "id": "143063"
+        },
+        {
+            "mot": "américaine",
+            "id": "NULL"
+        },
+        {
+            "mot": "IQVIA",
+            "id": "NULL"
+        },
+        {
+            "mot": "pour",
+            "id": "409376"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "fins",
+            "id": "2398213"
+        },
+        {
+            "mot": "d'",
+            "id": "263032"
+        },
+        {
+            "mot": "exploitation",
+            "id": "3184213"
+        },
+        {
+            "mot": "statistique",
+            "id": "5526206"
+        },
+        {
+            "mot": "Notes",
+            "id": "1840051"
+        },
+        {
+            "mot": "et",
+            "id": "159139"
+        },
+        {
+            "mot": "références",
+            "id": "NULL"
+        },
+        {
+            "mot": "Cet",
+            "id": "413881"
+        },
+        {
+            "mot": "article",
+            "id": "231646648"
+        },
+        {
+            "mot": "est",
+            "id": "14424442"
+        },
+        {
+            "mot": "partiellement",
+            "id": "251839550"
+        },
+        {
+            "mot": "ou",
+            "id": "102563973"
+        },
+        {
+            "mot": "en",
+            "id": "93554597"
+        },
+        {
+            "mot": "totalité",
+            "id": "NULL"
+        },
+        {
+            "mot": "issu",
+            "id": "251839551"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "l'",
+            "id": "263030"
+        },
+        {
+            "mot": "article",
+            "id": "231646648"
+        },
+        {
+            "mot": "intitulé",
+            "id": "NULL"
+        },
+        {
+            "mot": "Pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "commerce",
+            "id": "152253"
+        },
+        {
+            "mot": "voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "liste",
+            "id": "15943735"
+        },
+        {
+            "mot": "des",
+            "id": "314234"
+        },
+        {
+            "mot": "auteurs",
+            "id": "5814297"
+        },
+        {
+            "mot": "Voir",
+            "id": "14772243"
+        },
+        {
+            "mot": "aussi",
+            "id": "14890874"
+        },
+        {
+            "mot": "Le",
+            "id": "14488905"
+        },
+        {
+            "mot": "Quotidien",
+            "id": "409488"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "pharmacien",
+            "id": "10344849"
+        },
+        {
+            "mot": "Mathieu",
+            "id": "149078"
+        },
+        {
+            "mot": "Guerriaud",
+            "id": "NULL"
+        },
+        {
+            "mot": "Droit",
+            "id": "152208"
+        },
+        {
+            "mot": "Pharmaceutique",
+            "id": "156584312"
+        },
+        {
+            "mot": "Elsevier",
+            "id": "5879265"
+        },
+        {
+            "mot": "Masson",
+            "id": "12206137"
+        },
+        {
+            "mot": "p",
+            "id": "137760"
+        }
+    ],
+    [
+        {
+            "mot": "ISBN",
+            "id": "142939"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "de",
+            "id": "3320102"
+        },
+        {
+            "mot": "la",
+            "id": "14424533"
+        },
+        {
+            "mot": "pharmacie",
+            "id": "153107"
+        },
+        {
+            "mot": "Portail",
+            "id": "2585567"
+        },
+        {
+            "mot": "du",
+            "id": "99918255"
+        },
+        {
+            "mot": "commerce",
+            "id": "152253"
+        }
+    ]
+]

@@ -1,0 +1,34 @@
+neuGRID est un portail web destiné à la recherche scientifique dans le domaine des maladies neurodégénératives. Grâce à neuGRID (i) les neuroscientifiques ont à disposition pour leur analyses une grande quantité de données de résonances magnétiques cérébrales archivées dans l'infrastructure et (ii) les cliniciens auront la possibilité de sortir automatiquement les marqueurs des maladies neurodégénératives pour effectuer les diagnostics des patients. NeuGRID est un portail intuitif ouvert à groupes d'utilisateurs différents, à partir des étudiants jusqu'aux neuroscientifiques les plus experts, engagés dans les domaines de la maladie d'Alzheimer, des maladies psychiatriques et des maladies de la substance blanche. NeuGRID vise à devenir une ressource amplement répandue pour l'analyse des résonances magnétiques cérébrales.
+
+Fonctionnement
+À travers une identification personnelle au «Science Gateway», l'utilisateur à accès au laboratoire virtuel de résonances magnétiques. Dans ce portail les utilisateurs peuvent charger, utiliser, et partager des algorithmes pour l'analyse de résonance magnétiques cérébrales, avoir accès à des grandes archives de résonances magnétiques cérébrales, et faire des analyses statistiques intensives, toujours supportés par un centre d'assistance spécialisé et par le biais de matériel informatif. Grâce à une série de services distribués et à des ressources statistiques basées  sur des systèmes grid/cloud, les analyses ont subi une accélération sans précédent par rapport aux analyses de laboratoires traditionnelles. Les potentialités de neuGRID ont été testées en 2009, et le résultat a donné l'extraction d'un biomarqueur de la maladie d'Alzheimer (épaisseur cortical 3D avec Freesurfer et CIVET) dans deux semaines  de temps au lieu de cinq années, le temps nécessaire pour les normales analyses de laboratoire.
+
+Histoire
+Le projet neuGRID a été financé par la Commission européenne DG INFSO à travers le 7e Programme Cadre de 2008 à 2011. L'infrastructure de neuGRID a été développée pendant cette période. La deuxième phase du projet  a été financée toujours par la Commission Européenne, cette fois DG CONNECT, avec le projet neuGRIDforyou (N4U), visant à étendre les services aux utilisateurs de neuGRID avec une interface nouvelle et plus intuitive. Le projet N4U terminera en décembre 2014.
+
+Consortium
+Le Consortium initial de neuGRID comprenait huit partenaires européens de Italie, France, Grande-Bretagne, Pays Bas, Suède, Espagne et Suisse. N4U implique 9 partenaires européens (6 déjà dans le consortium de neuGRID) et deux partenaires de l'Amérique du Nord. Les partenaires internationaux ont été impliqués encore une fois grâce à un financement européen de la DG INFSO (outGRID, www.outgrid.eu). Le coordinateur des trois projets est Giovanni B. Frisoni, neurologue à l'IRCCS Fatebenefratelli, Centre National pour la Maladie d'Alzheimer à Brescia, Italie.
+
+Publications
+Sur l'infrastructure
+
+Frisoni GB, Redolfi A, Manset D, Rousseau MÉ, Toga A, Evans AC. Virtual imaging laboratories for marker discovery in neurodegenerative diseases. Nat. Rev. Neurol. (Paris) 2011;7:429-38.
+Redolfi A, McClatchey R, Anjum A, Zijdenbos A, Manset D, Barkhof F, Spenger C, Legré Y, Wahlund L, Barattieri di San Pietro C, Frisoni GB. Grid infrastructures for computational neuroscience: the neuGRID example. Future Neurology 2009;4:703-22.
+Barkhof F. Making better use of our brain MRI research data. Eur Radiol 2012;22:1395-6.
+Anjum A, Bloodsworth P, Habib I, Lansdale T, McClatchey R, Mehmood Y; neuGRID Consortium. Reusable services from the neuGRID project for grid-based health applications. Stud Health Technol Inform 2009;147:283-8.études neuroscientifiques où neuGRID a été utilisé comme ressource
+
+Redolfi A, Bosco P, Manset D, Frisoni GB, neuGRID Consortium. Brain investigation and brain conceptualization. Functional Neurology; 2013; Vol.28(3): 175-190.
+Cover KS, van Schijndel RA, van Dijk BW, Redolfi A, Knol DL, Frisoni GB, Barkhof F, Vrenken H; neuGRID Consortium; Alzheimer's Disease Neuroimaging Initiative. Assessing the reproducibility of the SienaX and Siena brain atrophy measures using the ADNI back-to-back MP-RAGE MRI scans. Psychiatry Res 2011;193:182-90.
+Frisoni GB, Fox N, Jack C Jr, Scheltens P, and Thompson PM. The clinical use of structural MRI in Alzheimer disease Nat Rev. Neurol. (Paris) 2010; 6:67–77.
+
+Prix et Reconnaissances
+La démonstration neuGRID a récemment obtenu le prix la meilleure démonstration (Best Live Demonstration) à la conférence EGEE’09 (Enabling Grid for E-SciencE), qui a eu lieu à Barcelone, Espagne et celui du 5e EGEE User Forum qui s’est déroulé à Uppsala, Suède.
+
+Notes et références
+Articles connexes
+Imagerie médicale
+Grille informatique
+
+Liens externes
+Site officiel du projet neuGRID
+neuGRID video (demo) - en anglais Portail des neurosciences   Portail de la médecine   Portail de l’informatique
