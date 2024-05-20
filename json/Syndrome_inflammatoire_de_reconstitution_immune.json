@@ -1,0 +1,5154 @@
+[
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "immune",
+            "lemme": "immun"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Immune",
+            "lemme": "immune"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "inflammatory",
+            "lemme": "inflammatory"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "ensemble",
+            "lemme": "ensemble"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "manifestations",
+            "lemme": "manifestation"
+        },
+        {
+            "nom": "inflammatoires",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "associé",
+            "lemme": "associer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "aggravation",
+            "lemme": "aggravation"
+        },
+        {
+            "nom": "paradoxale",
+            "lemme": "paradoxal"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "opportuniste",
+            "lemme": "opportuniste"
+        },
+        {
+            "nom": "préexistante",
+            "lemme": "préexistant"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "connue",
+            "lemme": "connaître"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "inconnue",
+            "lemme": "inconnu"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "restauration",
+            "lemme": "restauration"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "fonctions",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "immunitaires",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "patient",
+            "lemme": "patient"
+        },
+        {
+            "nom": "préalablement",
+            "lemme": "préalablemer"
+        },
+        {
+            "nom": "immunodéprimé",
+            "lemme": "immunodéprimé"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "VIH",
+            "lemme": "vih"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunosuppression",
+            "lemme": "immunosuppression"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "suppression",
+            "lemme": "suppression"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lymphocytes",
+            "lemme": "lymphocyte"
+        },
+        {
+            "nom": "T",
+            "lemme": "t"
+        },
+        {
+            "nom": "CD4",
+            "lemme": "cd4"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "VIH",
+            "lemme": "vih"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "immunosuppresseurs",
+            "lemme": "immunosuppresseur"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "entraîne",
+            "lemme": "entraîner"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "diminution",
+            "lemme": "diminution"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "normale",
+            "lemme": "normal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "outre",
+            "lemme": "outre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "infections",
+            "lemme": "infection"
+        },
+        {
+            "nom": "opportunistes",
+            "lemme": "opportuniste"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "présentent",
+            "lemme": "présenter"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "subclinique",
+            "lemme": "subclinique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "absence",
+            "lemme": "absence"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "réaction",
+            "lemme": "réaction"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "restauration",
+            "lemme": "restauration"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "fonction",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "traduite",
+            "lemme": "traduite"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "CD4",
+            "lemme": "cd4"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "raison",
+            "lemme": "raison"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "efficace",
+            "lemme": "efficace"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "VIH",
+            "lemme": "vih"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "élimination",
+            "lemme": "élimination"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "immunosuppression",
+            "lemme": "immunosuppression"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "va",
+            "lemme": "aller"
+        },
+        {
+            "nom": "générer",
+            "lemme": "générer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "non",
+            "lemme": "non"
+        },
+        {
+            "nom": "spécifique",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "aggravation",
+            "lemme": "aggravation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "tissulaires",
+            "lemme": "tissulaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "existe",
+            "lemme": "exister"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "scénarios",
+            "lemme": "scénario"
+        },
+        {
+            "nom": "courants",
+            "lemme": "courant"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "démasquage",
+            "lemme": "démasquage"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "flambée",
+            "lemme": "flambée"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "opportuniste",
+            "lemme": "opportuniste"
+        },
+        {
+            "nom": "occulte",
+            "lemme": "occulte"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "suite",
+            "lemme": "suite"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "initiation",
+            "lemme": "initiation"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "anti-rétroviral",
+            "lemme": "anti-rétroviral"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "paradoxal",
+            "lemme": "paradoxal"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "aggravation",
+            "lemme": "aggravation"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "préalablement",
+            "lemme": "préalablement"
+        },
+        {
+            "nom": "traitée",
+            "lemme": "traiter"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "initiation",
+            "lemme": "initiation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antirétroviral",
+            "lemme": "antirétroviral"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "paradoxal",
+            "lemme": "paradoxal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cultures",
+            "lemme": "culture"
+        },
+        {
+            "nom": "microbiologiques",
+            "lemme": "microbiologique"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "stériles",
+            "lemme": "stériler"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "scénarios",
+            "lemme": "scénario"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "mécanismes",
+            "lemme": "mécanisme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "mal",
+            "lemme": "mal"
+        },
+        {
+            "nom": "connus",
+            "lemme": "connaître"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "allure",
+            "lemme": "allure"
+        },
+        {
+            "nom": "multifactorielle",
+            "lemme": "multifactorielle"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "charge",
+            "lemme": "charge"
+        },
+        {
+            "nom": "antigénique",
+            "lemme": "antigénique"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "liée",
+            "lemme": "lier"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dysfonction",
+            "lemme": "dysfonction"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunité",
+            "lemme": "immunité"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "baisse",
+            "lemme": "baisse"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "taux",
+            "lemme": "taux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "CD4",
+            "lemme": "cd4"
+        },
+        {
+            "nom": "+",
+            "lemme": "plus"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "faible",
+            "lemme": "faible"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "taux",
+            "lemme": "taux"
+        },
+        {
+            "nom": "élevé",
+            "lemme": "élevé"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "infections",
+            "lemme": "infection"
+        },
+        {
+            "nom": "disséminées",
+            "lemme": "disséminer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dysfonction",
+            "lemme": "dysfonction"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunité",
+            "lemme": "immunité"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "découplage",
+            "lemme": "découplage"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunité",
+            "lemme": "immunité"
+        },
+        {
+            "nom": "innée",
+            "lemme": "inner"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "adaptative",
+            "lemme": "adaptatif"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "défaut",
+            "lemme": "défaut"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "systèmes",
+            "lemme": "système"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "régulation",
+            "lemme": "régulation"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "orage",
+            "lemme": "orage"
+        },
+        {
+            "nom": "cytokinique",
+            "lemme": "cytokiniqu"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "existe",
+            "lemme": "exister"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hypothèse",
+            "lemme": "hypothèse"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunité",
+            "lemme": "immunité"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "médiation",
+            "lemme": "médiation"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "lymphocytes",
+            "lemme": "lymphocyte"
+        },
+        {
+            "nom": "T",
+            "lemme": "t"
+        },
+        {
+            "nom": "spécifique",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "antigène",
+            "lemme": "antigène"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "activation",
+            "lemme": "activation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "anti-VIH",
+            "lemme": "anti-vih"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "antigène",
+            "lemme": "antigène"
+        },
+        {
+            "nom": "persistant",
+            "lemme": "persister"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "soit",
+            "lemme": "être"
+        },
+        {
+            "nom": "présent",
+            "lemme": "présent"
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "organismes",
+            "lemme": "organisme"
+        },
+        {
+            "nom": "intacts",
+            "lemme": "intact"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "organismes",
+            "lemme": "organisme"
+        },
+        {
+            "nom": "morts",
+            "lemme": "mort"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "débris",
+            "lemme": "débris"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "meilleur",
+            "lemme": "meilleur"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "affection",
+            "lemme": "affection"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "inconnu",
+            "lemme": "inconnu"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "réactions",
+            "lemme": "réaction"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "iri"
+        },
+        {
+            "nom": "paradoxales",
+            "lemme": "paradoxal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "événements",
+            "lemme": "événement"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "améliorent",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "spontanément",
+            "lemme": "spontanément"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "aucune",
+            "lemme": "aucun"
+        },
+        {
+            "nom": "thérapie",
+            "lemme": "thérapie"
+        },
+        {
+            "nom": "supplémentaire",
+            "lemme": "supplémentaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "démasquage",
+            "lemme": "démasquage"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ajout",
+            "lemme": "ajout"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "antibiotiques",
+            "lemme": "antibiotique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "antiviraux",
+            "lemme": "antiviral"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "opportuniste",
+            "lemme": "opportuniste"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "nécessaire",
+            "lemme": "nécessaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "graves",
+            "lemme": "grave"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "corticostéroïdes",
+            "lemme": "corticostéroïde"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "nécessaires",
+            "lemme": "nécessaire"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "atténuer",
+            "lemme": "atténuer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "liée",
+            "lemme": "lier"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "infections",
+            "lemme": "infection"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "fréquemment",
+            "lemme": "fréquemment"
+        },
+        {
+            "nom": "associées",
+            "lemme": "associer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "comprennent",
+            "lemme": "comprendre"
+        },
+        {
+            "nom": "Mycobacterium",
+            "lemme": "mycobacterium"
+        },
+        {
+            "nom": "tuberculosis",
+            "lemme": "tuberculosi"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "personnes",
+            "lemme": "personne"
+        },
+        {
+            "nom": "vivant",
+            "lemme": "vivre"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "SIDA",
+            "lemme": "SIDA"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "risque",
+            "lemme": "risque"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "primo-initiation",
+            "lemme": "primo-initiation"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antirétroviral",
+            "lemme": "antirétroviral"
+        },
+        {
+            "nom": "hautement",
+            "lemme": "hautement"
+        },
+        {
+            "nom": "actif",
+            "lemme": "actif"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "TAHA",
+            "lemme": "TAHA"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "particulier",
+            "lemme": "particulier"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "opportuniste",
+            "lemme": "opportuniste"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "IO",
+            "lemme": "io"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "absent",
+            "lemme": "absent"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "incomplet",
+            "lemme": "incomplet"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "échoué",
+            "lemme": "échouer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "immune",
+            "lemme": "immun"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "particulièrement",
+            "lemme": "particulièrement"
+        },
+        {
+            "nom": "problématique",
+            "lemme": "problématique"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "assez",
+            "lemme": "assez"
+        },
+        {
+            "nom": "fréquent",
+            "lemme": "fréquent"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "fatal",
+            "lemme": "fatal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "décrit",
+            "lemme": "décrire"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "hôtes",
+            "lemme": "hôte"
+        },
+        {
+            "nom": "immunocompétents",
+            "lemme": "immunocompétent"
+        },
+        {
+            "nom": "atteints",
+            "lemme": "atteindre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Cryptococcus",
+            "lemme": "Cryptococcus"
+        },
+        {
+            "nom": "gattiiCryptococcus",
+            "lemme": "gattiicryptococcu"
+        },
+        {
+            "nom": "gattii",
+            "lemme": "gattii"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Cryptococcus",
+            "lemme": "Cryptococcus"
+        },
+        {
+            "nom": "neoformans",
+            "lemme": "neoformans"
+        },
+        {
+            "nom": "var",
+            "lemme": "var"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "grubii",
+            "lemme": "grubii"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "champignons",
+            "lemme": "champignon"
+        },
+        {
+            "nom": "environnementaux",
+            "lemme": "environnemental"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "contaminent",
+            "lemme": "contaminer"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "hôtes",
+            "lemme": "hôte"
+        },
+        {
+            "nom": "immunocompétents",
+            "lemme": "immunocompétent"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Après",
+            "lemme": "après"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "semaines",
+            "lemme": "semaine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "voire",
+            "lemme": "voire"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "mois",
+            "lemme": "mois"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "approprié",
+            "lemme": "approprié"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "y",
+            "lemme": "y"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "détérioration",
+            "lemme": "détérioration"
+        },
+        {
+            "nom": "soudaine",
+            "lemme": "soudain"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "aggravation",
+            "lemme": "aggravation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "progression",
+            "lemme": "progression"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "développement",
+            "lemme": "développement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "nouveaux",
+            "lemme": "nouveau"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "neurologiques",
+            "lemme": "neurologique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "imagerie",
+            "lemme": "imagerie"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "résonance",
+            "lemme": "résonance"
+        },
+        {
+            "nom": "magnétique",
+            "lemme": "magnétique"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "IRM",
+            "lemme": "irm"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "montre",
+            "lemme": "montr"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "taille",
+            "lemme": "taille"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "cérébrales",
+            "lemme": "cérébral"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "anomalies",
+            "lemme": "anomalie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "cérébrospinal",
+            "lemme": "cérébrospinal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "globules",
+            "lemme": "globule"
+        },
+        {
+            "nom": "blancs",
+            "lemme": "blanc"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "protéines",
+            "lemme": "protéine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "glucose",
+            "lemme": "glucose"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "majorent",
+            "lemme": "majorer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "culture",
+            "lemme": "culture"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "stérile",
+            "lemme": "stérile"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "y",
+            "lemme": "y"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "titre",
+            "lemme": "titre"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "antigène",
+            "lemme": "antigène"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "cérébrospinal",
+            "lemme": "cérébrospinal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "croissante",
+            "lemme": "croissant"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "provoquer",
+            "lemme": "provoquer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "cérébrales",
+            "lemme": "cérébral"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "fatale",
+            "lemme": "fatal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "mécanisme",
+            "lemme": "mécanisme"
+        },
+        {
+            "nom": "général",
+            "lemme": "général"
+        },
+        {
+            "nom": "derrière",
+            "lemme": "derrière"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "accrue",
+            "lemme": "accru"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "rétablissement",
+            "lemme": "rétablissement"
+        },
+        {
+            "nom": "reconnaît",
+            "lemme": "reconnaître"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "antigènes",
+            "lemme": "antigène"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "mycète",
+            "lemme": "mycète"
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunosuppression",
+            "lemme": "immunosuppression"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "inversée",
+            "lemme": "inverser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "comporte",
+            "lemme": "comporte"
+        },
+        {
+            "nom": "trois",
+            "lemme": "trois"
+        },
+        {
+            "nom": "phases",
+            "lemme": "phase"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antirétroviral",
+            "lemme": "antirétroviral"
+        },
+        {
+            "nom": "hautement",
+            "lemme": "hautement"
+        },
+        {
+            "nom": "actif",
+            "lemme": "actif"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "TAHA",
+            "lemme": "TAHA"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "pénurie",
+            "lemme": "pénurie"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "cérébrospinal",
+            "lemme": "cérébrospinal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "défauts",
+            "lemme": "défaut"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "clairance",
+            "lemme": "clairance"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "antigène",
+            "lemme": "antigène"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "récupération",
+            "lemme": "récupération"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "initiale",
+            "lemme": "initial"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "TAHA",
+            "lemme": "TAHA"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "signalisation",
+            "lemme": "signalisation"
+        },
+        {
+            "nom": "pro-inflammatoire",
+            "lemme": "pro-inflammatoire"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cellules",
+            "lemme": "cellule"
+        },
+        {
+            "nom": "présentant",
+            "lemme": "présenter"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "antigène",
+            "lemme": "antigène"
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "effectrice",
+            "lemme": "effecteur"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "tempête",
+            "lemme": "tempête"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cytokines",
+            "lemme": "cytokine"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "interféron",
+            "lemme": "interféron"
+        },
+        {
+            "nom": "gamma",
+            "lemme": "gamma"
+        },
+        {
+            "nom": "helper",
+            "lemme": "helper"
+        },
+        {
+            "nom": "T",
+            "lemme": "t"
+        },
+        {
+            "nom": "prédominante",
+            "lemme": "prédominant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "1",
+            "lemme": "1"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Trois",
+            "lemme": "Trois"
+        },
+        {
+            "nom": "prédicteurs",
+            "lemme": "prédicteur"
+        },
+        {
+            "nom": "cliniques",
+            "lemme": "clinique"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "risque",
+            "lemme": "risque"
+        },
+        {
+            "nom": "paradoxal",
+            "lemme": "paradoxal"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "lié",
+            "lemme": "lier"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "cryptocoques",
+            "lemme": "cryptocoque"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "repérables",
+            "lemme": "repérabler"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "absence",
+            "lemme": "absence"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pléocytose",
+            "lemme": "pléocytose"
+        },
+        {
+            "nom": "initiale",
+            "lemme": "initial"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "est"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "dire",
+            "lemme": "dire"
+        },
+        {
+            "nom": "faible",
+            "lemme": "faible"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "globules",
+            "lemme": "globule"
+        },
+        {
+            "nom": "blancs",
+            "lemme": "blanc"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "lc"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "protéine",
+            "lemme": "protéine"
+        },
+        {
+            "nom": "C",
+            "lemme": "c"
+        },
+        {
+            "nom": "réactive",
+            "lemme": "réactif"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "CRP",
+            "lemme": "CRP"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "élevée",
+            "lemme": "élevé"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "échec",
+            "lemme": "échec"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "stérilisation",
+            "lemme": "stérilisation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "récupération",
+            "lemme": "récupération"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "résultats",
+            "lemme": "résultat"
+        },
+        {
+            "nom": "paradoxalement",
+            "lemme": "paradoxalement"
+        },
+        {
+            "nom": "pires",
+            "lemme": "pire"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "immunocompétents",
+            "lemme": "immunocompétent"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "rapport",
+            "lemme": "rapport"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "hôtes",
+            "lemme": "hôte"
+        },
+        {
+            "nom": "immunodéprimés",
+            "lemme": "immunodéprimer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "lesquels",
+            "lemme": "lequel"
+        },
+        {
+            "nom": "Cryptococcus",
+            "lemme": "Cryptococcus"
+        },
+        {
+            "nom": "neoformans",
+            "lemme": "neoformans"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "pathogène",
+            "lemme": "pathogène"
+        },
+        {
+            "nom": "habituel",
+            "lemme": "habituel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cadre",
+            "lemme": "cadre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "associé",
+            "lemme": "associer"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "VIH",
+            "lemme": "vih"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "recommandé",
+            "lemme": "recommander"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "différer",
+            "lemme": "différer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mise",
+            "lemme": "mise"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "route",
+            "lemme": "route"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antiviral",
+            "lemme": "antiviral"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "4",
+            "lemme": "4"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "6",
+            "lemme": "6"
+        },
+        {
+            "nom": "semaines",
+            "lemme": "semaine"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "début",
+            "lemme": "début"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antifongique",
+            "lemme": "antifongique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "corticostéroïdes",
+            "lemme": "corticostéroïde"
+        },
+        {
+            "nom": "systémiques",
+            "lemme": "systémiquer"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "bénéfique",
+            "lemme": "bénéfique"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "prévenir",
+            "lemme": "prévenir"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mort",
+            "lemme": "mort"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "détérioration",
+            "lemme": "détérioration"
+        },
+        {
+            "nom": "neurologique",
+            "lemme": "neurologique"
+        },
+        {
+            "nom": "progressive",
+            "lemme": "progressif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "corticoïdes",
+            "lemme": "corticoïde"
+        },
+        {
+            "nom": "administrés",
+            "lemme": "administrer"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "personnes",
+            "lemme": "personne"
+        },
+        {
+            "nom": "souffrant",
+            "lemme": "souffrir"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "échec",
+            "lemme": "échec"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antifongique",
+            "lemme": "antifongique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "rechute",
+            "lemme": "rechute"
+        },
+        {
+            "nom": "cryptococcique",
+            "lemme": "cryptococciqu"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cultures",
+            "lemme": "culture"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "stériles",
+            "lemme": "stérile"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "représenter",
+            "lemme": "représenter"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "erreur",
+            "lemme": "erreur"
+        },
+        {
+            "nom": "iatrogène",
+            "lemme": "iatrogène"
+        },
+        {
+            "nom": "fatale",
+            "lemme": "fatal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "chauves",
+            "lemme": "chauve"
+        },
+        {
+            "nom": "souris",
+            "lemme": "souris"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "remettant",
+            "lemme": "remettre"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "nez",
+            "lemme": "nez"
+        },
+        {
+            "nom": "blanc",
+            "lemme": "blanc"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "chauves",
+            "lemme": "chauve"
+        },
+        {
+            "nom": "souris",
+            "lemme": "souris"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "remettant",
+            "lemme": "remettre"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "nez",
+            "lemme": "nez"
+        },
+        {
+            "nom": "blanc",
+            "lemme": "blanc"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "WNS",
+            "lemme": "WNS"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "White",
+            "lemme": "White"
+        },
+        {
+            "nom": "nose",
+            "lemme": "nose"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "pourraient",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "première",
+            "lemme": "premier"
+        },
+        {
+            "nom": "description",
+            "lemme": "description"
+        },
+        {
+            "nom": "naturelle",
+            "lemme": "naturel"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "rapport",
+            "lemme": "rapport"
+        },
+        {
+            "nom": "publié",
+            "lemme": "publier"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "USGS",
+            "lemme": "usg"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "WNS",
+            "lemme": "WNS"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "caractérise",
+            "lemme": "caractériser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "cutanée",
+            "lemme": "cutané"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "chauves",
+            "lemme": "chauve"
+        },
+        {
+            "nom": "souris",
+            "lemme": "sourire"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "champignon",
+            "lemme": "champignon"
+        },
+        {
+            "nom": "Pseudogymnoascus",
+            "lemme": "Pseudogymnoascus"
+        },
+        {
+            "nom": "destructans",
+            "lemme": "destructans"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hibernation",
+            "lemme": "hibernation"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lorsque",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "naturellement",
+            "lemme": "naturellement"
+        },
+        {
+            "nom": "supprimé",
+            "lemme": "supprimer"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "conserver",
+            "lemme": "conserver"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "énergie",
+            "lemme": "énergie"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hiver",
+            "lemme": "hiver"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "étude",
+            "lemme": "étude"
+        },
+        {
+            "nom": "suggère",
+            "lemme": "suggèr"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "chauves",
+            "lemme": "chauve"
+        },
+        {
+            "nom": "souris",
+            "lemme": "souris"
+        },
+        {
+            "nom": "subissant",
+            "lemme": "subir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "intense",
+            "lemme": "intense"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "site",
+            "lemme": "site"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "retour",
+            "lemme": "retour"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "euthermie",
+            "lemme": "euthermie"
+        },
+        {
+            "nom": "présentent",
+            "lemme": "présenter"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Cet",
+            "lemme": "ce"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "partiellement",
+            "lemme": "partiellement"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "totalité",
+            "lemme": "totalité"
+        },
+        {
+            "nom": "issu",
+            "lemme": "issu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Wikipédia",
+            "lemme": "Wikipédia"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": "intitulé",
+            "lemme": "intituler"
+        },
+        {
+            "nom": "Immune",
+            "lemme": "immun"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "inflammatory",
+            "lemme": "inflammatory"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "auteurs",
+            "lemme": "auteur"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "affections",
+            "lemme": "affection"
+        },
+        {
+            "nom": "cutanées",
+            "lemme": "cutané"
+        },
+        {
+            "nom": "Réaction",
+            "lemme": "réaction"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jarisch",
+            "lemme": "Jarisch"
+        },
+        {
+            "nom": "Herxheimer",
+            "lemme": "herxheimer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "autre",
+            "lemme": "autre"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "systémique",
+            "lemme": "systémique"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "survient",
+            "lemme": "survenir"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "antimicrobien",
+            "lemme": "antimicrobien"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "libération",
+            "lemme": "libération"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cytokines",
+            "lemme": "cytokine"
+        },
+        {
+            "nom": "Méningite",
+            "lemme": "Méningite"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "Bibliographie"
+        },
+        {
+            "nom": "Guillaume",
+            "lemme": "Guillaume"
+        },
+        {
+            "nom": "Breton",
+            "lemme": "Breton"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "immune",
+            "lemme": "immun"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Med",
+            "lemme": "med"
+        },
+        {
+            "nom": "Sci",
+            "lemme": "Sci"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Paris",
+            "lemme": "Paris"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "vol",
+            "lemme": "vol"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "26",
+            "lemme": "26"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "no",
+            "lemme": "no"
+        },
+        {
+            "nom": "3,‎",
+            "lemme": "3,‎"
+        },
+        {
+            "nom": "2010",
+            "lemme": "2010"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "p.",
+            "lemme": "p."
+        },
+        {
+            "nom": "281",
+            "lemme": "281"
+        },
+        {
+            "nom": "90",
+            "lemme": "90"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "DOI",
+            "lemme": "doi"
+        },
+        {
+            "nom": "10.1051",
+            "lemme": "10.1051"
+        },
+        {
+            "nom": "medsci/2010263281",
+            "lemme": "medsci/2010263281"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Lisa",
+            "lemme": "Lisa"
+        },
+        {
+            "nom": "A.",
+            "lemme": "A."
+        },
+        {
+            "nom": "Chakrabarti",
+            "lemme": "Chakrabarti"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Olivier",
+            "lemme": "Olivier"
+        },
+        {
+            "nom": "Lortholary",
+            "lemme": "Lortholary"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "réaction",
+            "lemme": "réaction"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "paradoxale",
+            "lemme": "paradoxal"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "traités",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "simultanément",
+            "lemme": "simultanément"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "tuberculose",
+            "lemme": "tuberculose"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "VIH",
+            "lemme": "vih"
+        },
+        {
+            "nom": "IRIS",
+            "lemme": "IRIS"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "paradoxical",
+            "lemme": "paradoxical"
+        },
+        {
+            "nom": "inflammatory",
+            "lemme": "inflammatory"
+        },
+        {
+            "nom": "reaction",
+            "lemme": "reaction"
+        },
+        {
+            "nom": "in",
+            "lemme": "in"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "treated",
+            "lemme": "treated"
+        },
+        {
+            "nom": "simultaneously",
+            "lemme": "simultaneously"
+        },
+        {
+            "nom": "for",
+            "lemme": "for"
+        },
+        {
+            "nom": "tuberculosis",
+            "lemme": "tuberculosi"
+        },
+        {
+            "nom": "and",
+            "lemme": "and"
+        },
+        {
+            "nom": "HIV",
+            "lemme": "HIV"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Med",
+            "lemme": "med"
+        },
+        {
+            "nom": "Sci",
+            "lemme": "Sci"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Paris",
+            "lemme": "Paris"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "vol",
+            "lemme": "vol"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "31",
+            "lemme": "31"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "no",
+            "lemme": "no"
+        },
+        {
+            "nom": "1,‎",
+            "lemme": "1,‎"
+        },
+        {
+            "nom": "2015",
+            "lemme": "2015"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "p.",
+            "lemme": "p."
+        },
+        {
+            "nom": "53",
+            "lemme": "53"
+        },
+        {
+            "nom": "59",
+            "lemme": "59"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "DOI",
+            "lemme": "doi"
+        },
+        {
+            "nom": "10.1051",
+            "lemme": "10.1051"
+        },
+        {
+            "nom": "medsci/20153101013",
+            "lemme": "medsci/20153101013"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Lien",
+            "lemme": "Lien"
+        },
+        {
+            "nom": "externe",
+            "lemme": "externe"
+        },
+        {
+            "nom": "Immune",
+            "lemme": "immun"
+        },
+        {
+            "nom": "Reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "TheBody.com",
+            "lemme": "thebody.com"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Nicholas",
+            "lemme": "Nicholas"
+        },
+        {
+            "nom": "Cheonis",
+            "lemme": "Cheonis"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "hiver",
+            "lemme": "hiver"
+        },
+        {
+            "nom": "2004/2005",
+            "lemme": "2004/2005"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "biologie",
+            "lemme": "biologie"
+        }
+    ]
+]

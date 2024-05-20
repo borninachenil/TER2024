@@ -1,708 +1,804 @@
 [
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "xanthelasma",
-            "id": "315337"
+            "nom": "xanthelasma",
+            "lemme": "xanthelasma"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "xanthome",
-            "id": "143703078"
+            "nom": "xanthome",
+            "lemme": "xanthome"
         },
         {
-            "mot": "dépôt",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "lipidique",
-            "id": "66502"
+            "nom": "dépôt",
+            "lemme": "dépôt"
         },
         {
-            "mot": "ici",
-            "id": "409340"
+            "nom": "lipidique",
+            "lemme": "lipidique"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "couleur",
-            "id": "402223"
+            "nom": "ici",
+            "lemme": "ici"
         },
         {
-            "mot": "chamois",
-            "id": "413345"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "jaune",
-            "id": "145159"
+            "nom": "couleur",
+            "lemme": "couleur"
         },
         {
-            "mot": "pâle",
-            "id": "NULL"
+            "nom": "chamois",
+            "lemme": "chamois"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "beige",
-            "id": "156666979"
+            "nom": "jaune",
+            "lemme": "jaune"
         },
         {
-            "mot": "apparaissant",
-            "id": "1989234"
+            "nom": "pâle",
+            "lemme": "pâle"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "beige",
+            "lemme": "beige"
         },
         {
-            "mot": "paupière",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "souvent",
-            "id": "3382915"
+            "nom": "apparaissant",
+            "lemme": "apparaître"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "niveau",
-            "id": "4894369"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "paupière",
+            "lemme": "paupière"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "angle",
-            "id": "2524818"
+            "nom": "souvent",
+            "lemme": "souvent"
         },
         {
-            "mot": "nasal",
-            "id": "11544169"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "niveau",
+            "lemme": "niveau"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "œil",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "angle",
+            "lemme": "angle"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "nasal",
+            "lemme": "nasal"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "signe",
-            "id": "426956"
+            "nom": "œil",
+            "lemme": "œil"
         },
         {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "hypercholestérolémie",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "résultat",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "prédisposition",
-            "id": "NULL"
-        },
-        {
-            "mot": "génétique",
-            "id": "NULL"
-        },
-        {
-            "mot": "sans",
-            "id": "16089511"
-        },
-        {
-            "mot": "relation",
-            "id": "426964"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "problème",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "cholestérol",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Signe",
-            "id": "426956"
+            "nom": "Il",
+            "lemme": "il"
         },
         {
-            "mot": "clinique",
-            "id": "430177"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "prédictif",
-            "id": "NULL"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "apparition",
-            "id": "142777"
+            "nom": "signe",
+            "lemme": "signe"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "xanthelasma",
-            "id": "315337"
+            "nom": "hypercholestérolémie",
+            "lemme": "hypercholestérolémie"
         },
         {
-            "mot": "aurait",
-            "id": "1993553"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "forte",
-            "id": "2572348"
+            "nom": "résultat",
+            "lemme": "résultat"
         },
         {
-            "mot": "valeur",
-            "id": "402005"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "prédictive",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "positive",
-            "id": "9024901"
+            "nom": "prédisposition",
+            "lemme": "prédisposition"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "génétique",
+            "lemme": "génétique"
         },
         {
-            "mot": "accidents",
-            "id": "5558183"
+            "nom": "sans",
+            "lemme": "sans"
         },
         {
-            "mot": "cardio",
-            "id": "16389645"
+            "nom": "relation",
+            "lemme": "relation"
         },
         {
-            "mot": "vasculaire",
-            "id": "17052869"
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "problème",
+            "lemme": "problème"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cholestérol",
+            "lemme": "cholestérol"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Anatomie",
-            "id": "151850"
+            "nom": "Signe",
+            "lemme": "signe"
         },
         {
-            "mot": "pathologique",
-            "id": "49779"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "Sur",
-            "id": "409373"
+            "nom": "prédictif",
+            "lemme": "prédictif"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "plan",
-            "id": "14895280"
+            "nom": "apparition",
+            "lemme": "apparition"
         },
         {
-            "mot": "microscopique",
-            "id": "120413600"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "xanthelasma",
+            "lemme": "xanthelasma"
         },
         {
-            "mot": "xanthelasma",
-            "id": "315337"
+            "nom": "aurait",
+            "lemme": "avoir"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "caractérise",
-            "id": "NULL"
+            "nom": "forte",
+            "lemme": "fort"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "valeur",
+            "lemme": "valeur"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "prédictive",
+            "lemme": "prédictif"
         },
         {
-            "mot": "présence",
-            "id": "NULL"
+            "nom": "positive",
+            "lemme": "positif"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "amas",
-            "id": "6014445"
+            "nom": "accidents",
+            "lemme": "accident"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "cardio",
+            "lemme": "cardio"
         },
         {
-            "mot": "macrophages",
-            "id": "156482673"
+            "nom": "vasculaire",
+            "lemme": "vasculaire"
         },
         {
-            "mot": "spumeux",
-            "id": "80358"
-        },
-        {
-            "mot": "chargés",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "lipides",
-            "id": "251523411"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "derme",
-            "id": "143709186"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Prise",
-            "id": "414468"
+            "nom": "Anatomie",
+            "lemme": "anatomie"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "pathologique",
+            "lemme": "pathologique"
         },
         {
-            "mot": "charge",
-            "id": "416622"
+            "nom": "Sur",
+            "lemme": "sur"
         },
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "xanthelasma",
-            "id": "315337"
+            "nom": "plan",
+            "lemme": "plan"
         },
         {
-            "mot": "n'",
-            "id": "2233812"
+            "nom": "microscopique",
+            "lemme": "microscopique"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "aucun",
-            "id": "2512318"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "potentiel",
-            "id": "11753100"
+            "nom": "xanthelasma",
+            "lemme": "xanthelasma"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "évolutivité",
-            "id": "NULL"
+            "nom": "caractérise",
+            "lemme": "caractériser"
         },
         {
-            "mot": "maligne",
-            "id": "10763097"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "n'",
-            "id": "2233812"
+            "nom": "présence",
+            "lemme": "présence"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "amas",
+            "lemme": "amas"
         },
         {
-            "mot": "inquiétant",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "macrophages",
+            "lemme": "macrophage"
         },
         {
-            "mot": "soi",
-            "id": "17341427"
+            "nom": "spumeux",
+            "lemme": "spumeux"
         },
         {
-            "mot": "cependant",
-            "id": "101535"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "il",
-            "id": "1836399"
+            "nom": "chargés",
+            "lemme": "chargé"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "selon",
-            "id": "2577623"
+            "nom": "lipides",
+            "lemme": "lipide"
         },
         {
-            "mot": "son",
-            "id": "5619461"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "étendue",
-            "id": "NULL"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "constituer",
-            "id": "15808974"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "derme",
+            "lemme": "derme"
         },
         {
-            "mot": "gêne",
-            "id": "NULL"
-        },
-        {
-            "mot": "esthétique",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "Prise",
+            "lemme": "prise"
         },
         {
-            "mot": "ce",
-            "id": "138967"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "charge",
+            "lemme": "charge"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "prise",
-            "id": "414468"
+            "nom": "xanthelasma",
+            "lemme": "xanthelasma"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "n'",
+            "lemme": "ne"
         },
         {
-            "mot": "charge",
-            "id": "416622"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "aucun",
+            "lemme": "aucun"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "potentiel",
+            "lemme": "potentiel"
         },
         {
-            "mot": "envisagée",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "chirurgicale",
-            "id": "151656"
+            "nom": "évolutivité",
+            "lemme": "évolutivité"
         },
         {
-            "mot": "exérèse",
-            "id": "NULL"
+            "nom": "maligne",
+            "lemme": "malin"
         },
         {
-            "mot": "simple",
-            "id": "17341162"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "n'",
+            "lemme": "ne"
         },
         {
-            "mot": "lésions",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "pas",
+            "lemme": "pas"
         },
         {
-            "mot": "bloc",
-            "id": "404665"
+            "nom": "inquiétant",
+            "lemme": "inquiéter"
         },
         {
-            "mot": "opératoire",
-            "id": "NULL"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "soi",
+            "lemme": "soi"
         },
         {
-            "mot": "hémostase",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "puis",
-            "id": "10868437"
+            "nom": "cependant",
+            "lemme": "cependant"
         },
         {
-            "mot": "suture",
-            "id": "146576334"
+            "nom": "il",
+            "lemme": "il"
         },
         {
-            "mot": "laser",
-            "id": "14594761"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "laser",
-            "id": "14594761"
+            "nom": "selon",
+            "lemme": "selon"
         },
         {
-            "mot": "argon",
-            "id": "10558565"
+            "nom": "son",
+            "lemme": "son"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "étendue",
+            "lemme": "étendue"
         },
         {
-            "mot": "traiter",
-            "id": "99270"
+            "nom": "constituer",
+            "lemme": "constituer"
         },
         {
-            "mot": "localement",
-            "id": "18626"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "gêne",
+            "lemme": "gêne"
         },
         {
-            "mot": "xanthélasma",
-            "id": "NULL"
+            "nom": "esthétique",
+            "lemme": "esthétique"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "ce",
+            "lemme": "ce"
         },
         {
-            "mot": "laser",
-            "id": "14594761"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "co",
-            "id": "6563224"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "prise",
+            "lemme": "prise"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "Voir",
-            "id": "14772243"
+            "nom": "charge",
+            "lemme": "charge"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "envisagée",
+            "lemme": "envisager"
         },
         {
-            "mot": "Xanthome",
-            "id": "143703078"
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "chirurgicale",
+            "lemme": "chirurgical"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "exérèse",
+            "lemme": "exérèse"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "simple",
+            "lemme": "simple"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "lésions",
+            "lemme": "lésion"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "bloc",
+            "lemme": "bloc"
         },
         {
-            "mot": "œil",
-            "id": "NULL"
+            "nom": "opératoire",
+            "lemme": "opératoire"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "hémostase",
+            "lemme": "hémostase"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "puis",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "vue",
-            "id": "425398"
+            "nom": "suture",
+            "lemme": "suture"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "laser",
+            "lemme": "laser"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "laser",
+            "lemme": "laser"
+        },
+        {
+            "nom": "argon",
+            "lemme": "argon"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "traiter",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "localement",
+            "lemme": "localement"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "xanthélasma",
+            "lemme": "xanthélasma"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "laser",
+            "lemme": "laser"
+        },
+        {
+            "nom": "co2",
+            "lemme": "co2"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Xanthome",
+            "lemme": "Xanthome"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œil",
+            "lemme": "œil"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vue",
+            "lemme": "vue"
         }
     ]
 ]

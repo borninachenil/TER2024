@@ -1,0 +1,792 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "guérison",
+            "lemme": "guérison"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "action",
+            "lemme": "action"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "guérir",
+            "lemme": "guérir"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "retour",
+            "lemme": "retour"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Définition",
+            "lemme": "définition"
+        },
+        {
+            "nom": "Au",
+            "lemme": "au"
+        },
+        {
+            "nom": "niveau",
+            "lemme": "niveau"
+        },
+        {
+            "nom": "biologique",
+            "lemme": "biologique"
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "processus",
+            "lemme": "processus"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "lequel",
+            "lemme": "lequel"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cellules",
+            "lemme": "cellule"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "régénèrent",
+            "lemme": "régénérer"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "réduire",
+            "lemme": "réduire"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "espace",
+            "lemme": "espace"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "région",
+            "lemme": "région"
+        },
+        {
+            "nom": "endommagée",
+            "lemme": "endommager"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "nécrose",
+            "lemme": "nécrose"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "guérison",
+            "lemme": "guérison"
+        },
+        {
+            "nom": "implique",
+            "lemme": "impliquer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "suppression",
+            "lemme": "suppression"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "endommagé",
+            "lemme": "endommager"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "remplacement",
+            "lemme": "remplacement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "remplacement",
+            "lemme": "remplacement"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "produire",
+            "lemme": "produire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "façons",
+            "lemme": "façon"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Par",
+            "lemme": "par"
+        },
+        {
+            "nom": "régénération",
+            "lemme": "régénération"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cellules",
+            "lemme": "cellule"
+        },
+        {
+            "nom": "nécrotiques",
+            "lemme": "nécrotique"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "remplacées",
+            "lemme": "remplacer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "auparavant",
+            "lemme": "auparavant"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Par",
+            "lemme": "par"
+        },
+        {
+            "nom": "réparation",
+            "lemme": "réparation"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "originel",
+            "lemme": "originel"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "remplacé",
+            "lemme": "remplacer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "cicatrisé",
+            "lemme": "cicatriser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "plupart",
+            "lemme": "plupart"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "organes",
+            "lemme": "organe"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "guérir",
+            "lemme": "guérir"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "utilisant",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "mélange",
+            "lemme": "mélange"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "processus",
+            "lemme": "processus"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Expériences",
+            "lemme": "expérience"
+        },
+        {
+            "nom": "spirituelles",
+            "lemme": "spirituel"
+        },
+        {
+            "nom": "Certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "personnes",
+            "lemme": "personne"
+        },
+        {
+            "nom": "affirment",
+            "lemme": "affirmer"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "expérimenté",
+            "lemme": "expérimenté"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "guérisons",
+            "lemme": "guérison"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "foi",
+            "lemme": "foi"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Théorie",
+            "lemme": "théorie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "autoguérison",
+            "lemme": "autoguérison"
+        },
+        {
+            "nom": "Selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "principe",
+            "lemme": "principe"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autoguérison",
+            "lemme": "autoguérison"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": "posséderait",
+            "lemme": "posséder"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "lui-même",
+            "lemme": "lui-même"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "moyens",
+            "lemme": "moyen"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "éliminer",
+            "lemme": "éliminer"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "endiguer",
+            "lemme": "endiguer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Un",
+            "lemme": "un"
+        },
+        {
+            "nom": "certain",
+            "lemme": "certain"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pseudomédecines",
+            "lemme": "pseudomédecine"
+        },
+        {
+            "nom": "mettent",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "méthodes",
+            "lemme": "méthode"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autoguérison",
+            "lemme": "autoguérison"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "principes",
+            "lemme": "principe"
+        },
+        {
+            "nom": "théoriques",
+            "lemme": "théorique"
+        },
+        {
+            "nom": "non",
+            "lemme": "non"
+        },
+        {
+            "nom": "fondés",
+            "lemme": "fonder"
+        },
+        {
+            "nom": "scientifiquement",
+            "lemme": "scientifiquemer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "voire",
+            "lemme": "voire"
+        },
+        {
+            "nom": "reposant",
+            "lemme": "reposer"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "postulats",
+            "lemme": "postulat"
+        },
+        {
+            "nom": "magiques",
+            "lemme": "magique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "spirituels",
+            "lemme": "spirituel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Auto-guérison",
+            "lemme": "Auto-guérison"
+        },
+        {
+            "nom": "Guérison",
+            "lemme": "Guérison"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "foi",
+            "lemme": "foi"
+        },
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

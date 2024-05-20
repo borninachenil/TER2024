@@ -1,0 +1,8 @@
+fibrose;lésion;r_has_symptomes.txt;lemme;être un
+cause;stade;r_has_symptomes.txt;lemme;être un
+sableur;catégorie;r_has_symptomes.txt;lemme;être un
+tétraplégie;exemple;r_has_symptomes.txt;lemme;être un
+spirométrie;maladie;r_has_symptomes.txt;lemme;être un
+diagnostic;biopsie;r_has_diagnostic.txt;lemme;être confirmer par un
+inhibition;prometteur;r_has_symptomes.txt;lemme;être un
+ctgf;jour;r_has_symptomes.txt;lemme;être un

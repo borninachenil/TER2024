@@ -1,0 +1,816 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "porphyrinurie",
+            "lemme": "porphyrinurie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "excrétion",
+            "lemme": "excrétion"
+        },
+        {
+            "nom": "pathologique",
+            "lemme": "pathologique"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "porphyrines",
+            "lemme": "porphyrine"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "urines",
+            "lemme": "urine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "sujet",
+            "lemme": "sujet"
+        },
+        {
+            "nom": "sain",
+            "lemme": "sain"
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "trouver",
+            "lemme": "trouver"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "concentration",
+            "lemme": "concentration"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "porphyrines",
+            "lemme": "porphyrine"
+        },
+        {
+            "nom": "totales",
+            "lemme": "total"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "varie",
+            "lemme": "varie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "8",
+            "lemme": "8"
+        },
+        {
+            "nom": "µg",
+            "lemme": "µg"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "149",
+            "lemme": "149"
+        },
+        {
+            "nom": "µg",
+            "lemme": "µg"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "24",
+            "lemme": "24"
+        },
+        {
+            "nom": "heures",
+            "lemme": "heure"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "homme",
+            "lemme": "homme"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "3",
+            "lemme": "3"
+        },
+        {
+            "nom": "µg",
+            "lemme": "µg"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "78",
+            "lemme": "78"
+        },
+        {
+            "nom": "µg",
+            "lemme": "µg"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "24",
+            "lemme": "24"
+        },
+        {
+            "nom": "heures",
+            "lemme": "heure"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "femme",
+            "lemme": "femme"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "élévation",
+            "lemme": "élévation"
+        },
+        {
+            "nom": "au-dessus",
+            "lemme": "au-dessus"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ces",
+            "lemme": "ce"
+        },
+        {
+            "nom": "normales",
+            "lemme": "normale"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "indicateur",
+            "lemme": "indicateur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pathologie",
+            "lemme": "pathologie"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "porphyrie",
+            "lemme": "porphyrie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "intoxication",
+            "lemme": "intoxication"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "plomb",
+            "lemme": "plomb"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "insuffisance",
+            "lemme": "insuffisance"
+        },
+        {
+            "nom": "hépatique",
+            "lemme": "hépatique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "encore",
+            "lemme": "encore"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "anémie",
+            "lemme": "anémie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "aplastique",
+            "lemme": "aplastique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "hémolytique",
+            "lemme": "hémolytique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "porphyrinogènes",
+            "lemme": "porphyrinogène"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "barbituriques",
+            "lemme": "barbiturique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "sulfamides",
+            "lemme": "sulfamide"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "œstrogènes",
+            "lemme": "œstrogène"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "amphétamines",
+            "lemme": "amphétamine"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "théophylline",
+            "lemme": "théophylline"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "facteur",
+            "lemme": "facteur"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "augmente",
+            "lemme": "augmenter"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "excrétion",
+            "lemme": "excrétion"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "porphyrines",
+            "lemme": "porphyrine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "porphyrines",
+            "lemme": "porphyrine"
+        },
+        {
+            "nom": "donnent",
+            "lemme": "donner"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "coloration",
+            "lemme": "coloration"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "porto",
+            "lemme": "porto"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "urine",
+            "lemme": "urine"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "particulière",
+            "lemme": "particulier"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "porphyries",
+            "lemme": "porphyrie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "constitue",
+            "lemme": "constituer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "élément",
+            "lemme": "élément"
+        },
+        {
+            "nom": "important",
+            "lemme": "important"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "coloration",
+            "lemme": "coloration"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "apparaître",
+            "lemme": "apparaître"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "accentuée",
+            "lemme": "accentuer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "exposition",
+            "lemme": "exposition"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "rayons",
+            "lemme": "rayon"
+        },
+        {
+            "nom": "ultraviolets",
+            "lemme": "ultraviolet"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Sources",
+            "lemme": "source"
+        },
+        {
+            "nom": "Pagana",
+            "lemme": "Pagana"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "D.",
+            "lemme": "D."
+        },
+        {
+            "nom": "Kathleen",
+            "lemme": "Kathleen"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "infirmière",
+            "lemme": "infirmier"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "examens",
+            "lemme": "examen"
+        },
+        {
+            "nom": "paracliniques",
+            "lemme": "paraclinique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Edisem",
+            "lemme": "Edisem"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Maloine",
+            "lemme": "maloine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "2003",
+            "lemme": "2003"
+        },
+        {
+            "nom": "Marieb",
+            "lemme": "Marieb"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "N.",
+            "lemme": "n."
+        },
+        {
+            "nom": "Elaine",
+            "lemme": "Elaine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Anatomie",
+            "lemme": "Anatomie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "physiologie",
+            "lemme": "physiologie"
+        },
+        {
+            "nom": "humaines",
+            "lemme": "humain"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "troisième",
+            "lemme": "troisième"
+        },
+        {
+            "nom": "édition",
+            "lemme": "édition"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ERPI",
+            "lemme": "erpi"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "2005",
+            "lemme": "2005"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

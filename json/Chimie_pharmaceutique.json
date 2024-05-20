@@ -1,902 +1,1166 @@
 [
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "pharmaceutique",
-            "id": "156584312"
+            "nom": "pharmaceutique",
+            "lemme": "pharmaceutique"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "thérapeutique",
-            "id": "NULL"
+            "nom": "thérapeutique",
+            "lemme": "thérapeutique"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "médicinale",
-            "id": "NULL"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "médicinale",
+            "lemme": "médicinal"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "médicale",
-            "id": "NULL"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "médicale",
+            "lemme": "médical"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "disciplines",
-            "id": "14531940"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "scientifiques",
-            "id": "3184473"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "placées",
-            "id": "NULL"
+            "nom": "disciplines",
+            "lemme": "discipline"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "scientifiques",
+            "lemme": "scientifique"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "placées",
+            "lemme": "placer"
         },
         {
-            "mot": "intersection",
-            "id": "3347255"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "intersection",
+            "lemme": "intersection"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "pharmacologie",
-            "id": "154256"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "pharmacologie",
+            "lemme": "pharmacologie"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Elles",
-            "id": "3181199"
+            "nom": "Elles",
+            "lemme": "lui"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "hautement",
-            "id": "136209"
+            "nom": "hautement",
+            "lemme": "hautement"
         },
         {
-            "mot": "interdisciplinaires",
-            "id": "10179126"
+            "nom": "interdisciplinaires",
+            "lemme": "interdisciplinaire"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "mélangent",
-            "id": "NULL"
+            "nom": "mélangent",
+            "lemme": "mélanger"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "organique",
-            "id": "123171906"
+            "nom": "organique",
+            "lemme": "organique"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "biochimie",
-            "id": "410176"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "biochimie",
+            "lemme": "biochimie"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "numérique",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "pharmacologie",
-            "id": "154256"
+            "nom": "numérique",
+            "lemme": "numérique"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "pharmacognosie",
-            "id": "156589470"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "pharmacologie",
+            "lemme": "pharmacologie"
         },
         {
-            "mot": "biologie",
-            "id": "151907"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "moléculaire",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "pharmacognosie",
+            "lemme": "pharmacognosie"
         },
         {
-            "mot": "statistiques",
-            "id": "249394040"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "biologie",
+            "lemme": "biologie"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "moléculaire",
+            "lemme": "moléculaire"
         },
         {
-            "mot": "physique",
-            "id": "16089538"
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "statistiques",
+            "lemme": "statistique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "chimie",
+            "lemme": "chimie"
+        },
+        {
+            "nom": "physique",
+            "lemme": "physique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "pharmaceutique",
-            "id": "156584312"
+            "nom": "pharmaceutique",
+            "lemme": "pharmaceutique"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "objet",
-            "id": "413085"
+            "nom": "objet",
+            "lemme": "objet"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "définition",
-            "id": "NULL"
+            "nom": "définition",
+            "lemme": "définition"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "préparation",
-            "id": "NULL"
+            "nom": "préparation",
+            "lemme": "préparation"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "composés",
-            "id": "NULL"
+            "nom": "composés",
+            "lemme": "composer"
         },
         {
-            "mot": "chimiques",
-            "id": "10996640"
+            "nom": "chimiques",
+            "lemme": "chimique"
         },
         {
-            "mot": "substances",
-            "id": "432182"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "actives",
-            "id": "268164"
+            "nom": "substances",
+            "lemme": "substance"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "actives",
+            "lemme": "actif"
         },
         {
-            "mot": "excipients",
-            "id": "2195985"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "entrant",
-            "id": "23663"
+            "nom": "excipients",
+            "lemme": "excipient"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "entrant",
+            "lemme": "entrer"
         },
         {
-            "mot": "composition",
-            "id": "140075"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "composition",
+            "lemme": "composition"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "thérapeutique",
-            "id": "NULL"
+            "nom": "thérapeutique",
+            "lemme": "thérapeutique"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "objet",
-            "id": "413085"
+            "nom": "objet",
+            "lemme": "objet"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "concevoir",
-            "id": "243967429"
+            "nom": "concevoir",
+            "lemme": "concevoir"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "composés",
-            "id": "NULL"
+            "nom": "composés",
+            "lemme": "composé"
         },
         {
-            "mot": "biologiquement",
-            "id": "70984"
+            "nom": "biologiquement",
+            "lemme": "biologiquement"
         },
         {
-            "mot": "actifs",
-            "id": "90075203"
+            "nom": "actifs",
+            "lemme": "actif"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "étudier",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "leur",
-            "id": "15633114"
+            "nom": "étudier",
+            "lemme": "étudier"
         },
         {
-            "mot": "métabolisme",
-            "id": "NULL"
+            "nom": "leur",
+            "lemme": "son"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "métabolisme",
+            "lemme": "métabolisme"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "interpréter",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "leur",
-            "id": "15633114"
+            "nom": "interpréter",
+            "lemme": "interpréter"
         },
         {
-            "mot": "mode",
-            "id": "153749"
+            "nom": "leur",
+            "lemme": "son"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "mode",
+            "lemme": "mode"
         },
         {
-            "mot": "action",
-            "id": "434203"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "action",
+            "lemme": "action"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "échelle",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "moléculaire",
-            "id": "NULL"
+            "nom": "échelle",
+            "lemme": "échelle"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "moléculaire",
+            "lemme": "moléculaire"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "fondant",
-            "id": "5629213"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "notamment",
-            "id": "4240"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "fondant",
+            "lemme": "fondre"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "notamment",
+            "lemme": "notamment"
         },
         {
-            "mot": "relations",
-            "id": "406638"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "entre",
-            "id": "15585076"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "relations",
+            "lemme": "relation"
         },
         {
-            "mot": "structure",
-            "id": "425739"
+            "nom": "entre",
+            "lemme": "entrer"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "corps",
-            "id": "404381"
+            "nom": "structure",
+            "lemme": "structure"
         },
         {
-            "mot": "chimiques",
-            "id": "10996640"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "corps",
+            "lemme": "corps"
         },
         {
-            "mot": "leurs",
-            "id": "413434"
+            "nom": "chimiques",
+            "lemme": "chimique"
         },
         {
-            "mot": "propriétés",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "thérapeutiques",
-            "id": "NULL"
+            "nom": "leurs",
+            "lemme": "leur"
+        },
+        {
+            "nom": "propriétés",
+            "lemme": "propriété"
+        },
+        {
+            "nom": "thérapeutiques",
+            "lemme": "thérapeutique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Bibliographie",
-            "id": "249394043"
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
         },
         {
-            "mot": "Serge",
-            "id": "144158"
+            "nom": "Serge",
+            "lemme": "Serge"
         },
         {
-            "mot": "Kirkiacharian",
-            "id": "NULL"
+            "nom": "Kirkiacharian",
+            "lemme": "Kirkiacharian"
         },
         {
-            "mot": "Guide",
-            "id": "408418"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Guide",
+            "lemme": "guide"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "médicinale",
-            "id": "NULL"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "médicinale",
+            "lemme": "médicinal"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "Lavoisier",
-            "id": "16692"
+            "nom": "médicaments",
+            "lemme": "médicament"
         },
         {
-            "mot": "avril",
-            "id": "219232"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "p",
-            "id": "137760"
+            "nom": "Lavoisier",
+            "lemme": "Lavoisier"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "9",
+            "lemme": "9"
+        },
+        {
+            "nom": "avril",
+            "lemme": "avril"
+        },
+        {
+            "nom": "2010",
+            "lemme": "2010"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "900",
+            "lemme": "900"
+        },
+        {
+            "nom": "p.",
+            "lemme": "p."
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ISBN",
+            "lemme": "isbn"
+        },
+        {
+            "nom": "978",
+            "lemme": "978"
+        },
+        {
+            "nom": "2",
+            "lemme": "2"
+        },
+        {
+            "nom": "7430",
+            "lemme": "7430"
+        },
+        {
+            "nom": "1906",
+            "lemme": "1906"
+        },
+        {
+            "nom": "8)",
+            "lemme": "8)"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "ISBN",
-            "id": "142939"
+            "nom": "Roland",
+            "lemme": "Roland"
         },
         {
-            "mot": "Roland",
-            "id": "128891"
+            "nom": "Barret",
+            "lemme": "Barret"
         },
         {
-            "mot": "Barret",
-            "id": "2392284"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Principes",
-            "id": "413136"
+            "nom": "Principes",
+            "lemme": "Principes"
         },
         {
-            "mot": "fondamentaux",
-            "id": "400354"
+            "nom": "fondamentaux",
+            "lemme": "fondamental"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "thérapeutique",
-            "id": "NULL"
+            "nom": "thérapeutique",
+            "lemme": "thérapeutique"
         },
         {
-            "mot": "Médicaments",
-            "id": "NULL"
-        },
-        {
-            "mot": "propriétés",
-            "id": "NULL"
-        },
-        {
-            "mot": "physico",
-            "id": "282920"
-        },
-        {
-            "mot": "chimiques",
-            "id": "10996640"
-        },
-        {
-            "mot": "prodrogues",
-            "id": "NULL"
-        },
-        {
-            "mot": "pharmacophore",
-            "id": "6406"
-        },
-        {
-            "mot": "coll",
-            "id": "2543355"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Chimie",
-            "id": "152212"
+            "nom": "Médicaments",
+            "lemme": "médicament"
         },
         {
-            "mot": "septembre",
-            "id": "139936"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "ISTE",
-            "id": "171025967"
+            "nom": "propriétés",
+            "lemme": "propriété"
         },
         {
-            "mot": "Editions",
-            "id": "11248755"
+            "nom": "physico",
+            "lemme": "physico"
         },
         {
-            "mot": "ISBN",
-            "id": "142939"
+            "nom": "chimiques",
+            "lemme": "chimique"
         },
         {
-            "mot": "Graham",
-            "id": "3346908"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "L",
-            "id": "138915"
+            "nom": "prodrogues",
+            "lemme": "prodrogue"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pharmacophore",
+            "lemme": "pharmacophore"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "coll",
+            "lemme": "coll"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Patrick",
-            "id": "3372262"
+            "nom": "Chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "Chimie",
-            "id": "152212"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Pharmaceutique",
-            "id": "156584312"
+            "nom": "septembre",
+            "lemme": "septembre"
         },
         {
-            "mot": "éditions",
-            "id": "NULL"
+            "nom": "2018",
+            "lemme": "2018"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Boeck",
-            "id": "12788774"
+            "nom": "ISTE",
+            "lemme": "iste"
         },
         {
-            "mot": "Supérieur",
-            "id": "NULL"
+            "nom": "Editions",
+            "lemme": "edition"
         },
         {
-            "mot": "ISBN",
-            "id": "142939"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "Un",
-            "id": "256126039"
+            "nom": "ISBN",
+            "lemme": "isbn"
         },
         {
-            "mot": "livre",
-            "id": "90064130"
+            "nom": "978",
+            "lemme": "978"
         },
         {
-            "mot": "pratique",
-            "id": "432472"
+            "nom": "1",
+            "lemme": "1"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "78406",
+            "lemme": "78406"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "481",
+            "lemme": "481"
         },
         {
-            "mot": "médicinale",
-            "id": "NULL"
+            "nom": "5",
+            "lemme": "5"
         },
         {
-            "mot": "avancée",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "I",
-            "id": "140119"
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Graham",
+            "lemme": "graham"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "L.",
+            "lemme": "L."
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "Patrick",
+            "lemme": "Patrick"
         },
         {
-            "mot": "médicinale",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "avancée",
-            "id": "NULL"
+            "nom": "Chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "concerne",
-            "id": "425070"
+            "nom": "Pharmaceutique",
+            "lemme": "pharmaceutique"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "éditions",
+            "lemme": "édition"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "synthèse",
-            "id": "NULL"
+            "nom": "Boeck",
+            "lemme": "Boeck"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "Supérieur",
+            "lemme": "Supérieur"
         },
         {
-            "mot": "SAR",
-            "id": "2481413"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "MOA",
-            "id": "10866934"
+            "nom": "ISBN",
+            "lemme": "isbn"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "9782744501548",
+            "lemme": "9782744501548"
         },
         {
-            "mot": "propriétés",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "Un",
+            "lemme": "un"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "livre",
+            "lemme": "livre"
         },
         {
-            "mot": "utilisations",
-            "id": "2087023"
+            "nom": "pratique",
+            "lemme": "pratique"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "Awadh",
-            "id": "5628962"
+            "nom": "médicinale",
+            "lemme": "médicinal"
         },
         {
-            "mot": "Kishor",
-            "id": "NULL"
+            "nom": "avancée",
+            "lemme": "avancer"
         },
         {
-            "mot": "éditions",
-            "id": "NULL"
+            "nom": "I",
+            "lemme": "i"
         },
         {
-            "mot": "Sciencia",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "Scripts",
-            "id": "10092828"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "ISBN",
-            "id": "142939"
+            "nom": "médicinale",
+            "lemme": "médicinal"
         },
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "avancée",
+            "lemme": "avancer"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "concerne",
+            "lemme": "concerner"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "Liens",
-            "id": "409339"
+            "nom": "chimie",
+            "lemme": "chimie"
         },
         {
-            "mot": "externes",
-            "id": "16087769"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Chimie",
-            "id": "152212"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "thérapeutique",
-            "id": "NULL"
+            "nom": "synthèse",
+            "lemme": "synthèse"
         },
         {
-            "mot": "Introduction",
-            "id": "17638132"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "SAR",
+            "lemme": "SAR"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "MOA",
+            "lemme": "MOA"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "pharmacie",
-            "id": "153107"
+            "nom": "propriétés",
+            "lemme": "propriété"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "utilisations",
+            "lemme": "utilisation"
         },
         {
-            "mot": "chimie",
-            "id": "152212"
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Awadh",
+            "lemme": "Awadh"
+        },
+        {
+            "nom": "Kishor",
+            "lemme": "Kishor"
+        },
+        {
+            "nom": "éditions",
+            "lemme": "édition"
+        },
+        {
+            "nom": "Sciencia",
+            "lemme": "Sciencia"
+        },
+        {
+            "nom": "Scripts",
+            "lemme": "script"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ISBN",
+            "lemme": "isbn"
+        },
+        {
+            "nom": "978",
+            "lemme": "978"
+        },
+        {
+            "nom": "6200893529",
+            "lemme": "6200893529"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "Chimie",
+            "lemme": "chimie"
+        },
+        {
+            "nom": "thérapeutique",
+            "lemme": "thérapeutique"
+        },
+        {
+            "nom": "Introduction",
+            "lemme": "introduction"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "chimie",
+            "lemme": "chimie"
         }
     ]
 ]

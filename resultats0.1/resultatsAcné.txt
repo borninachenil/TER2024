@@ -1,0 +1,11 @@
+acné;maladie;r_has_symptomes.txt;lemme
+polluants;facteur;r_has_symptomes.txt;nom
+cause;carence;r_has_symptomes.txt;lemme
+physiopathologie;maladie;r_has_symptomes.txt;lemme
+sébum;multiplication;r_has_symptomes.txt;lemme
+acne;bactérie;r_has_symptomes.txt;lemme
+papule;surélévation;r_has_symptomes.txt;lemme
+nodule;lésion;r_has_symptomes.txt;lemme
+traitement;affection;r_has_symptomes.txt;lemme
+traitement;forme;r_has_symptomes.txt;lemme
+microdermabrasion;traitement;r_has_symptomes.txt;lemme

@@ -1,0 +1,1348 @@
+[
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hypervitaminose",
+            "lemme": "hypervitaminose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "appelée",
+            "lemme": "appeler"
+        },
+        {
+            "nom": "survitaminose",
+            "lemme": "survitaminose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "correspond",
+            "lemme": "correspondre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "intoxication",
+            "lemme": "intoxication"
+        },
+        {
+            "nom": "due",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "surconsommation",
+            "lemme": "surconsommation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "vitamines",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "A",
+            "lemme": "a"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "D",
+            "lemme": "d"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "E",
+            "lemme": "e"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "K",
+            "lemme": "k"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "au-delà",
+            "lemme": "au-delà"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "apports",
+            "lemme": "apport"
+        },
+        {
+            "nom": "journaliers",
+            "lemme": "journalier"
+        },
+        {
+            "nom": "recommandés",
+            "lemme": "recommandé"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vitamines",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "indispensables",
+            "lemme": "indispensable"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "fonctions",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "métaboliques",
+            "lemme": "métabolique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "apportées",
+            "lemme": "apporter"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "consommation",
+            "lemme": "consommation"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Toutefois",
+            "lemme": "toutefois"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lorsque",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "apports",
+            "lemme": "apport"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vitamines",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "supérieurs",
+            "lemme": "supérieur"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "besoins",
+            "lemme": "besoin"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certains"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "éliminées",
+            "lemme": "éliminer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "organisme",
+            "lemme": "organisme"
+        },
+        {
+            "nom": "via",
+            "lemme": "via"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "urine",
+            "lemme": "urine"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vitamines",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "hydrosolubles",
+            "lemme": "hydrosoluble"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vitamine",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "C",
+            "lemme": "c"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "tandis",
+            "lemme": "tandis"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "stockées",
+            "lemme": "stocker"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vitamines",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "liposolubles",
+            "lemme": "liposoluble"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "devenir",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "toxiques",
+            "lemme": "toxique"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "organisme",
+            "lemme": "organisme"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "hypervitaminoses",
+            "lemme": "hypervitaminose"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "engendrer",
+            "lemme": "engendrer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "graves",
+            "lemme": "grave"
+        },
+        {
+            "nom": "complications",
+            "lemme": "complication"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "nausées",
+            "lemme": "nausée"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "céphalées",
+            "lemme": "céphalée"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pression",
+            "lemme": "pression"
+        },
+        {
+            "nom": "intracrânienne",
+            "lemme": "intracrânien"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "vomissements",
+            "lemme": "vomissement"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "rénaux",
+            "lemme": "rénal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "hypercalcémie",
+            "lemme": "hypercalcémie"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "évanouissements",
+            "lemme": "évanouissement"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "hémorragies",
+            "lemme": "hémorragie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "cirrhoses",
+            "lemme": "cirrhose"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "foie",
+            "lemme": "foie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "problèmes",
+            "lemme": "problème"
+        },
+        {
+            "nom": "cutanés",
+            "lemme": "cutané"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hypervitaminose",
+            "lemme": "hypervitaminose"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vitamine",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "A",
+            "lemme": "a"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "évitée",
+            "lemme": "éviter"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "remplaçant",
+            "lemme": "remplacer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "apport",
+            "lemme": "apport"
+        },
+        {
+            "nom": "direct",
+            "lemme": "direct"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "vitamine",
+            "lemme": "vitamine"
+        },
+        {
+            "nom": "A",
+            "lemme": "a"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "précurseur",
+            "lemme": "précurseur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "β",
+            "lemme": "β"
+        },
+        {
+            "nom": "carotène",
+            "lemme": "carotène"
+        },
+        {
+            "nom": "beaucoup",
+            "lemme": "beaucoup"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "facilement",
+            "lemme": "facilement"
+        },
+        {
+            "nom": "géré",
+            "lemme": "gérer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "organisme",
+            "lemme": "organisme"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Histoire",
+            "lemme": "histoire"
+        },
+        {
+            "nom": "Un",
+            "lemme": "un"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "documenté",
+            "lemme": "documenter"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hypervitaminose",
+            "lemme": "hypervitaminose"
+        },
+        {
+            "nom": "A",
+            "lemme": "a"
+        },
+        {
+            "nom": "remonte",
+            "lemme": "remont"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "1,6",
+            "lemme": "1,6"
+        },
+        {
+            "nom": "±",
+            "lemme": "±"
+        },
+        {
+            "nom": "0,1",
+            "lemme": "0,1"
+        },
+        {
+            "nom": "million",
+            "lemme": "million"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "années",
+            "lemme": "année"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "fémur",
+            "lemme": "fémur"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "femelle",
+            "lemme": "femelle"
+        },
+        {
+            "nom": "Homo",
+            "lemme": "Homo"
+        },
+        {
+            "nom": "erectus",
+            "lemme": "erectu"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "KNM",
+            "lemme": "KNM"
+        },
+        {
+            "nom": "ER",
+            "lemme": "ER"
+        },
+        {
+            "nom": "1808",
+            "lemme": "1808"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "trouvé",
+            "lemme": "trouver"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Koobi",
+            "lemme": "Koobi"
+        },
+        {
+            "nom": "Fora",
+            "lemme": "Fora"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Kenya",
+            "lemme": "Kenya"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "montrant",
+            "lemme": "montrer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "signes",
+            "lemme": "signe"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "pathologie",
+            "lemme": "pathologie"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "signifie",
+            "lemme": "signifier"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "individu",
+            "lemme": "individu"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "malade",
+            "lemme": "malade"
+        },
+        {
+            "nom": "suffisamment",
+            "lemme": "suffisamment"
+        },
+        {
+            "nom": "longtemps",
+            "lemme": "longtemps"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "os",
+            "lemme": "os"
+        },
+        {
+            "nom": "enregistre",
+            "lemme": "enregistrer"
+        },
+        {
+            "nom": "ladite",
+            "lemme": "ledit"
+        },
+        {
+            "nom": "pathologie",
+            "lemme": "pathologie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "implique",
+            "lemme": "impliquer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "ailleurs",
+            "lemme": "ailleurs"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "malade",
+            "lemme": "malade"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "trop",
+            "lemme": "trop"
+        },
+        {
+            "nom": "atteinte",
+            "lemme": "atteinte"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "capable",
+            "lemme": "capable"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "subvenir",
+            "lemme": "subvenir"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "besoins",
+            "lemme": "besoin"
+        },
+        {
+            "nom": "alimentaires",
+            "lemme": "alimentaire"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "protection",
+            "lemme": "protection"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "prédateurs",
+            "lemme": "prédateur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prendre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "charge",
+            "lemme": "charge"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "moins",
+            "lemme": "moins"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "autre",
+            "lemme": "autre"
+        },
+        {
+            "nom": "individu",
+            "lemme": "individu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "groupe",
+            "lemme": "groupe"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "première",
+            "lemme": "premier"
+        },
+        {
+            "nom": "hypothèse",
+            "lemme": "hypothèse"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ingestion",
+            "lemme": "ingestion"
+        },
+        {
+            "nom": "trop",
+            "lemme": "trop"
+        },
+        {
+            "nom": "abondante",
+            "lemme": "abondant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "foie",
+            "lemme": "foie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "carnivore",
+            "lemme": "carnivore"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Skinner",
+            "lemme": "Skinner"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "1991",
+            "lemme": "1991"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "propose",
+            "lemme": "proposer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "ingestion",
+            "lemme": "ingestion"
+        },
+        {
+            "nom": "trop",
+            "lemme": "trop"
+        },
+        {
+            "nom": "abondante",
+            "lemme": "abondant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "larves",
+            "lemme": "larve"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Apis",
+            "lemme": "Apis"
+        },
+        {
+            "nom": "mellifera",
+            "lemme": "mellifera"
+        },
+        {
+            "nom": "scutellata",
+            "lemme": "scutellata"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Hypervitaminose",
+            "lemme": "hypervitaminose"
+        },
+        {
+            "nom": "A",
+            "lemme": "a"
+        },
+        {
+            "nom": "Hypervitaminose",
+            "lemme": "Hypervitaminose"
+        },
+        {
+            "nom": "D",
+            "lemme": "d"
+        },
+        {
+            "nom": "Hypervitaminose",
+            "lemme": "Hypervitaminose"
+        },
+        {
+            "nom": "E",
+            "lemme": "e"
+        },
+        {
+            "nom": "Avitaminose",
+            "lemme": "avitaminose"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

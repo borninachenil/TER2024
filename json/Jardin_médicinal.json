@@ -1,1926 +1,2202 @@
 [
     [
         {
-            "mot": "Un",
-            "id": "256126039"
+            "nom": "Un",
+            "lemme": "un"
         },
         {
-            "mot": "jardin",
-            "id": "139575"
+            "nom": "jardin",
+            "lemme": "jardin"
         },
         {
-            "mot": "médicinal",
-            "id": "NULL"
+            "nom": "médicinal",
+            "lemme": "médicinal"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "jardin",
-            "id": "139575"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "jardin",
+            "lemme": "jardin"
         },
         {
-            "mot": "simples",
-            "id": "10157946"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "appelé",
-            "id": "NULL"
+            "nom": "simples",
+            "lemme": "simple"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "appelé",
+            "lemme": "appeler"
         },
         {
-            "mot": "latin",
-            "id": "427692"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "hortus",
-            "id": "5833111"
+            "nom": "latin",
+            "lemme": "latin"
         },
         {
-            "mot": "medicus",
-            "id": "5896660"
+            "nom": "hortus",
+            "lemme": "hortu"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "medicus",
+            "lemme": "medicu"
         },
         {
-            "mot": "herbularius",
-            "id": "156620655"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "herbularius",
+            "lemme": "herbulariu"
         },
         {
-            "mot": "lieu",
-            "id": "406039"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "où",
-            "id": "NULL"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "lieu",
+            "lemme": "lieu"
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "où",
+            "lemme": "où"
         },
         {
-            "mot": "cultive",
-            "id": "160792"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "cultive",
+            "lemme": "cultiv"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "vertus",
-            "id": "143640"
+            "nom": "plantes",
+            "lemme": "plante"
         },
         {
-            "mot": "médicinales",
-            "id": "NULL"
+            "nom": "aux",
+            "lemme": "à"
         },
         {
-            "mot": "appelées",
-            "id": "NULL"
+            "nom": "vertus",
+            "lemme": "vertu"
         },
         {
-            "mot": "simples",
-            "id": "10157946"
+            "nom": "médicinales",
+            "lemme": "médicinal"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "appelées",
+            "lemme": "appeler"
         },
         {
-            "mot": "officinales",
-            "id": "2067295"
+            "nom": "simples",
+            "lemme": "simple"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": "officinales",
+            "lemme": "officinal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "On",
-            "id": "2529893"
+            "nom": "On",
+            "lemme": "on"
         },
         {
-            "mot": "y",
-            "id": "144184"
+            "nom": "y",
+            "lemme": "y"
         },
         {
-            "mot": "retrouve",
-            "id": "2117693"
+            "nom": "retrouve",
+            "lemme": "retrouver"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "souvent",
-            "id": "3382915"
+            "nom": "souvent",
+            "lemme": "souvent"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "plantes",
+            "lemme": "plante"
         },
         {
-            "mot": "condimentaires",
-            "id": "3322096"
+            "nom": "condimentaires",
+            "lemme": "condimentaire"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "thym",
-            "id": "568009"
+            "nom": "thym",
+            "lemme": "thym"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "sauge",
-            "id": "2525427"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "sauge",
+            "lemme": "sauge"
         },
         {
-            "mot": "mélisse",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "mélisse",
+            "lemme": "mélisse"
         },
         {
-            "mot": "hysope",
-            "id": "15469367"
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hysope",
+            "lemme": "hysope"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "France",
-            "id": "10914926"
+            "nom": "France",
+            "lemme": "France"
         },
         {
-            "mot": "après",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "avoir",
-            "id": "402552"
+            "nom": "après",
+            "lemme": "après"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "avoir",
+            "lemme": "avoir"
         },
         {
-            "mot": "largement",
-            "id": "16015101"
+            "nom": "été",
+            "lemme": "être"
         },
         {
-            "mot": "oubliés",
-            "id": "NULL"
+            "nom": "largement",
+            "lemme": "largement"
         },
         {
-            "mot": "ces",
-            "id": "2446001"
+            "nom": "oubliés",
+            "lemme": "oublier"
         },
         {
-            "mot": "jardins",
-            "id": "162699"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "ces",
+            "lemme": "ce"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "jardins",
+            "lemme": "jardin"
         },
         {
-            "mot": "nouveau",
-            "id": "146411"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "actualité",
-            "id": "NULL"
+            "nom": "nouveau",
+            "lemme": "nouveau"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "actualité",
+            "lemme": "actualité"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "On",
-            "id": "2529893"
+            "nom": "On",
+            "lemme": "on"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "trouve",
-            "id": "16513307"
+            "nom": "trouve",
+            "lemme": "trouve"
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "particuliers",
-            "id": "154629"
+            "nom": "particuliers",
+            "lemme": "particulier"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "soignent",
-            "id": "2096835"
+            "nom": "soignent",
+            "lemme": "soigner"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "phytothérapie",
-            "id": "NULL"
+            "nom": "phytothérapie",
+            "lemme": "phytothérapie"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "parcs",
-            "id": "432339"
+            "nom": "parcs",
+            "lemme": "parc"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "but",
-            "id": "10076653"
+            "nom": "but",
+            "lemme": "but"
         },
         {
-            "mot": "scientifique",
-            "id": "1650866"
+            "nom": "scientifique",
+            "lemme": "scientifique"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "culturel",
-            "id": "14668730"
+            "nom": "culturel",
+            "lemme": "culturel"
         },
         {
-            "mot": "liés",
-            "id": "NULL"
+            "nom": "liés",
+            "lemme": "lier"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "patrimoine",
-            "id": "405642"
+            "nom": "patrimoine",
+            "lemme": "patrimoine"
         },
         {
-            "mot": "tel",
-            "id": "1845888"
+            "nom": "tel",
+            "lemme": "tel"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "prieuré",
-            "id": "NULL"
+            "nom": "prieuré",
+            "lemme": "prieuré"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "Orsan",
-            "id": "2352750"
+            "nom": "Orsan",
+            "lemme": "Orsan"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Maisonnais",
-            "id": "2460876"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "Maisonnais",
+            "lemme": "Maisonnais"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Cher",
-            "id": "138185"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "Cher",
+            "lemme": "Cher"
         },
         {
-            "mot": "Jardin",
-            "id": "139575"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "médiéval",
-            "id": "NULL"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "Uzès",
-            "id": "NULL"
+            "nom": "Jardin",
+            "lemme": "Jardin"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "médiéval",
+            "lemme": "médiéval"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "Gard",
-            "id": "3373015"
+            "nom": "Uzès",
+            "lemme": "Uzès"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Gard",
+            "lemme": "Gard"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Historique",
-            "id": "412735"
+            "nom": "Historique",
+            "lemme": "historique"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "culture",
-            "id": "152488"
+            "nom": "culture",
+            "lemme": "culture"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "plantes",
+            "lemme": "plante"
         },
         {
-            "mot": "médicinales",
-            "id": "NULL"
+            "nom": "médicinales",
+            "lemme": "médicinal"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "longue",
-            "id": "146483"
+            "nom": "longue",
+            "lemme": "long"
         },
         {
-            "mot": "histoire",
-            "id": "5814360"
+            "nom": "histoire",
+            "lemme": "histoire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Au",
-            "id": "138621"
+            "nom": "Au",
+            "lemme": "au"
         },
         {
-            "mot": "temps",
-            "id": "1845924"
+            "nom": "temps",
+            "lemme": "temps"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "Rome",
-            "id": "2512809"
+            "nom": "Rome",
+            "lemme": "Rome"
         },
         {
-            "mot": "antique",
-            "id": "1706091"
+            "nom": "antique",
+            "lemme": "antique"
         },
         {
-            "mot": "ces",
-            "id": "2446001"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "dernières",
-            "id": "NULL"
+            "nom": "ces",
+            "lemme": "ce"
         },
         {
-            "mot": "occupaient",
-            "id": "2065382"
+            "nom": "dernières",
+            "lemme": "dernier"
         },
         {
-            "mot": "plusieurs",
-            "id": "412067"
+            "nom": "occupaient",
+            "lemme": "occuper"
         },
         {
-            "mot": "professionnels",
-            "id": "411617"
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "professionnels",
+            "lemme": "professionnel"
         },
         {
-            "mot": "iatralipice",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "unguentarii",
-            "id": "NULL"
-        },
-        {
-            "mot": "spécialistes",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "onguents",
-            "id": "193332605"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "aromatarii",
-            "id": "NULL"
-        },
-        {
-            "mot": "préparateurs",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "produit",
-            "id": "567414"
-        },
-        {
-            "mot": "médicinaux",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "pharmacopolae",
-            "id": "NULL"
-        },
-        {
-            "mot": "vendeurs",
-            "id": "16513348"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "produits",
-            "id": "414121"
-        },
-        {
-            "mot": "médicinaux",
-            "id": "NULL"
-        },
-        {
-            "mot": "À",
-            "id": "NULL"
-        },
-        {
-            "mot": "cette",
-            "id": "419981"
-        },
-        {
-            "mot": "époque",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "pharmacopée",
-            "id": "NULL"
-        },
-        {
-            "mot": "végétale",
-            "id": "NULL"
-        },
-        {
-            "mot": "était",
-            "id": "NULL"
-        },
-        {
-            "mot": "très",
-            "id": "NULL"
-        },
-        {
-            "mot": "usitée",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Après",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "iatralipice",
+            "lemme": "iatralipice"
         },
         {
-            "mot": "chute",
-            "id": "404222"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "unguentarii",
+            "lemme": "unguentarii"
         },
         {
-            "mot": "Empire",
-            "id": "16575407"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "romain",
-            "id": "3358296"
+            "nom": "spécialistes",
+            "lemme": "spécialiste"
         },
         {
-            "mot": "c'",
-            "id": "2140163"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "onguents",
+            "lemme": "onguent"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "jardins",
-            "id": "162699"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "aromatarii",
+            "lemme": "aromatarii"
         },
         {
-            "mot": "monastère",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "préparateurs",
+            "lemme": "préparateur"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "moines",
-            "id": "152534"
+            "nom": "produit",
+            "lemme": "produit"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "médicinaux",
+            "lemme": "médicinal"
         },
         {
-            "mot": "continué",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "faire",
-            "id": "14890873"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "vivre",
-            "id": "420375"
+            "nom": "pharmacopolae",
+            "lemme": "pharmacopolae"
         },
         {
-            "mot": "cette",
-            "id": "419981"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "tradition",
-            "id": "412385"
+            "nom": "vendeurs",
+            "lemme": "vendeur"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produit"
+        },
+        {
+            "nom": "médicinaux",
+            "lemme": "médicinal"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "À",
+            "lemme": "à"
         },
         {
-            "mot": "Suisse",
-            "id": "249393971"
+            "nom": "cette",
+            "lemme": "ce"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "époque",
+            "lemme": "époque"
         },
         {
-            "mot": "plan",
-            "id": "14895280"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "pharmacopée",
+            "lemme": "pharmacopée"
         },
         {
-            "mot": "Abbaye",
-            "id": "145850"
+            "nom": "végétale",
+            "lemme": "végétal"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "était",
+            "lemme": "être"
         },
         {
-            "mot": "Saint",
-            "id": "16028028"
+            "nom": "très",
+            "lemme": "très"
         },
         {
-            "mot": "Gall",
-            "id": "435289"
+            "nom": "usitée",
+            "lemme": "usiter"
         },
         {
-            "mot": "datant",
-            "id": "1996375"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "garde",
-            "id": "141260"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "trace",
-            "id": "9968432"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "jardin",
-            "id": "139575"
-        },
-        {
-            "mot": "médicinal",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "Après",
+            "lemme": "après"
         },
         {
-            "mot": "Italie",
-            "id": "249393983"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "chute",
+            "lemme": "chute"
         },
         {
-            "mot": "Jardin",
-            "id": "139575"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "simples",
-            "id": "10157946"
+            "nom": "Empire",
+            "lemme": "empire"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "romain",
+            "lemme": "romain"
         },
         {
-            "mot": "Florence",
-            "id": "139603"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "créé",
-            "id": "NULL"
+            "nom": "c'",
+            "lemme": "ce"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "sous",
-            "id": "16089533"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "Cosme",
-            "id": "425855"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "Ier",
-            "id": "434661"
+            "nom": "jardins",
+            "lemme": "jardin"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Toscane",
-            "id": "401384"
+            "nom": "monastère",
+            "lemme": "monastère"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "celui",
-            "id": "417499"
+            "nom": "moines",
+            "lemme": "moine"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "Pise",
-            "id": "152496"
+            "nom": "continué",
+            "lemme": "continuer"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "faire",
+            "lemme": "faire"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "vivre",
+            "lemme": "vivre"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "cette",
+            "lemme": "ce"
         },
         {
-            "mot": "anciens",
-            "id": "399276"
+            "nom": "tradition",
+            "lemme": "tradition"
         },
         {
-            "mot": "jardins",
-            "id": "162699"
-        },
-        {
-            "mot": "botaniques",
-            "id": "427164"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "monde",
-            "id": "1788249"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "France",
-            "id": "10914926"
+            "nom": "Suisse",
+            "lemme": "Suisse"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "jardins",
-            "id": "162699"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "italiens",
-            "id": "415136"
+            "nom": "plan",
+            "lemme": "plan"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "particulièrement",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "celui",
-            "id": "417499"
+            "nom": "Abbaye",
+            "lemme": "Abbaye"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Padoue",
-            "id": "149483"
+            "nom": "Saint-Gall",
+            "lemme": "saint-gall"
         },
         {
-            "mot": "inspirent",
-            "id": "2061376"
+            "nom": "datant",
+            "lemme": "dater"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "botaniste",
-            "id": "91433988"
+            "nom": "816",
+            "lemme": "816"
         },
         {
-            "mot": "Pierre",
-            "id": "144380"
+            "nom": "garde",
+            "lemme": "garde"
         },
         {
-            "mot": "Richer",
-            "id": "36467"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "trace",
+            "lemme": "trace"
         },
         {
-            "mot": "Belleval",
-            "id": "5992040"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "obtient",
-            "id": "2064318"
+            "nom": "jardin",
+            "lemme": "jardin"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "médicinal",
+            "lemme": "médicinal"
         },
         {
-            "mot": "autorisation",
-            "id": "16075755"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "roi",
-            "id": "16859736"
-        },
-        {
-            "mot": "Henri",
-            "id": "165367"
-        },
-        {
-            "mot": "IV",
-            "id": "2957043"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "fonder",
-            "id": "171021502"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "tel",
-            "id": "1845888"
-        },
-        {
-            "mot": "jardin",
-            "id": "139575"
-        },
-        {
-            "mot": "médicinal",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "annexe",
-            "id": "10352907"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "Université",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Montpellier",
-            "id": "3173060"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "parcourt",
-            "id": "2077442"
+            "nom": "Italie",
+            "lemme": "Italie"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Cévennes",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "Jardin",
+            "lemme": "Jardin"
         },
         {
-            "mot": "visite",
-            "id": "427223"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "simples",
+            "lemme": "simple"
         },
         {
-            "mot": "arboretum",
-            "id": "2647099"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Florence",
+            "lemme": "Florence"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Hort",
-            "id": "5910818"
+            "nom": "créé",
+            "lemme": "créer"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "Dieu",
-            "id": "16102432"
+            "nom": "1545",
+            "lemme": "1545"
         },
         {
-            "mot": "situé",
-            "id": "NULL"
+            "nom": "sous",
+            "lemme": "sou"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "Cosme",
+            "lemme": "cosme"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "Ier",
+            "lemme": "Ier"
         },
         {
-            "mot": "flanc",
-            "id": "2607502"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "sud",
-            "id": "228248"
+            "nom": "Toscane",
+            "lemme": "Toscane"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "mont",
-            "id": "16087955"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "Aigoual",
-            "id": "136608"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "celui",
+            "lemme": "celui"
         },
         {
-            "mot": "frontière",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "Pise",
+            "lemme": "Pise"
         },
         {
-            "mot": "Gard",
-            "id": "3373015"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "Lozère",
-            "id": "NULL"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "y",
-            "id": "144184"
+            "nom": "anciens",
+            "lemme": "ancien"
         },
         {
-            "mot": "collectionne",
-            "id": "2150672"
+            "nom": "jardins",
+            "lemme": "jardin"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "botaniques",
+            "lemme": "botanique"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "monde",
+            "lemme": "monde"
         },
         {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "cultive",
-            "id": "160792"
-        },
-        {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "butte",
-            "id": "141186"
-        },
-        {
-            "mot": "quadrangulaire",
-            "id": "67503"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "offrir",
-            "id": "244469646"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "chacune",
-            "id": "257774"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "même",
-            "id": "NULL"
-        },
-        {
-            "mot": "exposition",
-            "id": "419796"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "montagne",
-            "id": "173274"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "son",
-            "id": "5619461"
+            "nom": "France",
+            "lemme": "France"
         },
         {
-            "mot": "Théâtre",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "agriculture",
-            "id": "153176"
+            "nom": "jardins",
+            "lemme": "jardin"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "italiens",
+            "lemme": "italien"
         },
         {
-            "mot": "mesnage",
-            "id": "10588849"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "particulièrement",
+            "lemme": "particulièrement"
         },
         {
-            "mot": "champs",
-            "id": "410311"
+            "nom": "celui",
+            "lemme": "celui"
         },
         {
-            "mot": "publié",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "Padoue",
+            "lemme": "padoue"
         },
         {
-            "mot": "er",
-            "id": "249629464"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "mars",
-            "id": "251066534"
+            "nom": "inspirent",
+            "lemme": "inspirer"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "dédié",
-            "id": "NULL"
+            "nom": "botaniste",
+            "lemme": "botaniste"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "Pierre",
+            "lemme": "Pierre"
         },
         {
-            "mot": "Henri",
-            "id": "165367"
+            "nom": "Richer",
+            "lemme": "Richer"
         },
         {
-            "mot": "IV",
-            "id": "2957043"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Olivier",
-            "id": "140784"
+            "nom": "Belleval",
+            "lemme": "Belleval"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Serres",
-            "id": "141713"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "consacre",
-            "id": "2155861"
+            "nom": "obtient",
+            "lemme": "obtenir"
         },
         {
-            "mot": "deux",
-            "id": "14665637"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "chapitres",
-            "id": "427067"
+            "nom": "autorisation",
+            "lemme": "autorisation"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "jardin",
-            "id": "139575"
+            "nom": "roi",
+            "lemme": "roi"
         },
         {
-            "mot": "médicinal",
-            "id": "NULL"
+            "nom": "Henri",
+            "lemme": "Henri"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "IV",
+            "lemme": "iv"
         },
         {
-            "mot": "son",
-            "id": "5619461"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "ordonnance",
-            "id": "411204"
+            "nom": "fonder",
+            "lemme": "fonder"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "tel",
+            "lemme": "tel"
         },
         {
-            "mot": "son",
-            "id": "5619461"
+            "nom": "jardin",
+            "lemme": "jardin"
         },
         {
-            "mot": "approvisionnement",
-            "id": "10078297"
+            "nom": "médicinal",
+            "lemme": "médicinal"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "annexe",
+            "lemme": "annexe"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Université",
+            "lemme": "université"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Montpellier",
+            "lemme": "montpellier"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Il",
+            "lemme": "il"
         },
         {
-            "mot": "jardin",
-            "id": "139575"
+            "nom": "parcourt",
+            "lemme": "parcourir"
         },
         {
-            "mot": "botanique",
-            "id": "152228"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Cévennes",
+            "lemme": "cévenne"
         },
         {
-            "mot": "Bordeaux",
-            "id": "144632"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "créé",
-            "id": "NULL"
+            "nom": "visite",
+            "lemme": "visiter"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "arboretum",
+            "lemme": "arboretum"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "confié",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "Hort",
+            "lemme": "hort"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "école",
-            "id": "NULL"
+            "nom": "Dieu",
+            "lemme": "Dieu"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "situé",
+            "lemme": "situer"
         },
         {
-            "mot": "apothicaires",
-            "id": "6067197"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "flanc",
+            "lemme": "flanc"
         },
         {
-            "mot": "jardin",
-            "id": "139575"
+            "nom": "sud",
+            "lemme": "sud"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "mont",
+            "lemme": "mont"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Aigoual",
+            "lemme": "Aigoual"
         },
         {
-            "mot": "Nantes",
-            "id": "3373419"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "",
-            "id": "15910085"
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "frontière",
+            "lemme": "frontière"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Gard",
+            "lemme": "Gard"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Lozère",
+            "lemme": "Lozère"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "y",
+            "lemme": "y"
+        },
+        {
+            "nom": "collectionne",
+            "lemme": "collectionner"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cultive",
+            "lemme": "cultive"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "butte",
+            "lemme": "butte"
+        },
+        {
+            "nom": "quadrangulaire",
+            "lemme": "quadrangulaire"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "offrir",
+            "lemme": "offrir"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "chacune",
+            "lemme": "chacun"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "exposition",
+            "lemme": "exposition"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "montagne",
+            "lemme": "montagne"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Après",
-            "id": "NULL"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "son",
+            "lemme": "son"
         },
         {
-            "mot": "révolution",
-            "id": "NULL"
+            "nom": "Théâtre",
+            "lemme": "théâtre"
         },
         {
-            "mot": "industrielle",
-            "id": "1858980"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "agriculture",
+            "lemme": "agriculture"
         },
         {
-            "mot": "industrie",
-            "id": "152486"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "pharmaceutique",
-            "id": "156584312"
+            "nom": "mesnage",
+            "lemme": "mesnage"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "repris",
-            "id": "21576"
+            "nom": "champs",
+            "lemme": "champ"
         },
         {
-            "mot": "ces",
-            "id": "2446001"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "rôles",
-            "id": "NULL"
+            "nom": "publié",
+            "lemme": "publier"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "1er",
+            "lemme": "premier"
         },
         {
-            "mot": "passant",
-            "id": "3186245"
+            "nom": "mars",
+            "lemme": "mars"
         },
         {
-            "mot": "souvent",
-            "id": "3382915"
+            "nom": "1600",
+            "lemme": "1600"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "dédié",
+            "lemme": "dédier"
         },
         {
-            "mot": "utilisation",
-            "id": "5998994"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Henri",
+            "lemme": "Henri"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "IV",
+            "lemme": "iv"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Olivier",
+            "lemme": "olivier"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Serres",
+            "lemme": "serre"
+        },
+        {
+            "nom": "consacre",
+            "lemme": "consacrer"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "chapitres",
+            "lemme": "chapitre"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "jardin",
+            "lemme": "jardin"
+        },
+        {
+            "nom": "médicinal",
+            "lemme": "médicinal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "ordonnance",
+            "lemme": "ordonnance"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "approvisionnement",
+            "lemme": "approvisionnement"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Aujourd'",
-            "id": "NULL"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "hui",
-            "id": "425231"
+            "nom": "jardin",
+            "lemme": "jardin"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "botanique",
+            "lemme": "botanique"
         },
         {
-            "mot": "nombreux",
-            "id": "16088515"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "sites",
-            "id": "429318"
+            "nom": "Bordeaux",
+            "lemme": "Bordeaux"
         },
         {
-            "mot": "tels",
-            "id": "53063"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "créé",
+            "lemme": "créer"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "jardins",
-            "id": "162699"
+            "nom": "1629",
+            "lemme": "1629"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "prieuré",
-            "id": "NULL"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "été",
+            "lemme": "être"
         },
         {
-            "mot": "Orsan",
-            "id": "2352750"
+            "nom": "confié",
+            "lemme": "confier"
         },
         {
-            "mot": "inaugurés",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "école",
+            "lemme": "école"
         },
         {
-            "mot": "ouverts",
-            "id": "3183466"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "apothicaires",
+            "lemme": "apothicaire"
         },
         {
-            "mot": "public",
-            "id": "1645208"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "proposent",
-            "id": "2253390"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "jardin",
+            "lemme": "jardin"
         },
         {
-            "mot": "reconstitution",
-            "id": "429924"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "plantes",
+            "lemme": "plante"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "visite",
-            "id": "427223"
+            "nom": "Nantes",
+            "lemme": "nante"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "jardins",
-            "id": "162699"
+            "nom": "1687",
+            "lemme": "1687"
         },
         {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "simples",
-            "id": "10157946"
-        },
-        {
-            "mot": "où",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "plantes",
-            "id": "415132"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "cultivées",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "carrés",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "terre",
-            "id": "139892"
-        },
-        {
-            "mot": "surélevés",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "Après",
+            "lemme": "après"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "révolution",
+            "lemme": "révolution"
         },
         {
-            "mot": "Voir",
-            "id": "14772243"
+            "nom": "industrielle",
+            "lemme": "industriel"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "industrie",
+            "lemme": "industrie"
         },
         {
-            "mot": "Médecine",
-            "id": "NULL"
+            "nom": "pharmaceutique",
+            "lemme": "pharmaceutique"
         },
         {
-            "mot": "Phytothérapie",
-            "id": "NULL"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "Plante",
-            "id": "409501"
+            "nom": "repris",
+            "lemme": "reprendre"
         },
         {
-            "mot": "médicinale",
-            "id": "NULL"
+            "nom": "ces",
+            "lemme": "ce"
         },
         {
-            "mot": "Pharmacie",
-            "id": "153107"
+            "nom": "rôles",
+            "lemme": "rôle"
         },
         {
-            "mot": "Officine",
-            "id": "10984861"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Plante",
-            "id": "409501"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "officinale",
-            "id": "398723"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "Jardin",
-            "id": "139575"
+            "nom": "passant",
+            "lemme": "passer"
         },
         {
-            "mot": "botanique",
-            "id": "152228"
+            "nom": "souvent",
+            "lemme": "souvent"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "jardinage",
-            "id": "153321"
+            "nom": "utilisation",
+            "lemme": "utilisation"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "plantes",
+            "lemme": "plante"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Aujourd'hui",
+            "lemme": "aujourd'hui"
         },
         {
-            "mot": "horticulture",
-            "id": "5538789"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "nombreux",
+            "lemme": "nombreux"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "sites",
+            "lemme": "site"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "tels",
+            "lemme": "tel"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "jardins",
+            "lemme": "jardin"
         },
         {
-            "mot": "pharmacie",
-            "id": "153107"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "prieuré",
+            "lemme": "prieuré"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "plantes",
-            "id": "415132"
+            "nom": "Orsan",
+            "lemme": "Orsan"
         },
         {
-            "mot": "utiles",
-            "id": "271126"
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "inaugurés",
+            "lemme": "inaugurer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1992",
+            "lemme": "1992"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ouverts",
+            "lemme": "ouvrir"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "public",
+            "lemme": "public"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1994",
+            "lemme": "1994"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "proposent",
+            "lemme": "proposer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "visite",
+            "lemme": "visite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "jardins",
+            "lemme": "jardin"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "simples",
+            "lemme": "simple"
+        },
+        {
+            "nom": "où",
+            "lemme": "où"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "cultivées",
+            "lemme": "cultiver"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "carrés",
+            "lemme": "carré"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "terre",
+            "lemme": "terre"
+        },
+        {
+            "nom": "surélevés",
+            "lemme": "surélever"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Médecine",
+            "lemme": "Médecine"
+        },
+        {
+            "nom": ">",
+            "lemme": ">"
+        },
+        {
+            "nom": "Phytothérapie",
+            "lemme": "phytothérapie"
+        },
+        {
+            "nom": ">",
+            "lemme": ">"
+        },
+        {
+            "nom": "Plante",
+            "lemme": "plante"
+        },
+        {
+            "nom": "médicinale",
+            "lemme": "médicinal"
+        },
+        {
+            "nom": "Pharmacie",
+            "lemme": "Pharmacie"
+        },
+        {
+            "nom": ">",
+            "lemme": ">"
+        },
+        {
+            "nom": "Officine",
+            "lemme": "officine"
+        },
+        {
+            "nom": ">",
+            "lemme": ">"
+        },
+        {
+            "nom": "Plante",
+            "lemme": "plante"
+        },
+        {
+            "nom": "officinale",
+            "lemme": "officinal"
+        },
+        {
+            "nom": "Jardin",
+            "lemme": "Jardin"
+        },
+        {
+            "nom": "botanique",
+            "lemme": "botanique"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "jardinage",
+            "lemme": "jardinage"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "horticulture",
+            "lemme": "horticulture"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "portail"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": "utiles",
+            "lemme": "utile"
         }
     ]
 ]

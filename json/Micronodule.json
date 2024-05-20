@@ -1,0 +1,454 @@
+[
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "micronodule",
+            "lemme": "micronodule"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "formation",
+            "lemme": "formation"
+        },
+        {
+            "nom": "anormale",
+            "lemme": "anormal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "moins",
+            "lemme": "moins"
+        },
+        {
+            "nom": "arrondie",
+            "lemme": "arrondie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "contours",
+            "lemme": "contour"
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "limités",
+            "lemme": "limité"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "mesure",
+            "lemme": "mesure"
+        },
+        {
+            "nom": "moins",
+            "lemme": "moins"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "mm",
+            "lemme": "millimètre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "diamètre",
+            "lemme": "diamètre"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "décelée",
+            "lemme": "déceler"
+        },
+        {
+            "nom": "seulement",
+            "lemme": "seulement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "radiographie",
+            "lemme": "radiographie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Au",
+            "lemme": "au"
+        },
+        {
+            "nom": "delà",
+            "lemme": "delà"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "mm",
+            "lemme": "millimètre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "agit",
+            "lemme": "agir"
+        },
+        {
+            "nom": "plutôt",
+            "lemme": "plutôt"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "nodule",
+            "lemme": "nodule"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "tuberculose",
+            "lemme": "tuberculose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "micronodules",
+            "lemme": "micronodule"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "nombreux",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "disséminés",
+            "lemme": "disséminer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ensemble",
+            "lemme": "ensemble"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "champs",
+            "lemme": "champ"
+        },
+        {
+            "nom": "pulmonaires",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "formant",
+            "lemme": "former"
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "image",
+            "lemme": "image"
+        },
+        {
+            "nom": "multi-micronodulaire",
+            "lemme": "multi-micronodulair"
+        },
+        {
+            "nom": "spécifique",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "miliaire",
+            "lemme": "miliaire"
+        },
+        {
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "noter",
+            "lemme": "noter"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "problèmes",
+            "lemme": "problème"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "telle",
+            "lemme": "tel"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "silicose",
+            "lemme": "silicose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "causer",
+            "lemme": "causer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "problèmes",
+            "lemme": "problème"
+        },
+        {
+            "nom": "similaires",
+            "lemme": "similaire"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Kyste",
+            "lemme": "Kyste"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

@@ -1,8 +1,9 @@
 import wikipediaapi
 import json
 import sys
-import re
 import os
+import spacy
+nlp = spacy.load("fr_core_news_sm")
 
 def wikipedia(page_title):
     chemin_fichier_texte = f"wikipedia/{page_title}.txt"
@@ -19,60 +20,36 @@ def wikipedia(page_title):
             return page.text
         else:
             return "La page n'existe pas."
-        
-def clean(mot):
-    corrections = {
-        'Ã©': 'é', 'Ã¨': 'è', 'Ã ': 'à', 'Ã§': 'ç', 'Ã´': 'ô',
-        'Ãª': 'ê', 'Ã«': 'ë', 'Ã®': 'î', 'Ã¯': 'ï', 'Ã¢': 'â',
-        'Ã»': 'û', 'Ã¹': 'ù', 'Ã¤': 'ä', 'Ã¶': 'ö', 'Ã¼': 'ü',
-        'â€™': ' ', '(' : '' , ')' : '',
-    }
-    for incorrect, correct in corrections.items():
-        mot = mot.replace(incorrect, correct)
-    mot = mot.strip(":,;!?()[]«»{}%1234567890/\\")
-    return mot if mot else None
 
-def toMots(texte):
-    pattern = re.compile(r"\b\w+'?\w*\b\.?")
-    mots_trouves = pattern.findall(texte)
-    mots_nettoyes = []
-    for mot in mots_trouves:
-        mot_nettoye = clean(mot)
-        if mot_nettoye:
-            if "'" in mot_nettoye:
-                partie1, partie2 = mot_nettoye.split("'", 1)
-                mots_nettoyes.append(partie1 + "'")
-                mots_nettoyes.append(partie2)
-            else:
-                mots_nettoyes.append(mot_nettoye)
-    return mots_nettoyes
+def normal(text):
+    return text.replace('’', "'").replace('‘', "'").replace('“', '"').replace('”', '"').replace("\n", " ")
 
-def creerPhrases(mots):
+def clean(token):
+    return token.strip().replace("\n", " ")
+
+def motsphrases(texte):
+    texte = normal(texte)
+    doc = nlp(texte)
     phrases = []
     phrase_en_cours = []
-    for mot in mots:
-        if mot.endswith('.'):
-            phrase_en_cours.append(mot[:-1])
-            phrases.append(phrase_en_cours)
-            phrase_en_cours = []
-        else:
-            phrase_en_cours.append(mot)
+
+    for token in doc:
+        if token.is_punct and token.text not in {'.', '?', '!', ':', ';', ',', '(', ')'}:
+            continue
+        mot_nettoye = clean(token.text)
+        if mot_nettoye:
+            mot_lemmatise = token.lemma_
+            mot_dict = {"nom": mot_nettoye, "lemme": mot_lemmatise}
+            phrase_en_cours.append(mot_dict)
+        if token.text in {'.', '?', '!', ':', ';'}:
+            if phrase_en_cours:
+                phrases.append(phrase_en_cours)
+                phrase_en_cours = []
+
     if phrase_en_cours:
         phrases.append(phrase_en_cours)
+
     return phrases
-
-def Dictionnaire(chemin):
-    dico = {}
-    with open(chemin, 'r', encoding='utf-8', errors="replace") as fichier:
-        for ligne in fichier:
-            elements = ligne.strip().split(';')
-            if len(elements) >= 2:
-                id_, terme = elements[0], elements[1].strip('"')
-                dico[terme.lower()] = id_
-    return dico
-
-def id(mots, dictionnaire):
-    return [{"mot": mot, "id": dictionnaire.get(mot.lower(), "NULL")} for mot in mots]
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:
@@ -83,11 +60,8 @@ if __name__ == "__main__":
 
     page_content = wikipedia(page_title)
     if page_content != "La page n'existe pas.":
-        mots = toMots(page_content)
-        phrases = creerPhrases(mots)
-        dictionnaire_termes = Dictionnaire('singleton.txt')
-        mots_avec_id = [id(phrase, dictionnaire_termes) for phrase in phrases]
-        nom_fichier_sans_espaces = page_title.replace(" ", "_").replace("(", "").replace(")", "").replace("/", "_")
+        phrases = motsphrases(page_content)
+        nom_fichier_sans_espaces = page_title.replace(" ", "_").replace("/", "_")
         nom_fichier_json = f"json/{nom_fichier_sans_espaces}.json"
         with open(nom_fichier_json, 'w', encoding='utf-8') as fichier_json:
-            json.dump(mots_avec_id, fichier_json, ensure_ascii=False, indent=4)
+            json.dump(phrases, fichier_json, ensure_ascii=False, indent=4)

@@ -1,0 +1,508 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "radiomucite",
+            "lemme": "radiomucite"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "complication",
+            "lemme": "complication"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "importante",
+            "lemme": "important"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "phase",
+            "lemme": "phase"
+        },
+        {
+            "nom": "active",
+            "lemme": "actif"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "radiothérapie",
+            "lemme": "radiothérapie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "suffisamment",
+            "lemme": "suffisamment"
+        },
+        {
+            "nom": "grave",
+            "lemme": "grave"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "nécessiter",
+            "lemme": "nécessiter"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "arrêt",
+            "lemme": "arrêt"
+        },
+        {
+            "nom": "temporaire",
+            "lemme": "temporaire"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "conséquence",
+            "lemme": "conséquence"
+        },
+        {
+            "nom": "directe",
+            "lemme": "direct"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "effet",
+            "lemme": "effet"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "radiation",
+            "lemme": "radiation"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "muqueuse",
+            "lemme": "muqueuse"
+        },
+        {
+            "nom": "buccale",
+            "lemme": "buccal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "radiomucite",
+            "lemme": "radiomucite"
+        },
+        {
+            "nom": "apparaît",
+            "lemme": "apparaître"
+        },
+        {
+            "nom": "habituellement",
+            "lemme": "habituellement"
+        },
+        {
+            "nom": "vers",
+            "lemme": "vers"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "début",
+            "lemme": "début"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "deuxième",
+            "lemme": "deuxième"
+        },
+        {
+            "nom": "semaine",
+            "lemme": "semaine"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "manifeste",
+            "lemme": "manifeste"
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "érythème",
+            "lemme": "érythèm"
+        },
+        {
+            "nom": "généralisé",
+            "lemme": "généraliser"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "muqueuses",
+            "lemme": "muqueuse"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "aggraver",
+            "lemme": "aggraver"
+        },
+        {
+            "nom": "vers",
+            "lemme": "vers"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "troisième",
+            "lemme": "troisième"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "quatrième",
+            "lemme": "quatrième"
+        },
+        {
+            "nom": "semaine",
+            "lemme": "semaine"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "présence",
+            "lemme": "présence"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pseudo-membranes",
+            "lemme": "pseudo-membrane"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "ulcérations",
+            "lemme": "ulcération"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "confondues",
+            "lemme": "confondre"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "surinfection",
+            "lemme": "surinfection"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Candida",
+            "lemme": "Candida"
+        },
+        {
+            "nom": "albicans",
+            "lemme": "albican"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "mastication",
+            "lemme": "mastication"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "déglutition",
+            "lemme": "déglutition"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "considérablement",
+            "lemme": "considérablement"
+        },
+        {
+            "nom": "affectées",
+            "lemme": "affecter"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "rendant",
+            "lemme": "rendre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "alimentation",
+            "lemme": "alimentation"
+        },
+        {
+            "nom": "très",
+            "lemme": "très"
+        },
+        {
+            "nom": "difficile",
+            "lemme": "difficile"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

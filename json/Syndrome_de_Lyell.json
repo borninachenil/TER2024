@@ -1,4582 +1,5354 @@
 [
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "syndrome",
-            "id": "16089555"
+            "nom": "syndrome",
+            "lemme": "syndrome"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Lyell",
-            "id": "17389626"
+            "nom": "Lyell",
+            "lemme": "Lyell"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "nécrolyse",
-            "id": "NULL"
+            "nom": "nécrolyse",
+            "lemme": "nécrolyse"
         },
         {
-            "mot": "épidermique",
-            "id": "NULL"
+            "nom": "épidermique",
+            "lemme": "épidermique"
         },
         {
-            "mot": "toxique",
-            "id": "14909236"
+            "nom": "toxique",
+            "lemme": "toxique"
         },
         {
-            "mot": "NET",
-            "id": "435690"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "NET",
+            "lemme": "NET"
         },
         {
-            "mot": "érythrodermie",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "bulleuse",
-            "id": "398244"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "érythrodermie",
+            "lemme": "érythrodermie"
         },
         {
-            "mot": "nécrolyse",
-            "id": "NULL"
+            "nom": "bulleuse",
+            "lemme": "bulleux"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "nécrolyse",
+            "lemme": "nécrolyse"
         },
         {
-            "mot": "état",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "dermatologique",
-            "id": "156516257"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "potentiellement",
-            "id": "11879"
+            "nom": "état",
+            "lemme": "état"
         },
         {
-            "mot": "mortel",
-            "id": "397520"
+            "nom": "dermatologique",
+            "lemme": "dermatologique"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "potentiellement",
+            "lemme": "potentiellement"
         },
         {
-            "mot": "induit",
-            "id": "69358"
+            "nom": "mortel",
+            "lemme": "mortel"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "induit",
+            "lemme": "induire"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "70",
+            "lemme": "70"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "médicament",
-            "id": "NULL"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "tel",
-            "id": "1845888"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "médicament",
+            "lemme": "médicament"
         },
         {
-            "mot": "sulfamides",
-            "id": "71634"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "tel",
+            "lemme": "tel"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "anti",
-            "id": "15404674"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "inflammatoires",
-            "id": "17052054"
+            "nom": "sulfamides",
+            "lemme": "sulfamide"
         },
         {
-            "mot": "non",
-            "id": "2409585"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "stéroïdiens",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "entrainant",
-            "id": "2437015"
+            "nom": "anti-inflammatoires",
+            "lemme": "anti-inflammatoire"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "non",
+            "lemme": "non"
         },
         {
-            "mot": "réaction",
-            "id": "NULL"
+            "nom": "stéroïdiens",
+            "lemme": "stéroïdien"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "système",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "immunitaire",
-            "id": "3825"
+            "nom": "entrainant",
+            "lemme": "entrainer"
         },
         {
-            "mot": "mal",
-            "id": "235591213"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "comprise",
-            "id": "413431"
+            "nom": "réaction",
+            "lemme": "réaction"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "aboutissant",
-            "id": "121350"
+            "nom": "système",
+            "lemme": "système"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "mal",
+            "lemme": "mal"
         },
         {
-            "mot": "nécrose",
-            "id": "NULL"
+            "nom": "comprise",
+            "lemme": "comprendre"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "kératinocytes",
-            "id": "NULL"
+            "nom": "aboutissant",
+            "lemme": "aboutir"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "nécrose",
+            "lemme": "nécrose"
         },
         {
-            "mot": "brûlure",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "thermique",
-            "id": "5391722"
+            "nom": "kératinocytes",
+            "lemme": "kératinocyte"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "chimique",
-            "id": "10078288"
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "brûlure",
+            "lemme": "brûlure"
+        },
+        {
+            "nom": "thermique",
+            "lemme": "thermique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "chimique",
+            "lemme": "chimique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Des",
-            "id": "314234"
+            "nom": "Des",
+            "lemme": "un"
         },
         {
-            "mot": "atteintes",
-            "id": "16075754"
+            "nom": "atteintes",
+            "lemme": "atteinte"
         },
         {
-            "mot": "infectieuses",
-            "id": "410700"
+            "nom": "infectieuses",
+            "lemme": "infectieuse"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "été",
+            "lemme": "être"
         },
         {
-            "mot": "évoquées",
-            "id": "NULL"
+            "nom": "évoquées",
+            "lemme": "évoquer"
         },
         {
-            "mot": "surtout",
-            "id": "16089966"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "surtout",
+            "lemme": "surtout"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "enfant",
-            "id": "405825"
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "enfant",
+            "lemme": "enfant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "Il",
+            "lemme": "il"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "décrit",
-            "id": "NULL"
+            "nom": "décrit",
+            "lemme": "décrire"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "affection",
-            "id": "183332182"
+            "nom": "affection",
+            "lemme": "affection"
         },
         {
-            "mot": "dermatologique",
-            "id": "156516257"
+            "nom": "dermatologique",
+            "lemme": "dermatologique"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "grave",
-            "id": "138917"
+            "nom": "grave",
+            "lemme": "grave"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "puisse",
-            "id": "1741273"
+            "nom": "puisse",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "produire",
-            "id": "42963"
+            "nom": "produire",
+            "lemme": "produire"
         },
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "tire",
-            "id": "414964"
-        },
-        {
-            "mot": "son",
-            "id": "5619461"
-        },
-        {
-            "mot": "nom",
-            "id": "254652531"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "dermatologue",
-            "id": "143554543"
-        },
-        {
-            "mot": "écossais",
-            "id": "NULL"
-        },
-        {
-            "mot": "Alan",
-            "id": "5553069"
-        },
-        {
-            "mot": "Lyell",
-            "id": "17389626"
-        },
-        {
-            "mot": "novembre",
-            "id": "219028"
-        },
-        {
-            "mot": "novembre",
-            "id": "219028"
-        },
-        {
-            "mot": "Épidémiologie",
-            "id": "NULL"
-        },
-        {
-            "mot": "L'",
-            "id": "263030"
-        },
-        {
-            "mot": "incidence",
-            "id": "12302277"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Lyell",
-            "id": "17389626"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "évaluée",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "environ",
-            "id": "6014146"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "million",
-            "id": "1276831"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "habitants",
-            "id": "2578926"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "an",
-            "id": "15435296"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "Il",
+            "lemme": "il"
         },
         {
-            "mot": "Europe",
-            "id": "102820584"
+            "nom": "tire",
+            "lemme": "tire"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "son",
+            "lemme": "son"
         },
         {
-            "mot": "incidence",
-            "id": "12302277"
+            "nom": "nom",
+            "lemme": "nom"
         },
         {
-            "mot": "conjointe",
-            "id": "3179648"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "dermatologue",
+            "lemme": "dermatologue"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "écossais",
+            "lemme": "écossais"
         },
         {
-            "mot": "syndrome",
-            "id": "16089555"
+            "nom": "Alan",
+            "lemme": "Alan"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Lyell",
+            "lemme": "Lyell"
         },
         {
-            "mot": "Stevens",
-            "id": "17399778"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "Johnson",
-            "id": "13336138"
+            "nom": "4",
+            "lemme": "4"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "novembre",
+            "lemme": "novembre"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "1917",
+            "lemme": "1917"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "2",
+            "lemme": "2"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "novembre",
+            "lemme": "novembre"
         },
         {
-            "mot": "million",
-            "id": "1276831"
+            "nom": "2007",
+            "lemme": "2007"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "habitants",
-            "id": "2578926"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "an",
-            "id": "15435296"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "Épidémiologie",
+            "lemme": "épidémiologie"
         },
         {
-            "mot": "certains",
-            "id": "425463"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "pays",
-            "id": "226587"
+            "nom": "incidence",
+            "lemme": "incidence"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "Asie",
-            "id": "249393968"
+            "nom": "syndrome",
+            "lemme": "syndrome"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "incidence",
-            "id": "12302277"
+            "nom": "Lyell",
+            "lemme": "Lyell"
         },
         {
-            "mot": "pourrait",
-            "id": "421721"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "évaluée",
+            "lemme": "évaluer"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "forte",
-            "id": "2572348"
+            "nom": "environ",
+            "lemme": "environ"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "1",
+            "lemme": "1"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "raisons",
-            "id": "5537954"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "génétiques",
-            "id": "NULL"
+            "nom": "million",
+            "lemme": "million"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "habitants",
+            "lemme": "habitant"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "an",
+            "lemme": "an"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "facteurs",
-            "id": "14538887"
+            "nom": "Europe",
+            "lemme": "Europe"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "risques",
-            "id": "8622775"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "incidence",
+            "lemme": "incidence"
         },
         {
-            "mot": "multiples",
-            "id": "15519166"
+            "nom": "conjointe",
+            "lemme": "conjoint"
         },
         {
-            "mot": "parmi",
-            "id": "2931856"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "eux",
-            "id": "15504085"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "syndrome",
+            "lemme": "syndrome"
         },
         {
-            "mot": "trouve",
-            "id": "16513307"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "Stevens",
+            "lemme": "Stevens"
         },
         {
-            "mot": "âge",
-            "id": "NULL"
+            "nom": "Johnson",
+            "lemme": "Johnson"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "risque",
-            "id": "433840"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "augmente",
-            "id": "1773823"
+            "nom": "2",
+            "lemme": "2"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "delà",
-            "id": "NULL"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "million",
+            "lemme": "million"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "quarantaine",
-            "id": "14567328"
+            "nom": "habitants",
+            "lemme": "habitant"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "sexe",
-            "id": "414685"
+            "nom": "an",
+            "lemme": "an"
         },
         {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "touche",
-            "id": "16090019"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "femmes",
-            "id": "16769719"
-        },
-        {
-            "mot": "L'",
-            "id": "263030"
-        },
-        {
-            "mot": "infection",
-            "id": "17051343"
-        },
-        {
-            "mot": "virale",
-            "id": "162203958"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "virus",
-            "id": "320893"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "immunodéficience",
-            "id": "NULL"
-        },
-        {
-            "mot": "humaine",
-            "id": "5720851"
-        },
-        {
-            "mot": "VIH",
-            "id": "319344"
-        },
-        {
-            "mot": "surtout",
-            "id": "16089966"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "immunodéficience",
-            "id": "NULL"
-        },
-        {
-            "mot": "acquise",
-            "id": "17051973"
-        },
-        {
-            "mot": "SIDA",
-            "id": "212215"
-        },
-        {
-            "mot": "provoque",
-            "id": "2254276"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "incidence",
-            "id": "12302277"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Stevens",
-            "id": "17399778"
-        },
-        {
-            "mot": "Johnson",
-            "id": "13336138"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "fois",
-            "id": "427815"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "élevée",
-            "id": "NULL"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "population",
-            "id": "214730"
-        },
-        {
-            "mot": "générale",
-            "id": "NULL"
-        },
-        {
-            "mot": "Les",
-            "id": "15021325"
-        },
-        {
-            "mot": "patients",
-            "id": "248701277"
-        },
-        {
-            "mot": "ayant",
-            "id": "255259909"
-        },
-        {
-            "mot": "subi",
-            "id": "25543"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "greffe",
-            "id": "427265"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "moelle",
-            "id": "10551167"
-        },
-        {
-            "mot": "osseuse",
-            "id": "164025"
-        },
-        {
-            "mot": "allogénique",
-            "id": "NULL"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "cause",
-            "id": "15550576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "réaction",
-            "id": "NULL"
-        },
-        {
-            "mot": "contre",
-            "id": "426382"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "greffon",
-            "id": "108111"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "susceptibles",
-            "id": "254124152"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "souffrir",
-            "id": "62142"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "effets",
-            "id": "425012"
-        },
-        {
-            "mot": "secondaires",
-            "id": "14486756"
-        },
-        {
-            "mot": "liés",
-            "id": "NULL"
-        },
-        {
-            "mot": "aux",
-            "id": "15504815"
-        },
-        {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Physiopathologie",
-            "id": "111273409"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "certains",
+            "lemme": "certain"
         },
         {
-            "mot": "réaction",
-            "id": "NULL"
+            "nom": "pays",
+            "lemme": "pays"
         },
         {
-            "mot": "immunitaire",
-            "id": "3825"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "Asie",
+            "lemme": "Asie"
         },
         {
-            "mot": "encore",
-            "id": "145009"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "mal",
-            "id": "235591213"
+            "nom": "incidence",
+            "lemme": "incidence"
         },
         {
-            "mot": "connue",
-            "id": "250661786"
+            "nom": "pourrait",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "forte",
+            "lemme": "fort"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "raisons",
+            "lemme": "raison"
+        },
+        {
+            "nom": "génétiques",
+            "lemme": "génétique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Plusieurs",
-            "id": "412067"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "études",
-            "id": "NULL"
+            "nom": "facteurs",
+            "lemme": "facteur"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "observation",
-            "id": "462735"
+            "nom": "risques",
+            "lemme": "risque"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "types",
-            "id": "417517"
+            "nom": "multiples",
+            "lemme": "multiple"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "témoins",
-            "id": "NULL"
+            "nom": "parmi",
+            "lemme": "parmi"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "eux",
+            "lemme": "lui"
         },
         {
-            "mot": "démontré",
-            "id": "NULL"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "trouve",
+            "lemme": "trouver"
         },
         {
-            "mot": "cause",
-            "id": "15550576"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "principale",
-            "id": "2932073"
+            "nom": "âge",
+            "lemme": "âge"
         },
         {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "allergie",
-            "id": "96375654"
-        },
-        {
-            "mot": "médicamenteuse",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "absence",
-            "id": "584580"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "réaction",
-            "id": "NULL"
-        },
-        {
-            "mot": "due",
-            "id": "10911053"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "greffe",
-            "id": "427265"
-        },
-        {
-            "mot": "Dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "celle",
-            "id": "177480"
-        },
-        {
-            "mot": "ci",
-            "id": "1830223"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "attribuée",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "médicament",
-            "id": "NULL"
-        },
-        {
-            "mot": "bien",
-            "id": "15532334"
-        },
-        {
-            "mot": "précis",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "elle",
-            "id": "9986297"
-        },
-        {
-            "mot": "survient",
-            "id": "2112788"
-        },
-        {
-            "mot": "chez",
-            "id": "420868"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "patients",
-            "id": "248701277"
-        },
-        {
-            "mot": "polymédicamentés",
-            "id": "NULL"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "souvent",
-            "id": "3382915"
-        },
-        {
-            "mot": "âgés",
-            "id": "NULL"
-        },
-        {
-            "mot": "enfin",
-            "id": "10326431"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "elle",
-            "id": "9986297"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "idiopathique",
-            "id": "143686326"
-        },
-        {
-            "mot": "chez",
-            "id": "420868"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "patients",
-            "id": "248701277"
-        },
-        {
-            "mot": "niant",
-            "id": "2064298"
-        },
-        {
-            "mot": "toute",
-            "id": "413455"
-        },
-        {
-            "mot": "prise",
-            "id": "414468"
-        },
-        {
-            "mot": "médicamenteuse",
-            "id": "NULL"
-        },
-        {
-            "mot": "En",
-            "id": "93554597"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "absence",
-            "id": "584580"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "médications",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "origine",
-            "id": "273472"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "expliquée",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "infections",
-            "id": "3296077"
-        },
-        {
-            "mot": "notamment",
-            "id": "4240"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "pneumopathies",
-            "id": "17052632"
-        },
-        {
-            "mot": "atypiques",
-            "id": "252775"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "mycoplasma",
-            "id": "12101413"
-        },
-        {
-            "mot": "pneumoniae",
-            "id": "398321"
-        },
-        {
-            "mot": "L'",
-            "id": "263030"
-        },
-        {
-            "mot": "imputabilité",
-            "id": "NULL"
-        },
-        {
-            "mot": "médicamenteuse",
-            "id": "NULL"
-        },
-        {
-            "mot": "relève",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "plusieurs",
-            "id": "412067"
-        },
-        {
-            "mot": "éléments",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "notion",
-            "id": "16088537"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "médicament",
-            "id": "NULL"
-        },
-        {
-            "mot": "récemment",
-            "id": "NULL"
-        },
-        {
-            "mot": "introduit",
-            "id": "85964454"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "survenue",
-            "id": "61292"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "premiers",
-            "id": "402211"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "manière",
-            "id": "NULL"
-        },
-        {
-            "mot": "très",
-            "id": "NULL"
-        },
-        {
-            "mot": "caractéristiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "jours",
-            "id": "402416"
-        },
-        {
-            "mot": "après",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "prise",
-            "id": "414468"
-        },
-        {
-            "mot": "ainsi",
-            "id": "15404421"
-        },
-        {
-            "mot": "qu'",
-            "id": "14718918"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "délai",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "quelques",
-            "id": "16308420"
-        },
-        {
-            "mot": "heures",
-            "id": "143494"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "récidive",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "renseignement",
-            "id": "10370372"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "centres",
-            "id": "411375"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "pharmacovigilance",
-            "id": "100129584"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "risque",
+            "lemme": "risque"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "augmente",
+            "lemme": "augmenter"
         },
         {
-            "mot": "haut",
-            "id": "11356648"
+            "nom": "au-delà",
+            "lemme": "au-delà"
         },
         {
-            "mot": "risque",
-            "id": "433840"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "NET",
-            "id": "435690"
+            "nom": "quarantaine",
+            "lemme": "quarantaine"
         },
         {
-            "mot": "cf",
-            "id": "14424373"
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "sexe",
+            "lemme": "sexe"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "tableau",
-            "id": "425613"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "syndrome",
+            "lemme": "syndrome"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "touche",
+            "lemme": "touch"
         },
         {
-            "mot": "sulfamides",
-            "id": "71634"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "anti",
-            "id": "15404674"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "infectieux",
-            "id": "94713372"
+            "nom": "femmes",
+            "lemme": "femme"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "antibiotiques",
-            "id": "143330270"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "anti",
-            "id": "15404674"
-        },
-        {
-            "mot": "inflammatoires",
-            "id": "17052054"
-        },
-        {
-            "mot": "non",
-            "id": "2409585"
-        },
-        {
-            "mot": "stéroïdiens",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "antiépileptiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "antiviraux",
-            "id": "5829501"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "médicaments",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "crise",
-            "id": "141316"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "goutte",
-            "id": "426047"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "D'",
-            "id": "263032"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "autres",
-            "id": "402129"
+            "nom": "infection",
+            "lemme": "infection"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "virale",
+            "lemme": "viral"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "également",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "entraîner",
-            "id": "NULL"
+            "nom": "virus",
+            "lemme": "virus"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "rarement",
-            "id": "250662136"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "immunodéficience",
+            "lemme": "immunodéficience"
         },
         {
-            "mot": "nécrolyse",
-            "id": "NULL"
+            "nom": "humaine",
+            "lemme": "humain"
         },
         {
-            "mot": "épidermique",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "toxique",
-            "id": "14909236"
+            "nom": "VIH",
+            "lemme": "vih"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "surtout",
+            "lemme": "surtout"
         },
         {
-            "mot": "ivermectine",
-            "id": "156510462"
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "immunodéficience",
+            "lemme": "immunodéficience"
+        },
+        {
+            "nom": "acquise",
+            "lemme": "acquis"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "SIDA",
+            "lemme": "SIDA"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "provoque",
+            "lemme": "provoquer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "incidence",
+            "lemme": "incidence"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Stevens",
+            "lemme": "Stevens"
+        },
+        {
+            "nom": "Johnson",
+            "lemme": "Johnson"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "100",
+            "lemme": "100"
+        },
+        {
+            "nom": "fois",
+            "lemme": "fois"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "élevée",
+            "lemme": "élevé"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "population",
+            "lemme": "population"
+        },
+        {
+            "nom": "générale",
+            "lemme": "général"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Clinique",
-            "id": "430177"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "patients",
+            "lemme": "patient"
         },
         {
-            "mot": "présentation",
-            "id": "NULL"
+            "nom": "ayant",
+            "lemme": "avoir"
         },
         {
-            "mot": "clinique",
-            "id": "430177"
+            "nom": "subi",
+            "lemme": "subir"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "assez",
-            "id": "10175426"
+            "nom": "greffe",
+            "lemme": "greffe"
         },
         {
-            "mot": "stéréotypée",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "moelle",
+            "lemme": "moelle"
         },
         {
-            "mot": "donc",
-            "id": "10897693"
+            "nom": "osseuse",
+            "lemme": "osseux"
         },
         {
-            "mot": "facilement",
-            "id": "38277"
+            "nom": "allogénique",
+            "lemme": "allogénique"
         },
         {
-            "mot": "reconnaissable",
-            "id": "84982"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "cause",
+            "lemme": "cause"
         },
         {
-            "mot": "y",
-            "id": "144184"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "retrouve",
-            "id": "2117693"
+            "nom": "réaction",
+            "lemme": "réaction"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "contre",
+            "lemme": "contre"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "cutanéomuqueux",
-            "id": "NULL"
+            "nom": "greffon",
+            "lemme": "greffon"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "viscéraux",
-            "id": "NULL"
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "susceptibles",
+            "lemme": "susceptible"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "souffrir",
+            "lemme": "souffrir"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "effets",
+            "lemme": "effet"
+        },
+        {
+            "nom": "secondaires",
+            "lemme": "secondaire"
+        },
+        {
+            "nom": "liés",
+            "lemme": "lier"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Prodromes",
-            "id": "2252274"
+            "nom": "Physiopathologie",
+            "lemme": "physiopathologie"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "prodromes",
-            "id": "2252274"
+            "nom": "réaction",
+            "lemme": "réaction"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
         },
         {
-            "mot": "représentés",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "encore",
+            "lemme": "encore"
         },
         {
-            "mot": "plusieurs",
-            "id": "412067"
+            "nom": "mal",
+            "lemme": "mal"
         },
         {
-            "mot": "signes",
-            "id": "425465"
+            "nom": "connue",
+            "lemme": "connaître"
         },
         {
-            "mot": "cliniques",
-            "id": "193336237"
-        },
-        {
-            "mot": "rhinopharyngite",
-            "id": "1402"
-        },
-        {
-            "mot": "asthénie",
-            "id": "NULL"
-        },
-        {
-            "mot": "fièvre",
-            "id": "NULL"
-        },
-        {
-            "mot": "angine",
-            "id": "16767986"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ils",
-            "id": "427503"
+            "nom": "Plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "précèdent",
-            "id": "NULL"
+            "nom": "études",
+            "lemme": "étude"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "observation",
+            "lemme": "observation"
         },
         {
-            "mot": "semaine",
-            "id": "415292"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "types",
+            "lemme": "type"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "Symptômes",
-            "id": "NULL"
+            "nom": "témoins",
+            "lemme": "témoin"
         },
         {
-            "mot": "Symptômes",
-            "id": "NULL"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "cutanéomuqueux",
-            "id": "NULL"
+            "nom": "démontré",
+            "lemme": "démontrer"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "premiers",
-            "id": "402211"
+            "nom": "cause",
+            "lemme": "cause"
         },
         {
-            "mot": "signes",
-            "id": "425465"
+            "nom": "principale",
+            "lemme": "principal"
         },
         {
-            "mot": "cliniques",
-            "id": "193336237"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "cutanés",
-            "id": "NULL"
+            "nom": "allergie",
+            "lemme": "allergie"
         },
         {
-            "mot": "surgissent",
-            "id": "2111620"
+            "nom": "médicamenteuse",
+            "lemme": "médicamenteux"
         },
         {
-            "mot": "entre",
-            "id": "15585076"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "jours",
-            "id": "402416"
+            "nom": "absence",
+            "lemme": "absence"
         },
         {
-            "mot": "après",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "réaction",
+            "lemme": "réaction"
         },
         {
-            "mot": "première",
-            "id": "NULL"
+            "nom": "due",
+            "lemme": "devoir"
         },
         {
-            "mot": "prise",
-            "id": "414468"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "médicamenteuse",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "greffe",
+            "lemme": "greffe"
         },
         {
-            "mot": "clinique",
-            "id": "430177"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "cutanée",
-            "id": "NULL"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "éruption",
-            "id": "NULL"
-        },
-        {
-            "mot": "érythémateuse",
-            "id": "NULL"
-        },
-        {
-            "mot": "douloureuse",
-            "id": "31790"
-        },
-        {
-            "mot": "fébrile",
-            "id": "NULL"
-        },
-        {
-            "mot": "constituée",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "macules",
-            "id": "1781108"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "centre",
-            "id": "11179232"
-        },
-        {
-            "mot": "foncé",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L",
-            "id": "138915"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "éruption",
-            "id": "NULL"
+            "nom": "60",
+            "lemme": "60"
         },
         {
-            "mot": "débute",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "70",
+            "lemme": "70"
         },
         {
-            "mot": "visage",
-            "id": "145953"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "celle-ci",
+            "lemme": "celui-ci"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "partie",
-            "id": "15691780"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "supérieure",
-            "id": "NULL"
+            "nom": "attribuée",
+            "lemme": "attribuer"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "tronc",
-            "id": "10054167"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "médicament",
+            "lemme": "médicament"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "bien",
+            "lemme": "bien"
         },
         {
-            "mot": "partie",
-            "id": "15691780"
+            "nom": "précis",
+            "lemme": "précis"
         },
         {
-            "mot": "proximale",
-            "id": "419805"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "membres",
-            "id": "426006"
+            "nom": "20",
+            "lemme": "20"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "vésicules",
-            "id": "NULL"
+            "nom": "30",
+            "lemme": "30"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "recouvrent",
-            "id": "2097831"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "elle",
+            "lemme": "lui"
         },
         {
-            "mot": "manière",
-            "id": "NULL"
+            "nom": "survient",
+            "lemme": "survenir"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "moins",
-            "id": "15660263"
+            "nom": "patients",
+            "lemme": "patient"
         },
         {
-            "mot": "confluentes",
-            "id": "2154829"
+            "nom": "polymédicamentés",
+            "lemme": "polymédicamenté"
         },
         {
-            "mot": "Un",
-            "id": "256126039"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "érythème",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "palmo",
-            "id": "10444035"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "plantaire",
-            "id": "16512446"
+            "nom": "souvent",
+            "lemme": "souvent"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "âgés",
+            "lemme": "âgé"
         },
         {
-            "mot": "extension",
-            "id": "423450"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "téguments",
-            "id": "NULL"
+            "nom": "enfin",
+            "lemme": "enfin"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "classique",
-            "id": "193336239"
+            "nom": "5",
+            "lemme": "5"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "idiopathique",
+            "lemme": "idiopathique"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "niant",
+            "lemme": "nier"
+        },
+        {
+            "nom": "toute",
+            "lemme": "tout"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "médicamenteuse",
+            "lemme": "médicamenteux"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "cuir",
-            "id": "430267"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "chevelu",
-            "id": "422682"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "absence",
+            "lemme": "absence"
         },
         {
-            "mot": "toujours",
-            "id": "3170371"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "respecté",
-            "id": "NULL"
+            "nom": "médications",
+            "lemme": "médication"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "expliquée",
+            "lemme": "expliquer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "infections",
+            "lemme": "infection"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "notamment",
+            "lemme": "notamment"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pneumopathies",
+            "lemme": "pneumopathie"
+        },
+        {
+            "nom": "atypiques",
+            "lemme": "atypique"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "mycoplasma",
+            "lemme": "mycoplasma"
+        },
+        {
+            "nom": "pneumoniae",
+            "lemme": "pneumoniae"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Après",
-            "id": "NULL"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "imputabilité",
+            "lemme": "imputabilité"
         },
         {
-            "mot": "période",
-            "id": "NULL"
+            "nom": "médicamenteuse",
+            "lemme": "médicamenteux"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "relève",
+            "lemme": "relève"
         },
         {
-            "mot": "extension",
-            "id": "423450"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "variable",
-            "id": "426543"
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "éléments",
+            "lemme": "élément"
         },
         {
-            "mot": "signe",
-            "id": "426956"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Nikolsky",
-            "id": "5723181"
-        },
-        {
-            "mot": "devient",
-            "id": "136339443"
-        },
-        {
-            "mot": "positif",
-            "id": "11994380"
-        },
-        {
-            "mot": "tout",
-            "id": "429875"
-        },
-        {
-            "mot": "traumatisme",
-            "id": "94620780"
-        },
-        {
-            "mot": "arrache",
-            "id": "402388"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "lambeaux",
-            "id": "14148393"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "épiderme",
-            "id": "NULL"
-        },
-        {
-            "mot": "La",
-            "id": "14424533"
-        },
-        {
-            "mot": "clinique",
-            "id": "430177"
-        },
-        {
-            "mot": "muqueuses",
-            "id": "573031"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "variée",
-            "id": "NULL"
-        },
-        {
-            "mot": "c'",
-            "id": "2140163"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "symptôme",
-            "id": "NULL"
-        },
-        {
-            "mot": "habituel",
-            "id": "11348549"
-        },
-        {
-            "mot": "retrouvé",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "elle",
-            "id": "9986297"
-        },
-        {
-            "mot": "précède",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "cutanés",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "tiers",
-            "id": "413851"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "L'",
-            "id": "263030"
-        },
-        {
-            "mot": "attente",
-            "id": "11199522"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "ordre",
-            "id": "11302114"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "fréquence",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "muqueuse",
-            "id": "98488149"
-        },
-        {
-            "mot": "pharyngée",
-            "id": "NULL"
-        },
-        {
-            "mot": "oculaire",
-            "id": "95038208"
-        },
-        {
-            "mot": "génitale",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "anale",
-            "id": "147326"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Des",
-            "id": "314234"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "séquelles",
-            "id": "NULL"
+            "nom": "notion",
+            "lemme": "notion"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "niveau",
-            "id": "4894369"
+            "nom": "médicament",
+            "lemme": "médicament"
         },
         {
-            "mot": "oculaire",
-            "id": "95038208"
+            "nom": "récemment",
+            "lemme": "récemment"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "introduit",
+            "lemme": "introduire"
         },
         {
-            "mot": "demeurer",
-            "id": "78152"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "survenue",
+            "lemme": "survenue"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "premiers",
+            "lemme": "premier"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "manière",
+            "lemme": "manière"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "très",
+            "lemme": "très"
         },
         {
-            "mot": "sources",
-            "id": "77176080"
+            "nom": "caractéristiques",
+            "lemme": "caractéristique"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "7",
+            "lemme": "7"
         },
         {
-            "mot": "altération",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "21",
+            "lemme": "21"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "jours",
+            "lemme": "jour"
         },
         {
-            "mot": "acuité",
-            "id": "NULL"
+            "nom": "après",
+            "lemme": "après"
         },
         {
-            "mot": "visuelle",
-            "id": "6529533"
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "délai",
+            "lemme": "délai"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "quelques",
+            "lemme": "quelque"
+        },
+        {
+            "nom": "heures",
+            "lemme": "heure"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "récidive",
+            "lemme": "récidive"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "renseignement",
+            "lemme": "renseignement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "centres",
+            "lemme": "centre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pharmacovigilance",
+            "lemme": "pharmacovigilance"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Symptômes",
-            "id": "NULL"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "viscéraux",
-            "id": "NULL"
+            "nom": "médicaments",
+            "lemme": "médicament"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "signes",
-            "id": "425465"
+            "nom": "haut",
+            "lemme": "haut"
         },
         {
-            "mot": "cutanés",
-            "id": "NULL"
+            "nom": "risque",
+            "lemme": "risque"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "s'",
-            "id": "2282608"
+            "nom": "NET",
+            "lemme": "NET"
         },
         {
-            "mot": "accompagner",
-            "id": "130333452"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "cf.",
+            "lemme": "cf."
         },
         {
-            "mot": "signes",
-            "id": "425465"
+            "nom": "tableau",
+            "lemme": "tableau"
         },
         {
-            "mot": "viscéraux",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "sulfamides",
+            "lemme": "sulfamide"
+        },
+        {
+            "nom": "anti-infectieux",
+            "lemme": "anti-infectieux"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "antibiotiques",
+            "lemme": "antibiotique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "anti-inflammatoires",
+            "lemme": "anti-inflammatoire"
+        },
+        {
+            "nom": "non",
+            "lemme": "non"
+        },
+        {
+            "nom": "stéroïdiens",
+            "lemme": "stéroïdien"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "antiépileptiques",
+            "lemme": "antiépileptique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "antiviraux",
+            "lemme": "antiviral"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "crise",
+            "lemme": "crise"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "goutte",
+            "lemme": "goutte"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ces",
-            "id": "2446001"
+            "nom": "D'",
+            "lemme": "de"
         },
         {
-            "mot": "manifestations",
-            "id": "11933273"
+            "nom": "autres",
+            "lemme": "autre"
         },
         {
-            "mot": "découlent",
-            "id": "NULL"
+            "nom": "médicaments",
+            "lemme": "médicament"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "également",
+            "lemme": "également"
         },
         {
-            "mot": "perte",
-            "id": "121534633"
+            "nom": "entraîner",
+            "lemme": "entraîner"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "fonctions",
-            "id": "404927"
+            "nom": "rarement",
+            "lemme": "rarement"
         },
         {
-            "mot": "principales",
-            "id": "17638177"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "nécrolyse",
+            "lemme": "nécrolyse"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "épidermique",
+            "lemme": "épidermique"
         },
         {
-            "mot": "peau",
-            "id": "145091"
+            "nom": "toxique",
+            "lemme": "toxique"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "ivermectine",
+            "lemme": "ivermectine"
         },
         {
-            "mot": "nécrose",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "organes",
-            "id": "411819"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "Clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "défaillances",
-            "id": "NULL"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "présentation",
+            "lemme": "présentation"
         },
         {
-            "mot": "multiples",
-            "id": "15519166"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "augmentation",
-            "id": "6015574"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "assez",
+            "lemme": "assez"
         },
         {
-            "mot": "pertes",
-            "id": "273314"
+            "nom": "stéréotypée",
+            "lemme": "stéréotypée"
         },
         {
-            "mot": "liquidiennes",
-            "id": "1979874"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "donc",
+            "lemme": "donc"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "facilement",
+            "lemme": "facilement"
         },
         {
-            "mot": "litres",
-            "id": "10456692"
+            "nom": "reconnaissable",
+            "lemme": "reconnaissable"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "jour",
-            "id": "215111"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "induisant",
-            "id": "2052443"
+            "nom": "y",
+            "lemme": "y"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "retrouve",
+            "lemme": "retrouver"
         },
         {
-            "mot": "hypovolémie",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "pouvant",
-            "id": "1971842"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "conduire",
-            "id": "15830946"
+            "nom": "cutanéomuqueux",
+            "lemme": "cutanéomuqueux"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "viscéraux",
+            "lemme": "viscérau"
         },
         {
-            "mot": "insuffisance",
-            "id": "16084384"
-        },
-        {
-            "mot": "rénale",
-            "id": "NULL"
-        },
-        {
-            "mot": "aiguë",
-            "id": "NULL"
-        },
-        {
-            "mot": "fonctionnelle",
-            "id": "49805"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "défaillance",
-            "id": "NULL"
-        },
-        {
-            "mot": "cardiaque",
-            "id": "156518704"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "colonisation",
-            "id": "417117"
-        },
-        {
-            "mot": "bactérienne",
-            "id": "NULL"
-        },
-        {
-            "mot": "provoquant",
-            "id": "26527"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "graves",
-            "id": "148372"
-        },
-        {
-            "mot": "infections",
-            "id": "3296077"
-        },
-        {
-            "mot": "systémiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "thermorégulation",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "dénutrition",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "augmentation",
-            "id": "6015574"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "réponse",
-            "id": "NULL"
-        },
-        {
-            "mot": "énergétique",
-            "id": "NULL"
-        },
-        {
-            "mot": "ainsi",
-            "id": "15404421"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "anomalies",
-            "id": "15562522"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "réponse",
-            "id": "NULL"
-        },
-        {
-            "mot": "immune",
-            "id": "122570955"
-        },
-        {
-            "mot": "Les",
-            "id": "15021325"
-        },
-        {
-            "mot": "atteintes",
-            "id": "16075754"
-        },
-        {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "s'",
-            "id": "2282608"
-        },
-        {
-            "mot": "étendre",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "plusieurs",
-            "id": "412067"
-        },
-        {
-            "mot": "organes",
-            "id": "411819"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "touchent",
-            "id": "423540"
-        },
-        {
-            "mot": "majoritairement",
-            "id": "8885852"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "voies",
-            "id": "14777041"
-        },
-        {
-            "mot": "respiratoires",
-            "id": "398669"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "l",
-            "id": "138915"
-        },
-        {
-            "mot": "appareil",
-            "id": "413330"
-        },
-        {
-            "mot": "digestif",
-            "id": "156594724"
-        },
-        {
-            "mot": "Le",
-            "id": "14488905"
-        },
-        {
-            "mot": "poumon",
-            "id": "15472548"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "poumon",
-            "id": "15472548"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "œdème",
-            "id": "NULL"
-        },
-        {
-            "mot": "pulmonaire",
-            "id": "4312322"
-        },
-        {
-            "mot": "lésionnel",
-            "id": "NULL"
-        },
-        {
-            "mot": "entrainant",
-            "id": "2437015"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "détresse",
-            "id": "NULL"
-        },
-        {
-            "mot": "respiratoire",
-            "id": "17342098"
-        },
-        {
-            "mot": "aiguë",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "présence",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "polypnée",
-            "id": "NULL"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "hypoxémie",
-            "id": "NULL"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "témoigner",
-            "id": "NULL"
-        },
-        {
-            "mot": "d",
-            "id": "142231"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "nécrose",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l",
-            "id": "138915"
-        },
-        {
-            "mot": "épithélium",
-            "id": "NULL"
-        },
-        {
-            "mot": "bronchique",
-            "id": "131851"
-        },
-        {
-            "mot": "entraînant",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "pronostic",
-            "id": "11384609"
-        },
-        {
-            "mot": "très",
-            "id": "NULL"
-        },
-        {
-            "mot": "défavorable",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "œsophage",
-            "id": "NULL"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "œsophagite",
-            "id": "NULL"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "tube",
-            "id": "5997332"
-        },
-        {
-            "mot": "digestif",
-            "id": "156594724"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "diarrhée",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "douleurs",
-            "id": "5832806"
-        },
-        {
-            "mot": "abdominales",
-            "id": "396944"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "colite",
-            "id": "156515504"
-        },
-        {
-            "mot": "voir",
-            "id": "14772243"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "perforation",
-            "id": "17467397"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "foie",
-            "id": "428313"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "hépatite",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "environ",
-            "id": "6014146"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "cette",
-            "id": "419981"
-        },
-        {
-            "mot": "atteinte",
-            "id": "16075753"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "résulter",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "médicament",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "sepsis",
-            "id": "13655622"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "choc",
-            "id": "411492"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Pronostic",
-            "id": "11384609"
+            "nom": "Prodromes",
+            "lemme": "prodrome"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "régénération",
-            "id": "NULL"
+            "nom": "prodromes",
+            "lemme": "prodrome"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "représentés",
+            "lemme": "représenter"
         },
         {
-            "mot": "épiderme",
-            "id": "NULL"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "normal",
-            "id": "6260714"
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "signes",
+            "lemme": "signe"
         },
         {
-            "mot": "rapide",
-            "id": "416051"
+            "nom": "cliniques",
+            "lemme": "clinique"
         },
         {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "jours",
-            "id": "402416"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Mais",
-            "id": "397741"
+            "nom": "rhinopharyngite",
+            "lemme": "rhinopharyngite"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "attendant",
-            "id": "53254"
+            "nom": "asthénie",
+            "lemme": "asthénie"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "étendue",
-            "id": "NULL"
+            "nom": "fièvre",
+            "lemme": "fièvre"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "décollements",
-            "id": "NULL"
+            "nom": "angine",
+            "lemme": "angine"
         },
         {
-            "mot": "met",
-            "id": "129649248"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "jeu",
-            "id": "406109"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "pronostic",
-            "id": "11384609"
-        },
-        {
-            "mot": "vital",
-            "id": "141458"
-        },
-        {
-            "mot": "surtout",
-            "id": "16089966"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "d",
-            "id": "142231"
-        },
-        {
-            "mot": "atteinte",
-            "id": "16075753"
-        },
-        {
-            "mot": "muqueuse",
-            "id": "98488149"
-        },
-        {
-            "mot": "diffuse",
-            "id": "17050794"
-        },
-        {
-            "mot": "touchant",
-            "id": "78251"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "trachée",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "bronches",
-            "id": "80321"
-        },
-        {
-            "mot": "ce",
-            "id": "138967"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "survient",
-            "id": "2112788"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "environ",
-            "id": "6014146"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "manifeste",
-            "id": "145052"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "polypnée",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Ils",
+            "lemme": "il"
         },
         {
-            "mot": "taux",
-            "id": "2572830"
+            "nom": "précèdent",
+            "lemme": "précéder"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "mortalité",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "semaine",
+            "lemme": "semaine"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "Diagnostic",
-            "id": "426024"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "différentiel",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Bien",
-            "id": "15532334"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "diagnostic",
-            "id": "426024"
-        },
-        {
-            "mot": "soit",
-            "id": "3172820"
-        },
-        {
-            "mot": "clinique",
-            "id": "430177"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "biopsie",
-            "id": "16089016"
-        },
-        {
-            "mot": "cutanée",
-            "id": "NULL"
-        },
-        {
-            "mot": "devra",
-            "id": "2065192"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "effectuée",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "but",
-            "id": "10076653"
-        },
-        {
-            "mot": "médico",
-            "id": "NULL"
-        },
-        {
-            "mot": "légal",
-            "id": "NULL"
-        },
-        {
-            "mot": "afin",
-            "id": "16110651"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "différencier",
-            "id": "NULL"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "certitude",
-            "id": "185797946"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Lyell",
-            "id": "17389626"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "bulloses",
-            "id": "NULL"
-        },
-        {
-            "mot": "auto",
-            "id": "15652031"
-        },
-        {
-            "mot": "immunes",
-            "id": "414001"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "épidermolyse",
-            "id": "NULL"
-        },
-        {
-            "mot": "staphylococcique",
-            "id": "123412"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "pustulose",
-            "id": "398258"
-        },
-        {
-            "mot": "exanthématique",
-            "id": "NULL"
-        },
-        {
-            "mot": "aiguë",
-            "id": "NULL"
-        },
-        {
-            "mot": "généralisée",
-            "id": "NULL"
-        },
-        {
-            "mot": "Traitements",
-            "id": "156583671"
-        },
-        {
-            "mot": "La",
-            "id": "14424533"
-        },
-        {
-            "mot": "prise",
-            "id": "414468"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "charge",
-            "id": "416622"
-        },
-        {
-            "mot": "consiste",
-            "id": "2156146"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "abord",
-            "id": "12738326"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "transfert",
-            "id": "2924541"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "unités",
-            "id": "NULL"
-        },
-        {
-            "mot": "spécialisées",
-            "id": "NULL"
-        },
-        {
-            "mot": "permettant",
-            "id": "2242077"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "assurer",
-            "id": "16387720"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "conditions",
-            "id": "13990213"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "asepsie",
-            "id": "87301"
-        },
-        {
-            "mot": "nécessaire",
-            "id": "NULL"
-        },
-        {
-            "mot": "gants",
-            "id": "5675530"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "draps",
-            "id": "427457"
-        },
-        {
-            "mot": "stériles",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "Symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "Symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "température",
-            "id": "NULL"
+            "nom": "cutanéomuqueux",
+            "lemme": "cutanéomuqueux"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "C",
-            "id": "142716"
+            "nom": "premiers",
+            "lemme": "premier"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "signes",
+            "lemme": "signe"
         },
         {
-            "mot": "permettre",
-            "id": "19292"
+            "nom": "cliniques",
+            "lemme": "clinique"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "cutanés",
+            "lemme": "cutané"
         },
         {
-            "mot": "facilitation",
-            "id": "161950453"
+            "nom": "surgissent",
+            "lemme": "surgir"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "entre",
+            "lemme": "entrer"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "4",
+            "lemme": "4"
         },
         {
-            "mot": "thermorégulation",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "28",
+            "lemme": "28"
+        },
+        {
+            "nom": "jours",
+            "lemme": "jour"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "première",
+            "lemme": "premier"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "médicamenteuse",
+            "lemme": "médicamenteux"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Elle",
-            "id": "9986297"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "constitue",
-            "id": "2156711"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "ensuite",
-            "id": "15518959"
+            "nom": "cutanée",
+            "lemme": "cutané"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "remplissage",
-            "id": "162202519"
+            "nom": "éruption",
+            "lemme": "éruption"
         },
         {
-            "mot": "vasculaire",
-            "id": "17052869"
+            "nom": "érythémateuse",
+            "lemme": "érythémateux"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "douloureuse",
+            "lemme": "douloureux"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "fébrile",
+            "lemme": "fébrile"
         },
         {
-            "mot": "solution",
-            "id": "428092"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "constituée",
+            "lemme": "constituer"
         },
         {
-            "mot": "électrolytes",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "macules",
+            "lemme": "macule"
         },
         {
-            "mot": "combler",
-            "id": "51697"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "centre",
+            "lemme": "centre"
         },
         {
-            "mot": "pertes",
-            "id": "273314"
+            "nom": "foncé",
+            "lemme": "foncé"
         },
         {
-            "mot": "hydriques",
-            "id": "1731186"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "surveillance",
-            "id": "5951932"
+            "nom": "éruption",
+            "lemme": "éruption"
         },
         {
-            "mot": "pulmonaire",
-            "id": "4312322"
+            "nom": "débute",
+            "lemme": "début"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "assurée",
-            "id": "NULL"
+            "nom": "visage",
+            "lemme": "visage"
         },
         {
-            "mot": "durant",
-            "id": "143649"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "toute",
-            "id": "413455"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "prise",
-            "id": "414468"
+            "nom": "partie",
+            "lemme": "partie"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "supérieure",
+            "lemme": "supérieur"
         },
         {
-            "mot": "charge",
-            "id": "416622"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "tronc",
+            "lemme": "tronc"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "arrivée",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "partie",
+            "lemme": "partie"
         },
         {
-            "mot": "urgences",
-            "id": "165762"
+            "nom": "proximale",
+            "lemme": "proximal"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "pendant",
-            "id": "10130227"
+            "nom": "membres",
+            "lemme": "membre"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "transport",
-            "id": "152338"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "médicalisé",
-            "id": "NULL"
+            "nom": "vésicules",
+            "lemme": "vésicule"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "recouvrent",
+            "lemme": "recouvrir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "manière",
+            "lemme": "manière"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "moins",
+            "lemme": "moins"
+        },
+        {
+            "nom": "confluentes",
+            "lemme": "confluente"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Des",
-            "id": "314234"
+            "nom": "Un",
+            "lemme": "un"
         },
         {
-            "mot": "examens",
-            "id": "15519135"
+            "nom": "érythème",
+            "lemme": "érythèm"
         },
         {
-            "mot": "complémentaires",
-            "id": "NULL"
+            "nom": "palmo",
+            "lemme": "palmo"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "plantaire",
+            "lemme": "plantaire"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "gazométrie",
-            "id": "NULL"
+            "nom": "extension",
+            "lemme": "extension"
         },
         {
-            "mot": "artérielle",
-            "id": "NULL"
+            "nom": "aux",
+            "lemme": "à"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "téguments",
+            "lemme": "tégument"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "réalisés",
-            "id": "NULL"
+            "nom": "classique",
+            "lemme": "classique"
         },
         {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "rechercher",
-            "id": "12019345"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "hypoxémie",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "hypocapnie",
-            "id": "52500"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "évoquerait",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "atteinte",
-            "id": "16075753"
-        },
-        {
-            "mot": "broncho",
-            "id": "5563103"
-        },
-        {
-            "mot": "pulmonaire",
-            "id": "4312322"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "n",
-            "id": "138276"
+            "nom": "cuir",
+            "lemme": "cuir"
         },
         {
-            "mot": "existe",
-            "id": "45446"
+            "nom": "chevelu",
+            "lemme": "chevelu"
         },
         {
-            "mot": "actuellement",
-            "id": "413382"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "toujours",
+            "lemme": "toujours"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "respecté",
+            "lemme": "respecter"
         },
         {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "fond",
-            "id": "417793"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "validité",
-            "id": "NULL"
-        },
-        {
-            "mot": "démontrée",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Après",
+            "lemme": "après"
         },
         {
-            "mot": "médicament",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "présumé",
-            "id": "NULL"
+            "nom": "période",
+            "lemme": "période"
         },
         {
-            "mot": "responsable",
-            "id": "16089284"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "extension",
+            "lemme": "extension"
         },
         {
-            "mot": "ses",
-            "id": "11254312"
+            "nom": "variable",
+            "lemme": "variable"
         },
         {
-            "mot": "analogues",
-            "id": "16167849"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "doivent",
-            "id": "2077013"
+            "nom": "signe",
+            "lemme": "signe"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "définitivement",
-            "id": "NULL"
+            "nom": "Nikolsky",
+            "lemme": "nikolsky"
         },
         {
-            "mot": "contre",
-            "id": "426382"
+            "nom": "devient",
+            "lemme": "devenir"
         },
         {
-            "mot": "indiqués",
-            "id": "NULL"
+            "nom": "positif",
+            "lemme": "positif"
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "tout",
+            "lemme": "tout"
         },
         {
-            "mot": "patient",
-            "id": "15406494"
+            "nom": "traumatisme",
+            "lemme": "traumatisme"
         },
         {
-            "mot": "atteint",
-            "id": "36492"
+            "nom": "arrache",
+            "lemme": "arrach"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lambeaux",
+            "lemme": "lambeau"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "épiderme",
+            "lemme": "épiderme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "doit",
-            "id": "461257"
+            "nom": "muqueuses",
+            "lemme": "muqueuse"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "notifié",
-            "id": "NULL"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "variée",
+            "lemme": "varier"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "pharmacovigilance",
-            "id": "100129584"
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "symptôme",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "habituel",
+            "lemme": "habituel"
+        },
+        {
+            "nom": "retrouvé",
+            "lemme": "retrouver"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "85",
+            "lemme": "85"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "90",
+            "lemme": "90"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "précède",
+            "lemme": "précéder"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "cutanés",
+            "lemme": "cutaner"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "tiers",
+            "lemme": "tiers"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "n",
-            "id": "138276"
+            "nom": "attente",
+            "lemme": "attente"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "jamais",
-            "id": "403216"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "ordre",
+            "lemme": "ordre"
         },
         {
-            "mot": "observé",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "fréquence",
+            "lemme": "fréquence"
         },
         {
-            "mot": "récidive",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "dehors",
-            "id": "13637940"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "réintroduction",
-            "id": "NULL"
-        },
-        {
-            "mot": "d",
-            "id": "142231"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "médicament",
-            "id": "NULL"
-        },
-        {
-            "mot": "impliqué",
-            "id": "NULL"
-        },
-        {
-            "mot": "lors",
-            "id": "15562521"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "premier",
-            "id": "17340841"
-        },
-        {
-            "mot": "épisode",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "muqueuse",
+            "lemme": "muqueuse"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "pharyngée",
+            "lemme": "pharyngé"
         },
         {
-            "mot": "Liens",
-            "id": "409339"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "externes",
-            "id": "16087769"
+            "nom": "oculaire",
+            "lemme": "oculaire"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "génitale",
+            "lemme": "génital"
         },
         {
-            "mot": "Bibliographie",
-            "id": "249394043"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "PDF",
-            "id": "143306512"
+            "nom": "anale",
+            "lemme": "anal"
         },
         {
-            "mot": "Épidémiologie",
-            "id": "NULL"
-        },
-        {
-            "mot": "étiologie",
-            "id": "NULL"
-        },
-        {
-            "mot": "tableau",
-            "id": "425613"
-        },
-        {
-            "mot": "clinique",
-            "id": "430177"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "évolution",
-            "id": "NULL"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "Tracey",
-            "id": "2961928"
-        },
-        {
-            "mot": "Brown",
-            "id": "429618"
-        },
-        {
-            "mot": "Maher",
-            "id": "2957440"
-        },
-        {
-            "mot": "MD",
-            "id": "2412205"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "Khue",
-            "id": "NULL"
-        },
-        {
-            "mot": "Nguyen",
-            "id": "1853239"
-        },
-        {
-            "mot": "MD",
-            "id": "2412205"
-        },
-        {
-            "mot": "Revue",
-            "id": "409672"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Stevens",
-            "id": "17399778"
-        },
-        {
-            "mot": "Johnson",
-            "id": "13336138"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Lyell",
-            "id": "17389626"
-        },
-        {
-            "mot": "Conférences",
-            "id": "NULL"
-        },
-        {
-            "mot": "scientifiques",
-            "id": "3184473"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "dermatologie",
-            "id": "99909163"
-        },
-        {
-            "mot": "MG",
-            "id": "169918"
-        },
-        {
-            "mot": "Gill",
-            "id": "1964463"
-        },
-        {
-            "mot": "University",
-            "id": "5995168"
-        },
-        {
-            "mot": "health",
-            "id": "5995988"
-        },
-        {
-            "mot": "Centre",
-            "id": "11179232"
-        },
-        {
-            "mot": "Volume",
-            "id": "16090378"
-        },
-        {
-            "mot": "numéro",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "Cohen",
-            "id": "142001"
-        },
-        {
-            "mot": "Victor",
-            "id": "163345"
-        },
-        {
-            "mot": "and",
-            "id": "5538562"
-        },
-        {
-            "mot": "Schwartz",
-            "id": "12206329"
-        },
-        {
-            "mot": "Robert",
-            "id": "142358"
-        },
-        {
-            "mot": "A",
-            "id": "143768"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Toxic",
-            "id": "16947159"
+            "nom": "Des",
+            "lemme": "un"
         },
         {
-            "mot": "Epidermal",
-            "id": "1857302"
+            "nom": "séquelles",
+            "lemme": "séquelle"
         },
         {
-            "mot": "Necrolysis",
-            "id": "NULL"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "eMedicine",
-            "id": "102964271"
+            "nom": "niveau",
+            "lemme": "niveau"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "oculaire",
+            "lemme": "oculaire"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "demeurer",
+            "lemme": "demeurer"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "90",
+            "lemme": "90"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "sources",
+            "lemme": "sourcer"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "altération",
+            "lemme": "altération"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "acuité",
+            "lemme": "acuité"
+        },
+        {
+            "nom": "visuelle",
+            "lemme": "visuel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "viscéraux",
+            "lemme": "viscéral"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "signes",
+            "lemme": "signe"
+        },
+        {
+            "nom": "cutanés",
+            "lemme": "cutané"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "accompagner",
+            "lemme": "accompagner"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "signes",
+            "lemme": "signe"
+        },
+        {
+            "nom": "viscéraux",
+            "lemme": "viscéral"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ces",
+            "lemme": "ce"
+        },
+        {
+            "nom": "manifestations",
+            "lemme": "manifestation"
+        },
+        {
+            "nom": "découlent",
+            "lemme": "découler"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "perte",
+            "lemme": "perte"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "fonctions",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "principales",
+            "lemme": "principal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "peau",
+            "lemme": "peau"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "nécrose",
+            "lemme": "nécrose"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "organes",
+            "lemme": "organe"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "défaillances",
+            "lemme": "défaillance"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "multiples",
+            "lemme": "multiple"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "pertes",
+            "lemme": "perte"
+        },
+        {
+            "nom": "liquidiennes",
+            "lemme": "liquidien"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "2",
+            "lemme": "2"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "3",
+            "lemme": "3"
+        },
+        {
+            "nom": "litres",
+            "lemme": "litre"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "jour",
+            "lemme": "jour"
+        },
+        {
+            "nom": "induisant",
+            "lemme": "induire"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hypovolémie",
+            "lemme": "hypovolémie"
+        },
+        {
+            "nom": "pouvant",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "conduire",
+            "lemme": "conduire"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "insuffisance",
+            "lemme": "insuffisance"
+        },
+        {
+            "nom": "rénale",
+            "lemme": "rénal"
+        },
+        {
+            "nom": "aiguë",
+            "lemme": "aigu"
+        },
+        {
+            "nom": "fonctionnelle",
+            "lemme": "fonctionnel"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "défaillance",
+            "lemme": "défaillance"
+        },
+        {
+            "nom": "cardiaque",
+            "lemme": "cardiaque"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "colonisation",
+            "lemme": "colonisation"
+        },
+        {
+            "nom": "bactérienne",
+            "lemme": "bactérien"
+        },
+        {
+            "nom": "provoquant",
+            "lemme": "provoquer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "graves",
+            "lemme": "grave"
+        },
+        {
+            "nom": "infections",
+            "lemme": "infection"
+        },
+        {
+            "nom": "systémiques",
+            "lemme": "systémique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "thermorégulation",
+            "lemme": "thermorégulation"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dénutrition",
+            "lemme": "dénutrition"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "énergétique",
+            "lemme": "énergétique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "anomalies",
+            "lemme": "anomalie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réponse",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "immune",
+            "lemme": "immun"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "atteintes",
+            "lemme": "atteinte"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "étendre",
+            "lemme": "étendre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "organes",
+            "lemme": "organe"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "touchent",
+            "lemme": "toucher"
+        },
+        {
+            "nom": "majoritairement",
+            "lemme": "majoritairement"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "voies",
+            "lemme": "voie"
+        },
+        {
+            "nom": "respiratoires",
+            "lemme": "respiratoire"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "appareil",
+            "lemme": "appareil"
+        },
+        {
+            "nom": "digestif",
+            "lemme": "digestif"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "poumon",
+            "lemme": "poumon"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "poumon",
+            "lemme": "poumon"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "œdème",
+            "lemme": "œdème"
+        },
+        {
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": "lésionnel",
+            "lemme": "lésionnel"
+        },
+        {
+            "nom": "entrainant",
+            "lemme": "entrainer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "détresse",
+            "lemme": "détress"
+        },
+        {
+            "nom": "respiratoire",
+            "lemme": "respiratoire"
+        },
+        {
+            "nom": "aiguë",
+            "lemme": "aigu"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "présence",
+            "lemme": "présence"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "polypnée",
+            "lemme": "polypnée"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "hypoxémie",
+            "lemme": "hypoxémie"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "témoigner",
+            "lemme": "témoigner"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "nécrose",
+            "lemme": "nécrose"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "épithélium",
+            "lemme": "épithélium"
+        },
+        {
+            "nom": "bronchique",
+            "lemme": "bronchique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "entraînant",
+            "lemme": "entraîner"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "pronostic",
+            "lemme": "pronostic"
+        },
+        {
+            "nom": "très",
+            "lemme": "très"
+        },
+        {
+            "nom": "défavorable",
+            "lemme": "défavorable"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œsophage",
+            "lemme": "œsophage"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "œsophagite",
+            "lemme": "œsophagite"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tube",
+            "lemme": "tube"
+        },
+        {
+            "nom": "digestif",
+            "lemme": "digestif"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "diarrhée",
+            "lemme": "diarrhée"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "douleurs",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "abdominales",
+            "lemme": "abdominal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "colite",
+            "lemme": "colite"
+        },
+        {
+            "nom": "voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "perforation",
+            "lemme": "perforation"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "foie",
+            "lemme": "foie"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hépatite",
+            "lemme": "hépatite"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "atteinte",
+            "lemme": "atteinte"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "résulter",
+            "lemme": "résulter"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "sepsis",
+            "lemme": "sepsi"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "choc",
+            "lemme": "choc"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Pronostic",
+            "lemme": "pronostic"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "régénération",
+            "lemme": "régénération"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "épiderme",
+            "lemme": "épiderm"
+        },
+        {
+            "nom": "normal",
+            "lemme": "normal"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "rapide",
+            "lemme": "rapide"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "15",
+            "lemme": "15"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "21",
+            "lemme": "21"
+        },
+        {
+            "nom": "jours",
+            "lemme": "jour"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "attendant",
+            "lemme": "attendant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étendue",
+            "lemme": "étendue"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "décollements",
+            "lemme": "décollement"
+        },
+        {
+            "nom": "met",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "jeu",
+            "lemme": "jeu"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "pronostic",
+            "lemme": "pronostic"
+        },
+        {
+            "nom": "vital",
+            "lemme": "vital"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "surtout",
+            "lemme": "surtout"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "atteinte",
+            "lemme": "atteinte"
+        },
+        {
+            "nom": "muqueuse",
+            "lemme": "muqueuse"
+        },
+        {
+            "nom": "diffuse",
+            "lemme": "diffus"
+        },
+        {
+            "nom": "touchant",
+            "lemme": "toucher"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "trachée",
+            "lemme": "trachée"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "bronches",
+            "lemme": "bronche"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "survient",
+            "lemme": "survenir"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "20",
+            "lemme": "20"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "manifeste",
+            "lemme": "manifeste"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "polypnée",
+            "lemme": "polypnée"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "taux",
+            "lemme": "taux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "mortalité",
+            "lemme": "mortalité"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "20",
+            "lemme": "20"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "25",
+            "lemme": "25"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Diagnostic",
+            "lemme": "diagnostic"
+        },
+        {
+            "nom": "différentiel",
+            "lemme": "différentiel"
+        },
+        {
+            "nom": "Bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
+        },
+        {
+            "nom": "soit",
+            "lemme": "être"
+        },
+        {
+            "nom": "clinique",
+            "lemme": "clinique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "biopsie",
+            "lemme": "biopsie"
+        },
+        {
+            "nom": "cutanée",
+            "lemme": "cutané"
+        },
+        {
+            "nom": "devra",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "effectuée",
+            "lemme": "effectuer"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "but",
+            "lemme": "but"
+        },
+        {
+            "nom": "médico-légal",
+            "lemme": "médico-légal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "afin",
+            "lemme": "afin"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "différencier",
+            "lemme": "différencier"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "certitude",
+            "lemme": "certitude"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lyell",
+            "lemme": "Lyell"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "bulloses",
+            "lemme": "bullose"
+        },
+        {
+            "nom": "auto-immunes",
+            "lemme": "auto-immune"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "épidermolyse",
+            "lemme": "épidermolyse"
+        },
+        {
+            "nom": "staphylococcique",
+            "lemme": "staphylococcique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pustulose",
+            "lemme": "pustulose"
+        },
+        {
+            "nom": "exanthématique",
+            "lemme": "exanthématique"
+        },
+        {
+            "nom": "aiguë",
+            "lemme": "aigu"
+        },
+        {
+            "nom": "généralisée",
+            "lemme": "généraliser"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Traitements",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "charge",
+            "lemme": "charge"
+        },
+        {
+            "nom": "consiste",
+            "lemme": "consister"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "abord",
+            "lemme": "abord"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "transfert",
+            "lemme": "transfert"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "unités",
+            "lemme": "unité"
+        },
+        {
+            "nom": "spécialisées",
+            "lemme": "spécialisé"
+        },
+        {
+            "nom": "permettant",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "assurer",
+            "lemme": "assurer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "conditions",
+            "lemme": "condition"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "asepsie",
+            "lemme": "asepsie"
+        },
+        {
+            "nom": "nécessaire",
+            "lemme": "nécessaire"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "gants",
+            "lemme": "gant"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "draps",
+            "lemme": "drap"
+        },
+        {
+            "nom": "stériles",
+            "lemme": "stérile"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "température",
+            "lemme": "température"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "28",
+            "lemme": "28"
+        },
+        {
+            "nom": "32",
+            "lemme": "32"
+        },
+        {
+            "nom": "°",
+            "lemme": "degré"
+        },
+        {
+            "nom": "C",
+            "lemme": "c"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "permettre",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "facilitation",
+            "lemme": "facilitation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "thermorégulation",
+            "lemme": "thermorégulation"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "constitue",
+            "lemme": "constituer"
+        },
+        {
+            "nom": "ensuite",
+            "lemme": "ensuite"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "remplissage",
+            "lemme": "remplissage"
+        },
+        {
+            "nom": "vasculaire",
+            "lemme": "vasculaire"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "solution",
+            "lemme": "solution"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "électrolytes",
+            "lemme": "électrolyte"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "combler",
+            "lemme": "combler"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pertes",
+            "lemme": "perte"
+        },
+        {
+            "nom": "hydriques",
+            "lemme": "hydrique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "surveillance",
+            "lemme": "surveillance"
+        },
+        {
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "assurée",
+            "lemme": "assurer"
+        },
+        {
+            "nom": "durant",
+            "lemme": "durer"
+        },
+        {
+            "nom": "toute",
+            "lemme": "tout"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "charge",
+            "lemme": "charge"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "arrivée",
+            "lemme": "arrivée"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "urgences",
+            "lemme": "urgence"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "transport",
+            "lemme": "transport"
+        },
+        {
+            "nom": "médicalisé",
+            "lemme": "médicaliser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Des",
+            "lemme": "un"
+        },
+        {
+            "nom": "examens",
+            "lemme": "examen"
+        },
+        {
+            "nom": "complémentaires",
+            "lemme": "complémentaire"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "gazométrie",
+            "lemme": "gazométrie"
+        },
+        {
+            "nom": "artérielle",
+            "lemme": "artériel"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "réalisés",
+            "lemme": "réaliser"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "rechercher",
+            "lemme": "rechercher"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hypoxémie",
+            "lemme": "hypoxémie"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hypocapnie",
+            "lemme": "hypocapnie"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "évoquerait",
+            "lemme": "évoquer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "atteinte",
+            "lemme": "atteinte"
+        },
+        {
+            "nom": "broncho",
+            "lemme": "broncho"
+        },
+        {
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "existe",
+            "lemme": "exister"
+        },
+        {
+            "nom": "actuellement",
+            "lemme": "actuellement"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "fond",
+            "lemme": "fond"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "validité",
+            "lemme": "validité"
+        },
+        {
+            "nom": "démontrée",
+            "lemme": "démontrer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "présumé",
+            "lemme": "présumer"
+        },
+        {
+            "nom": "responsable",
+            "lemme": "responsable"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "analogues",
+            "lemme": "analogue"
+        },
+        {
+            "nom": "doivent",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "définitivement",
+            "lemme": "définitivement"
+        },
+        {
+            "nom": "contre-indiqués",
+            "lemme": "contre-indiquer"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "patient",
+            "lemme": "patient"
+        },
+        {
+            "nom": "atteint",
+            "lemme": "atteint"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "doit",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "notifié",
+            "lemme": "notifier"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacovigilance",
+            "lemme": "pharmacovigilance"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "jamais",
+            "lemme": "jamais"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "observé",
+            "lemme": "observer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "récidive",
+            "lemme": "récidive"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "dehors",
+            "lemme": "dehors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réintroduction",
+            "lemme": "réintroduction"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "impliqué",
+            "lemme": "impliquer"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "premier",
+            "lemme": "premier"
+        },
+        {
+            "nom": "épisode",
+            "lemme": "épisode"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
+        },
+        {
+            "nom": "PDF",
+            "lemme": "pdf"
+        },
+        {
+            "nom": "Épidémiologie",
+            "lemme": "Épidémiologie"
+        },
+        {
+            "nom": "étiologie",
+            "lemme": "étiologie"
+        },
+        {
+            "nom": "tableau",
+            "lemme": "tableau"
+        },
+        {
+            "nom": "clinique",
+            "lemme": "clinique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "évolution",
+            "lemme": "évolution"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Tracey",
+            "lemme": "Tracey"
+        },
+        {
+            "nom": "Brown",
+            "lemme": "Brown"
+        },
+        {
+            "nom": "Maher",
+            "lemme": "Maher"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "MD",
+            "lemme": "MD"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Khue",
+            "lemme": "Khue"
+        },
+        {
+            "nom": "Nguyen",
+            "lemme": "Nguyen"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "MD)-",
+            "lemme": "md)-"
+        },
+        {
+            "nom": "Revue",
+            "lemme": "revue"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Stevens",
+            "lemme": "Stevens"
+        },
+        {
+            "nom": "Johnson",
+            "lemme": "Johnson"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lyell",
+            "lemme": "Lyell"
+        },
+        {
+            "nom": "Conférences",
+            "lemme": "conférence"
+        },
+        {
+            "nom": "scientifiques",
+            "lemme": "scientifique"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "dermatologie",
+            "lemme": "dermatologie"
+        },
+        {
+            "nom": "MG",
+            "lemme": "milligramme"
+        },
+        {
+            "nom": "Gill",
+            "lemme": "Gill"
+        },
+        {
+            "nom": "University",
+            "lemme": "University"
+        },
+        {
+            "nom": "health",
+            "lemme": "health"
+        },
+        {
+            "nom": "Centre",
+            "lemme": "centre"
+        },
+        {
+            "nom": "Volume",
+            "lemme": "volume"
+        },
+        {
+            "nom": "4",
+            "lemme": "4"
+        },
+        {
+            "nom": "numéro",
+            "lemme": "numéro"
+        },
+        {
+            "nom": "4",
+            "lemme": "4"
+        },
+        {
+            "nom": "2005",
+            "lemme": "2005"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Cohen",
+            "lemme": "Cohen"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Victor",
+            "lemme": "Victor"
+        },
+        {
+            "nom": "and",
+            "lemme": "and"
+        },
+        {
+            "nom": "Schwartz",
+            "lemme": "Schwartz"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Robert",
+            "lemme": "Robert"
+        },
+        {
+            "nom": "A.",
+            "lemme": "A."
+        },
+        {
+            "nom": "Toxic",
+            "lemme": "Toxic"
+        },
+        {
+            "nom": "Epidermal",
+            "lemme": "Epidermal"
+        },
+        {
+            "nom": "Necrolysis",
+            "lemme": "Necrolysis"
+        },
+        {
+            "nom": "eMedicine",
+            "lemme": "emedicine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
         }
     ]
 ]

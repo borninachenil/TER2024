@@ -1,0 +1,966 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "myomatose",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "caractérise",
+            "lemme": "caractériser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "formation",
+            "lemme": "formation"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "myomes",
+            "lemme": "myome"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "est"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "dire",
+            "lemme": "dire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tumeurs",
+            "lemme": "tumeur"
+        },
+        {
+            "nom": "bénignes",
+            "lemme": "bénin"
+        },
+        {
+            "nom": "formées",
+            "lemme": "formé"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "musculaire",
+            "lemme": "musculaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "donc",
+            "lemme": "donc"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "cancer",
+            "lemme": "cancer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "très",
+            "lemme": "très"
+        },
+        {
+            "nom": "loin",
+            "lemme": "loin"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "fréquente",
+            "lemme": "fréquent"
+        },
+        {
+            "nom": "affecte",
+            "lemme": "affecte"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "utérus",
+            "lemme": "utérus"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "parle",
+            "lemme": "parler"
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "fibromyome",
+            "lemme": "fibromyome"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "léiomyome",
+            "lemme": "léiomyome"
+        },
+        {
+            "nom": "utérin",
+            "lemme": "utérin"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "improprement",
+            "lemme": "improprement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "fibrome",
+            "lemme": "fibrome"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "affecter",
+            "lemme": "affecter"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "lisses",
+            "lemme": "lisse"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "rarement",
+            "lemme": "rarement"
+        },
+        {
+            "nom": "concerner",
+            "lemme": "concerner"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "striés",
+            "lemme": "strier"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Vocabulaire",
+            "lemme": "vocabulaire"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "synonymes",
+            "lemme": "synonyme"
+        },
+        {
+            "nom": "Lorsque",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "myomatose",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "développe",
+            "lemme": "développer"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "dépens",
+            "lemme": "dépens"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "lisses",
+            "lemme": "lisse"
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "parle",
+            "lemme": "parler"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "léiomyomes",
+            "lemme": "léiomyome"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Si",
+            "lemme": "si"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "myomatose",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "développe",
+            "lemme": "développer"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "dépens",
+            "lemme": "dépens"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "striés",
+            "lemme": "strier"
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "parle",
+            "lemme": "parler"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "rhabdomyomes",
+            "lemme": "rhabdomyome"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "muscle",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "atteint",
+            "lemme": "atteindre"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "myomatose",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "composition",
+            "lemme": "composition"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "composé",
+            "lemme": "composer"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "spécifique",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Quelques",
+            "lemme": "quelque"
+        },
+        {
+            "nom": "myomatoses",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "Ci",
+            "lemme": "Ci"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "non",
+            "lemme": "non"
+        },
+        {
+            "nom": "exhaustive",
+            "lemme": "exhaustif"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "myomatoses",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "localisation",
+            "lemme": "localisation"
+        },
+        {
+            "nom": "préférentielle",
+            "lemme": "préférentiel"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "léiomyome",
+            "lemme": "léiomyome"
+        },
+        {
+            "nom": "utérin",
+            "lemme": "utérin"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "adénomyomatose",
+            "lemme": "adénomyomatose"
+        },
+        {
+            "nom": "vésiculaire",
+            "lemme": "vésiculaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "atteint",
+            "lemme": "atteindre"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vésicule",
+            "lemme": "vésicule"
+        },
+        {
+            "nom": "biliaire",
+            "lemme": "biliaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "lymphangioléiomyomatose",
+            "lemme": "lymphangioléiomyomatose"
+        },
+        {
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "constitue",
+            "lemme": "constituer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hamartomatose",
+            "lemme": "hamartomatose"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "parois",
+            "lemme": "paroi"
+        },
+        {
+            "nom": "alvéolaires",
+            "lemme": "alvéolaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "phlébomyomatose",
+            "lemme": "phlébomyomatose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "atteint",
+            "lemme": "atteindre"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "partie",
+            "lemme": "partie"
+        },
+        {
+            "nom": "musculeuse",
+            "lemme": "musculeux"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "parois",
+            "lemme": "paroi"
+        },
+        {
+            "nom": "veineuses",
+            "lemme": "veineuse"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "léiomyome",
+            "lemme": "léiomyome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œsophage",
+            "lemme": "œsophage"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "fréquente",
+            "lemme": "fréquent"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "tumeurs",
+            "lemme": "tumeur"
+        },
+        {
+            "nom": "bénignes",
+            "lemme": "bénin"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œsophage",
+            "lemme": "œsophage"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Symptôme",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "associé",
+            "lemme": "associer"
+        },
+        {
+            "nom": "Des",
+            "lemme": "un"
+        },
+        {
+            "nom": "aspects",
+            "lemme": "aspect"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "myomatose",
+            "lemme": "myomatose"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "observés",
+            "lemme": "observer"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "sein",
+            "lemme": "sein"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tableaux",
+            "lemme": "tableau"
+        },
+        {
+            "nom": "nosologiques",
+            "lemme": "nosologique"
+        },
+        {
+            "nom": "complexes",
+            "lemme": "complexe"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "spasmes",
+            "lemme": "spasme"
+        },
+        {
+            "nom": "étagés",
+            "lemme": "étager"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "atteint",
+            "lemme": "atteindre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œsophage",
+            "lemme": "œsophage"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "Références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

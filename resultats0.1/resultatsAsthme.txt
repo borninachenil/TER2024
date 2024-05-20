@@ -1,0 +1,10 @@
+respiration;maladie;r_has_symptomes.txt;lemme
+asthme;possibilité;r_has_symptomes.txt;lemme
+aggrave;facteur;r_has_symptomes.txt;nom
+aggrave;facteur;r_has_symptomes.txt;lemme
+traitement;bêta-2;r_has_symptomes.txt;lemme
+asthme;urgence;r_has_symptomes.txt;lemme
+ventilation;approche;r_has_symptomes.txt;lemme
+patient;maladie;r_has_symptomes.txt;lemme
+éducation;démarche;r_has_symptomes.txt;lemme
+pist;inhibiteur;r_has_symptomes.txt;lemme

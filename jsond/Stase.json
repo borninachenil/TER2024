@@ -1,0 +1,694 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "stase",
+            "lemme": "stase"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "état",
+            "lemme": "état"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "stase",
+            "lemme": "stase"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "état",
+            "lemme": "état"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "choses",
+            "lemme": "chose"
+        },
+        {
+            "nom": "marqué",
+            "lemme": "marquer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "immobilité",
+            "lemme": "immobilité"
+        },
+        {
+            "nom": "absolue",
+            "lemme": "absolu"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "oppose",
+            "lemme": "opposer"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "déroulement",
+            "lemme": "déroulement"
+        },
+        {
+            "nom": "normal",
+            "lemme": "normal"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "processus",
+            "lemme": "processus"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Médecine",
+            "lemme": "Médecine"
+        },
+        {
+            "nom": "Stase",
+            "lemme": "Stase"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "anciens",
+            "lemme": "ancien"
+        },
+        {
+            "nom": "termes",
+            "lemme": "terme"
+        },
+        {
+            "nom": "utilisés",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "désigner",
+            "lemme": "désigner"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "accumulation",
+            "lemme": "accumulation"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "stagnation",
+            "lemme": "stagnation"
+        },
+        {
+            "nom": "anormales",
+            "lemme": "anormal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sang",
+            "lemme": "sang"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "autre",
+            "lemme": "autre"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": "favorisant",
+            "lemme": "favoriser"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "sang",
+            "lemme": "sang"
+        },
+        {
+            "nom": "veineux",
+            "lemme": "veineux"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "œdème",
+            "lemme": "œdème"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "membres",
+            "lemme": "membre"
+        },
+        {
+            "nom": "inférieurs",
+            "lemme": "inférieur"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "On",
+            "lemme": "on"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "parle",
+            "lemme": "parle"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "toxines",
+            "lemme": "toxine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Théorie",
+            "lemme": "théorie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "évolution",
+            "lemme": "évolution"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "théorie",
+            "lemme": "théorie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "saltationnisme",
+            "lemme": "saltationnisme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "opposée",
+            "lemme": "opposer"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "gradualisme",
+            "lemme": "gradualisme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pose",
+            "lemme": "pose"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "macromutations",
+            "lemme": "macromutation"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "font",
+            "lemme": "faire"
+        },
+        {
+            "nom": "évoluer",
+            "lemme": "évoluer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "espèce",
+            "lemme": "espèce"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "séparées",
+            "lemme": "séparer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "périodes",
+            "lemme": "période"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "stase",
+            "lemme": "stase"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Science",
+            "lemme": "Science"
+        },
+        {
+            "nom": "fiction",
+            "lemme": "fiction"
+        },
+        {
+            "nom": "Liturgie",
+            "lemme": "liturgie"
+        },
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "stase",
+            "lemme": "stase"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "Églises",
+            "lemme": "église"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Orient",
+            "lemme": "Orient"
+        },
+        {
+            "nom": "Églises",
+            "lemme": "Églises"
+        },
+        {
+            "nom": "orthodoxes",
+            "lemme": "orthodoxe"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Églises",
+            "lemme": "église"
+        },
+        {
+            "nom": "catholiques",
+            "lemme": "catholique"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "rite",
+            "lemme": "rite"
+        },
+        {
+            "nom": "byzantin",
+            "lemme": "byzantin"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "subdivision",
+            "lemme": "subdivision"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "kathismas",
+            "lemme": "kathisma"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "elles",
+            "lemme": "lui"
+        },
+        {
+            "nom": "mêmes",
+            "lemme": "même"
+        },
+        {
+            "nom": "division",
+            "lemme": "division"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "psautier",
+            "lemme": "psautier"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Cryptobiose",
+            "lemme": "Cryptobiose"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "Nuit",
+            "lemme": "nuit"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "Captive",
+            "lemme": "captif"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": "perdu",
+            "lemme": "perdre"
+        },
+        {
+            "nom": "Kathisma",
+            "lemme": "Kathisma"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "science",
+            "lemme": "science"
+        },
+        {
+            "nom": "fiction",
+            "lemme": "fiction"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "chrétiens",
+            "lemme": "chrétien"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Orient",
+            "lemme": "Orient"
+        }
+    ]
+]

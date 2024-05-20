@@ -1,0 +1,4 @@
+intoxication;maladie;r_has_symptomes.txt;lemme;être un
+maladie;cause;r_has_causatif.txt;nom;transmise par voie alimentaire
+maladie;cause;r_has_symptomes.txt;lemme;être un
+espèce;parasite;r_has_symptomes.txt;lemme;être un

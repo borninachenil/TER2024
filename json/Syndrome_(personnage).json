@@ -1,0 +1,6394 @@
+[
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "personnage",
+            "lemme": "personnage"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "fiction",
+            "lemme": "fiction"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "société",
+            "lemme": "société"
+        },
+        {
+            "nom": "Pixar",
+            "lemme": "pixar"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "apparaît",
+            "lemme": "apparaître"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "long",
+            "lemme": "long"
+        },
+        {
+            "nom": "métrage",
+            "lemme": "métrage"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "Indestructibles",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "2004",
+            "lemme": "2004"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "lequel",
+            "lemme": "lequel"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "tient",
+            "lemme": "tenir"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "rôle",
+            "lemme": "rôle"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "méchant",
+            "lemme": "méchant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "voix",
+            "lemme": "voix"
+        },
+        {
+            "nom": "française",
+            "lemme": "français"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "personnage",
+            "lemme": "personnage"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "donnée",
+            "lemme": "donner"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Bruno",
+            "lemme": "Bruno"
+        },
+        {
+            "nom": "Salomone",
+            "lemme": "Salomone"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "ressemble",
+            "lemme": "ressembler"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "côtés",
+            "lemme": "côté"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "personnage",
+            "lemme": "personnage"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lex",
+            "lemme": "Lex"
+        },
+        {
+            "nom": "Luthor",
+            "lemme": "Luthor"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "Superman",
+            "lemme": "Superman"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Histoire",
+            "lemme": "histoire"
+        },
+        {
+            "nom": "Au",
+            "lemme": "au"
+        },
+        {
+            "nom": "début",
+            "lemme": "début"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "dessin",
+            "lemme": "dessin"
+        },
+        {
+            "nom": "animé",
+            "lemme": "animé"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "enfant",
+            "lemme": "enfant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "spectateur",
+            "lemme": "spectateur"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "découvre",
+            "lemme": "découvrir"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "étant",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "Buddy",
+            "lemme": "Buddy"
+        },
+        {
+            "nom": "Pine",
+            "lemme": "Pine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "grande",
+            "lemme": "grand"
+        },
+        {
+            "nom": "admiration",
+            "lemme": "admiration"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "égard",
+            "lemme": "égard"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Indestructible",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "disant",
+            "lemme": "dire"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "grand",
+            "lemme": "grand"
+        },
+        {
+            "nom": "fan",
+            "lemme": "fan"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Indestructible",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ayant",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "rabroué",
+            "lemme": "rabrouer"
+        },
+        {
+            "nom": "parce",
+            "lemme": "parce"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "trouvait",
+            "lemme": "trouver"
+        },
+        {
+            "nom": "trop",
+            "lemme": "trop"
+        },
+        {
+            "nom": "collant",
+            "lemme": "coller"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "voue",
+            "lemme": "vouer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "suite",
+            "lemme": "suite"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "haine",
+            "lemme": "haine"
+        },
+        {
+            "nom": "irrépressible",
+            "lemme": "irrépressible"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Devenu",
+            "lemme": "devenu"
+        },
+        {
+            "nom": "adulte",
+            "lemme": "adulte"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Buddy",
+            "lemme": "Buddy"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "devenu",
+            "lemme": "devenu"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "dispose",
+            "lemme": "disposer"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "super-pouvoirs",
+            "lemme": "super-pouvoir"
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "très",
+            "lemme": "très"
+        },
+        {
+            "nom": "intelligent",
+            "lemme": "intelligent"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "créé",
+            "lemme": "créer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "base",
+            "lemme": "base"
+        },
+        {
+            "nom": "secrète",
+            "lemme": "secret"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "île",
+            "lemme": "île"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "pleine",
+            "lemme": "pleine"
+        },
+        {
+            "nom": "mer",
+            "lemme": "mer"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "su",
+            "lemme": "savoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "entourer",
+            "lemme": "entourer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "supplétifs",
+            "lemme": "supplétif"
+        },
+        {
+            "nom": "malfaisants",
+            "lemme": "malfaisant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "À",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "fin",
+            "lemme": "fin"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "film",
+            "lemme": "film"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "maîtrisé",
+            "lemme": "maîtriser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "bébé",
+            "lemme": "bébé"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "Indestructibles",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "révèle",
+            "lemme": "révéler"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "occasion",
+            "lemme": "occasion"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "étonnants",
+            "lemme": "étonnant"
+        },
+        {
+            "nom": "pouvoirs",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "auxquels",
+            "lemme": "auxquels"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "attendait",
+            "lemme": "attendre"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Après",
+            "lemme": "après"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pu",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "libérer",
+            "lemme": "libérer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "menace",
+            "lemme": "menacer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "Indestructibles",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "va",
+            "lemme": "aller"
+        },
+        {
+            "nom": "revenir",
+            "lemme": "revenir"
+        },
+        {
+            "nom": "chercher",
+            "lemme": "chercher"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "ces",
+            "lemme": "ce"
+        },
+        {
+            "nom": "mots",
+            "lemme": "mot"
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Indestructible",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "lance",
+            "lemme": "lancer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "voiture",
+            "lemme": "voiture"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "jet",
+            "lemme": "jet"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "faisant",
+            "lemme": "faire"
+        },
+        {
+            "nom": "perdre",
+            "lemme": "perdre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "équilibre",
+            "lemme": "équilibre"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cape",
+            "lemme": "cape"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prendre"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hélice",
+            "lemme": "hélice"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "entraînant",
+            "lemme": "entraîner"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "explosion",
+            "lemme": "explosion"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "jet",
+            "lemme": "jet"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mort",
+            "lemme": "mort"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "méchant",
+            "lemme": "méchant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "fiction",
+            "lemme": "fiction"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Description",
+            "lemme": "description"
+        },
+        {
+            "nom": "Personnalité",
+            "lemme": "personnalité"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "personnalité",
+            "lemme": "personnalité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "savoir",
+            "lemme": "savoir"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "insaisissable",
+            "lemme": "insaisissable"
+        },
+        {
+            "nom": "mépris",
+            "lemme": "méprendre"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "manque",
+            "lemme": "manque"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "conscience",
+            "lemme": "conscience"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "moralité",
+            "lemme": "moralité"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "résulte",
+            "lemme": "résulter"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "psychopathie",
+            "lemme": "psychopathie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "C'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "scientifique",
+            "lemme": "scientifique"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "colère",
+            "lemme": "colère"
+        },
+        {
+            "nom": "voulant",
+            "lemme": "vouloir"
+        },
+        {
+            "nom": "devenir",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "héros",
+            "lemme": "héros"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "devait",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "créer",
+            "lemme": "créer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "robot",
+            "lemme": "robot"
+        },
+        {
+            "nom": "tueur",
+            "lemme": "tueur"
+        },
+        {
+            "nom": "conçu",
+            "lemme": "concevoir"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "assassiner",
+            "lemme": "assassiner"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "héros",
+            "lemme": "héros"
+        },
+        {
+            "nom": "afin",
+            "lemme": "afin"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "mettre",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "scène",
+            "lemme": "scène"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "propre",
+            "lemme": "propre"
+        },
+        {
+            "nom": "acte",
+            "lemme": "acte"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "héroïsme",
+            "lemme": "héroïsme"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "raison",
+            "lemme": "raison"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Indestructible",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "faisant",
+            "lemme": "faire"
+        },
+        {
+            "nom": "croire",
+            "lemme": "croire"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "pouvait",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "compter",
+            "lemme": "compter"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "personne",
+            "lemme": "personne"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "lui-même",
+            "lemme": "lui-même"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "aucune",
+            "lemme": "aucun"
+        },
+        {
+            "nom": "valeur",
+            "lemme": "valeur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vie",
+            "lemme": "vie"
+        },
+        {
+            "nom": "humaine",
+            "lemme": "humain"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "montré",
+            "lemme": "montrer"
+        },
+        {
+            "nom": "quand",
+            "lemme": "quand"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "laissé",
+            "lemme": "laisser"
+        },
+        {
+            "nom": "perdre",
+            "lemme": "perdre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Omnidroid",
+            "lemme": "Omnidroid"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "zone",
+            "lemme": "zone"
+        },
+        {
+            "nom": "peuplée",
+            "lemme": "peupler"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "prétendre",
+            "lemme": "prétendre"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "super-héros",
+            "lemme": "super-héro"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "permis",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tirer",
+            "lemme": "tirer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "missiles",
+            "lemme": "missile"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "Helen",
+            "lemme": "Helen"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Flèche",
+            "lemme": "flèche"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Violet",
+            "lemme": "violet"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "découvert",
+            "lemme": "découvrir"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "étaient",
+            "lemme": "être"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "enfants",
+            "lemme": "enfant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "prêt",
+            "lemme": "prêt"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "risquer",
+            "lemme": "risquer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "sécurité",
+            "lemme": "sécurité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Mirage",
+            "lemme": "mirage"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "bluff",
+            "lemme": "bluff"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "M.Indestructible",
+            "lemme": "m.indestructible"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "décidé",
+            "lemme": "décider"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "tuer",
+            "lemme": "tuer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "baby",
+            "lemme": "baby"
+        },
+        {
+            "nom": "sitter",
+            "lemme": "sitter"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "plutôt",
+            "lemme": "plutôt"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "tromper",
+            "lemme": "tromper"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "donner",
+            "lemme": "donner"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "garde",
+            "lemme": "garde"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "cela",
+            "lemme": "celer"
+        },
+        {
+            "nom": "puisse",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "partie",
+            "lemme": "partie"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "dû",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "fait",
+            "lemme": "fait"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "facilement",
+            "lemme": "facilement"
+        },
+        {
+            "nom": "persuadée",
+            "lemme": "persuader"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "raison",
+            "lemme": "raison"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "incapacité",
+            "lemme": "incapacité"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "gérer",
+            "lemme": "gérer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pouvoirs",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": "Jack",
+            "lemme": "Jack"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "génie",
+            "lemme": "génie"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "sciences",
+            "lemme": "science"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "technologies",
+            "lemme": "technologie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "techniques",
+            "lemme": "technique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "mécaniques",
+            "lemme": "mécanique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "possédait",
+            "lemme": "posséder"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "intelligence",
+            "lemme": "intelligence"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ingéniosité",
+            "lemme": "ingéniosité"
+        },
+        {
+            "nom": "suffisantes",
+            "lemme": "suffisant"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "créer",
+            "lemme": "créer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "variété",
+            "lemme": "variété"
+        },
+        {
+            "nom": "incroyable",
+            "lemme": "incroyable"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "armes",
+            "lemme": "arme"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "équipements",
+            "lemme": "équipement"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "capable",
+            "lemme": "capable"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "créer",
+            "lemme": "créer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "sensible",
+            "lemme": "sensible"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "conscient",
+            "lemme": "conscient"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "incroyablement",
+            "lemme": "incroyablement"
+        },
+        {
+            "nom": "puissant",
+            "lemme": "puissant"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "intelligent",
+            "lemme": "intelliger"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "finalement",
+            "lemme": "finalement"
+        },
+        {
+            "nom": "vaincu",
+            "lemme": "vaincre"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Mis",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "part",
+            "lemme": "part"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dérangement",
+            "lemme": "dérangement"
+        },
+        {
+            "nom": "cynique",
+            "lemme": "cynique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "pense",
+            "lemme": "penser"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "seule",
+            "lemme": "seul"
+        },
+        {
+            "nom": "façon",
+            "lemme": "façon"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "obtenir",
+            "lemme": "obtenir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "respect",
+            "lemme": "respect"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "devenir",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "menace",
+            "lemme": "menace"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "sadique",
+            "lemme": "sadique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "montre",
+            "lemme": "montre"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "scène",
+            "lemme": "scène"
+        },
+        {
+            "nom": "où",
+            "lemme": "où"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "réalisé",
+            "lemme": "réaliser"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "Bob",
+            "lemme": "Bob"
+        },
+        {
+            "nom": "connaissait",
+            "lemme": "connaître"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Helen",
+            "lemme": "Helen"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "transmission",
+            "lemme": "transmission"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "immédiatement",
+            "lemme": "immédiatement"
+        },
+        {
+            "nom": "envoyé",
+            "lemme": "envoyer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "missiles",
+            "lemme": "missile"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "avion",
+            "lemme": "avion"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "puis",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "moqué",
+            "lemme": "moquer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "leurs",
+            "lemme": "leur"
+        },
+        {
+            "nom": "apparentes",
+            "lemme": "apparente"
+        },
+        {
+            "nom": "décès",
+            "lemme": "décè"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "rappelé",
+            "lemme": "rappeler"
+        },
+        {
+            "nom": "comment",
+            "lemme": "comment"
+        },
+        {
+            "nom": "Bob",
+            "lemme": "Bob"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "dit",
+            "lemme": "dire"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "travaillait",
+            "lemme": "travailler"
+        },
+        {
+            "nom": "seul",
+            "lemme": "seul"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "beaucoup",
+            "lemme": "beaucoup"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sociopathes",
+            "lemme": "sociopathe"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "fermement",
+            "lemme": "fermement"
+        },
+        {
+            "nom": "convaincu",
+            "lemme": "convaincre"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "miséricorde",
+            "lemme": "miséricorde"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "faiblesse",
+            "lemme": "faiblesse"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "Mirage",
+            "lemme": "mirage"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "souligné",
+            "lemme": "souligner"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "force",
+            "lemme": "force"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "M.Indestructible",
+            "lemme": "m.indestructible"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "lui-même",
+            "lemme": "lui-même"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "homme",
+            "lemme": "homme"
+        },
+        {
+            "nom": "très",
+            "lemme": "très"
+        },
+        {
+            "nom": "calme",
+            "lemme": "calme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "tête",
+            "lemme": "tête"
+        },
+        {
+            "nom": "ordonnée",
+            "lemme": "ordonner"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "décontractée",
+            "lemme": "décontractée"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "énervant",
+            "lemme": "énerver"
+        },
+        {
+            "nom": "rarement",
+            "lemme": "rarement"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "jamais",
+            "lemme": "jamais"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "perd",
+            "lemme": "perdre"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "sang",
+            "lemme": "sang"
+        },
+        {
+            "nom": "froid",
+            "lemme": "froid"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Lorsque",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "M.Indesrtuctible",
+            "lemme": "m.indesrtuctible"
+        },
+        {
+            "nom": "vient",
+            "lemme": "venir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "détruire",
+            "lemme": "détruire"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "neuvième",
+            "lemme": "neuvième"
+        },
+        {
+            "nom": "Omnidroid",
+            "lemme": "omnidroid"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "lieu",
+            "lemme": "lieu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "colère",
+            "lemme": "colère"
+        },
+        {
+            "nom": "initiale",
+            "lemme": "initial"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "complimente",
+            "lemme": "complimente"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "exploit",
+            "lemme": "exploit"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "disant",
+            "lemme": "dire"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "impressionnant",
+            "lemme": "impressionnant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cela",
+            "lemme": "celer"
+        },
+        {
+            "nom": "montre",
+            "lemme": "montre"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "quand",
+            "lemme": "quand"
+        },
+        {
+            "nom": "Bob",
+            "lemme": "Bob"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pris",
+            "lemme": "prendre"
+        },
+        {
+            "nom": "Mirage",
+            "lemme": "mirage"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "otage",
+            "lemme": "otage"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "préoccupe",
+            "lemme": "préoccuper"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "lorsqu'",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "menace",
+            "lemme": "menacer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "écraser",
+            "lemme": "écraser"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "rend",
+            "lemme": "rendre"
+        },
+        {
+            "nom": "compte",
+            "lemme": "compte"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "Bob",
+            "lemme": "Bob"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "trop",
+            "lemme": "trop"
+        },
+        {
+            "nom": "noble",
+            "lemme": "noble"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "faire",
+            "lemme": "faire"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "telle",
+            "lemme": "tel"
+        },
+        {
+            "nom": "chose",
+            "lemme": "chose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "fût",
+            "lemme": "être"
+        },
+        {
+            "nom": "manifestement",
+            "lemme": "manifestement"
+        },
+        {
+            "nom": "contrarié",
+            "lemme": "contrarié"
+        },
+        {
+            "nom": "quand",
+            "lemme": "quand"
+        },
+        {
+            "nom": "Mirage",
+            "lemme": "mirage"
+        },
+        {
+            "nom": "décida",
+            "lemme": "décider"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "quitter",
+            "lemme": "quitter"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "individu",
+            "lemme": "individu"
+        },
+        {
+            "nom": "extrêmement",
+            "lemme": "extrêmement"
+        },
+        {
+            "nom": "méchant",
+            "lemme": "méchant"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "vindicatif",
+            "lemme": "vindicatif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Après",
+            "lemme": "après"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "rejeté",
+            "lemme": "rejeter"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "ancienne",
+            "lemme": "ancien"
+        },
+        {
+            "nom": "idole",
+            "lemme": "idole"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "transformé",
+            "lemme": "transformer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "super-méchant",
+            "lemme": "super-méchant"
+        },
+        {
+            "nom": "mégalomaniaque",
+            "lemme": "mégalomaniaque"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "encore",
+            "lemme": "encore"
+        },
+        {
+            "nom": "assez",
+            "lemme": "assez"
+        },
+        {
+            "nom": "intelligent",
+            "lemme": "intelliger"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "haine",
+            "lemme": "haine"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "permis",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "arrogant",
+            "lemme": "arroger"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "rendu",
+            "lemme": "rendre"
+        },
+        {
+            "nom": "compte",
+            "lemme": "compte"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Omnidroid",
+            "lemme": "Omnidroid"
+        },
+        {
+            "nom": "devrait",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "suffisamment",
+            "lemme": "suffisamment"
+        },
+        {
+            "nom": "perfectionné",
+            "lemme": "perfectionner"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "digne",
+            "lemme": "digne"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "propres",
+            "lemme": "propre"
+        },
+        {
+            "nom": "mots",
+            "lemme": "mot"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "combattre",
+            "lemme": "combattre"
+        },
+        {
+            "nom": "Bob",
+            "lemme": "Bob"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "dépit",
+            "lemme": "dépit"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "personnalité",
+            "lemme": "personnalité"
+        },
+        {
+            "nom": "maléfique",
+            "lemme": "maléfique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "montré",
+            "lemme": "montrer"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "côté",
+            "lemme": "côté"
+        },
+        {
+            "nom": "comique",
+            "lemme": "comique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "remarquant",
+            "lemme": "remarquer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Monsieur",
+            "lemme": "Monsieur"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Madame",
+            "lemme": "monsieur"
+        },
+        {
+            "nom": "Indestructible",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "avaient",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "perdu",
+            "lemme": "perdre"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "mariage",
+            "lemme": "mariage"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "jetant",
+            "lemme": "jeter"
+        },
+        {
+            "nom": "accidentellement",
+            "lemme": "accidentellement"
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Indestructible",
+            "lemme": "indestructible"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "falaise",
+            "lemme": "falaise"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "essayant",
+            "lemme": "essayer"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "expliquer",
+            "lemme": "expliquer"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "plan",
+            "lemme": "plan"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "dit",
+            "lemme": "dire"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Kari",
+            "lemme": "Kari"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "porter",
+            "lemme": "porter"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "BS",
+            "lemme": "b"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "chemise",
+            "lemme": "chemise"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "dessous",
+            "lemme": "dessous"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "tout",
+            "lemme": "tout"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "expliquant",
+            "lemme": "expliquer"
+        },
+        {
+            "nom": "pourquoi",
+            "lemme": "pourquoi"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "S",
+            "lemme": "s"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "chemise",
+            "lemme": "chemise"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "inutile",
+            "lemme": "inutile"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dire",
+            "lemme": "dire"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "toujours",
+            "lemme": "toujours"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "ça",
+            "lemme": "cela"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Buddy",
+            "lemme": "Buddy"
+        },
+        {
+            "nom": "Pine",
+            "lemme": "pin"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "joyeux",
+            "lemme": "joyeux"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "inventif",
+            "lemme": "inventif"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "optimiste",
+            "lemme": "optimiste"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "intelligent",
+            "lemme": "intelligent"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sinon",
+            "lemme": "sinon"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "peu",
+            "lemme": "peu"
+        },
+        {
+            "nom": "inquiétant",
+            "lemme": "inquiétant"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "désagréable",
+            "lemme": "désagréable"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "peu",
+            "lemme": "peu"
+        },
+        {
+            "nom": "obsédé",
+            "lemme": "obséder"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "M.Indestrutible",
+            "lemme": "m.indestrutibl"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "membre",
+            "lemme": "membre"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "fan",
+            "lemme": "fan"
+        },
+        {
+            "nom": "club",
+            "lemme": "club"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "connait",
+            "lemme": "conner"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "phrases",
+            "lemme": "phrase"
+        },
+        {
+            "nom": "favorites",
+            "lemme": "favorite"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "style",
+            "lemme": "style"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "combat",
+            "lemme": "combat"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "autoproclamé",
+            "lemme": "autoproclamer"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "grand",
+            "lemme": "grand"
+        },
+        {
+            "nom": "fan",
+            "lemme": "fan"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "enfant",
+            "lemme": "enfant"
+        },
+        {
+            "nom": "prodige",
+            "lemme": "prodige"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "créant",
+            "lemme": "créer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "fusées",
+            "lemme": "fusée"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "permettent",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "voler",
+            "lemme": "voler"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Après",
+            "lemme": "après"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "rejeté",
+            "lemme": "rejeter"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "M.Indestructibles",
+            "lemme": "m.indestructible"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "fois",
+            "lemme": "fois"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "rejet",
+            "lemme": "rejet"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "mené",
+            "lemme": "mener"
+        },
+        {
+            "nom": "Buddy",
+            "lemme": "Buddy"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "chemin",
+            "lemme": "chemin"
+        },
+        {
+            "nom": "sombre",
+            "lemme": "sombre"
+        },
+        {
+            "nom": "jusqu'",
+            "lemme": "jusque"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "ressente",
+            "lemme": "ressentir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "désir",
+            "lemme": "désir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vengeance",
+            "lemme": "vengeance"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "tant",
+            "lemme": "tant"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "enfant",
+            "lemme": "enfant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "pensait",
+            "lemme": "penser"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "super-héros",
+            "lemme": "super-héro"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "résumait",
+            "lemme": "résumer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "porter",
+            "lemme": "porter"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "tenues",
+            "lemme": "tenue"
+        },
+        {
+            "nom": "fraîches",
+            "lemme": "frais"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "battre",
+            "lemme": "battre"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "méchants",
+            "lemme": "méchant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "montrant",
+            "lemme": "montrer"
+        },
+        {
+            "nom": "aucun",
+            "lemme": "aucun"
+        },
+        {
+            "nom": "désir",
+            "lemme": "désir"
+        },
+        {
+            "nom": "réel",
+            "lemme": "réel"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "aider",
+            "lemme": "aider"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cela",
+            "lemme": "celer"
+        },
+        {
+            "nom": "suggère",
+            "lemme": "suggèr"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "pourrait",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "devenir",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "anti-héros",
+            "lemme": "anti-héro"
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "Bob",
+            "lemme": "bob"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "refusé",
+            "lemme": "refuser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "juste",
+            "lemme": "juste"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "enfant",
+            "lemme": "enfant"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "époque",
+            "lemme": "époque"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "peut-être",
+            "lemme": "peut-être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "compris",
+            "lemme": "comprendre"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "vraiment",
+            "lemme": "vraiment"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "super-héros",
+            "lemme": "super-héro"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Capacités",
+            "lemme": "capacité"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "armes",
+            "lemme": "arme"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "super-pouvoirs",
+            "lemme": "super-pouvoirs"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "génie",
+            "lemme": "génie"
+        },
+        {
+            "nom": "technologique",
+            "lemme": "technologique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Quand",
+            "lemme": "quand"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "encore",
+            "lemme": "encore"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "garçon",
+            "lemme": "garçon"
+        },
+        {
+            "nom": "doué",
+            "lemme": "doué"
+        },
+        {
+            "nom": "spécialisé",
+            "lemme": "spécialiser"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ingénierie",
+            "lemme": "ingénierie"
+        },
+        {
+            "nom": "technologique",
+            "lemme": "technologique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "puisqu'",
+            "lemme": "puisque"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "mesure",
+            "lemme": "mesure"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "créer",
+            "lemme": "créer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "bottes",
+            "lemme": "botte"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "âge",
+            "lemme": "âge"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "ayant",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pouvoirs",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "haute",
+            "lemme": "haute"
+        },
+        {
+            "nom": "intelligence",
+            "lemme": "intelligence"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "fait",
+            "lemme": "faire"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "adversaire",
+            "lemme": "adversaire"
+        },
+        {
+            "nom": "féroce",
+            "lemme": "féroce"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "compétences",
+            "lemme": "compétence"
+        },
+        {
+            "nom": "tactiques",
+            "lemme": "tactique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "inventions",
+            "lemme": "invention"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "révélant",
+            "lemme": "révéler"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "suffisantes",
+            "lemme": "suffisant"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "permettre",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "rivaliser",
+            "lemme": "rivaliser"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Incredible",
+            "lemme": "Incredible"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "ennemi",
+            "lemme": "ennemi"
+        },
+        {
+            "nom": "formidable",
+            "lemme": "formidable"
+        },
+        {
+            "nom": "lorsqu'",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "agissait",
+            "lemme": "agir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "construire",
+            "lemme": "construire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombreuses",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "technologies",
+            "lemme": "technologie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "armes",
+            "lemme": "arme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pointe",
+            "lemme": "pointe"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "capable",
+            "lemme": "capable"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "devenir",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "concepteur",
+            "lemme": "concepteur"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "armes",
+            "lemme": "arme"
+        },
+        {
+            "nom": "performant",
+            "lemme": "performant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Son",
+            "lemme": "son"
+        },
+        {
+            "nom": "arme",
+            "lemme": "arme"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "utilisée",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "gantelet",
+            "lemme": "gantelet"
+        },
+        {
+            "nom": "paralysant",
+            "lemme": "paralysant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "utilisant",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "énergie",
+            "lemme": "énergie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "point",
+            "lemme": "point"
+        },
+        {
+            "nom": "zéro",
+            "lemme": "zéro"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "capable",
+            "lemme": "capable"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "créer",
+            "lemme": "créer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "champ",
+            "lemme": "champ"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "énergie",
+            "lemme": "énergie"
+        },
+        {
+            "nom": "quantique",
+            "lemme": "quantique"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "empêche",
+            "lemme": "empêcher"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "majorité",
+            "lemme": "majorité"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "mouvement",
+            "lemme": "mouvement"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "victime",
+            "lemme": "victime"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Si",
+            "lemme": "si"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "peau",
+            "lemme": "peau"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "victime",
+            "lemme": "victime"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "exposée",
+            "lemme": "exposer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "portée",
+            "lemme": "portée"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "visage",
+            "lemme": "visage"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "victime",
+            "lemme": "victime"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "portée",
+            "lemme": "porter"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "minimum",
+            "lemme": "minimum"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "seuls",
+            "lemme": "seul"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "yeux",
+            "lemme": "oeil"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "déplacer",
+            "lemme": "déplacer"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "capacité",
+            "lemme": "capacité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "parler",
+            "lemme": "parler"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "inhibée",
+            "lemme": "inhiber"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "champ",
+            "lemme": "champ"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "déplacé",
+            "lemme": "déplacer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "doigts",
+            "lemme": "doigt"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "tiré",
+            "lemme": "tirer"
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "soufflures",
+            "lemme": "soufflure"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "énergie",
+            "lemme": "énergie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "faisceaux",
+            "lemme": "faisceau"
+        },
+        {
+            "nom": "concentrés",
+            "lemme": "concentrer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "courts",
+            "lemme": "court"
+        },
+        {
+            "nom": "jours",
+            "lemme": "jour"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "IncrediBoy",
+            "lemme": "IncrediBoy"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Buddy",
+            "lemme": "Buddy"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "roquettes",
+            "lemme": "roquette"
+        },
+        {
+            "nom": "improvisées",
+            "lemme": "improviser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "tant",
+            "lemme": "tant"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "bottes",
+            "lemme": "botte"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "roquette",
+            "lemme": "roquette"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "modifiées",
+            "lemme": "modifier"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "projeter",
+            "lemme": "projeter"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "flammes",
+            "lemme": "flamme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "feu",
+            "lemme": "feu"
+        },
+        {
+            "nom": "bleu",
+            "lemme": "bleu"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "bottes",
+            "lemme": "botte"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "permettent",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "voler",
+            "lemme": "voler"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "efficacité",
+            "lemme": "efficacité"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "utilise",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "appareil",
+            "lemme": "appareil"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "localiser",
+            "lemme": "localiser"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "signaux",
+            "lemme": "signal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "température",
+            "lemme": "température"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "atmosphère",
+            "lemme": "atmosphère"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vie",
+            "lemme": "vie"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "divers",
+            "lemme": "divers"
+        },
+        {
+            "nom": "endroits",
+            "lemme": "endroit"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "batterie",
+            "lemme": "batterie"
+        },
+        {
+            "nom": "petite",
+            "lemme": "petit"
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "extrêmement",
+            "lemme": "extrêmement"
+        },
+        {
+            "nom": "puissante",
+            "lemme": "puissante"
+        },
+        {
+            "nom": "capable",
+            "lemme": "capable"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "provoquer",
+            "lemme": "provoquer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "explosions",
+            "lemme": "explosion"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Enfin",
+            "lemme": "enfin"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "Syndrome"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "conçu",
+            "lemme": "concevoir"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "Omnidroids",
+            "lemme": "omnidroid"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "À",
+            "lemme": "à"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "jour",
+            "lemme": "jour"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "y",
+            "lemme": "y"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "eu",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "dix",
+            "lemme": "dix"
+        },
+        {
+            "nom": "versions",
+            "lemme": "version"
+        },
+        {
+            "nom": "connues",
+            "lemme": "connu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "robot",
+            "lemme": "robot"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "combat",
+            "lemme": "combat"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "neuf",
+            "lemme": "neuf"
+        },
+        {
+            "nom": "premiers",
+            "lemme": "premier"
+        },
+        {
+            "nom": "étaient",
+            "lemme": "être"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "prototypes",
+            "lemme": "prototype"
+        },
+        {
+            "nom": "conçus",
+            "lemme": "concevoir"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "combattre",
+            "lemme": "combattre"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "tuer",
+            "lemme": "tuer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "supers",
+            "lemme": "super"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "dixième",
+            "lemme": "dixième"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "opération",
+            "lemme": "opération"
+        },
+        {
+            "nom": "Kronos",
+            "lemme": "Kronos"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Tous",
+            "lemme": "tout"
+        },
+        {
+            "nom": "étaient",
+            "lemme": "être"
+        },
+        {
+            "nom": "artificiellement",
+            "lemme": "artificiellement"
+        },
+        {
+            "nom": "intelligents",
+            "lemme": "intelligent"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "permet",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "résoudre",
+            "lemme": "résoudre"
+        },
+        {
+            "nom": "tout",
+            "lemme": "tout"
+        },
+        {
+            "nom": "problème",
+            "lemme": "problème"
+        },
+        {
+            "nom": "rencontré",
+            "lemme": "rencontrer"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Omnidroid",
+            "lemme": "omnidroid"
+        },
+        {
+            "nom": "v.10",
+            "lemme": "v.10"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "découvert",
+            "lemme": "découvrir"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "dispositif",
+            "lemme": "dispositif"
+        },
+        {
+            "nom": "distant",
+            "lemme": "dister"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "contrôler",
+            "lemme": "contrôler"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "frappé",
+            "lemme": "frapper"
+        },
+        {
+            "nom": "inconscient",
+            "lemme": "inconscient"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "autre",
+            "lemme": "autre"
+        },
+        {
+            "nom": "caractéristique",
+            "lemme": "caractéristique"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "omnidroïdes",
+            "lemme": "omnidroïde"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "yeux",
+            "lemme": "oeil"
+        },
+        {
+            "nom": "colorés",
+            "lemme": "coloré"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "seule",
+            "lemme": "seul"
+        },
+        {
+            "nom": "faiblesse",
+            "lemme": "faiblesse"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Omnidroid",
+            "lemme": "Omnidroid"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "lui-même",
+            "lemme": "lui-même"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "film",
+            "lemme": "film"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Incredible",
+            "lemme": "Incredible"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "brouille",
+            "lemme": "brouille"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "fonctionnement",
+            "lemme": "fonctionnement"
+        },
+        {
+            "nom": "interne",
+            "lemme": "interne"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Omnidroid",
+            "lemme": "omnidroid"
+        },
+        {
+            "nom": "08",
+            "lemme": "08"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "fait",
+            "lemme": "faire"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "machine",
+            "lemme": "machine"
+        },
+        {
+            "nom": "perfore",
+            "lemme": "perforer"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "propre",
+            "lemme": "propre"
+        },
+        {
+            "nom": "coque",
+            "lemme": "coqu"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "tentative",
+            "lemme": "tentative"
+        },
+        {
+            "nom": "vaine",
+            "lemme": "vaine"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pirater",
+            "lemme": "pirater"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "héros",
+            "lemme": "héros"
+        },
+        {
+            "nom": "depuis",
+            "lemme": "depuis"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "intérieur",
+            "lemme": "intérieur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "tard",
+            "lemme": "tard"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "M.",
+            "lemme": "m."
+        },
+        {
+            "nom": "Incredible",
+            "lemme": "Incredible"
+        },
+        {
+            "nom": "lance",
+            "lemme": "lancer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Omnidroid",
+            "lemme": "omnidroid"
+        },
+        {
+            "nom": "v",
+            "lemme": "v"
+        },
+        {
+            "nom": ".10",
+            "lemme": ".10"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "griffe",
+            "lemme": "griffe"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "elle-même",
+            "lemme": "lui-même"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "larmes",
+            "lemme": "larme"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "travers",
+            "lemme": "travers"
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "déchirant",
+            "lemme": "déchirer"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "noyau",
+            "lemme": "noyau"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "puissance",
+            "lemme": "puissance"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "Disney",
+            "lemme": "Disney"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "animation",
+            "lemme": "animation"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "humour",
+            "lemme": "humour"
+        }
+    ]
+]

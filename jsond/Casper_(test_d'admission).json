@@ -1,0 +1,1384 @@
+[
+    [
+        {
+            "nom": "Casper",
+            "lemme": "casper"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Computer",
+            "lemme": "computer"
+        },
+        {
+            "nom": "Based",
+            "lemme": "Based"
+        },
+        {
+            "nom": "Assessment",
+            "lemme": "Assessment"
+        },
+        {
+            "nom": "for",
+            "lemme": "for"
+        },
+        {
+            "nom": "Sampling",
+            "lemme": "Sampling"
+        },
+        {
+            "nom": "Personal",
+            "lemme": "Personal"
+        },
+        {
+            "nom": "Characteristics",
+            "lemme": "Characteristics"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "anciennement",
+            "lemme": "anciennement"
+        },
+        {
+            "nom": "CASPer",
+            "lemme": "casper"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "CMSENS",
+            "lemme": "cmsen"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "test",
+            "lemme": "test"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "admission",
+            "lemme": "admission"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "ligne",
+            "lemme": "ligne"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "développé",
+            "lemme": "développé"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Harold",
+            "lemme": "Harold"
+        },
+        {
+            "nom": "Reiter",
+            "lemme": "Reiter"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "d",
+            "lemme": "d"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Kelly",
+            "lemme": "Kelly"
+        },
+        {
+            "nom": "Dore",
+            "lemme": "Dore"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "d",
+            "lemme": "d"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "test",
+            "lemme": "test"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "créé",
+            "lemme": "créer"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "évaluer",
+            "lemme": "évaluer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "qualités",
+            "lemme": "qualité"
+        },
+        {
+            "nom": "personnelles",
+            "lemme": "personnelle"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "professionnelles",
+            "lemme": "professionnel"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "candidat",
+            "lemme": "candidat"
+        },
+        {
+            "nom": "universitaire",
+            "lemme": "universitaire"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étape",
+            "lemme": "étape"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "présélection",
+            "lemme": "présélection"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "processus",
+            "lemme": "processus"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "candidature",
+            "lemme": "candidature"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "test",
+            "lemme": "test"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "test",
+            "lemme": "test"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "jugement",
+            "lemme": "jugement"
+        },
+        {
+            "nom": "situationnel",
+            "lemme": "situationnel"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "consiste",
+            "lemme": "consister"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "scénarios",
+            "lemme": "scénario"
+        },
+        {
+            "nom": "vidéo",
+            "lemme": "vidéo"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "textuels",
+            "lemme": "textuel"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "basés",
+            "lemme": "baser"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "situations",
+            "lemme": "situation"
+        },
+        {
+            "nom": "réelles",
+            "lemme": "réel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "candidats",
+            "lemme": "candidat"
+        },
+        {
+            "nom": "disposent",
+            "lemme": "disposer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cinq",
+            "lemme": "cinq"
+        },
+        {
+            "nom": "minutes",
+            "lemme": "minute"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "répondre",
+            "lemme": "répondre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "trois",
+            "lemme": "trois"
+        },
+        {
+            "nom": "questions",
+            "lemme": "question"
+        },
+        {
+            "nom": "ouvertes",
+            "lemme": "ouvert"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Historique",
+            "lemme": "historique"
+        },
+        {
+            "nom": "Conçu",
+            "lemme": "Conçu"
+        },
+        {
+            "nom": "initialement",
+            "lemme": "initialement"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "programme",
+            "lemme": "programme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "recherche",
+            "lemme": "recherche"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "développement",
+            "lemme": "développement"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "éducation",
+            "lemme": "éducation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Université",
+            "lemme": "université"
+        },
+        {
+            "nom": "McMaster",
+            "lemme": "mcmaster"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Casper",
+            "lemme": "casper"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "faculté",
+            "lemme": "faculté"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Université",
+            "lemme": "université"
+        },
+        {
+            "nom": "McMaster",
+            "lemme": "mcmaster"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "depuis",
+            "lemme": "depuis"
+        },
+        {
+            "nom": "2010",
+            "lemme": "2010"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "suite",
+            "lemme": "suite"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Casper",
+            "lemme": "casper"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "testé",
+            "lemme": "tester"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "École",
+            "lemme": "école"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Nord",
+            "lemme": "nord"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Ontario",
+            "lemme": "Ontario"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "cycle",
+            "lemme": "cycle"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "candidature",
+            "lemme": "candidature"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "2014",
+            "lemme": "2014"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "année",
+            "lemme": "année"
+        },
+        {
+            "nom": "suivante",
+            "lemme": "suivant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "adopté",
+            "lemme": "adopter"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "trois",
+            "lemme": "trois"
+        },
+        {
+            "nom": "facultés",
+            "lemme": "faculté"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Faculté",
+            "lemme": "Faculté"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Université",
+            "lemme": "université"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Ottawa",
+            "lemme": "Ottawa"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Robert",
+            "lemme": "Robert"
+        },
+        {
+            "nom": "Wood",
+            "lemme": "Wood"
+        },
+        {
+            "nom": "Johnson",
+            "lemme": "Johnson"
+        },
+        {
+            "nom": "Medical",
+            "lemme": "Medical"
+        },
+        {
+            "nom": "School",
+            "lemme": "School"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "New",
+            "lemme": "New"
+        },
+        {
+            "nom": "York",
+            "lemme": "York"
+        },
+        {
+            "nom": "Medical",
+            "lemme": "Medical"
+        },
+        {
+            "nom": "College",
+            "lemme": "College"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "2024",
+            "lemme": "2024"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Casper",
+            "lemme": "casper"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "dizaines",
+            "lemme": "dizaine"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "institutions",
+            "lemme": "institution"
+        },
+        {
+            "nom": "scolaires",
+            "lemme": "scolaire"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "Amérique",
+            "lemme": "Amérique"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Nord",
+            "lemme": "nord"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Caractéristiques",
+            "lemme": "caractéristique"
+        },
+        {
+            "nom": "Critiques",
+            "lemme": "critique"
+        },
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "journaliste",
+            "lemme": "journaliste"
+        },
+        {
+            "nom": "Braden",
+            "lemme": "Braden"
+        },
+        {
+            "nom": "MacBeth",
+            "lemme": "macbeth"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "critiqué",
+            "lemme": "critiquer"
+        },
+        {
+            "nom": "Casper",
+            "lemme": "casper"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "site",
+            "lemme": "site"
+        },
+        {
+            "nom": "Science",
+            "lemme": "Science"
+        },
+        {
+            "nom": "Based",
+            "lemme": "Based"
+        },
+        {
+            "nom": "Medicine",
+            "lemme": "Medicine"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "site",
+            "lemme": "site"
+        },
+        {
+            "nom": "maintenu",
+            "lemme": "maintenir"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "OBNL",
+            "lemme": "OBNL"
+        },
+        {
+            "nom": "New",
+            "lemme": "New"
+        },
+        {
+            "nom": "England",
+            "lemme": "England"
+        },
+        {
+            "nom": "Skeptical",
+            "lemme": "Skeptical"
+        },
+        {
+            "nom": "Society",
+            "lemme": "Society"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "manque",
+            "lemme": "manque"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "transparence",
+            "lemme": "transparence"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "études",
+            "lemme": "étude"
+        },
+        {
+            "nom": "erronées",
+            "lemme": "erroner"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "conflit",
+            "lemme": "conflit"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "intérêts",
+            "lemme": "intérêt"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "MacBeth",
+            "lemme": "macbeth"
+        },
+        {
+            "nom": "conclut",
+            "lemme": "conclure"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "CASPer",
+            "lemme": "casper"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "devrait",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "intégré",
+            "lemme": "intégré"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "processus",
+            "lemme": "processus"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "admission",
+            "lemme": "admission"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "facultés",
+            "lemme": "faculté"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Cet",
+            "lemme": "ce"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "partiellement",
+            "lemme": "partiellement"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "totalité",
+            "lemme": "totalité"
+        },
+        {
+            "nom": "issu",
+            "lemme": "issu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Wikipédia",
+            "lemme": "Wikipédia"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": "intitulé",
+            "lemme": "intituler"
+        },
+        {
+            "nom": "Casper",
+            "lemme": "casper"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "admissions",
+            "lemme": "admission"
+        },
+        {
+            "nom": "test",
+            "lemme": "test"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "auteurs",
+            "lemme": "auteur"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "universités",
+            "lemme": "université"
+        }
+    ]
+]

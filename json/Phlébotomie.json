@@ -1,0 +1,44 @@
+[
+    [
+        {
+            "nom": "Phlébotomie",
+            "lemme": "phlébotomie"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Saignée",
+            "lemme": "Saignée"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Prélèvement",
+            "lemme": "prélèvement"
+        },
+        {
+            "nom": "sanguin",
+            "lemme": "sanguin"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ]
+]

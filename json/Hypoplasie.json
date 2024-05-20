@@ -1,0 +1,936 @@
+[
+    [
+        {
+            "nom": "Hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "hypoplastie",
+            "lemme": "hypoplastie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "grec",
+            "lemme": "grec"
+        },
+        {
+            "nom": "ὑπό",
+            "lemme": "ὑπό"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "hypo",
+            "lemme": "hypo"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "dessous",
+            "lemme": "dessous"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "πλάσσειν",
+            "lemme": "πλάσσειν"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "plassein",
+            "lemme": "plassein"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "former",
+            "lemme": "former"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "général",
+            "lemme": "général"
+        },
+        {
+            "nom": "créé",
+            "lemme": "créer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Virchow",
+            "lemme": "Virchow"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1870",
+            "lemme": "1870"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "désigner",
+            "lemme": "désigner"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "arrêt",
+            "lemme": "arrêt"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "développement",
+            "lemme": "développement"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "développement",
+            "lemme": "développement"
+        },
+        {
+            "nom": "insuffisant",
+            "lemme": "insuffisant"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "plupart",
+            "lemme": "plupart"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "génétiques",
+            "lemme": "génétique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "elles",
+            "lemme": "lui"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "résulter",
+            "lemme": "résulter"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "phénomènes",
+            "lemme": "phénomène"
+        },
+        {
+            "nom": "toxicologiques",
+            "lemme": "toxicologique"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ex",
+            "lemme": "ex"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "exposition",
+            "lemme": "exposition"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "embryon",
+            "lemme": "embryon"
+        },
+        {
+            "nom": "in",
+            "lemme": "in"
+        },
+        {
+            "nom": "utero",
+            "lemme": "utero"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produit"
+        },
+        {
+            "nom": "chimiques",
+            "lemme": "chimique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "tératogènes",
+            "lemme": "tératogène"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "antivitamines",
+            "lemme": "antivitamine"
+        },
+        {
+            "nom": "K",
+            "lemme": "k"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "franchir",
+            "lemme": "franchir"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "barrière",
+            "lemme": "barrière"
+        },
+        {
+            "nom": "placentaire",
+            "lemme": "placentaire"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Exemples",
+            "lemme": "Exemples"
+        },
+        {
+            "nom": "Hypoplasie",
+            "lemme": "Hypoplasie"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "seins",
+            "lemme": "sein"
+        },
+        {
+            "nom": "durant",
+            "lemme": "durer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "puberté",
+            "lemme": "puberté"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "testiculaire",
+            "lemme": "testiculaire"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Klinefelter",
+            "lemme": "Klinefelter"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "thyroïdienne",
+            "lemme": "thyroïdien"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "microdélétion",
+            "lemme": "microdélétion"
+        },
+        {
+            "nom": "22q11",
+            "lemme": "22q11"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "cérébelleuse",
+            "lemme": "cérébelleux"
+        },
+        {
+            "nom": "causée",
+            "lemme": "causer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "mutation",
+            "lemme": "mutation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "gène",
+            "lemme": "gène"
+        },
+        {
+            "nom": "RELN",
+            "lemme": "reln"
+        },
+        {
+            "nom": "codant",
+            "lemme": "coder"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "reeline",
+            "lemme": "reeline"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "émail",
+            "lemme": "émail"
+        },
+        {
+            "nom": "dentaire",
+            "lemme": "dentaire"
+        },
+        {
+            "nom": "témoignant",
+            "lemme": "témoigner"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "états",
+            "lemme": "état"
+        },
+        {
+            "nom": "carentiels",
+            "lemme": "carentiel"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "squelettique",
+            "lemme": "squelettique"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cage",
+            "lemme": "cage"
+        },
+        {
+            "nom": "thoracique",
+            "lemme": "thoracique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "côtes",
+            "lemme": "côte"
+        },
+        {
+            "nom": "D-12",
+            "lemme": "d-12"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "médullaire",
+            "lemme": "médullaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "maxillaire",
+            "lemme": "maxillaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "médio-faciale",
+            "lemme": "médio-facial"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "ventriculaire",
+            "lemme": "ventriculaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "nerfs",
+            "lemme": "nerf"
+        },
+        {
+            "nom": "optiques",
+            "lemme": "optique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cadre",
+            "lemme": "cadre"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Morsier",
+            "lemme": "Morsier"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "hypoplasie",
+            "lemme": "hypoplasie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "bourgeon",
+            "lemme": "bourgeon"
+        },
+        {
+            "nom": "caudal",
+            "lemme": "caudal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Sirénomélie",
+            "lemme": "Sirénomélie"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "microtie",
+            "lemme": "microtie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "pavillon",
+            "lemme": "pavillon"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "oreille",
+            "lemme": "oreille"
+        },
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Médecine",
+            "lemme": "Médecine"
+        },
+        {
+            "nom": "Anatomie",
+            "lemme": "Anatomie"
+        },
+        {
+            "nom": "Stries",
+            "lemme": "strie"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "arrêt",
+            "lemme": "arrêt"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "croissance",
+            "lemme": "croissance"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
+        },
+        {
+            "nom": "Garnier",
+            "lemme": "Garnier"
+        },
+        {
+            "nom": "M",
+            "lemme": "M"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Delamare",
+            "lemme": "Delamare"
+        },
+        {
+            "nom": "V.",
+            "lemme": "V."
+        },
+        {
+            "nom": "Dictionnaire",
+            "lemme": "Dictionnaire"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "termes",
+            "lemme": "terme"
+        },
+        {
+            "nom": "techniques",
+            "lemme": "technique"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

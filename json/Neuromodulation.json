@@ -1,2986 +1,3472 @@
 [
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "mot",
-            "id": "2497927"
+            "nom": "mot",
+            "lemme": "mot"
         },
         {
-            "mot": "neuromodulation",
-            "id": "143638932"
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "sens",
-            "id": "232840358"
+            "nom": "sens",
+            "lemme": "sens"
         },
         {
-            "mot": "différent",
-            "id": "NULL"
+            "nom": "différent",
+            "lemme": "différent"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "neuroscience",
-            "id": "5722401"
+            "nom": "neuroscience",
+            "lemme": "neuroscience"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "neurosciences",
-            "id": "11807364"
+            "nom": "neurosciences",
+            "lemme": "neuroscience"
         },
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "ce",
-            "id": "138967"
+            "nom": "ce",
+            "lemme": "ce"
         },
         {
-            "mot": "domaine",
-            "id": "142250"
+            "nom": "domaine",
+            "lemme": "domaine"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "neuromodulation",
-            "id": "143638932"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "processus",
-            "id": "567654"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "processus",
+            "lemme": "processus"
         },
         {
-            "mot": "lequel",
-            "id": "16087713"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "plusieurs",
-            "id": "412067"
+            "nom": "lequel",
+            "lemme": "lequel"
         },
         {
-            "mot": "classes",
-            "id": "5720496"
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "classes",
+            "lemme": "classe"
         },
         {
-            "mot": "neurotransmetteurs",
-            "id": "254963091"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "neurotransmetteurs",
+            "lemme": "neurotransmetteur"
         },
         {
-            "mot": "système",
-            "id": "NULL"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "nerveux",
-            "id": "17341686"
+            "nom": "système",
+            "lemme": "système"
         },
         {
-            "mot": "régulent",
-            "id": "NULL"
+            "nom": "nerveux",
+            "lemme": "nerveux"
         },
         {
-            "mot": "plusieurs",
-            "id": "412067"
+            "nom": "régulent",
+            "lemme": "réguler"
         },
         {
-            "mot": "populations",
-            "id": "573236"
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "populations",
+            "lemme": "population"
         },
         {
-            "mot": "neurones",
-            "id": "16786121"
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "neurones",
+            "lemme": "neurone"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "À",
-            "id": "NULL"
+            "nom": "À",
+            "lemme": "à"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "opposé",
-            "id": "NULL"
+            "nom": "opposé",
+            "lemme": "opposé"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "transmission",
-            "id": "15633115"
+            "nom": "transmission",
+            "lemme": "transmission"
         },
         {
-            "mot": "synaptique",
-            "id": "75666"
+            "nom": "synaptique",
+            "lemme": "synaptique"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "laquelle",
-            "id": "16015097"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "laquelle",
+            "lemme": "lequel"
         },
         {
-            "mot": "neurone",
-            "id": "15016123"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "présynaptique",
-            "id": "NULL"
+            "nom": "neurone",
+            "lemme": "neurone"
         },
         {
-            "mot": "influence",
-            "id": "425225"
+            "nom": "présynaptique",
+            "lemme": "présynaptique"
         },
         {
-            "mot": "directement",
-            "id": "251839577"
+            "nom": "influence",
+            "lemme": "influence"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "directement",
+            "lemme": "directement"
         },
         {
-            "mot": "pair",
-            "id": "420463"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "postsynaptique",
-            "id": "56968"
+            "nom": "pair",
+            "lemme": "pair"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "postsynaptique",
+            "lemme": "postsynaptique"
         },
         {
-            "mot": "transmetteurs",
-            "id": "2100917"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "neuromodulateurs",
-            "id": "255142580"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "sécrétés",
-            "id": "NULL"
+            "nom": "transmetteurs",
+            "lemme": "transmetteur"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "neuromodulateurs",
+            "lemme": "neuromodulateur"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "sécrétés",
+            "lemme": "sécréter"
         },
         {
-            "mot": "groupe",
-            "id": "15625673"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "restreint",
-            "id": "253449472"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "groupe",
+            "lemme": "groupe"
         },
         {
-            "mot": "neurones",
-            "id": "16786121"
+            "nom": "restreint",
+            "lemme": "restreindre"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "diffusent",
-            "id": "2067560"
+            "nom": "neurones",
+            "lemme": "neurone"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "travers",
-            "id": "137301"
+            "nom": "diffusent",
+            "lemme": "diffuser"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "système",
-            "id": "NULL"
+            "nom": "travers",
+            "lemme": "travers"
         },
         {
-            "mot": "nerveux",
-            "id": "17341686"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "ayant",
-            "id": "255259909"
+            "nom": "système",
+            "lemme": "système"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "nerveux",
+            "lemme": "nerveux"
         },
         {
-            "mot": "impact",
-            "id": "17178360"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "ayant",
+            "lemme": "avoir"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "multiples",
-            "id": "15519166"
+            "nom": "impact",
+            "lemme": "impact"
         },
         {
-            "mot": "neurones",
-            "id": "16786121"
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "multiples",
+            "lemme": "multiple"
+        },
+        {
+            "nom": "neurones",
+            "lemme": "neurone"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Parmi",
-            "id": "2931856"
+            "nom": "Parmi",
+            "lemme": "parmi"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "neuromodulateurs",
-            "id": "255142580"
+            "nom": "neuromodulateurs",
+            "lemme": "neuromodulateur"
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "trouve",
-            "id": "16513307"
+            "nom": "trouve",
+            "lemme": "trouver"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "dopamine",
-            "id": "3229576"
+            "nom": "dopamine",
+            "lemme": "dopamine"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "sérotonine",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "sérotonine",
+            "lemme": "sérotonine"
         },
         {
-            "mot": "acétylcholine",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "acétylcholine",
+            "lemme": "acétylcholine"
         },
         {
-            "mot": "histamine",
-            "id": "102964303"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "mais",
-            "id": "397741"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "bien",
-            "id": "15532334"
+            "nom": "histamine",
+            "lemme": "histamine"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "autres",
-            "id": "402129"
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Systèmes",
-            "id": "NULL"
+            "nom": "Systèmes",
+            "lemme": "système"
         },
         {
-            "mot": "neuromusculaires",
-            "id": "1854236"
+            "nom": "neuromusculaires",
+            "lemme": "neuromusculaire"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "neuromodulateurs",
-            "id": "255142580"
+            "nom": "neuromodulateurs",
+            "lemme": "neuromodulateur"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "y",
-            "id": "144184"
+            "nom": "y",
+            "lemme": "y"
         },
         {
-            "mot": "altérer",
-            "id": "NULL"
+            "nom": "altérer",
+            "lemme": "altérer"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "rendement",
-            "id": "3317148"
+            "nom": "rendement",
+            "lemme": "rendement"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "système",
-            "id": "NULL"
+            "nom": "système",
+            "lemme": "système"
         },
         {
-            "mot": "physiologique",
-            "id": "156457388"
+            "nom": "physiologique",
+            "lemme": "physiologique"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "affectant",
-            "id": "224066"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "affectant",
+            "lemme": "affecter"
         },
         {
-            "mot": "entrées",
-            "id": "NULL"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "associées",
-            "id": "NULL"
+            "nom": "entrées",
+            "lemme": "entrée"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "associées",
+            "lemme": "associer"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "générateurs",
-            "id": "NULL"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "modèles",
-            "id": "NULL"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "centraux",
-            "id": "404032"
+            "nom": "générateurs",
+            "lemme": "générateur"
         },
         {
-            "mot": "Toutefois",
-            "id": "14670793"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "modèles",
+            "lemme": "modèle"
         },
         {
-            "mot": "travail",
-            "id": "17638133"
+            "nom": "centraux",
+            "lemme": "central"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "ces",
-            "id": "2446001"
-        },
-        {
-            "mot": "modèles",
-            "id": "NULL"
-        },
-        {
-            "mot": "suggèrent",
-            "id": "NULL"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "cela",
-            "id": "15550577"
-        },
-        {
-            "mot": "seul",
-            "id": "178311537"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "insuffisant",
-            "id": "250942133"
-        },
-        {
-            "mot": "parce",
-            "id": "5995594"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "transformation",
-            "id": "5785933"
-        },
-        {
-            "mot": "neuromusculaire",
-            "id": "11910"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "données",
-            "id": "NULL"
-        },
-        {
-            "mot": "neuronales",
-            "id": "1818043"
-        },
-        {
-            "mot": "aux",
-            "id": "15504815"
-        },
-        {
-            "mot": "rendements",
-            "id": "416022"
-        },
-        {
-            "mot": "musculaires",
-            "id": "156594985"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "accordée",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "plages",
-            "id": "435428"
-        },
-        {
-            "mot": "spécifiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "données",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "On",
-            "id": "2529893"
+            "nom": "Toutefois",
+            "lemme": "toutefois"
         },
         {
-            "mot": "propose",
-            "id": "3383078"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "travail",
+            "lemme": "travail"
         },
         {
-            "mot": "neuromodulateurs",
-            "id": "255142580"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "doivent",
-            "id": "2077013"
+            "nom": "ces",
+            "lemme": "ce"
         },
         {
-            "mot": "agir",
-            "id": "1873633"
+            "nom": "modèles",
+            "lemme": "modèle"
         },
         {
-            "mot": "non",
-            "id": "2409585"
+            "nom": "suggèrent",
+            "lemme": "suggérer"
         },
         {
-            "mot": "seulement",
-            "id": "11833826"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "cela",
+            "lemme": "celer"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "seul",
+            "lemme": "seul"
         },
         {
-            "mot": "système",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "insuffisant",
+            "lemme": "insuffiser"
         },
         {
-            "mot": "données",
-            "id": "NULL"
+            "nom": "parce",
+            "lemme": "parce"
         },
         {
-            "mot": "mais",
-            "id": "397741"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "doit",
-            "id": "461257"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "transformation",
+            "lemme": "transformation"
         },
         {
-            "mot": "changer",
-            "id": "411332"
+            "nom": "neuromusculaire",
+            "lemme": "neuromusculaire"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "transformation",
-            "id": "5785933"
+            "nom": "données",
+            "lemme": "donnée"
         },
         {
-            "mot": "elle",
-            "id": "9986297"
+            "nom": "neuronales",
+            "lemme": "neuronal"
         },
         {
-            "mot": "même",
-            "id": "NULL"
+            "nom": "aux",
+            "lemme": "à"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "rendements",
+            "lemme": "rendement"
         },
         {
-            "mot": "produire",
-            "id": "42963"
+            "nom": "musculaires",
+            "lemme": "musculaire"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "contractions",
-            "id": "255947963"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "accordée",
+            "lemme": "accorder"
         },
         {
-            "mot": "muscles",
-            "id": "5570582"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "voulus",
-            "id": "2099923"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "plages",
+            "lemme": "plage"
         },
         {
-            "mot": "rendement",
-            "id": "3317148"
+            "nom": "spécifiques",
+            "lemme": "spécifique"
         },
         {
-            "mot": "final",
-            "id": "405340"
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "données",
+            "lemme": "donnée"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "On",
+            "lemme": "on"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "propose",
+            "lemme": "proposer"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "neuromodulation",
-            "id": "143638932"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "désigne",
-            "id": "NULL"
+            "nom": "neuromodulateurs",
+            "lemme": "neuromodulateur"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "doivent",
+            "lemme": "devoir"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "agir",
+            "lemme": "agir"
         },
         {
-            "mot": "certains",
-            "id": "425463"
+            "nom": "non",
+            "lemme": "non"
         },
         {
-            "mot": "systèmes",
-            "id": "NULL"
+            "nom": "seulement",
+            "lemme": "seulement"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "Neurostimulation",
-            "id": "94512"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "système",
+            "lemme": "système"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "électrodes",
-            "id": "NULL"
+            "nom": "données",
+            "lemme": "donnée"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "mais",
+            "lemme": "mais"
         },
         {
-            "mot": "neuromodulation",
-            "id": "143638932"
+            "nom": "doit",
+            "lemme": "devoir"
         },
         {
-            "mot": "externes",
-            "id": "16087769"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "changer",
+            "lemme": "changer"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "transformation",
+            "lemme": "transformation"
         },
         {
-            "mot": "neurostimulateur",
-            "id": "2416991"
+            "nom": "elle-même",
+            "lemme": "lui-même"
         },
         {
-            "mot": "implanté",
-            "id": "NULL"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "produire",
+            "lemme": "produire"
         },
         {
-            "mot": "premier",
-            "id": "17340841"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "date",
-            "id": "565889"
+            "nom": "contractions",
+            "lemme": "contraction"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "réf",
-            "id": "NULL"
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "voulus",
+            "lemme": "voulu"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "rendement",
+            "lemme": "rendement"
+        },
+        {
+            "nom": "final",
+            "lemme": "final"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "souhaitée",
-            "id": "NULL"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "généralement",
-            "id": "NULL"
+            "nom": "médecine",
+            "lemme": "médecine"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "traiter",
-            "id": "99270"
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "désigne",
+            "lemme": "désigner"
         },
         {
-            "mot": "douleur",
-            "id": "417682"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "neuropathique",
-            "id": "118605"
+            "nom": "médecine",
+            "lemme": "médecine"
         },
         {
-            "mot": "chronique",
-            "id": "402275"
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "systèmes",
+            "lemme": "système"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Neurostimulation",
+            "lemme": "neurostimulation"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "électrodes",
+            "lemme": "électrode"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "neurostimulateur",
+            "lemme": "neurostimulateur"
+        },
+        {
+            "nom": "implanté",
+            "lemme": "implanter"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "premier",
+            "lemme": "premier"
+        },
+        {
+            "nom": "date",
+            "lemme": "date"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "1967[réf",
+            "lemme": "1967[réf"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Selon",
-            "id": "2577623"
+            "nom": "souhaitée",
+            "lemme": "souhaiter"
         },
         {
-            "mot": "sa",
-            "id": "187135358"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "localisation",
-            "id": "413332"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "généralement",
+            "lemme": "généralement"
         },
         {
-            "mot": "parlera",
-            "id": "2078961"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "traiter",
+            "lemme": "traiter"
         },
         {
-            "mot": "neuromodulation",
-            "id": "143638932"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "médullaire",
-            "id": "NULL"
+            "nom": "douleur",
+            "lemme": "douleur"
         },
         {
-            "mot": "sacrée",
-            "id": "NULL"
+            "nom": "neuropathique",
+            "lemme": "neuropathique"
         },
         {
-            "mot": "pudendale",
-            "id": "419407"
+            "nom": "chronique",
+            "lemme": "chronique"
         },
         {
-            "mot": "vaginale",
-            "id": "260401"
-        },
-        {
-            "mot": "suprapubienne",
-            "id": "6086527"
-        },
-        {
-            "mot": "cérébrale",
-            "id": "NULL"
-        },
-        {
-            "mot": "etc",
-            "id": "111768245"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "Selon",
+            "lemme": "selon"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "sa",
+            "lemme": "son"
         },
         {
-            "mot": "hyperactivité",
-            "id": "NULL"
+            "nom": "localisation",
+            "lemme": "localisation"
         },
         {
-            "mot": "vésicale",
-            "id": "NULL"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "HAV",
-            "id": "16513558"
+            "nom": "parlera",
+            "lemme": "parler"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "afférences",
-            "id": "NULL"
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
         },
         {
-            "mot": "sacrées",
-            "id": "NULL"
+            "nom": "médullaire",
+            "lemme": "médullaire"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "faire",
-            "id": "14890873"
+            "nom": "sacrée",
+            "lemme": "sacrer"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "objet",
-            "id": "413085"
+            "nom": "pudendale",
+            "lemme": "pudendal"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "vaginale",
+            "lemme": "vaginal"
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "pudendale",
-            "id": "419407"
+            "nom": "suprapubienne",
+            "lemme": "suprapubienne"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "basse",
-            "id": "16089269"
+            "nom": "cérébrale",
+            "lemme": "cérébral"
         },
         {
-            "mot": "fréquence",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "hz",
-            "id": "119138"
+            "nom": "etc",
+            "lemme": "etc"
         },
         {
-            "mot": "conduisant",
-            "id": "163671"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "inhiber",
-            "id": "251949158"
+            "nom": "hyperactivité",
+            "lemme": "hyperactivité"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "vésicale",
+            "lemme": "vésical"
         },
         {
-            "mot": "réflexe",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "mictionnel",
-            "id": "320413"
+            "nom": "HAV",
+            "lemme": "HAV"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "voies",
-            "id": "14777041"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "différentes",
-            "id": "NULL"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "activation",
-            "id": "9021139"
+            "nom": "afférences",
+            "lemme": "afférence"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "sacrées",
+            "lemme": "sacrer"
         },
         {
-            "mot": "nerf",
-            "id": "10845747"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "hypogastrique",
-            "id": "77685"
+            "nom": "faire",
+            "lemme": "faire"
         },
         {
-            "mot": "amélioration",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "objet",
+            "lemme": "objet"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "relaxation",
-            "id": "155235428"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "détrusorienne",
-            "id": "NULL"
+            "nom": "stimulation",
+            "lemme": "stimulation"
         },
         {
-            "mot": "inhibition",
-            "id": "5833549"
+            "nom": "pudendale",
+            "lemme": "pudendal"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "nerf",
-            "id": "10845747"
+            "nom": "basse",
+            "lemme": "bas"
         },
         {
-            "mot": "pelvien",
-            "id": "133252"
+            "nom": "fréquence",
+            "lemme": "fréquence"
         },
         {
-            "mot": "parasympathique",
-            "id": "156519611"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "contraction",
-            "id": "13034346"
+            "nom": "5–20",
+            "lemme": "5–20"
         },
         {
-            "mot": "détrusorienne",
-            "id": "NULL"
+            "nom": "hz",
+            "lemme": "hz"
         },
         {
-            "mot": "inhibée",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "inhibition",
-            "id": "5833549"
+            "nom": "conduisant",
+            "lemme": "conduire"
         },
         {
-            "mot": "supra",
-            "id": "10442556"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "médullaire",
-            "id": "NULL"
+            "nom": "inhiber",
+            "lemme": "inhiber"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "réflexe",
-            "id": "NULL"
+            "nom": "réflexe",
+            "lemme": "réflexe"
         },
         {
-            "mot": "mictionnel",
-            "id": "320413"
+            "nom": "mictionnel",
+            "lemme": "mictionnel"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "4",
+            "lemme": "4"
+        },
+        {
+            "nom": "voies",
+            "lemme": "voie"
+        },
+        {
+            "nom": "différentes",
+            "lemme": "différent"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "activation",
+            "lemme": "activation"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "incontinence",
-            "id": "30919"
+            "nom": "nerf",
+            "lemme": "nerf"
         },
         {
-            "mot": "urinaire",
-            "id": "257433418"
+            "nom": "hypogastrique",
+            "lemme": "hypogastrique"
         },
         {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "effort",
-            "id": "6529856"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "stimulation",
-            "id": "17341605"
-        },
-        {
-            "mot": "haute",
-            "id": "15519191"
-        },
-        {
-            "mot": "fréquence",
-            "id": "NULL"
-        },
-        {
-            "mot": "Hz",
-            "id": "119138"
-        },
-        {
-            "mot": "active",
-            "id": "419168"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "efférences",
-            "id": "NULL"
-        },
-        {
-            "mot": "pudendales",
-            "id": "1856269"
-        },
-        {
-            "mot": "induisant",
-            "id": "2052443"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "pression",
-            "id": "15513566"
-        },
-        {
-            "mot": "accrue",
-            "id": "24337"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "fermeture",
-            "id": "16084365"
-        },
-        {
-            "mot": "urétrale",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Utilisations",
-            "id": "2087023"
+            "nom": "amélioration",
+            "lemme": "amélioration"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "clinique",
-            "id": "430177"
+            "nom": "relaxation",
+            "lemme": "relaxation"
         },
         {
-            "mot": "utilise",
-            "id": "415792"
+            "nom": "détrusorienne",
+            "lemme": "détrusorienn"
         },
         {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "neurostimulation",
-            "id": "94512"
-        },
-        {
-            "mot": "cordonnale",
-            "id": "NULL"
-        },
-        {
-            "mot": "postérieure",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "neurostimulation",
-            "id": "94512"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "noyaux",
-            "id": "2951759"
-        },
-        {
-            "mot": "gris",
-            "id": "139957"
-        },
-        {
-            "mot": "centraux",
-            "id": "404032"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "neurostimulation",
-            "id": "94512"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "thalamus",
-            "id": "131906428"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "cortex",
-            "id": "5752870"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "analgésie",
-            "id": "NULL"
-        },
-        {
-            "mot": "péridurale",
-            "id": "NULL"
-        },
-        {
-            "mot": "stimulation",
-            "id": "17341605"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "nerfs",
-            "id": "427659"
-        },
-        {
-            "mot": "périphériques",
-            "id": "NULL"
-        },
-        {
-            "mot": "situés",
-            "id": "NULL"
-        },
-        {
-            "mot": "hors",
-            "id": "406017"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "canal",
-            "id": "10932011"
-        },
-        {
-            "mot": "rachidien",
-            "id": "75307"
-        },
-        {
-            "mot": "Ainsi",
-            "id": "15404421"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "domaine",
-            "id": "142250"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "pelvi",
-            "id": "403039"
-        },
-        {
-            "mot": "périnéologie",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "bas",
-            "id": "1801089"
-        },
-        {
-            "mot": "appareil",
-            "id": "413330"
-        },
-        {
-            "mot": "urinaire",
-            "id": "257433418"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "réguler",
-            "id": "NULL"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "réflexe",
-            "id": "NULL"
-        },
-        {
-            "mot": "mictionnel",
-            "id": "320413"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "défécation",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "médecine",
-            "id": "NULL"
-        },
-        {
-            "mot": "a",
-            "id": "143768"
-        },
-        {
-            "mot": "utilisé",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "neuromodulation",
-            "id": "143638932"
-        },
-        {
-            "mot": "directe",
-            "id": "15562519"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "racines",
-            "id": "418954"
-        },
-        {
-            "mot": "sacrées",
-            "id": "NULL"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "traiter",
-            "id": "99270"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "hyperactivité",
-            "id": "NULL"
-        },
-        {
-            "mot": "vésicale",
-            "id": "NULL"
-        },
-        {
-            "mot": "HAV",
-            "id": "16513558"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "rétention",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "incontinence",
-            "id": "30919"
-        },
-        {
-            "mot": "fécale",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "encore",
-            "id": "145009"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "douleur",
-            "id": "417682"
-        },
-        {
-            "mot": "pelvienne",
-            "id": "313697"
-        },
-        {
-            "mot": "chronique",
-            "id": "402275"
-        },
-        {
-            "mot": "puis",
-            "id": "10868437"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "médecins",
-            "id": "NULL"
-        },
-        {
-            "mot": "ont",
-            "id": "16512778"
-        },
-        {
-            "mot": "développé",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "électrostimulation",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "nerf",
-            "id": "10845747"
-        },
-        {
-            "mot": "périphérique",
-            "id": "NULL"
-        },
-        {
-            "mot": "tels",
-            "id": "53063"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "nerf",
-            "id": "10845747"
-        },
-        {
-            "mot": "tibial",
-            "id": "61044"
-        },
-        {
-            "mot": "postérieur",
-            "id": "NULL"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "niveau",
-            "id": "4894369"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "cheville",
-            "id": "111398307"
-        },
-        {
-            "mot": "Techniques",
-            "id": "16090005"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "neuromodulation",
-            "id": "143638932"
-        },
-        {
-            "mot": "Ces",
-            "id": "2446001"
-        },
-        {
-            "mot": "techniques",
-            "id": "16090005"
-        },
-        {
-            "mot": "modulent",
-            "id": "2227236"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "neurotransmission",
-            "id": "156516202"
-        },
-        {
-            "mot": "via",
-            "id": "17342505"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "stimuli",
-            "id": "143661115"
-        },
-        {
-            "mot": "électriques",
-            "id": "NULL"
-        },
-        {
-            "mot": "magnétiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "chimiques",
-            "id": "10996640"
-        },
-        {
-            "mot": "ainsi",
-            "id": "15404421"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "anesthésie",
-            "id": "NULL"
-        },
-        {
-            "mot": "péridurale",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "épidurale",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "administration",
-            "id": "195728"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "anesthésique",
-            "id": "NULL"
-        },
-        {
-            "mot": "local",
-            "id": "409879"
-        },
-        {
-            "mot": "bloque",
-            "id": "16512071"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "transmission",
-            "id": "15633115"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "messages",
-            "id": "3293702"
-        },
-        {
-            "mot": "nerveux",
-            "id": "17341686"
-        },
-        {
-            "mot": "issus",
-            "id": "425950"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "nerfs",
-            "id": "427659"
-        },
-        {
-            "mot": "périphériques",
-            "id": "NULL"
-        },
-        {
-            "mot": "afin",
-            "id": "16110651"
-        },
-        {
-            "mot": "soit",
-            "id": "3172820"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "permettre",
-            "id": "19292"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "abolition",
-            "id": "413785"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "messages",
-            "id": "3293702"
-        },
-        {
-            "mot": "douloureux",
-            "id": "253379755"
-        },
-        {
-            "mot": "analgésie",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "messages",
-            "id": "3293702"
-        },
-        {
-            "mot": "sensitifs",
-            "id": "405599"
-        },
-        {
-            "mot": "tact",
-            "id": "250952361"
-        },
-        {
-            "mot": "pallesthésie",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "procurant",
-            "id": "2252123"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "anesthésie",
-            "id": "NULL"
-        },
-        {
-            "mot": "complète",
-            "id": "NULL"
-        },
-        {
-            "mot": "La",
-            "id": "14424533"
-        },
-        {
-            "mot": "neuromodulation",
-            "id": "143638932"
-        },
-        {
-            "mot": "cordonnale",
-            "id": "NULL"
-        },
-        {
-            "mot": "postérieure",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "neurostimulation",
-            "id": "94512"
-        },
-        {
-            "mot": "cordonnale",
-            "id": "NULL"
-        },
-        {
-            "mot": "postérieure",
-            "id": "NULL"
-        },
-        {
-            "mot": "utilise",
-            "id": "415792"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "champ",
-            "id": "11539790"
-        },
-        {
-            "mot": "électrique",
-            "id": "NULL"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "stimuler",
-            "id": "257426104"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "neurotransmission",
-            "id": "156516202"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "moelle",
-            "id": "10551167"
-        },
-        {
-            "mot": "épinière",
-            "id": "NULL"
-        },
-        {
-            "mot": "principalement",
-            "id": "65756"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "traiter",
-            "id": "99270"
-        },
-        {
-            "mot": "certaines",
-            "id": "9987968"
-        },
-        {
-            "mot": "douleurs",
-            "id": "5832806"
-        },
-        {
-            "mot": "chroniques",
-            "id": "146134"
-        },
-        {
-            "mot": "résistantes",
-            "id": "NULL"
-        },
-        {
-            "mot": "aux",
-            "id": "15504815"
-        },
-        {
-            "mot": "médicaments",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "traitements",
-            "id": "156583671"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "inhibition",
+            "lemme": "inhibition"
         },
         {
-            "mot": "neurostimulation",
-            "id": "94512"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "périphérique",
-            "id": "NULL"
+            "nom": "nerf",
+            "lemme": "nerf"
         },
         {
-            "mot": "stimule",
-            "id": "86075"
+            "nom": "pelvien",
+            "lemme": "pelvien"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "parasympathique",
+            "lemme": "parasympathique"
         },
         {
-            "mot": "nerf",
-            "id": "10845747"
+            "nom": "(=",
+            "lemme": "(="
         },
         {
-            "mot": "via",
-            "id": "17342505"
+            "nom": ">",
+            "lemme": ">"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "contraction",
+            "lemme": "contraction"
         },
         {
-            "mot": "électrode",
-            "id": "NULL"
+            "nom": "détrusorienne",
+            "lemme": "détrusorienn"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "inhibée",
+            "lemme": "inhiber"
         },
         {
-            "mot": "délivre",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "champ",
-            "id": "11539790"
-        },
-        {
-            "mot": "électrique",
-            "id": "NULL"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "modifie",
-            "id": "425066"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "fréquence",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "amplitude",
-            "id": "9998571"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "potentiels",
-            "id": "145300854"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "actions",
-            "id": "416053"
-        },
-        {
-            "mot": "issus",
-            "id": "425950"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "récepteurs",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "neurones",
-            "id": "16786121"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "forment",
-            "id": "425150"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "nerfs",
-            "id": "427659"
-        },
-        {
-            "mot": "périphériques",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "inhibition",
+            "lemme": "inhibition"
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
+            "nom": "supra",
+            "lemme": "supra"
         },
         {
-            "mot": "électrique",
-            "id": "NULL"
+            "nom": "médullaire",
+            "lemme": "médullaire"
         },
         {
-            "mot": "intravaginale",
-            "id": "398672"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "permet",
-            "id": "308648"
+            "nom": "réflexe",
+            "lemme": "réflexe"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "mictionnel",
+            "lemme": "mictionnel"
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
-        },
-        {
-            "mot": "pudendale",
-            "id": "419407"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "fréquences",
-            "id": "NULL"
-        },
-        {
-            "mot": "variables",
-            "id": "121790941"
-        },
-        {
-            "mot": "hautes",
-            "id": "405147"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "basses",
-            "id": "1796606"
-        },
-        {
-            "mot": "fréquences",
-            "id": "NULL"
-        },
-        {
-            "mot": "améliorant",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "incontinence",
-            "id": "30919"
-        },
-        {
-            "mot": "urinaire",
-            "id": "257433418"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "peu",
-            "id": "16088737"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "pas",
-            "id": "1853062"
-        },
-        {
-            "mot": "d",
-            "id": "142231"
-        },
-        {
-            "mot": "effets",
-            "id": "425012"
-        },
-        {
-            "mot": "indésirables",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "électrique",
-            "id": "NULL"
+            "nom": "incontinence",
+            "lemme": "incontinence"
         },
         {
-            "mot": "transcrânienne",
-            "id": "NULL"
+            "nom": "urinaire",
+            "lemme": "urinaire"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "effort",
+            "lemme": "effort"
         },
         {
-            "mot": "long",
-            "id": "142571"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "terme",
-            "id": "217273921"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "inhiber",
-            "id": "251949158"
+            "nom": "stimulation",
+            "lemme": "stimulation"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "haute",
+            "lemme": "haute"
         },
         {
-            "mot": "activité",
-            "id": "NULL"
+            "nom": "fréquence",
+            "lemme": "fréquence"
         },
         {
-            "mot": "neuronale",
-            "id": "398299"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
+            "nom": "35–50",
+            "lemme": "35–50"
         },
         {
-            "mot": "basse",
-            "id": "16089269"
+            "nom": "Hz",
+            "lemme": "hz"
         },
         {
-            "mot": "fréquence",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "active",
+            "lemme": "active"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "contraire",
-            "id": "171015102"
+            "nom": "efférences",
+            "lemme": "efférence"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "pudendales",
+            "lemme": "pudendale"
         },
         {
-            "mot": "potentialiser",
-            "id": "88936"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
+            "nom": "induisant",
+            "lemme": "induire"
         },
         {
-            "mot": "haute",
-            "id": "15519191"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "fréquence",
-            "id": "NULL"
+            "nom": "pression",
+            "lemme": "pression"
         },
         {
-            "mot": "Elle",
-            "id": "9986297"
+            "nom": "accrue",
+            "lemme": "accru"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "toujours",
-            "id": "3170371"
+            "nom": "fermeture",
+            "lemme": "fermeture"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "urétrale",
+            "lemme": "urétral"
         },
         {
-            "mot": "long",
-            "id": "142571"
-        },
-        {
-            "mot": "terme",
-            "id": "217273921"
-        },
-        {
-            "mot": "améliorer",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "plasticité",
-            "id": "NULL"
-        },
-        {
-            "mot": "neuronale",
-            "id": "398299"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "cerveau",
-            "id": "411477"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "De",
-            "id": "3320102"
+            "nom": "Utilisations",
+            "lemme": "utilisation"
         },
         {
-            "mot": "premières",
-            "id": "NULL"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "observations",
-            "id": "5535680"
+            "nom": "médecine",
+            "lemme": "médecine"
         },
         {
-            "mot": "encore",
-            "id": "145009"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "utilise",
+            "lemme": "utilis"
         },
         {
-            "mot": "confirmer",
-            "id": "24675"
-        },
-        {
-            "mot": "ont",
-            "id": "16512778"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "noté",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "amélioration",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "vidange",
-            "id": "10558885"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "rTMS",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "haute",
-            "id": "15519191"
-        },
-        {
-            "mot": "fréquence",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "l",
-            "id": "138915"
-        },
-        {
-            "mot": "inverse",
-            "id": "94086889"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "amélioration",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "d",
-            "id": "142231"
-        },
-        {
-            "mot": "hyperactivité",
-            "id": "NULL"
-        },
-        {
-            "mot": "vésicale",
-            "id": "NULL"
-        },
-        {
-            "mot": "HAV",
-            "id": "16513558"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "basse",
-            "id": "16089269"
-        },
-        {
-            "mot": "fréquence",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "population",
-            "id": "214730"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "patients",
-            "id": "248701277"
-        },
-        {
-            "mot": "neurologiques",
-            "id": "399028"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "effet",
-            "id": "15519170"
+            "nom": "neurostimulation",
+            "lemme": "neurostimulation"
         },
         {
-            "mot": "significatif",
-            "id": "254736466"
+            "nom": "cordonnale",
+            "lemme": "cordonnal"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "postérieure",
+            "lemme": "postérieure"
         },
         {
-            "mot": "court",
-            "id": "410877"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "terme",
-            "id": "217273921"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "neurostimulation",
+            "lemme": "neurostimulation"
         },
         {
-            "mot": "réduction",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "noyaux",
+            "lemme": "noyau"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "gris",
+            "lemme": "gris"
         },
         {
-            "mot": "douleur",
-            "id": "417682"
+            "nom": "centraux",
+            "lemme": "central"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "membres",
-            "id": "426006"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "fantômes",
-            "id": "NULL"
+            "nom": "neurostimulation",
+            "lemme": "neurostimulation"
         },
         {
-            "mot": "PLP",
-            "id": "2606470"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "thalamus",
+            "lemme": "thalamus"
         },
         {
-            "mot": "diverses",
-            "id": "2939230"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "types",
-            "id": "417517"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "neuromodulation",
-            "id": "143638932"
+            "nom": "cortex",
+            "lemme": "cortex"
         },
         {
-            "mot": "stimulations",
-            "id": "2106497"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "excitatrices",
-            "id": "257317219"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "stimulation",
-            "id": "17341605"
+            "nom": "analgésie",
+            "lemme": "analgésie"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "péridurale",
+            "lemme": "péridural"
         },
         {
-            "mot": "cortex",
-            "id": "5752870"
+            "nom": "stimulation",
+            "lemme": "stimulation"
         },
         {
-            "mot": "moteur",
-            "id": "412888"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "primaire",
-            "id": "2570606"
+            "nom": "nerfs",
+            "lemme": "nerf"
         },
         {
-            "mot": "excitateur",
-            "id": "255142585"
+            "nom": "périphériques",
+            "lemme": "périphérique"
         },
         {
-            "mot": "M",
-            "id": "138590"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "anodique",
-            "id": "4971"
+            "nom": "situés",
+            "lemme": "situer"
         },
         {
-            "mot": "Limites",
-            "id": "418461"
+            "nom": "hors",
+            "lemme": "hors"
         },
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "électrode",
-            "id": "NULL"
+            "nom": "canal",
+            "lemme": "canal"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "rachidien).Ainsi",
+            "lemme": "rachidien).ainsi"
         },
         {
-            "mot": "parfois",
-            "id": "14886690"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "difficile",
-            "id": "15547284"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "implanter",
-            "id": "118577"
+            "nom": "domaine",
+            "lemme": "domaine"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "casser",
-            "id": "3180699"
+            "nom": "pelvi",
+            "lemme": "pelvi"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "périnéologie",
+            "lemme": "périnéologie"
         },
         {
-            "mot": "déplacer",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "Et",
-            "id": "159139"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "retours",
-            "id": "13545440"
+            "nom": "traitement",
+            "lemme": "traitement"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "expérience",
-            "id": "NULL"
+            "nom": "troubles",
+            "lemme": "trouble"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "encore",
-            "id": "145009"
+            "nom": "bas",
+            "lemme": "bas"
         },
         {
-            "mot": "insuffisamment",
-            "id": "98550"
+            "nom": "appareil",
+            "lemme": "appareil"
         },
         {
-            "mot": "documentés",
-            "id": "NULL"
+            "nom": "urinaire",
+            "lemme": "urinaire"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "long",
-            "id": "142571"
+            "nom": "réguler",
+            "lemme": "réguler"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "réflexe",
+            "lemme": "réflexe"
         },
         {
-            "mot": "temps",
-            "id": "1845924"
+            "nom": "mictionnel",
+            "lemme": "mictionnel"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "grand",
-            "id": "231909852"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "nombre",
-            "id": "402302"
+            "nom": "défécation",
+            "lemme": "défécation"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "patients",
-            "id": "248701277"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "traités",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
+        },
+        {
+            "nom": "directe",
+            "lemme": "direct"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "racines",
+            "lemme": "racine"
+        },
+        {
+            "nom": "sacrées",
+            "lemme": "sacrer"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "traiter",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hyperactivité",
+            "lemme": "hyperactivité"
+        },
+        {
+            "nom": "vésicale",
+            "lemme": "vésical"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "HAV",
+            "lemme": "HAV"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "rétention",
+            "lemme": "rétention"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "incontinence",
+            "lemme": "incontinence"
+        },
+        {
+            "nom": "fécale",
+            "lemme": "fécal"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "encore",
+            "lemme": "encore"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "douleur",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "pelvienne",
+            "lemme": "pelvien"
+        },
+        {
+            "nom": "chronique",
+            "lemme": "chronique"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "puis",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "médecins",
+            "lemme": "médecin"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "développé",
+            "lemme": "développer"
         },
         {
-            "mot": "Stimulation",
-            "id": "17341605"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "électrique",
-            "id": "NULL"
+            "nom": "électrostimulation",
+            "lemme": "électrostimulation"
         },
         {
-            "mot": "transcrânienne",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Stimulus",
-            "id": "131906436"
+            "nom": "nerf",
+            "lemme": "nerf"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "périphérique",
+            "lemme": "périphérique"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "neurosciences",
-            "id": "11807364"
+            "nom": "tels",
+            "lemme": "tel"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "nerf",
+            "lemme": "nerf"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "tibial",
+            "lemme": "tibial"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "postérieur",
+            "lemme": "postérieur"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "niveau",
+            "lemme": "niveau"
         },
         {
-            "mot": "physiologie",
-            "id": "153082"
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cheville",
+            "lemme": "chevill"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Techniques",
+            "lemme": "Techniques"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
+        },
+        {
+            "nom": "Ces",
+            "lemme": "ce"
+        },
+        {
+            "nom": "techniques",
+            "lemme": "technique"
+        },
+        {
+            "nom": "modulent",
+            "lemme": "moduler"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "neurotransmission",
+            "lemme": "neurotransmission"
+        },
+        {
+            "nom": "via",
+            "lemme": "via"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "stimuli",
+            "lemme": "stimulus"
+        },
+        {
+            "nom": "électriques",
+            "lemme": "électrique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "magnétiques",
+            "lemme": "magnétique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "chimiques",
+            "lemme": "chimique"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "anesthésie",
+            "lemme": "anesthésie"
+        },
+        {
+            "nom": "péridurale",
+            "lemme": "péridural"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "épidurale",
+            "lemme": "épidural"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "administration",
+            "lemme": "administration"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "anesthésique",
+            "lemme": "anesthésique"
+        },
+        {
+            "nom": "local",
+            "lemme": "local"
+        },
+        {
+            "nom": "bloque",
+            "lemme": "bloqu"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "transmission",
+            "lemme": "transmission"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "nerveux",
+            "lemme": "nerveux"
+        },
+        {
+            "nom": "issus",
+            "lemme": "issu"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "nerfs",
+            "lemme": "nerf"
+        },
+        {
+            "nom": "périphériques",
+            "lemme": "périphérique"
+        },
+        {
+            "nom": "afin",
+            "lemme": "afin"
+        },
+        {
+            "nom": "soit",
+            "lemme": "être"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "permettre",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "abolition",
+            "lemme": "abolition"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "douloureux",
+            "lemme": "douloureux"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "analgésie",
+            "lemme": "analgésie"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "sensitifs",
+            "lemme": "sensitif"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "tact",
+            "lemme": "tact"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pallesthésie",
+            "lemme": "pallesthésie"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "procurant",
+            "lemme": "procurer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "anesthésie",
+            "lemme": "anesthésie"
+        },
+        {
+            "nom": "complète",
+            "lemme": "complet"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
+        },
+        {
+            "nom": "cordonnale",
+            "lemme": "cordonnal"
+        },
+        {
+            "nom": "postérieure",
+            "lemme": "postérieure"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "neurostimulation",
+            "lemme": "neurostimulation"
+        },
+        {
+            "nom": "cordonnale",
+            "lemme": "cordonnal"
+        },
+        {
+            "nom": "postérieure",
+            "lemme": "postérieure"
+        },
+        {
+            "nom": "utilise",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "champ",
+            "lemme": "champ"
+        },
+        {
+            "nom": "électrique",
+            "lemme": "électrique"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "stimuler",
+            "lemme": "stimuler"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "neurotransmission",
+            "lemme": "neurotransmission"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "moelle",
+            "lemme": "moelle"
+        },
+        {
+            "nom": "épinière",
+            "lemme": "épinière"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "principalement",
+            "lemme": "principalement"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "traiter",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "douleurs",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "chroniques",
+            "lemme": "chronique"
+        },
+        {
+            "nom": "résistantes",
+            "lemme": "résister"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "traitements",
+            "lemme": "traitement"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "neurostimulation",
+            "lemme": "neurostimulation"
+        },
+        {
+            "nom": "périphérique",
+            "lemme": "périphérique"
+        },
+        {
+            "nom": "stimule",
+            "lemme": "stimul"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "nerf",
+            "lemme": "nerf"
+        },
+        {
+            "nom": "via",
+            "lemme": "via"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "électrode",
+            "lemme": "électrode"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "délivre",
+            "lemme": "délivre"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "champ",
+            "lemme": "champ"
+        },
+        {
+            "nom": "électrique",
+            "lemme": "électrique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "modifie",
+            "lemme": "modifier"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "fréquence",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "amplitude",
+            "lemme": "amplitude"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "potentiels",
+            "lemme": "potentiel"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "actions",
+            "lemme": "action"
+        },
+        {
+            "nom": "issus",
+            "lemme": "issu"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "récepteurs",
+            "lemme": "récepteur"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "neurones",
+            "lemme": "neurone"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "forment",
+            "lemme": "former"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "nerfs",
+            "lemme": "nerf"
+        },
+        {
+            "nom": "périphériques",
+            "lemme": "périphérique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "électrique",
+            "lemme": "électrique"
+        },
+        {
+            "nom": "intravaginale",
+            "lemme": "intravaginal"
+        },
+        {
+            "nom": "permet",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "pudendale",
+            "lemme": "pudendal"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "fréquences",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": "variables",
+            "lemme": "variable"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "hautes",
+            "lemme": "haute"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "basses",
+            "lemme": "bas"
+        },
+        {
+            "nom": "fréquences",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "améliorant",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "incontinence",
+            "lemme": "incontinence"
+        },
+        {
+            "nom": "urinaire",
+            "lemme": "urinaire"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "peu",
+            "lemme": "peu"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "effets",
+            "lemme": "effet"
+        },
+        {
+            "nom": "indésirables",
+            "lemme": "indésirable"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "électrique",
+            "lemme": "électrique"
+        },
+        {
+            "nom": "transcrânienne",
+            "lemme": "transcrânienn"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "long",
+            "lemme": "long"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "inhiber",
+            "lemme": "inhiber"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "activité",
+            "lemme": "activité"
+        },
+        {
+            "nom": "neuronale",
+            "lemme": "neuronal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "basse",
+            "lemme": "bas"
+        },
+        {
+            "nom": "fréquence",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "contraire",
+            "lemme": "contraire"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "potentialiser",
+            "lemme": "potentialiser"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "haute",
+            "lemme": "haute"
+        },
+        {
+            "nom": "fréquence",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "toujours",
+            "lemme": "toujours"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "long",
+            "lemme": "long"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "améliorer",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plasticité",
+            "lemme": "plasticité"
+        },
+        {
+            "nom": "neuronale",
+            "lemme": "neuronal"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "cerveau",
+            "lemme": "cerveau"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "De",
+            "lemme": "de"
+        },
+        {
+            "nom": "premières",
+            "lemme": "premier"
+        },
+        {
+            "nom": "observations",
+            "lemme": "observation"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "encore",
+            "lemme": "encore"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "confirmer",
+            "lemme": "confirmer"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "2021",
+            "lemme": "2021"
+        },
+        {
+            "nom": "noté",
+            "lemme": "noter"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "amélioration",
+            "lemme": "amélioration"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vidange",
+            "lemme": "vidange"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "rTMS",
+            "lemme": "rtm"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "haute",
+            "lemme": "haute"
+        },
+        {
+            "nom": "fréquence",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inverse",
+            "lemme": "inverse"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "amélioration",
+            "lemme": "amélioration"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hyperactivité",
+            "lemme": "hyperactivité"
+        },
+        {
+            "nom": "vésicale",
+            "lemme": "vésical"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "HAV",
+            "lemme": "hav"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "basse",
+            "lemme": "bas"
+        },
+        {
+            "nom": "fréquence",
+            "lemme": "fréquence"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "population",
+            "lemme": "population"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "neurologiques",
+            "lemme": "neurologique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "effet",
+            "lemme": "effet"
+        },
+        {
+            "nom": "significatif",
+            "lemme": "significatif"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "court",
+            "lemme": "court"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "réduction",
+            "lemme": "réduction"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "douleur",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "membres",
+            "lemme": "membre"
+        },
+        {
+            "nom": "fantômes",
+            "lemme": "fantôme"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "PLP",
+            "lemme": "PLP"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "diverses",
+            "lemme": "divers"
+        },
+        {
+            "nom": "types",
+            "lemme": "type"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "neuromodulation",
+            "lemme": "neuromodulation"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "stimulations",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "excitatrices",
+            "lemme": "excitateur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "cortex",
+            "lemme": "cortex"
+        },
+        {
+            "nom": "moteur",
+            "lemme": "moteur"
+        },
+        {
+            "nom": "primaire",
+            "lemme": "primaire"
+        },
+        {
+            "nom": "excitateur",
+            "lemme": "excitateur"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "M1",
+            "lemme": "M1"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "anodique",
+            "lemme": "anodique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Limites",
+            "lemme": "Limites"
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "électrode",
+            "lemme": "électrode"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "difficile",
+            "lemme": "difficile"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "implanter",
+            "lemme": "implanter"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "casser",
+            "lemme": "casser"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "déplacer",
+            "lemme": "déplacer"
+        },
+        {
+            "nom": "Et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "retours",
+            "lemme": "retour"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "expérience",
+            "lemme": "expérience"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "encore",
+            "lemme": "encore"
+        },
+        {
+            "nom": "insuffisamment",
+            "lemme": "insuffisamment"
+        },
+        {
+            "nom": "documentés",
+            "lemme": "documenter"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "long",
+            "lemme": "long"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "grand",
+            "lemme": "grand"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "traités",
+            "lemme": "traiter"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Stimulation",
+            "lemme": "stimulation"
+        },
+        {
+            "nom": "électrique",
+            "lemme": "électrique"
+        },
+        {
+            "nom": "transcrânienne",
+            "lemme": "transcrânienn"
+        },
+        {
+            "nom": "Stimulus",
+            "lemme": "Stimulus"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "neurosciences",
+            "lemme": "neuroscience"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "physiologie",
+            "lemme": "physiologie"
         }
     ]
 ]

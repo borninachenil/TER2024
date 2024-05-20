@@ -1,0 +1,11 @@
+face;syndrome;r_has_symptomes.txt;lemme;être un
+position;douleur;r_has_symptomes.txt;lemme;où le
+crise;patient;r_has_symptomes.txt;nom;où le
+crise;rougeur;r_has_symptomes.txt;lemme;où le
+allergie;association;r_has_symptomes.txt;lemme;être un
+physiopathologie;céphalée;r_has_symptomes.txt;lemme;être un
+injection;radical;r_has_symptomes.txt;lemme;être un
+forme;alternative;r_has_symptomes.txt;lemme;être un
+méthysergide;traitement;r_has_symptomes.txt;lemme;être un
+nuit;symptômes;r_has_symptomes.txt;nom;être un
+nuit;symptôme;r_has_symptomes.txt;lemme;être un

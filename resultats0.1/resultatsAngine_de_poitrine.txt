@@ -1,0 +1,7 @@
+symptôme;douleur;r_has_symptomes.txt;lemme
+symptôme;douleur;r_has_symptomes.txt;nom
+constriction;symptôme;r_has_symptomes.txt;lemme
+angine;symptôme;r_has_symptomes.txt;lemme
+angor;artère;r_has_symptomes.txt;lemme
+cours;réseau;r_has_symptomes.txt;lemme
+pontage;opération;r_has_symptomes.txt;lemme

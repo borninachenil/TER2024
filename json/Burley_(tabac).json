@@ -1,0 +1,3892 @@
+[
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "léger",
+            "lemme": "léger"
+        },
+        {
+            "nom": "séché",
+            "lemme": "sécher"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "air",
+            "lemme": "air"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "principalement",
+            "lemme": "principalement"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "production",
+            "lemme": "production"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cigarettes",
+            "lemme": "cigarette"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "États-Unis",
+            "lemme": "États-Unis"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "produit",
+            "lemme": "produire"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "ceinture",
+            "lemme": "ceinture"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "huit",
+            "lemme": "huit"
+        },
+        {
+            "nom": "États",
+            "lemme": "état"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "70",
+            "lemme": "70"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produire"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "Kentucky",
+            "lemme": "Kentucky"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Tennessee",
+            "lemme": "Tennessee"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "produit",
+            "lemme": "produit"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "20",
+            "lemme": "20"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "petites",
+            "lemme": "petit"
+        },
+        {
+            "nom": "quantités",
+            "lemme": "quantité"
+        },
+        {
+            "nom": "produites",
+            "lemme": "produire"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Indiana",
+            "lemme": "Indiana"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Caroline",
+            "lemme": "caroline"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Nord",
+            "lemme": "Nord"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Missouri",
+            "lemme": "Missouri"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Ohio",
+            "lemme": "Ohio"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Virginie",
+            "lemme": "Virginie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Maryland",
+            "lemme": "Maryland"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Pennsylvanie",
+            "lemme": "pennsylvanie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Virginie",
+            "lemme": "Virginie"
+        },
+        {
+            "nom": "Occidentale",
+            "lemme": "Occidentale"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "produit",
+            "lemme": "produire"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombreux",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "pays",
+            "lemme": "pays"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "production",
+            "lemme": "production"
+        },
+        {
+            "nom": "importante",
+            "lemme": "important"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "Brésil",
+            "lemme": "Brésil"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "Malawi",
+            "lemme": "Malawi"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "Argentine",
+            "lemme": "Argentine"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "variétés",
+            "lemme": "variété"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "courantes",
+            "lemme": "courante"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "noir",
+            "lemme": "noir"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "blanc",
+            "lemme": "blanc"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Histoire",
+            "lemme": "histoire"
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "blanc",
+            "lemme": "blanc"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "attribuée",
+            "lemme": "attribuer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "George",
+            "lemme": "george"
+        },
+        {
+            "nom": "Webb",
+            "lemme": "Webb"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Joseph",
+            "lemme": "Joseph"
+        },
+        {
+            "nom": "Fore",
+            "lemme": "forer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1864",
+            "lemme": "1864"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "cultivé",
+            "lemme": "cultiver"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "ferme",
+            "lemme": "ferme"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "capitaine",
+            "lemme": "capitaine"
+        },
+        {
+            "nom": "Frederick",
+            "lemme": "Frederick"
+        },
+        {
+            "nom": "Kautz",
+            "lemme": "Kautz"
+        },
+        {
+            "nom": "près",
+            "lemme": "près"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Higginsport",
+            "lemme": "Higginsport"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Ohio",
+            "lemme": "Ohio"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "partir",
+            "lemme": "partir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "graines",
+            "lemme": "graine"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "comté",
+            "lemme": "comté"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Bracken",
+            "lemme": "Bracken"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Kentucky",
+            "lemme": "Kentucky"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "remarqué",
+            "lemme": "remarquer"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "produisait",
+            "lemme": "produire"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "différent",
+            "lemme": "différent"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "feuilles",
+            "lemme": "feuille"
+        },
+        {
+            "nom": "claires",
+            "lemme": "clair"
+        },
+        {
+            "nom": "ombrées",
+            "lemme": "ombrer"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "blanc",
+            "lemme": "blanc"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "jaune",
+            "lemme": "jaune"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "elles",
+            "lemme": "lui"
+        },
+        {
+            "nom": "durcissaient",
+            "lemme": "durcir"
+        },
+        {
+            "nom": "différemment",
+            "lemme": "différemment"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "1866",
+            "lemme": "1866"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "récolté",
+            "lemme": "récolté"
+        },
+        {
+            "nom": "20",
+            "lemme": "20"
+        },
+        {
+            "nom": "000",
+            "lemme": "000"
+        },
+        {
+            "nom": "livres",
+            "lemme": "livre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "vendu",
+            "lemme": "vendre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1867",
+            "lemme": "1867"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "foire",
+            "lemme": "foire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "St.",
+            "lemme": "st."
+        },
+        {
+            "nom": "Louis",
+            "lemme": "Louis"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "58",
+            "lemme": "58"
+        },
+        {
+            "nom": "$",
+            "lemme": "dollar"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cent",
+            "lemme": "cent"
+        },
+        {
+            "nom": "livres",
+            "lemme": "livre"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "1883",
+            "lemme": "1883"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Cincinnati",
+            "lemme": "Cincinnati"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "devenu",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "principal",
+            "lemme": "principal"
+        },
+        {
+            "nom": "marché",
+            "lemme": "marché"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "cultivé",
+            "lemme": "cultiver"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "tout",
+            "lemme": "tout"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "centre",
+            "lemme": "centre"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Kentucky",
+            "lemme": "Kentucky"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "centre",
+            "lemme": "centre"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Tennessee",
+            "lemme": "Tennessee"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "1880",
+            "lemme": "1880"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Kentucky",
+            "lemme": "Kentucky"
+        },
+        {
+            "nom": "représentait",
+            "lemme": "représenter"
+        },
+        {
+            "nom": "36",
+            "lemme": "36"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "production",
+            "lemme": "production"
+        },
+        {
+            "nom": "nationale",
+            "lemme": "national"
+        },
+        {
+            "nom": "totale",
+            "lemme": "total"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "premier",
+            "lemme": "premier"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "pays",
+            "lemme": "pays"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "près",
+            "lemme": "près"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "fois",
+            "lemme": "fois"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "produit",
+            "lemme": "produire"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Virginie",
+            "lemme": "virginie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "deuxième",
+            "lemme": "deuxième"
+        },
+        {
+            "nom": "État",
+            "lemme": "état"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "tard",
+            "lemme": "tard"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "devenu",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "appelé",
+            "lemme": "appeler"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "séché",
+            "lemme": "sécher"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "air",
+            "lemme": "air"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "États-Unis",
+            "lemme": "États-Unis"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plants",
+            "lemme": "plant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "démarrés",
+            "lemme": "démarrer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "partir",
+            "lemme": "partir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "graines",
+            "lemme": "graine"
+        },
+        {
+            "nom": "placées",
+            "lemme": "placer"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "plateaux",
+            "lemme": "plateau"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "polystyrène",
+            "lemme": "polystyrène"
+        },
+        {
+            "nom": "flottant",
+            "lemme": "flottant"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "lit",
+            "lemme": "lit"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "eau",
+            "lemme": "eau"
+        },
+        {
+            "nom": "fertilisée",
+            "lemme": "fertiliser"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "mars",
+            "lemme": "mars"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "avril",
+            "lemme": "avril"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "repiquage",
+            "lemme": "repiquage"
+        },
+        {
+            "nom": "commence",
+            "lemme": "commencer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "mai",
+            "lemme": "mai"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "progresse",
+            "lemme": "progress"
+        },
+        {
+            "nom": "jusqu'",
+            "lemme": "jusque"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "juin",
+            "lemme": "juin"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "petit",
+            "lemme": "petit"
+        },
+        {
+            "nom": "pourcentage",
+            "lemme": "pourcentage"
+        },
+        {
+            "nom": "fixé",
+            "lemme": "fixer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "juillet",
+            "lemme": "juillet"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "producteurs",
+            "lemme": "producteur"
+        },
+        {
+            "nom": "doivent",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "faire",
+            "lemme": "faire"
+        },
+        {
+            "nom": "face",
+            "lemme": "face"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "majeures",
+            "lemme": "majeur"
+        },
+        {
+            "nom": "telles",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "jarret",
+            "lemme": "jarret"
+        },
+        {
+            "nom": "noir",
+            "lemme": "noir"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "moisissure",
+            "lemme": "moisissure"
+        },
+        {
+            "nom": "bleue",
+            "lemme": "bleu"
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "insectes",
+            "lemme": "insecte"
+        },
+        {
+            "nom": "tels",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pucerons",
+            "lemme": "puceron"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "sphinx",
+            "lemme": "sphinx"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "tordeuses",
+            "lemme": "tordeuse"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "bourgeons",
+            "lemme": "bourgeon"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "étêtées",
+            "lemme": "étêter"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "enlevant",
+            "lemme": "enlever"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "capitule",
+            "lemme": "capitule"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "développement",
+            "lemme": "développement"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "60",
+            "lemme": "60"
+        },
+        {
+            "nom": "jours",
+            "lemme": "jour"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "repiquage",
+            "lemme": "repiquage"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "traitées",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "empêcher",
+            "lemme": "empêcher"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croissance",
+            "lemme": "croissance"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pousses",
+            "lemme": "pousse"
+        },
+        {
+            "nom": "latérales",
+            "lemme": "latéral"
+        },
+        {
+            "nom": "appelées",
+            "lemme": "appeler"
+        },
+        {
+            "nom": "drageons",
+            "lemme": "drageer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "garniture",
+            "lemme": "garniture"
+        },
+        {
+            "nom": "permet",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "énergie",
+            "lemme": "énergie"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "aurait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "produit",
+            "lemme": "produire"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "floraison",
+            "lemme": "floraison"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "favoriser",
+            "lemme": "favoriser"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "expansion",
+            "lemme": "expansion"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "feuilles",
+            "lemme": "feuille"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Bon",
+            "lemme": "Bon"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "avantages",
+            "lemme": "avantage"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étêtage",
+            "lemme": "étêtage"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "stade",
+            "lemme": "stade"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "floraison",
+            "lemme": "floraison"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "feuilles",
+            "lemme": "feuille"
+        },
+        {
+            "nom": "appropriés",
+            "lemme": "approprié"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "perdus",
+            "lemme": "perdre"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "drageons",
+            "lemme": "drageon"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "contrôlés",
+            "lemme": "contrôler"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "drageons",
+            "lemme": "drageon"
+        },
+        {
+            "nom": "poussent",
+            "lemme": "pousser"
+        },
+        {
+            "nom": "vigoureusement",
+            "lemme": "vigoureusemer"
+        },
+        {
+            "nom": "immédiatement",
+            "lemme": "immédiatement"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étêtage",
+            "lemme": "étêtage"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "réduire",
+            "lemme": "réduire"
+        },
+        {
+            "nom": "considérablement",
+            "lemme": "considérablement"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "rendement",
+            "lemme": "rendement"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "qualité",
+            "lemme": "qualité"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "efficacement",
+            "lemme": "efficacement"
+        },
+        {
+            "nom": "contrôlés",
+            "lemme": "contrôler"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "variétés",
+            "lemme": "variété"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "telles",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "KY",
+            "lemme": "ky"
+        },
+        {
+            "nom": "14xL8",
+            "lemme": "14xl8"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Narrowleaf",
+            "lemme": "Narrowleaf"
+        },
+        {
+            "nom": "Madole",
+            "lemme": "Madole"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "connues",
+            "lemme": "connu"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "croissance",
+            "lemme": "croissance"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "rejets",
+            "lemme": "rejet"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "rapide",
+            "lemme": "rapide"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "variétés",
+            "lemme": "variété"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "nécessiter",
+            "lemme": "nécessiter"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "stratégies",
+            "lemme": "stratégie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "contrôle",
+            "lemme": "contrôle"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "rejets",
+            "lemme": "rejet"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "agressives",
+            "lemme": "agressif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Trois",
+            "lemme": "Trois"
+        },
+        {
+            "nom": "types",
+            "lemme": "type"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produit"
+        },
+        {
+            "nom": "chimiques",
+            "lemme": "chimique"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "disponibles",
+            "lemme": "disponible"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "contrôler",
+            "lemme": "contrôler"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croissance",
+            "lemme": "croissance"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "rejets",
+            "lemme": "rejet"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "quatre",
+            "lemme": "quatre"
+        },
+        {
+            "nom": "semaines",
+            "lemme": "semaine"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étêtage",
+            "lemme": "étêtage"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "coupé",
+            "lemme": "couper"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "tiges",
+            "lemme": "tige"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "aide",
+            "lemme": "aide"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "couteau",
+            "lemme": "couteau"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tomahawk",
+            "lemme": "tomahawk"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Chaque",
+            "lemme": "chaque"
+        },
+        {
+            "nom": "plante",
+            "lemme": "plante"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "piquée",
+            "lemme": "piquer"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "Sprudded",
+            "lemme": "Sprudded"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "terminologie",
+            "lemme": "terminologie"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "emplacement",
+            "lemme": "emplacement"
+        },
+        {
+            "nom": "géographique",
+            "lemme": "géographique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "bâton",
+            "lemme": "bâton"
+        },
+        {
+            "nom": "surmonté",
+            "lemme": "surmonter"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "lance",
+            "lemme": "lance"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "pointe",
+            "lemme": "pointe"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "patate",
+            "lemme": "patate"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "métal",
+            "lemme": "métal"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "adapte",
+            "lemme": "adapter"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "bâton",
+            "lemme": "bâton"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Chaque",
+            "lemme": "chaque"
+        },
+        {
+            "nom": "bâton",
+            "lemme": "bâton"
+        },
+        {
+            "nom": "contiendra",
+            "lemme": "contenir"
+        },
+        {
+            "nom": "cinq",
+            "lemme": "cinq"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "six",
+            "lemme": "six"
+        },
+        {
+            "nom": "tiges",
+            "lemme": "tige"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "bâtonnets",
+            "lemme": "bâtonnet"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "vert",
+            "lemme": "vert"
+        },
+        {
+            "nom": "coupé",
+            "lemme": "couper"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "autorisés",
+            "lemme": "autoriser"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "flétrir",
+            "lemme": "flétrir"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "terrain",
+            "lemme": "terrain"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "trois",
+            "lemme": "trois"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "quatre",
+            "lemme": "quatre"
+        },
+        {
+            "nom": "jours",
+            "lemme": "jour"
+        },
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "suspendus",
+            "lemme": "suspendre"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "grange",
+            "lemme": "grange"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "autorisé",
+            "lemme": "autoriser"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "sécher",
+            "lemme": "sécher"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "air",
+            "lemme": "air"
+        },
+        {
+            "nom": "pendant",
+            "lemme": "pendant"
+        },
+        {
+            "nom": "huit",
+            "lemme": "huit"
+        },
+        {
+            "nom": "semaines",
+            "lemme": "semaine"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "passant",
+            "lemme": "passer"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "vert",
+            "lemme": "vert"
+        },
+        {
+            "nom": "pâle",
+            "lemme": "pâle"
+        },
+        {
+            "nom": "normal",
+            "lemme": "normal"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "jaune",
+            "lemme": "jaune"
+        },
+        {
+            "nom": "puis",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "brun",
+            "lemme": "brun"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "durcit",
+            "lemme": "durcir"
+        },
+        {
+            "nom": "trop",
+            "lemme": "trop"
+        },
+        {
+            "nom": "rapidement",
+            "lemme": "rapidement"
+        },
+        {
+            "nom": "conservera",
+            "lemme": "conserver"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "partie",
+            "lemme": "partie"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "pigments",
+            "lemme": "pigment"
+        },
+        {
+            "nom": "jaunes",
+            "lemme": "jaune"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produit"
+        },
+        {
+            "nom": "chimiques",
+            "lemme": "chimique"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "décomposent",
+            "lemme": "décomposer"
+        },
+        {
+            "nom": "normalement",
+            "lemme": "normalement"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "durcissement",
+            "lemme": "durcissement"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "lent",
+            "lemme": "lent"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "qualité",
+            "lemme": "qualité"
+        },
+        {
+            "nom": "obtenue",
+            "lemme": "obtenir"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "producteurs",
+            "lemme": "producteur"
+        },
+        {
+            "nom": "américains",
+            "lemme": "américain"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "principalement",
+            "lemme": "principalement"
+        },
+        {
+            "nom": "due",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "conditions",
+            "lemme": "condition"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "séchage",
+            "lemme": "séchage"
+        },
+        {
+            "nom": "naturelles",
+            "lemme": "naturel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "fois",
+            "lemme": "fois"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "complètement",
+            "lemme": "complètement"
+        },
+        {
+            "nom": "durci",
+            "lemme": "durcir"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "retiré",
+            "lemme": "retirer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "bâtons",
+            "lemme": "bâton"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "retirés",
+            "lemme": "retirer"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "feuilles",
+            "lemme": "feuille"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "arrachées",
+            "lemme": "arracher"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plante",
+            "lemme": "plante"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "grades",
+            "lemme": "grade"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "position",
+            "lemme": "position"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "tige",
+            "lemme": "tige"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "feuilles",
+            "lemme": "feuille"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "mises",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "balles",
+            "lemme": "balle"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "catégorie",
+            "lemme": "catégorie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "amenées",
+            "lemme": "amener"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "station",
+            "lemme": "station"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "réception",
+            "lemme": "réception"
+        },
+        {
+            "nom": "gérée",
+            "lemme": "gérer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "fabricant",
+            "lemme": "fabricant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "marchand",
+            "lemme": "marchand"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "feuilles",
+            "lemme": "feuille"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Édulcorant",
+            "lemme": "Édulcorant"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": "contient",
+            "lemme": "contenir"
+        },
+        {
+            "nom": "peu",
+            "lemme": "peu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sucre",
+            "lemme": "sucre"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "enrobé",
+            "lemme": "enrober"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "édulcoré",
+            "lemme": "édulcorer"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "humectants",
+            "lemme": "humectant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "sucres",
+            "lemme": "sucre"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "arômes",
+            "lemme": "arôme"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "utilisations",
+            "lemme": "utilisation"
+        },
+        {
+            "nom": "telles",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cigarettes",
+            "lemme": "cigarette"
+        },
+        {
+            "nom": "américaines",
+            "lemme": "américain"
+        },
+        {
+            "nom": "mélangées",
+            "lemme": "mélanger"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Par",
+            "lemme": "par"
+        },
+        {
+            "nom": "conséquent",
+            "lemme": "conséquent"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "large",
+            "lemme": "large"
+        },
+        {
+            "nom": "interdiction",
+            "lemme": "interdiction"
+        },
+        {
+            "nom": "promulguée",
+            "lemme": "promulguer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Canada",
+            "lemme": "Canada"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "proposée",
+            "lemme": "proposer"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombreux",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "pays",
+            "lemme": "pays"
+        },
+        {
+            "nom": "bloquerait",
+            "lemme": "bloquer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "importation",
+            "lemme": "importation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "presque",
+            "lemme": "presque"
+        },
+        {
+            "nom": "tous",
+            "lemme": "tout"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produit"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "contenant",
+            "lemme": "contenir"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Burley",
+            "lemme": "Burley"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "situation",
+            "lemme": "situation"
+        },
+        {
+            "nom": "ressemble",
+            "lemme": "ressembler"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "différend",
+            "lemme": "différend"
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "producteurs",
+            "lemme": "producteur"
+        },
+        {
+            "nom": "asiatiques",
+            "lemme": "asiatique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "États-Unis",
+            "lemme": "États-Unis"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "interdit",
+            "lemme": "interdire"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cigarettes",
+            "lemme": "cigarette"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "clous",
+            "lemme": "clou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "girofle",
+            "lemme": "girofle"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "chaque",
+            "lemme": "chaque"
+        },
+        {
+            "nom": "nation",
+            "lemme": "nation"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "interdiction",
+            "lemme": "interdiction"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "composants",
+            "lemme": "composant"
+        },
+        {
+            "nom": "typiques",
+            "lemme": "typique"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "fabriqué",
+            "lemme": "fabriquer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étranger",
+            "lemme": "étranger"
+        },
+        {
+            "nom": "offre",
+            "lemme": "offrir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "puissant",
+            "lemme": "puissant"
+        },
+        {
+            "nom": "avantage",
+            "lemme": "avantage"
+        },
+        {
+            "nom": "commercial",
+            "lemme": "commercial"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "interdite",
+            "lemme": "interdire"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "accords",
+            "lemme": "accord"
+        },
+        {
+            "nom": "commerciaux",
+            "lemme": "commercial"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "GATT",
+            "lemme": "GATT"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "effet",
+            "lemme": "effet"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "producteurs",
+            "lemme": "producteur"
+        },
+        {
+            "nom": "américains",
+            "lemme": "américain"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "limité",
+            "lemme": "limité"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "non",
+            "lemme": "non"
+        },
+        {
+            "nom": "négligeable",
+            "lemme": "négligeable"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "plupart",
+            "lemme": "plupart"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "importations",
+            "lemme": "importation"
+        },
+        {
+            "nom": "canadiennes",
+            "lemme": "canadien"
+        },
+        {
+            "nom": "étaient",
+            "lemme": "être"
+        },
+        {
+            "nom": "déjà",
+            "lemme": "déjà"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Virginie",
+            "lemme": "virginie"
+        },
+        {
+            "nom": "séché",
+            "lemme": "sécher"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "air",
+            "lemme": "air"
+        },
+        {
+            "nom": "chaud",
+            "lemme": "chaud"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Types",
+            "lemme": "type"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        },
+        {
+            "nom": "Tabac",
+            "lemme": "Tabac"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tabac",
+            "lemme": "tabac"
+        }
+    ]
+]

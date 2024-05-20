@@ -1,0 +1,3350 @@
+[
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "issu",
+            "lemme": "issu"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "grec",
+            "lemme": "grec"
+        },
+        {
+            "nom": "ancien",
+            "lemme": "ancien"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "composé",
+            "lemme": "composer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sun",
+            "lemme": "sun"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "dromos",
+            "lemme": "dromo"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "course",
+            "lemme": "course"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "fait",
+            "lemme": "faire"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "équivalent",
+            "lemme": "équivalent"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "moderne",
+            "lemme": "moderne"
+        },
+        {
+            "nom": "concours",
+            "lemme": "concours"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "sens",
+            "lemme": "sens"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "concours",
+            "lemme": "concours"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "circonstances",
+            "lemme": "circonstance"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "part",
+            "lemme": "part"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "dérivé",
+            "lemme": "dériver"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "latin",
+            "lemme": "latin"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Étymologiquement",
+            "lemme": "étymologiquement"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "signifie",
+            "lemme": "signifier"
+        },
+        {
+            "nom": "donc",
+            "lemme": "donc"
+        },
+        {
+            "nom": "conjonction",
+            "lemme": "conjonction"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "réunion",
+            "lemme": "réunion"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "éléments",
+            "lemme": "élément"
+        },
+        {
+            "nom": "distincts",
+            "lemme": "distinct"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "ensemble",
+            "lemme": "ensemble"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "signes",
+            "lemme": "signe"
+        },
+        {
+            "nom": "cliniques",
+            "lemme": "clinique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "patient",
+            "lemme": "patient"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "susceptible",
+            "lemme": "susceptible"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "présenter",
+            "lemme": "présenter"
+        },
+        {
+            "nom": "simultanément",
+            "lemme": "simultanément"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "circonstances",
+            "lemme": "circonstance"
+        },
+        {
+            "nom": "cliniques",
+            "lemme": "clinique"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "écart",
+            "lemme": "écart"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "norme",
+            "lemme": "norme"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "nécessairement",
+            "lemme": "nécessairement"
+        },
+        {
+            "nom": "pathologiques",
+            "lemme": "pathologique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Exemples",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "suivant",
+            "lemme": "suivant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "voit",
+            "lemme": "voir"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "association",
+            "lemme": "association"
+        },
+        {
+            "nom": "céphalée",
+            "lemme": "céphalée"
+        },
+        {
+            "nom": "+",
+            "lemme": "plus"
+        },
+        {
+            "nom": "vomissements",
+            "lemme": "vomissement"
+        },
+        {
+            "nom": "+",
+            "lemme": "plus"
+        },
+        {
+            "nom": "raideur",
+            "lemme": "raideur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "nuque",
+            "lemme": "nuque"
+        },
+        {
+            "nom": "+",
+            "lemme": "plus"
+        },
+        {
+            "nom": "photophobie",
+            "lemme": "photophobie"
+        },
+        {
+            "nom": "constitue",
+            "lemme": "constituer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "méningé",
+            "lemme": "méningé"
+        },
+        {
+            "nom": "traduisant",
+            "lemme": "traduire"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "irritation",
+            "lemme": "irritation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "méninges",
+            "lemme": "méninge"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "précisément",
+            "lemme": "précisément"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "espace",
+            "lemme": "espace"
+        },
+        {
+            "nom": "sous-arachnoïdien",
+            "lemme": "sous-arachnoïdien"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecin",
+            "lemme": "médecin"
+        },
+        {
+            "nom": "pratique",
+            "lemme": "pratique"
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "ponction",
+            "lemme": "ponction"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "céphalo",
+            "lemme": "céphalo"
+        },
+        {
+            "nom": "rachidien",
+            "lemme": "rachidien"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "va",
+            "lemme": "aller"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "orienter",
+            "lemme": "orienter"
+        },
+        {
+            "nom": "vers",
+            "lemme": "vers"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "hémorragie",
+            "lemme": "hémorragie"
+        },
+        {
+            "nom": "méningée",
+            "lemme": "méninger"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "contient",
+            "lemme": "contenir"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "sang",
+            "lemme": "sang"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "méningite",
+            "lemme": "méningite"
+        },
+        {
+            "nom": "purulente",
+            "lemme": "purulent"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "etc.",
+            "lemme": "etc."
+        },
+        {
+            "nom": "De",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombreux",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "syndromes",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "décrits",
+            "lemme": "décrire"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "ORL",
+            "lemme": "ORL"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "choc",
+            "lemme": "choc"
+        },
+        {
+            "nom": "acoustique",
+            "lemme": "acoustique"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "déhiscence",
+            "lemme": "déhiscence"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "canal",
+            "lemme": "canal"
+        },
+        {
+            "nom": "semi-circulaire",
+            "lemme": "semi-circulaire"
+        },
+        {
+            "nom": "supérieur",
+            "lemme": "supérieur"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "tonique",
+            "lemme": "tonique"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "muscle",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "tenseur",
+            "lemme": "tenseur"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tympan",
+            "lemme": "tympan"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "nez",
+            "lemme": "nez"
+        },
+        {
+            "nom": "vide",
+            "lemme": "vide"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Widal",
+            "lemme": "Widal"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "dermatologie",
+            "lemme": "dermatologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lyell",
+            "lemme": "Lyell"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Stevens",
+            "lemme": "Stevens"
+        },
+        {
+            "nom": "Johnson",
+            "lemme": "Johnson"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "hépato",
+            "lemme": "hépato"
+        },
+        {
+            "nom": "gastro",
+            "lemme": "gastro"
+        },
+        {
+            "nom": "entérologie",
+            "lemme": "entérologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "intestin",
+            "lemme": "intestin"
+        },
+        {
+            "nom": "irritable",
+            "lemme": "irritable"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "SII",
+            "lemme": "sii"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "également",
+            "lemme": "également"
+        },
+        {
+            "nom": "nommé",
+            "lemme": "nommer"
+        },
+        {
+            "nom": "côlon",
+            "lemme": "côlon"
+        },
+        {
+            "nom": "irritable",
+            "lemme": "irritable"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "fonctionnels",
+            "lemme": "fonctionnel"
+        },
+        {
+            "nom": "intestinaux",
+            "lemme": "intestinal"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "malabsorption",
+            "lemme": "malabsorption"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Plummer",
+            "lemme": "Plummer"
+        },
+        {
+            "nom": "Vinson",
+            "lemme": "Vinson"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "prolifération",
+            "lemme": "prolifération"
+        },
+        {
+            "nom": "bactérienne",
+            "lemme": "bactérien"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "intestin",
+            "lemme": "intestin"
+        },
+        {
+            "nom": "grêle",
+            "lemme": "grêle"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Zollinger",
+            "lemme": "Zollinger"
+        },
+        {
+            "nom": "Ellison",
+            "lemme": "Ellison"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Boerhaave",
+            "lemme": "boerhaave"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "hématologie",
+            "lemme": "hématologie"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Catégorie",
+            "lemme": "catégorie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "hématologie",
+            "lemme": "hématologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Evans",
+            "lemme": "Evans"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Felty",
+            "lemme": "Felty"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hyperviscosité",
+            "lemme": "hyperviscosité"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "neuro-anémique",
+            "lemme": "neuro-anémiqu"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "génétique",
+            "lemme": "génétique"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Bloom",
+            "lemme": "Bloom"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Down",
+            "lemme": "Down"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Marfan",
+            "lemme": "Marfan"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Prader",
+            "lemme": "Prader"
+        },
+        {
+            "nom": "Willi",
+            "lemme": "Willi"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Williams",
+            "lemme": "Williams"
+        },
+        {
+            "nom": "Beuren",
+            "lemme": "Beuren"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "infectieuses",
+            "lemme": "infectieuser"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "grippal",
+            "lemme": "grippal"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Fitz",
+            "lemme": "Fitz"
+        },
+        {
+            "nom": "Hugh",
+            "lemme": "Hugh"
+        },
+        {
+            "nom": "Curtis",
+            "lemme": "Curtis"
+        },
+        {
+            "nom": "SIDA",
+            "lemme": "SIDA"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "néphrologie",
+            "lemme": "néphrologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "néphrotique",
+            "lemme": "néphrotique"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "neurologie",
+            "lemme": "neurologie"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "neurologique",
+            "lemme": "neurologique"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Asperger",
+            "lemme": "Asperger"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "accent",
+            "lemme": "accent"
+        },
+        {
+            "nom": "étranger",
+            "lemme": "étranger"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Balint",
+            "lemme": "Balint"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Brown",
+            "lemme": "Brown"
+        },
+        {
+            "nom": "Séquard",
+            "lemme": "Séquard"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "extrapyramidal",
+            "lemme": "extrapyramidal"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "cérébelleux",
+            "lemme": "cérébelleux"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Claude",
+            "lemme": "Claude"
+        },
+        {
+            "nom": "Bernard",
+            "lemme": "Bernard"
+        },
+        {
+            "nom": "Horner",
+            "lemme": "Horner"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "confusionnel",
+            "lemme": "confusionnel"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "douloureux",
+            "lemme": "douloureux"
+        },
+        {
+            "nom": "régional",
+            "lemme": "régional"
+        },
+        {
+            "nom": "complexe",
+            "lemme": "complexe"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "enfermement",
+            "lemme": "enfermement"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "fibromyalgie",
+            "lemme": "fibromyalgi"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "frontal",
+            "lemme": "frontal"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Guillain",
+            "lemme": "Guillain"
+        },
+        {
+            "nom": "Barré",
+            "lemme": "Barré"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "jambes",
+            "lemme": "jambe"
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "repos",
+            "lemme": "repos"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Korsakoff",
+            "lemme": "Korsakoff"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "main",
+            "lemme": "main"
+        },
+        {
+            "nom": "étrangère",
+            "lemme": "étranger"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "méningé",
+            "lemme": "méninger"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Morton",
+            "lemme": "Morton"
+        },
+        {
+            "nom": "Syndromes",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "neurologiques",
+            "lemme": "neurologique"
+        },
+        {
+            "nom": "paranéoplasiques",
+            "lemme": "paranéoplasique"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "post-commotionnel",
+            "lemme": "post-commotionnel"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "pyramidal",
+            "lemme": "pyramidal"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "queue",
+            "lemme": "queue"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cheval",
+            "lemme": "cheval"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Rett",
+            "lemme": "rett"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tête",
+            "lemme": "tête"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "poupée",
+            "lemme": "poupée"
+        },
+        {
+            "nom": "Bobble",
+            "lemme": "Bobble"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "BHDS",
+            "lemme": "bhd"
+        },
+        {
+            "nom": "Bobble",
+            "lemme": "Bobble"
+        },
+        {
+            "nom": "head",
+            "lemme": "head"
+        },
+        {
+            "nom": "doll",
+            "lemme": "doll"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "vestibulaire",
+            "lemme": "vestibulaire"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Wallenberg",
+            "lemme": "Wallenberg"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "West",
+            "lemme": "West"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Gilles",
+            "lemme": "Gilles"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "Tourette",
+            "lemme": "tourette"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "obstétrique",
+            "lemme": "obstétrique"
+        },
+        {
+            "nom": "HELLP",
+            "lemme": "hellp"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lacomme",
+            "lemme": "Lacomme"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "pneumologie",
+            "lemme": "pneumologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "alvéolaire",
+            "lemme": "alvéolaire"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "apnées",
+            "lemme": "apnée"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "sommeil",
+            "lemme": "sommeil"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "détresse",
+            "lemme": "détress"
+        },
+        {
+            "nom": "respiratoire",
+            "lemme": "respiratoire"
+        },
+        {
+            "nom": "aiguë",
+            "lemme": "aigu"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Erasmus",
+            "lemme": "Erasmus"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Heerfordt",
+            "lemme": "Heerfordt"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Löfgren",
+            "lemme": "Löfgren"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "ventilatoire",
+            "lemme": "ventilatoire"
+        },
+        {
+            "nom": "obstructif",
+            "lemme": "obstructif"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "restrictif",
+            "lemme": "restrictif"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "condensation",
+            "lemme": "condensation"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "épanchement",
+            "lemme": "épanchement"
+        },
+        {
+            "nom": "liquidien",
+            "lemme": "liquidien"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "grande",
+            "lemme": "grand"
+        },
+        {
+            "nom": "cavité",
+            "lemme": "cavité"
+        },
+        {
+            "nom": "pleurale",
+            "lemme": "pleural"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "épanchement",
+            "lemme": "épanchement"
+        },
+        {
+            "nom": "gazeux",
+            "lemme": "gazeux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cavité",
+            "lemme": "cavité"
+        },
+        {
+            "nom": "pleurale",
+            "lemme": "pleural"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "psychiatrie",
+            "lemme": "psychiatrie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Münchhausen",
+            "lemme": "Münchhausen"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "procuration",
+            "lemme": "procuration"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "SMPP",
+            "lemme": "SMPP"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Benjamin",
+            "lemme": "Benjamin"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Cotard",
+            "lemme": "cotard"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Diogène",
+            "lemme": "Diogène"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "délirant",
+            "lemme": "délirer"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "dissociatif",
+            "lemme": "dissociatif"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "malin",
+            "lemme": "malin"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "neuroleptiques",
+            "lemme": "neuroleptique"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Münchausen",
+            "lemme": "Münchausen"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Skoumine",
+            "lemme": "skoumine"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "psychologie",
+            "lemme": "psychologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "épuisement",
+            "lemme": "épuisement"
+        },
+        {
+            "nom": "professionnel",
+            "lemme": "professionnel"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "aliénation",
+            "lemme": "aliénation"
+        },
+        {
+            "nom": "parentale",
+            "lemme": "parental"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "imposteur",
+            "lemme": "imposteur"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lima",
+            "lemme": "limer"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Paris",
+            "lemme": "Paris"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Peter",
+            "lemme": "peter"
+        },
+        {
+            "nom": "Pan",
+            "lemme": "Pan"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Stockholm",
+            "lemme": "Stockholm"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Stendhal",
+            "lemme": "stendhal"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jérusalem",
+            "lemme": "Jérusalem"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "rhumatologie",
+            "lemme": "rhumatologie"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Catégorie",
+            "lemme": "catégorie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "rhumatologie",
+            "lemme": "rhumatologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Fiessinger",
+            "lemme": "Fiessinger"
+        },
+        {
+            "nom": "Leroy",
+            "lemme": "Leroy"
+        },
+        {
+            "nom": "Reiter",
+            "lemme": "Reiter"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Cyriax",
+            "lemme": "Cyriax"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "rotulien",
+            "lemme": "rotulien"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "urologie",
+            "lemme": "urologie"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Catégorie",
+            "lemme": "catégorie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "urologie",
+            "lemme": "urologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dysgénésie",
+            "lemme": "dysgénésie"
+        },
+        {
+            "nom": "testiculaire",
+            "lemme": "testiculaire"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "TDS",
+            "lemme": "TDS"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "irritatif",
+            "lemme": "irritatif"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "obstructif",
+            "lemme": "obstructif"
+        },
+        {
+            "nom": "urinaire",
+            "lemme": "urinaire"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "cardiologie",
+            "lemme": "cardiologie"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Catégorie",
+            "lemme": "Catégorie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cardiologie",
+            "lemme": "cardiologie"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Catégorie",
+            "lemme": "Catégorie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "rythme",
+            "lemme": "rythme"
+        },
+        {
+            "nom": "cardiaque",
+            "lemme": "cardiaque"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Brugada",
+            "lemme": "Brugada"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Roemheld",
+            "lemme": "Roemheld"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Skoumine",
+            "lemme": "skoumine"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "veine",
+            "lemme": "veine"
+        },
+        {
+            "nom": "cave",
+            "lemme": "cave"
+        },
+        {
+            "nom": "supérieure",
+            "lemme": "supérieur"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "endocrinologie",
+            "lemme": "endocrinologie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Kallmann",
+            "lemme": "Kallmann"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Kallmann",
+            "lemme": "Kallmann"
+        },
+        {
+            "nom": "Morsier",
+            "lemme": "Morsier"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Turner",
+            "lemme": "Turner"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Stein",
+            "lemme": "Stein"
+        },
+        {
+            "nom": "Leventhal",
+            "lemme": "Leventhal"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "ovaires",
+            "lemme": "ovaire"
+        },
+        {
+            "nom": "polykystiques",
+            "lemme": "polykystique"
+        },
+        {
+            "nom": "Douleurs",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "diverses",
+            "lemme": "divers"
+        },
+        {
+            "nom": "Mastodynie",
+            "lemme": "Mastodynie"
+        },
+        {
+            "nom": "Fibromyalgie",
+            "lemme": "Fibromyalgie"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Means",
+            "lemme": "mean"
+        },
+        {
+            "nom": "Autre",
+            "lemme": "autre"
+        },
+        {
+            "nom": "usage",
+            "lemme": "usage"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "mot",
+            "lemme": "mot"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "Un",
+            "lemme": "un"
+        },
+        {
+            "nom": "certain",
+            "lemme": "certain"
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "dénommées",
+            "lemme": "dénommer"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "général",
+            "lemme": "général"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "raisons",
+            "lemme": "raison"
+        },
+        {
+            "nom": "historiques",
+            "lemme": "historique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lorsque",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "médecins",
+            "lemme": "médecin"
+        },
+        {
+            "nom": "avaient",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "découvert",
+            "lemme": "découvrir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "association",
+            "lemme": "association"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "laquelle",
+            "lemme": "lequel"
+        },
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "avaient",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "donné",
+            "lemme": "donner"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étiologie",
+            "lemme": "étiologie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "physiopathologie",
+            "lemme": "physiopathologie"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "soient",
+            "lemme": "être"
+        },
+        {
+            "nom": "déterminées",
+            "lemme": "déterminer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "c'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dysgénésie",
+            "lemme": "dysgénésie"
+        },
+        {
+            "nom": "testiculaire",
+            "lemme": "testiculaire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "immunodéficience",
+            "lemme": "immunodéficience"
+        },
+        {
+            "nom": "acquise",
+            "lemme": "acquis"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "sida",
+            "lemme": "sida"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombreuses",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "génétiques",
+            "lemme": "génétique"
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "depuis",
+            "lemme": "depuis"
+        },
+        {
+            "nom": "identifiée",
+            "lemme": "identifier"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "métabolique",
+            "lemme": "métabolique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "syndromes",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "devenus",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "conservé",
+            "lemme": "conserver"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "émergent",
+            "lemme": "émergent"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "irradiation",
+            "lemme": "irradiation"
+        },
+        {
+            "nom": "aiguë",
+            "lemme": "aigu"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Miller",
+            "lemme": "Miller"
+        },
+        {
+            "nom": "Fisher",
+            "lemme": "Fisher"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndromes",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "myasthéniques",
+            "lemme": "myasthénique"
+        },
+        {
+            "nom": "congénitaux",
+            "lemme": "congénitau"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "myélodysplasique",
+            "lemme": "myélodysplasique"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "myéloprolifératif",
+            "lemme": "myéloprolifératif"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "polyalgique",
+            "lemme": "polyalgique"
+        },
+        {
+            "nom": "idiopathique",
+            "lemme": "idiopathique"
+        },
+        {
+            "nom": "diffus",
+            "lemme": "diffus"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "fibromyalgie",
+            "lemme": "fibromyalgie"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "toutefois",
+            "lemme": "toutefois"
+        },
+        {
+            "nom": "considéré",
+            "lemme": "considérer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "France",
+            "lemme": "France"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Catégorie",
+            "lemme": "catégorie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

@@ -1,0 +1,392 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "myotonie",
+            "lemme": "myotonie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tonus",
+            "lemme": "tonus"
+        },
+        {
+            "nom": "musculaire",
+            "lemme": "musculaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "caractérise",
+            "lemme": "caractériser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "décontraction",
+            "lemme": "décontraction"
+        },
+        {
+            "nom": "lente",
+            "lemme": "lent"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "difficile",
+            "lemme": "difficile"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "muscle",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "suite",
+            "lemme": "suite"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "contraction",
+            "lemme": "contraction"
+        },
+        {
+            "nom": "volontaire",
+            "lemme": "volontaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "relativement",
+            "lemme": "relativement"
+        },
+        {
+            "nom": "rare",
+            "lemme": "rare"
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "régulièrement",
+            "lemme": "régulièrement"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "développer",
+            "lemme": "développer"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "personnes",
+            "lemme": "personne"
+        },
+        {
+            "nom": "spastiques",
+            "lemme": "spastique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ataxiques",
+            "lemme": "ataxique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Chèvre",
+            "lemme": "chèvre"
+        },
+        {
+            "nom": "myotonique",
+            "lemme": "myotonique"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
+        },
+        {
+            "nom": "Laberge",
+            "lemme": "Laberge"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "L.",
+            "lemme": "L."
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Bégin",
+            "lemme": "Bégin"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "P.",
+            "lemme": "P."
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Montplaisir",
+            "lemme": "Montplaisir"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "J.",
+            "lemme": "J."
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Mathieu",
+            "lemme": "Mathieu"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "J.",
+            "lemme": "J."
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "2004",
+            "lemme": "2004"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2869.2004.00385.x",
+            "lemme": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2869.2004.00385."
+        },
+        {
+            "nom": "Sleep",
+            "lemme": "Sleep"
+        },
+        {
+            "nom": "complaints",
+            "lemme": "complaint"
+        },
+        {
+            "nom": "in",
+            "lemme": "in"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "with",
+            "lemme": "with"
+        },
+        {
+            "nom": "myotonic",
+            "lemme": "myotonic"
+        },
+        {
+            "nom": "dystrophy].",
+            "lemme": "dystrophy]."
+        },
+        {
+            "nom": "Journal",
+            "lemme": "journal"
+        },
+        {
+            "nom": "of",
+            "lemme": "of"
+        },
+        {
+            "nom": "sleep",
+            "lemme": "sleep"
+        },
+        {
+            "nom": "research",
+            "lemme": "research"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "13(1",
+            "lemme": "13(1"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "95",
+            "lemme": "95"
+        },
+        {
+            "nom": "100",
+            "lemme": "100"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ]
+]

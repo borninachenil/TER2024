@@ -1,0 +1,764 @@
+[
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Fedratinib",
+            "lemme": "Fedratinib"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "vendu",
+            "lemme": "vendre"
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "marque",
+            "lemme": "marque"
+        },
+        {
+            "nom": "Inrebic",
+            "lemme": "Inrebic"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Usage",
+            "lemme": "usage"
+        },
+        {
+            "nom": "médical",
+            "lemme": "médical"
+        },
+        {
+            "nom": "Est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "traiter",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "myélofibrose",
+            "lemme": "myélofibrose"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cela",
+            "lemme": "celer"
+        },
+        {
+            "nom": "comprend",
+            "lemme": "comprendre"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "myélofibrose",
+            "lemme": "myélofibrose"
+        },
+        {
+            "nom": "primaire",
+            "lemme": "primaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "myélofibrose",
+            "lemme": "myélofibrose"
+        },
+        {
+            "nom": "post-polycythémie",
+            "lemme": "post-polycythémi"
+        },
+        {
+            "nom": "essentielle",
+            "lemme": "essentiel"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "myélofibrose",
+            "lemme": "myélofibrose"
+        },
+        {
+            "nom": "post-thrombocytémie",
+            "lemme": "post-thrombocytémi"
+        },
+        {
+            "nom": "essentielle",
+            "lemme": "essentiel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hypertrophie",
+            "lemme": "hypertrophie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "rate",
+            "lemme": "rate"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "prend",
+            "lemme": "prendre"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "voie",
+            "lemme": "voie"
+        },
+        {
+            "nom": "orale",
+            "lemme": "oral"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Effets",
+            "lemme": "effet"
+        },
+        {
+            "nom": "secondaires",
+            "lemme": "secondaire"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "effets",
+            "lemme": "effet"
+        },
+        {
+            "nom": "secondaires",
+            "lemme": "secondaire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "comprennent",
+            "lemme": "comprendre"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "diarrhée",
+            "lemme": "diarrhée"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "nausées",
+            "lemme": "nausée"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "faible",
+            "lemme": "faible"
+        },
+        {
+            "nom": "taux",
+            "lemme": "taux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "globules",
+            "lemme": "globule"
+        },
+        {
+            "nom": "rouges",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "faible",
+            "lemme": "faible"
+        },
+        {
+            "nom": "taux",
+            "lemme": "taux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "plaquettes",
+            "lemme": "plaquette"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "D'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "effets",
+            "lemme": "effet"
+        },
+        {
+            "nom": "secondaires",
+            "lemme": "secondaire"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "inclure",
+            "lemme": "inclure"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "encéphalopathie",
+            "lemme": "encéphalopathie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "C'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "inhibiteur",
+            "lemme": "inhibiteur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Janus",
+            "lemme": "Janus"
+        },
+        {
+            "nom": "kinase",
+            "lemme": "kinas"
+        },
+        {
+            "nom": "2",
+            "lemme": "2"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "FLT-3",
+            "lemme": "FLT-3"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Histoire",
+            "lemme": "histoire"
+        },
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "approuvé",
+            "lemme": "approuver"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "usage",
+            "lemme": "usage"
+        },
+        {
+            "nom": "médical",
+            "lemme": "médical"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "États-Unis",
+            "lemme": "États-Unis"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "2019",
+            "lemme": "2019"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "Europe",
+            "lemme": "Europe"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "2021",
+            "lemme": "2021"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Au",
+            "lemme": "au"
+        },
+        {
+            "nom": "Royaume",
+            "lemme": "Royaume"
+        },
+        {
+            "nom": "Uni",
+            "lemme": "Uni"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "mois",
+            "lemme": "mois"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "coûte",
+            "lemme": "coûter"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "NHS",
+            "lemme": "nh"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "6",
+            "lemme": "6"
+        },
+        {
+            "nom": "100",
+            "lemme": "100"
+        },
+        {
+            "nom": "livres",
+            "lemme": "livre"
+        },
+        {
+            "nom": "sterling",
+            "lemme": "sterling"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "partir",
+            "lemme": "partir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "2021",
+            "lemme": "2021"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "montant",
+            "lemme": "montant"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "États-Unis",
+            "lemme": "États-Unis"
+        },
+        {
+            "nom": "coûte",
+            "lemme": "coûter"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "21",
+            "lemme": "21"
+        },
+        {
+            "nom": "300",
+            "lemme": "300"
+        },
+        {
+            "nom": "dollars",
+            "lemme": "dollar"
+        },
+        {
+            "nom": "américains",
+            "lemme": "américain"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "Ressources",
+            "lemme": "ressource"
+        },
+        {
+            "nom": "relatives",
+            "lemme": "relatif"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "ChEMBL",
+            "lemme": "chembl"
+        },
+        {
+            "nom": "DrugBank",
+            "lemme": "drugbank"
+        },
+        {
+            "nom": "International",
+            "lemme": "International"
+        },
+        {
+            "nom": "Union",
+            "lemme": "Union"
+        },
+        {
+            "nom": "of",
+            "lemme": "of"
+        },
+        {
+            "nom": "Pharmacology",
+            "lemme": "Pharmacology"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        }
+    ]
+]

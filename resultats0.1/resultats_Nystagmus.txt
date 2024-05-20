@@ -1,0 +1,11 @@
+médecine;mouvement;r_has_symptomes.txt;lemme;être un
+rétine;vision;r_has_symptomes.txt;lemme;où le
+cycle;rêve;r_has_symptomes.txt;lemme;où le
+mouvement;activité;r_has_symptomes.txt;lemme;être un
+processus;terme;r_processus_vers_agent.txt;lemme;de apprentissage
+processus;terme;r_processus_vers_agent.txt;nom;d' apprentissage
+développement;expérimentation;r_processus_vers_agent.txt;lemme;de apprentissage
+développement;expérimentation;r_processus_vers_agent.txt;nom;d' apprentissage
+cerveau;côté;r_has_symptomes.txt;lemme;où le
+cas;importance;r_has_symptomes.txt;lemme;où le
+albinisme;albinisme;r_has_symptomes.txt;lemme;être un

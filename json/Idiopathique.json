@@ -1,508 +1,594 @@
 [
     [
         {
-            "mot": "Idiopathique",
-            "id": "143686326"
+            "nom": "Idiopathique",
+            "lemme": "Idiopathique"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "grec",
-            "id": "253909450"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "ἰδιοπάθεια",
-            "id": "NULL"
+            "nom": "grec",
+            "lemme": "grec"
         },
         {
-            "mot": "affection",
-            "id": "183332182"
+            "nom": "ἰδιοπάθεια",
+            "lemme": "ἰδιοπάθεια"
         },
         {
-            "mot": "qu'",
-            "id": "14718918"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "affection",
+            "lemme": "affection"
         },
         {
-            "mot": "éprouve",
-            "id": "NULL"
+            "nom": "qu'",
+            "lemme": "que"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "soi",
-            "id": "17341427"
+            "nom": "éprouve",
+            "lemme": "éprouver"
         },
         {
-            "mot": "même",
-            "id": "NULL"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "soi",
+            "lemme": "soi"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "même",
+            "lemme": "même"
         },
         {
-            "mot": "adjectif",
-            "id": "9255356"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "utilisé",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "adjectif",
+            "lemme": "adjectif"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "utilisé",
+            "lemme": "utiliser"
         },
         {
-            "mot": "indique",
-            "id": "29351"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "soit",
-            "id": "3172820"
+            "nom": "médecine",
+            "lemme": "médecine"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "maladie",
-            "id": "16512576"
+            "nom": "indique",
+            "lemme": "indique"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "symptôme",
-            "id": "NULL"
-        },
-        {
-            "mot": "existant",
-            "id": "19026"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "lui",
-            "id": "14773174"
-        },
-        {
-            "mot": "même",
-            "id": "NULL"
-        },
-        {
-            "mot": "c'",
-            "id": "2140163"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "dire",
-            "id": "15765513"
-        },
-        {
-            "mot": "sans",
-            "id": "16089511"
-        },
-        {
-            "mot": "lien",
-            "id": "5814227"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "autre",
-            "id": "404604"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "soit",
-            "id": "3172820"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "symptôme",
-            "id": "NULL"
-        },
-        {
-            "mot": "dont",
-            "id": "461256"
-        },
-        {
-            "mot": "on",
-            "id": "2529893"
-        },
-        {
-            "mot": "n'",
-            "id": "2233812"
-        },
-        {
-            "mot": "a",
-            "id": "143768"
-        },
-        {
-            "mot": "pu",
-            "id": "2532819"
-        },
-        {
-            "mot": "attribuer",
-            "id": "74828"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "cause",
-            "id": "15550576"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Techniquement",
-            "id": "250945810"
+            "nom": "soit",
+            "lemme": "être"
         },
         {
-            "mot": "parlant",
-            "id": "171034405"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "c'",
-            "id": "2140163"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "symptôme",
+            "lemme": "symptôme"
         },
         {
-            "mot": "terme",
-            "id": "217273921"
+            "nom": "existant",
+            "lemme": "exister"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "nosographie",
-            "id": "425657"
+            "nom": "lui-même",
+            "lemme": "lui-même"
         },
         {
-            "mot": "classification",
-            "id": "273455"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "c'",
+            "lemme": "ce"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": "est",
+            "lemme": "est"
         },
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "dire",
+            "lemme": "dire"
         },
         {
-            "mot": "plupart",
-            "id": "429767"
+            "nom": "sans",
+            "lemme": "sans"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "lien",
+            "lemme": "lien"
         },
         {
-            "mot": "états",
-            "id": "NULL"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "médicaux",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": "autre",
+            "lemme": "autre"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "etc",
-            "id": "111768245"
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "soit",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "symptôme",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pu",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "attribuer",
+            "lemme": "attribuer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "Techniquement",
+            "lemme": "techniquement"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "parlant",
+            "lemme": "parlant"
         },
         {
-            "mot": "plusieurs",
-            "id": "412067"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "causes",
-            "id": "193336232"
+            "nom": "c'",
+            "lemme": "ce"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "plutôt",
-            "id": "NULL"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "avérées",
-            "id": "NULL"
+            "nom": "terme",
+            "lemme": "terme"
         },
         {
-            "mot": "mais",
-            "id": "397741"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "nosographie",
+            "lemme": "nosographie"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "certain",
-            "id": "414263"
+            "nom": "classification",
+            "lemme": "classification"
         },
         {
-            "mot": "pourcentage",
-            "id": "10821898"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "maladies",
+            "lemme": "maladie"
         },
         {
-            "mot": "gens",
-            "id": "404523"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "cet",
-            "id": "413881"
-        },
-        {
-            "mot": "état",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "cause",
-            "id": "15550576"
-        },
-        {
-            "mot": "n'",
-            "id": "2233812"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "pas",
-            "id": "1853062"
-        },
-        {
-            "mot": "forcément",
-            "id": "NULL"
-        },
-        {
-            "mot": "apparente",
-            "id": "5534639"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "caractérisée",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "ces",
-            "id": "2446001"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "plupart",
+            "lemme": "plupart"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "origine",
-            "id": "273472"
+            "nom": "états",
+            "lemme": "état"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "médicaux",
+            "lemme": "médical"
         },
         {
-            "mot": "cet",
-            "id": "413881"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "état",
-            "id": "NULL"
+            "nom": "maladies",
+            "lemme": "maladie"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "appelée",
-            "id": "NULL"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "idiopathique",
-            "id": "143686326"
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "etc.",
+            "lemme": "etc."
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "plutôt",
+            "lemme": "plutôt"
+        },
+        {
+            "nom": "avérées",
+            "lemme": "avérer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "certain",
+            "lemme": "certain"
+        },
+        {
+            "nom": "pourcentage",
+            "lemme": "pourcentage"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "gens",
+            "lemme": "gens"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "cet",
+            "lemme": "ce"
+        },
+        {
+            "nom": "état",
+            "lemme": "état"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "forcément",
+            "lemme": "forcément"
+        },
+        {
+            "nom": "apparente",
+            "lemme": "apparent"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "caractérisée",
+            "lemme": "caractériser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "ces",
+            "lemme": "ce"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "Psychosomatique",
-            "id": "101438253"
+            "nom": "origine",
+            "lemme": "origine"
         },
         {
-            "mot": "Somatique",
-            "id": "103562288"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Santé",
-            "id": "NULL"
+            "nom": "cet",
+            "lemme": "ce"
         },
         {
-            "mot": "Santé",
-            "id": "NULL"
+            "nom": "état",
+            "lemme": "état"
         },
         {
-            "mot": "environnementale",
-            "id": "5998291"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "Épidémiologie",
-            "id": "NULL"
+            "nom": "appelée",
+            "lemme": "appeler"
         },
         {
-            "mot": "Synergie",
-            "id": "10176150"
+            "nom": "idiopathique",
+            "lemme": "idiopathique"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "références",
+            "lemme": "référence"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Psychosomatique",
+            "lemme": "Psychosomatique"
+        },
+        {
+            "nom": "Somatique",
+            "lemme": "somatique"
+        },
+        {
+            "nom": "Santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": "Santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": "environnementale",
+            "lemme": "environnemental"
+        },
+        {
+            "nom": "Épidémiologie",
+            "lemme": "épidémiologie"
+        },
+        {
+            "nom": "Synergie",
+            "lemme": "synergie"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
         }
     ]
 ]

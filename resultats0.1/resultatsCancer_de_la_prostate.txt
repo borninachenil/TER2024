@@ -1,0 +1,12 @@
+cancer;cancer;r_has_symptomes.txt;lemme
+pollution;facteur;r_has_symptomes.txt;lemme
+surconsommation;facteur;r_has_symptomes.txt;nom
+surconsommation;facteur;r_has_symptomes.txt;lemme
+chlordécone;facteur;r_has_symptomes.txt;lemme
+eau;facteur;r_has_symptomes.txt;nom
+eau;facteur;r_has_symptomes.txt;lemme
+psa;protéine;r_has_symptomes.txt;lemme
+signe;induration;r_has_symptomes.txt;lemme
+consistance;signe;r_has_symptomes.txt;lemme
+cancer;maladie;r_has_symptomes.txt;lemme
+intention;arbitrage;r_has_symptomes.txt;lemme

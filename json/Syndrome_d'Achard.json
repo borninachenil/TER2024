@@ -1,0 +1,508 @@
+[
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Achard",
+            "lemme": "Achard"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "génétique",
+            "lemme": "génétique"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "transmission",
+            "lemme": "transmission"
+        },
+        {
+            "nom": "autosomique",
+            "lemme": "autosomique"
+        },
+        {
+            "nom": "dominante",
+            "lemme": "dominant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "entraînant",
+            "lemme": "entraîner"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "arachnodactylie",
+            "lemme": "arachnodactylie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "recul",
+            "lemme": "recul"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mâchoire",
+            "lemme": "mâchoire"
+        },
+        {
+            "nom": "inférieure",
+            "lemme": "inférieur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "hyperlaxité",
+            "lemme": "hyperlaxité"
+        },
+        {
+            "nom": "articulaire",
+            "lemme": "articulaire"
+        },
+        {
+            "nom": "limitée",
+            "lemme": "limité"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "mains",
+            "lemme": "main"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "pieds",
+            "lemme": "pied"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hypermobilité",
+            "lemme": "hypermobilité"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "subluxations",
+            "lemme": "subluxation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "articulations",
+            "lemme": "articulation"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "excursion",
+            "lemme": "excursion"
+        },
+        {
+            "nom": "latérale",
+            "lemme": "latéral"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "rotules",
+            "lemme": "rotule"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "manifestations",
+            "lemme": "manifestation"
+        },
+        {
+            "nom": "reflètent",
+            "lemme": "refléter"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "augmentation",
+            "lemme": "augmentation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "laxité",
+            "lemme": "laxité"
+        },
+        {
+            "nom": "ligamentaire",
+            "lemme": "ligamentaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "cliniquement",
+            "lemme": "cliniquement"
+        },
+        {
+            "nom": "proche",
+            "lemme": "proche"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Marfan",
+            "lemme": "Marfan"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "Petits",
+            "lemme": "petit"
+        },
+        {
+            "nom": "pouces",
+            "lemme": "pouce"
+        },
+        {
+            "nom": "Hyperlaxité",
+            "lemme": "hyperlaxité"
+        },
+        {
+            "nom": "articulaire",
+            "lemme": "articulaire"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "niveau",
+            "lemme": "niveau"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "mains",
+            "lemme": "main"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "pies",
+            "lemme": "pie"
+        },
+        {
+            "nom": "Brachycéphalie",
+            "lemme": "Brachycéphalie"
+        },
+        {
+            "nom": "branche",
+            "lemme": "branche"
+        },
+        {
+            "nom": "mandibulaire",
+            "lemme": "mandibulaire"
+        },
+        {
+            "nom": "courte",
+            "lemme": "court"
+        },
+        {
+            "nom": "Références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Cet",
+            "lemme": "ce"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "partiellement",
+            "lemme": "partiellement"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "totalité",
+            "lemme": "totalité"
+        },
+        {
+            "nom": "issu",
+            "lemme": "issu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Wikipédia",
+            "lemme": "Wikipédia"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": "intitulé",
+            "lemme": "intituler"
+        },
+        {
+            "nom": "Achard",
+            "lemme": "Achard"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "auteurs",
+            "lemme": "auteur"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

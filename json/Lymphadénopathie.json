@@ -1,2750 +1,3266 @@
 [
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "adénopathie",
-            "id": "NULL"
+            "nom": "adénopathie",
+            "lemme": "adénopathie"
         },
         {
-            "mot": "ADP",
-            "id": "195737"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ADP",
+            "lemme": "ADP"
         },
         {
-            "mot": "lymphadénopathie",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "désigne",
-            "id": "NULL"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "lymphadénopathie",
+            "lemme": "lymphadénopathie"
         },
         {
-            "mot": "état",
-            "id": "NULL"
+            "nom": "désigne",
+            "lemme": "désigner"
         },
         {
-            "mot": "pathologique",
-            "id": "49779"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "état",
+            "lemme": "état"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "pathologique",
+            "lemme": "pathologique"
         },
         {
-            "mot": "nœud",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "lymphatique",
-            "id": "156479540"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "nœud",
+            "lemme": "nœud"
         },
         {
-            "mot": "appelé",
-            "id": "NULL"
+            "nom": "lymphatique",
+            "lemme": "lymphatique"
         },
         {
-            "mot": "ganglion",
-            "id": "132902132"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "lymphatique",
-            "id": "156479540"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "appelé",
+            "lemme": "appeler"
         },
         {
-            "mot": "grec",
-            "id": "253909450"
+            "nom": "ganglion",
+            "lemme": "ganglion"
         },
         {
-            "mot": "Adéno",
-            "id": "NULL"
+            "nom": "lymphatique",
+            "lemme": "lymphatique"
         },
         {
-            "mot": "Adên",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "Adenos",
-            "id": "NULL"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "glande",
-            "id": "3174301"
+            "nom": "grec",
+            "lemme": "grec"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "Adéno",
+            "lemme": "Adéno"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "Adên",
+            "lemme": "Adên"
         },
         {
-            "mot": "augmenté",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Adenos",
+            "lemme": "Adenos"
         },
         {
-            "mot": "volume",
-            "id": "16090378"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "glande",
+            "lemme": "gland"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "centimètre",
-            "id": "NULL"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "augmenté",
+            "lemme": "augmenter"
         },
         {
-            "mot": "souvent",
-            "id": "3382915"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "volume",
+            "lemme": "volume"
         },
         {
-            "mot": "adénopathie",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "origine",
-            "id": "273472"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "infectieuse",
-            "id": "17052231"
+            "nom": "centimètre",
+            "lemme": "centimètre"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "tumorale",
-            "id": "261796"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "signes",
-            "id": "425465"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "cliniques",
-            "id": "193336237"
+            "nom": "souvent",
+            "lemme": "souvent"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "bilan",
-            "id": "8864584"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "biologique",
-            "id": "5628509"
+            "nom": "adénopathie",
+            "lemme": "adénopathie"
         },
         {
-            "mot": "parfois",
-            "id": "14886690"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "radiologique",
-            "id": "18926"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "origine",
+            "lemme": "origine"
         },
         {
-            "mot": "résultats",
-            "id": "NULL"
+            "nom": "infectieuse",
+            "lemme": "infectieux"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "tumorale",
+            "lemme": "tumoral"
         },
         {
-            "mot": "éventuelle",
-            "id": "NULL"
-        },
-        {
-            "mot": "biopsie",
-            "id": "16089016"
-        },
-        {
-            "mot": "ganglionnaire",
-            "id": "120066"
-        },
-        {
-            "mot": "orientent",
-            "id": "2072791"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "diagnostic",
-            "id": "426024"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Physiopathologie",
-            "id": "111273409"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "signes",
+            "lemme": "signe"
         },
         {
-            "mot": "ganglions",
-            "id": "63991"
+            "nom": "cliniques",
+            "lemme": "clinique"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "organes",
-            "id": "411819"
+            "nom": "bilan",
+            "lemme": "bilan"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "biologique",
+            "lemme": "biologique"
         },
         {
-            "mot": "drainage",
-            "id": "11770716"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "parfois",
+            "lemme": "parfois"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "radiologique",
+            "lemme": "radiologique"
         },
         {
-            "mot": "filtration",
-            "id": "16084366"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "résultats",
+            "lemme": "résultat"
         },
         {
-            "mot": "lymphe",
-            "id": "131547316"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "provenant",
-            "id": "149912"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "éventuelle",
+            "lemme": "éventuel"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "biopsie",
+            "lemme": "biopsie"
         },
         {
-            "mot": "territoire",
-            "id": "277984"
+            "nom": "ganglionnaire",
+            "lemme": "ganglionnaire"
         },
         {
-            "mot": "anatomique",
-            "id": "156502072"
+            "nom": "orientent",
+            "lemme": "orienter"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ils",
-            "id": "427503"
+            "nom": "Physiopathologie",
+            "lemme": "physiopathologie"
         },
         {
-            "mot": "mettent",
-            "id": "2225077"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "précocement",
-            "id": "NULL"
+            "nom": "ganglions",
+            "lemme": "ganglion"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "contact",
-            "id": "15404435"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "organes",
+            "lemme": "organe"
         },
         {
-            "mot": "antigènes",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "drainage",
+            "lemme": "drainage"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "lymphocytes",
-            "id": "17051869"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "assurant",
-            "id": "1992374"
+            "nom": "filtration",
+            "lemme": "filtration"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "veille",
-            "id": "10054038"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "immunitaire",
-            "id": "3825"
+            "nom": "lymphe",
+            "lemme": "lymphe"
         },
         {
-            "mot": "permanente",
-            "id": "5998520"
+            "nom": "provenant",
+            "lemme": "provenir"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "territoire",
+            "lemme": "territoire"
+        },
+        {
+            "nom": "anatomique",
+            "lemme": "anatomique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "Ils",
+            "lemme": "il"
         },
         {
-            "mot": "architecture",
-            "id": "152294"
+            "nom": "mettent",
+            "lemme": "mettre"
         },
         {
-            "mot": "normale",
-            "id": "405840"
+            "nom": "précocement",
+            "lemme": "précocement"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "ganglion",
-            "id": "132902132"
+            "nom": "contact",
+            "lemme": "contact"
         },
         {
-            "mot": "montre",
-            "id": "11219652"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "antigènes",
+            "lemme": "antigène"
         },
         {
-            "mot": "follicules",
-            "id": "566929"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "lymphocytes",
-            "id": "17051869"
+            "nom": "lymphocytes",
+            "lemme": "lymphocyte"
         },
         {
-            "mot": "B",
-            "id": "143220"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "assurant",
+            "lemme": "assurer"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "zones",
-            "id": "2934163"
+            "nom": "veille",
+            "lemme": "veille"
         },
         {
-            "mot": "interfolliculaires",
-            "id": "NULL"
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "permanente",
+            "lemme": "permanent"
         },
         {
-            "mot": "lymphocytes",
-            "id": "17051869"
-        },
-        {
-            "mot": "T",
-            "id": "136903"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "tout",
-            "id": "429875"
-        },
-        {
-            "mot": "limité",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "capsule",
-            "id": "16560585"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "prolifération",
-            "id": "NULL"
+            "nom": "architecture",
+            "lemme": "architecture"
         },
         {
-            "mot": "tumorale",
-            "id": "261796"
+            "nom": "normale",
+            "lemme": "normal"
         },
         {
-            "mot": "remanie",
-            "id": "2109819"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "totalement",
-            "id": "5965044"
+            "nom": "ganglion",
+            "lemme": "ganglion"
         },
         {
-            "mot": "cette",
-            "id": "419981"
+            "nom": "montre",
+            "lemme": "montr"
         },
         {
-            "mot": "architecture",
-            "id": "152294"
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "follicules",
+            "lemme": "follicule"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "lymphocytes",
+            "lemme": "lymphocyte"
+        },
+        {
+            "nom": "B",
+            "lemme": "b"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "zones",
+            "lemme": "zone"
+        },
+        {
+            "nom": "interfolliculaires",
+            "lemme": "interfolliculaire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "lymphocytes",
+            "lemme": "lymphocyte"
+        },
+        {
+            "nom": "T",
+            "lemme": "t"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "tout",
+            "lemme": "tout"
+        },
+        {
+            "nom": "limité",
+            "lemme": "limité"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "capsule",
+            "lemme": "capsule"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "hypertrophie",
-            "id": "95914938"
+            "nom": "prolifération",
+            "lemme": "prolifération"
         },
         {
-            "mot": "ganglionnaire",
-            "id": "120066"
+            "nom": "tumorale",
+            "lemme": "tumoral"
         },
         {
-            "mot": "fait",
-            "id": "46933112"
+            "nom": "remanie",
+            "lemme": "remanie"
         },
         {
-            "mot": "suite",
-            "id": "10934677"
+            "nom": "totalement",
+            "lemme": "totalement"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "cette",
+            "lemme": "ce"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "architecture",
+            "lemme": "architecture"
         },
         {
-            "mot": "prolifération",
-            "id": "NULL"
-        },
-        {
-            "mot": "lymphocytaire",
-            "id": "17341673"
-        },
-        {
-            "mot": "réactionnelle",
-            "id": "NULL"
-        },
-        {
-            "mot": "due",
-            "id": "10911053"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "stimulation",
-            "id": "17341605"
-        },
-        {
-            "mot": "antigénique",
-            "id": "NULL"
-        },
-        {
-            "mot": "locale",
-            "id": "462548"
-        },
-        {
-            "mot": "infectieuse",
-            "id": "17052231"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "tumorale",
-            "id": "261796"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "générale",
-            "id": "NULL"
-        },
-        {
-            "mot": "infectieuse",
-            "id": "17052231"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "dysimmunitaire",
-            "id": "178252"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "prolifération",
-            "id": "NULL"
-        },
-        {
-            "mot": "tumorale",
-            "id": "261796"
-        },
-        {
-            "mot": "primitive",
-            "id": "428720"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "tissu",
-            "id": "413277"
-        },
-        {
-            "mot": "lymphoïde",
-            "id": "NULL"
-        },
-        {
-            "mot": "lymphome",
-            "id": "17051945"
-        },
-        {
-            "mot": "hodgkinien",
-            "id": "12812641"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "pas",
-            "id": "1853062"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "accumulation",
-            "id": "430192"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "cellules",
-            "id": "1858797"
-        },
-        {
-            "mot": "pathologiques",
-            "id": "391278"
-        },
-        {
-            "mot": "filtrées",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "ganglion",
-            "id": "132902132"
-        },
-        {
-            "mot": "bactéries",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "cellules",
-            "id": "1858797"
-        },
-        {
-            "mot": "tumorales",
-            "id": "1932527"
-        },
-        {
-            "mot": "Éléments",
-            "id": "NULL"
-        },
-        {
-            "mot": "paracliniques",
-            "id": "14590159"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "orientation",
-            "id": "5832465"
-        },
-        {
-            "mot": "Biologie",
-            "id": "151907"
-        },
-        {
-            "mot": "La",
-            "id": "14424533"
-        },
-        {
-            "mot": "formule",
-            "id": "420486"
-        },
-        {
-            "mot": "leucocytaire",
-            "id": "27337"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "montrer",
-            "id": "3385228"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "lymphocytose",
-            "id": "5737"
-        },
-        {
-            "mot": "voire",
-            "id": "2603254"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "hyperlymphocytose",
-            "id": "278080"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "mononucléosique",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "lymphoblastose",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "polynucléose",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "recherche",
-            "id": "141896"
+            "nom": "hypertrophie",
+            "lemme": "hypertrophie"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "ganglionnaire",
+            "lemme": "ganglionnaire"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "fait",
+            "lemme": "faire"
         },
         {
-            "mot": "syndrome",
-            "id": "16089555"
+            "nom": "suite",
+            "lemme": "suite"
         },
         {
-            "mot": "inflammatoire",
-            "id": "17051203"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "classique",
-            "id": "193336239"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "cytoponction",
-            "id": "317440"
+            "nom": "prolifération",
+            "lemme": "prolifération"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "lymphocytaire",
+            "lemme": "lymphocytaire"
         },
         {
-            "mot": "simple",
-            "id": "17341162"
+            "nom": "réactionnelle",
+            "lemme": "réactionnelle"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "due",
+            "lemme": "devoir"
         },
         {
-            "mot": "permet",
-            "id": "308648"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "orientation",
-            "id": "5832465"
+            "nom": "stimulation",
+            "lemme": "stimulation"
         },
         {
-            "mot": "diagnostique",
-            "id": "251003858"
+            "nom": "antigénique",
+            "lemme": "antigénique"
         },
         {
-            "mot": "rapide",
-            "id": "416051"
+            "nom": "locale",
+            "lemme": "local"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "infectieuse",
+            "lemme": "infectieux"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "tumorale",
+            "lemme": "tumoral"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "générale",
+            "lemme": "général"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "infectieuse",
+            "lemme": "infectieux"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "dysimmunitaire",
+            "lemme": "dysimmunitaire"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Elle",
-            "id": "9986297"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "permet",
-            "id": "308648"
+            "nom": "prolifération",
+            "lemme": "prolifération"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "tumorale",
+            "lemme": "tumoral"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "primitive",
+            "lemme": "primitif"
         },
         {
-            "mot": "culture",
-            "id": "152488"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "microbiologique",
-            "id": "7478"
+            "nom": "tissu",
+            "lemme": "tissu"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "lymphoïde",
+            "lemme": "lymphoïde"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "tuberculose",
-            "id": "91622509"
+            "nom": "lymphome",
+            "lemme": "lymphome"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "hodgkinien",
+            "lemme": "hodgkinien"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Imagerie",
-            "id": "407973"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "Elle",
-            "id": "9986297"
+            "nom": "accumulation",
+            "lemme": "accumulation"
         },
         {
-            "mot": "permet",
-            "id": "308648"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "cellules",
+            "lemme": "cellule"
         },
         {
-            "mot": "recherche",
-            "id": "141896"
+            "nom": "pathologiques",
+            "lemme": "pathologique"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "filtrées",
+            "lemme": "filtrer"
         },
         {
-            "mot": "adénopathies",
-            "id": "NULL"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "profondes",
-            "id": "400772"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "médiastinales",
-            "id": "NULL"
+            "nom": "ganglion",
+            "lemme": "ganglion"
         },
         {
-            "mot": "abdominales",
-            "id": "396944"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "bactéries",
+            "lemme": "bactérie"
         },
         {
-            "mot": "pelviennes",
-            "id": "2314586"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "inaccessibles",
-            "id": "400746"
+            "nom": "cellules",
+            "lemme": "cellule"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "tumorales",
+            "lemme": "tumoral"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "examen",
-            "id": "47928232"
-        },
-        {
-            "mot": "clinique",
-            "id": "430177"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "On",
-            "id": "2529893"
+            "nom": "Éléments",
+            "lemme": "élément"
         },
         {
-            "mot": "réalisera",
-            "id": "NULL"
+            "nom": "paracliniques",
+            "lemme": "paraclinique"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "orientation",
+            "lemme": "orientation"
         },
         {
-            "mot": "premier",
-            "id": "17340841"
+            "nom": "Biologie",
+            "lemme": "biologie"
         },
         {
-            "mot": "temps",
-            "id": "1845924"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "formule",
+            "lemme": "formule"
         },
         {
-            "mot": "radiographie",
-            "id": "100279708"
+            "nom": "leucocytaire",
+            "lemme": "leucocytaire"
         },
         {
-            "mot": "pulmonaire",
-            "id": "4312322"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "montrer",
+            "lemme": "montrer"
         },
         {
-            "mot": "échographie",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "abdominale",
-            "id": "391665"
+            "nom": "lymphocytose",
+            "lemme": "lymphocytose"
         },
         {
-            "mot": "voire",
-            "id": "2603254"
+            "nom": "voire",
+            "lemme": "voir"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "scanner",
-            "id": "571702"
+            "nom": "hyperlymphocytose",
+            "lemme": "hyperlymphocytose"
         },
         {
-            "mot": "thoraco",
-            "id": "398697"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "abdomino",
-            "id": "396980"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "pelvien",
-            "id": "133252"
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "mononucléosique",
+            "lemme": "mononucléosique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "lymphoblastose",
+            "lemme": "lymphoblastose"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "polynucléose",
+            "lemme": "polynucléose"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Biopsie",
-            "id": "16089016"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "ganglionnaire",
-            "id": "120066"
+            "nom": "recherche",
+            "lemme": "recherche"
         },
         {
-            "mot": "Ses",
-            "id": "11254312"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "indications",
-            "id": "5832578"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "syndrome",
+            "lemme": "syndrome"
         },
         {
-            "mot": "développées",
-            "id": "NULL"
+            "nom": "inflammatoire",
+            "lemme": "inflammatoire"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "classique",
+            "lemme": "classique"
         },
         {
-            "mot": "causes",
-            "id": "193336232"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "devraient",
-            "id": "2065199"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "élargies",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Elles",
-            "id": "3181199"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "permettent",
-            "id": "2242079"
+            "nom": "cytoponction",
+            "lemme": "cytoponction"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "étude",
-            "id": "NULL"
+            "nom": "simple",
+            "lemme": "simple"
         },
         {
-            "mot": "immunohistologique",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "cytogénétique",
-            "id": "NULL"
+            "nom": "permet",
+            "lemme": "permettre"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "bactériologique",
-            "id": "NULL"
+            "nom": "orientation",
+            "lemme": "orientation"
+        },
+        {
+            "nom": "diagnostique",
+            "lemme": "diagnostique"
+        },
+        {
+            "nom": "rapide",
+            "lemme": "rapide"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Démarche",
-            "id": "NULL"
+            "nom": "Elle",
+            "lemme": "lui"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "permet",
+            "lemme": "permettre"
         },
         {
-            "mot": "diagnostic",
-            "id": "426024"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "étiologique",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "Causes",
-            "id": "193336232"
+            "nom": "culture",
+            "lemme": "culture"
         },
         {
-            "mot": "Hémopathies",
-            "id": "NULL"
+            "nom": "microbiologique",
+            "lemme": "microbiologique"
         },
         {
-            "mot": "malignes",
-            "id": "403681"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Maladie",
-            "id": "16512576"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "tuberculose",
+            "lemme": "tuberculose"
         },
         {
-            "mot": "Hodgkin",
-            "id": "464560"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "b",
-            "id": "143220"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "Lymphomes",
-            "id": "568694"
-        },
-        {
-            "mot": "malins",
-            "id": "3180861"
-        },
-        {
-            "mot": "non",
-            "id": "2409585"
-        },
-        {
-            "mot": "hodgkiniens",
-            "id": "317431"
-        },
-        {
-            "mot": "c",
-            "id": "142716"
-        },
-        {
-            "mot": "Leucémie",
-            "id": "NULL"
-        },
-        {
-            "mot": "lymphoïde",
-            "id": "NULL"
-        },
-        {
-            "mot": "chronique",
-            "id": "402275"
-        },
-        {
-            "mot": "ganglionnaire",
-            "id": "120066"
-        },
-        {
-            "mot": "d",
-            "id": "142231"
-        },
-        {
-            "mot": "Leucémies",
-            "id": "NULL"
-        },
-        {
-            "mot": "aiguës",
-            "id": "NULL"
-        },
-        {
-            "mot": "tumorales",
-            "id": "1932527"
-        },
-        {
-            "mot": "e",
-            "id": "141745"
-        },
-        {
-            "mot": "Leucémie",
-            "id": "NULL"
-        },
-        {
-            "mot": "myéloïde",
-            "id": "NULL"
-        },
-        {
-            "mot": "chronique",
-            "id": "402275"
-        },
-        {
-            "mot": "Métastases",
-            "id": "NULL"
-        },
-        {
-            "mot": "ganglionnaires",
-            "id": "403919"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cancers",
-            "id": "3174233"
-        },
-        {
-            "mot": "solides",
-            "id": "11253374"
-        },
-        {
-            "mot": "Dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "où",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "recherche",
-            "id": "141896"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "cancer",
-            "id": "140121"
-        },
-        {
-            "mot": "primitif",
-            "id": "2931982"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "négative",
-            "id": "NULL"
-        },
-        {
-            "mot": "il",
-            "id": "1836399"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "inutile",
-            "id": "584191"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "poursuivre",
-            "id": "132753280"
-        },
-        {
-            "mot": "car",
-            "id": "11494787"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "adénopathies",
-            "id": "NULL"
-        },
-        {
-            "mot": "indiquent",
-            "id": "2051745"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "tumeur",
-            "id": "402541"
-        },
-        {
-            "mot": "métastasée",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Imagerie",
+            "lemme": "Imagerie"
         },
         {
-            "mot": "chimiothérapie",
-            "id": "NULL"
+            "nom": "Elle",
+            "lemme": "lui"
         },
         {
-            "mot": "sera",
-            "id": "16872976"
+            "nom": "permet",
+            "lemme": "permettre"
         },
         {
-            "mot": "orientée",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "recherche",
+            "lemme": "recherche"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "type",
-            "id": "5813161"
+            "nom": "adénopathies",
+            "lemme": "adénopathie"
         },
         {
-            "mot": "histologique",
-            "id": "5896672"
+            "nom": "profondes",
+            "lemme": "profond"
         },
         {
-            "mot": "épidermolyse",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "glandulaire",
-            "id": "38850"
+            "nom": "médiastinales",
+            "lemme": "médiastinal"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "indifférencié",
-            "id": "NULL"
+            "nom": "abdominales",
+            "lemme": "abdominale"
         },
         {
-            "mot": "Quand",
-            "id": "403311"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "on",
-            "id": "2529893"
+            "nom": "pelviennes",
+            "lemme": "pelvienne"
         },
         {
-            "mot": "retrouve",
-            "id": "2117693"
+            "nom": "inaccessibles",
+            "lemme": "inaccessible"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "tissu",
-            "id": "413277"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "thyroïdien",
-            "id": "NULL"
+            "nom": "examen",
+            "lemme": "examen"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "explorations",
-            "id": "3229133"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "glande",
-            "id": "3174301"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "négatives",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "thyroïdectomie",
-            "id": "NULL"
-        },
-        {
-            "mot": "totale",
-            "id": "418218"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "toujours",
-            "id": "3170371"
-        },
-        {
-            "mot": "indiquée",
-            "id": "NULL"
-        },
-        {
-            "mot": "car",
-            "id": "11494787"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "adénopathie",
-            "id": "NULL"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "relation",
-            "id": "426964"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "cancer",
-            "id": "140121"
-        },
-        {
-            "mot": "thyroïdien",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Infections",
-            "id": "3296077"
+            "nom": "On",
+            "lemme": "on"
         },
         {
-            "mot": "Une",
-            "id": "15606674"
+            "nom": "réalisera",
+            "lemme": "réaliser"
         },
         {
-            "mot": "adénopathie",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "participer",
-            "id": "244473943"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "premier",
+            "lemme": "premier"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "temps",
+            "lemme": "temps"
         },
         {
-            "mot": "description",
-            "id": "414393"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "clinique",
-            "id": "430177"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "radiographie",
+            "lemme": "radiographie"
         },
         {
-            "mot": "certaines",
-            "id": "9987968"
+            "nom": "pulmonaire",
+            "lemme": "pulmonaire"
         },
         {
-            "mot": "infections",
-            "id": "3296077"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "infection",
-            "id": "17051343"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "échographie",
+            "lemme": "échographie"
         },
         {
-            "mot": "VIH",
-            "id": "319344"
+            "nom": "abdominale",
+            "lemme": "abdominal"
         },
         {
-            "mot": "tuberculose",
-            "id": "91622509"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "ganglionnaire",
-            "id": "120066"
+            "nom": "voire",
+            "lemme": "voire"
         },
         {
-            "mot": "tularémie",
-            "id": "NULL"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "brucellose",
-            "id": "102262902"
+            "nom": "scanner",
+            "lemme": "scanner"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "thoraco",
+            "lemme": "thoraco"
         },
         {
-            "mot": "diagnostic",
-            "id": "426024"
+            "nom": "abdomino",
+            "lemme": "abdomino"
         },
         {
-            "mot": "sérologique",
-            "id": "NULL"
+            "nom": "pelvien",
+            "lemme": "pelvien"
         },
         {
-            "mot": "syphilis",
-            "id": "98488258"
-        },
-        {
-            "mot": "secondaire",
-            "id": "2517701"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "diagnostic",
-            "id": "426024"
-        },
-        {
-            "mot": "sérologique",
-            "id": "NULL"
-        },
-        {
-            "mot": "certaines",
-            "id": "9987968"
-        },
-        {
-            "mot": "rickettsioses",
-            "id": "16786396"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "TIBOLA",
-            "id": "NULL"
-        },
-        {
-            "mot": "Tick",
-            "id": "6274812"
-        },
-        {
-            "mot": "borne",
-            "id": "169540"
-        },
-        {
-            "mot": "lymphadenopathy",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "griffes",
-            "id": "420927"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "chat",
-            "id": "17585305"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Lyme",
-            "id": "5783226"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "lymphadénopathie",
-            "id": "NULL"
-        },
-        {
-            "mot": "induite",
-            "id": "156499658"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "activation",
-            "id": "9021139"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "lymphocytes",
-            "id": "17051869"
-        },
-        {
-            "mot": "B",
-            "id": "143220"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "pieds",
-            "id": "430653"
-        },
-        {
-            "mot": "mains",
-            "id": "402264"
-        },
-        {
-            "mot": "bouche",
-            "id": "431249"
-        },
-        {
-            "mot": "Covid",
-            "id": "15190401"
-        },
-        {
-            "mot": "",
-            "id": "15910085"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Autres",
-            "id": "402129"
+            "nom": "Biopsie",
+            "lemme": "Biopsie"
         },
         {
-            "mot": "causes",
-            "id": "193336232"
+            "nom": "ganglionnaire",
+            "lemme": "ganglionnaire"
         },
         {
-            "mot": "Une",
-            "id": "15606674"
+            "nom": "Ses",
+            "lemme": "son"
         },
         {
-            "mot": "adénopathie",
-            "id": "NULL"
+            "nom": "indications",
+            "lemme": "indication"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "avoir",
-            "id": "402552"
+            "nom": "développées",
+            "lemme": "développer"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "cause",
-            "id": "15550576"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "non",
-            "id": "2409585"
+            "nom": "causes",
+            "lemme": "cause"
         },
         {
-            "mot": "infectieuse",
-            "id": "17052231"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "devraient",
+            "lemme": "devoir"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "sarcoïdose",
-            "id": "NULL"
+            "nom": "élargies",
+            "lemme": "élargir"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "auto",
-            "id": "15652031"
-        },
-        {
-            "mot": "immunes",
-            "id": "414001"
-        },
-        {
-            "mot": "lupus",
-            "id": "6260731"
-        },
-        {
-            "mot": "érythémateux",
-            "id": "NULL"
-        },
-        {
-            "mot": "disséminé",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "polyarthrite",
-            "id": "83051"
-        },
-        {
-            "mot": "rhumatoïde",
-            "id": "NULL"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "lesquelles",
-            "id": "16087745"
-        },
-        {
-            "mot": "il",
-            "id": "1836399"
-        },
-        {
-            "mot": "existe",
-            "id": "45446"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "évocateurs",
-            "id": "NULL"
-        },
-        {
-            "mot": "adénopathies",
-            "id": "NULL"
-        },
-        {
-            "mot": "dues",
-            "id": "423891"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "hydantoïne",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "Elles",
+            "lemme": "lui"
         },
         {
-            "mot": "arrêt",
-            "id": "NULL"
+            "nom": "permettent",
+            "lemme": "permettre"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "traitement",
-            "id": "16090024"
+            "nom": "étude",
+            "lemme": "étude"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "immunohistologique",
+            "lemme": "immunohistologiqu"
         },
         {
-            "mot": "fait",
-            "id": "46933112"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "régresser",
-            "id": "NULL"
+            "nom": "cytogénétique",
+            "lemme": "cytogénétique"
         },
         {
-            "mot": "il",
-            "id": "1836399"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "ne",
-            "id": "2447781"
+            "nom": "bactériologique",
+            "lemme": "bactériologique"
         },
         {
-            "mot": "doit",
-            "id": "461257"
-        },
-        {
-            "mot": "jamais",
-            "id": "403216"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "réintroduit",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "suite",
-            "id": "10934677"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "torticolis",
-            "id": "101438268"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "négligence",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "certaines",
-            "id": "9987968"
-        },
-        {
-            "mot": "dents",
-            "id": "402017"
-        },
-        {
-            "mot": "réaction",
-            "id": "NULL"
-        },
-        {
-            "mot": "vaccinale",
-            "id": "398413"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "adjuvants",
-            "id": "294993"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "si",
-            "id": "184281"
-        },
-        {
-            "mot": "elle",
-            "id": "9986297"
-        },
-        {
-            "mot": "n'",
-            "id": "2233812"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "pas",
-            "id": "1853062"
-        },
-        {
-            "mot": "immédiate",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "composants",
-            "id": "13995091"
-        },
-        {
-            "mot": "actifs",
-            "id": "90075203"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "De",
-            "id": "3320102"
+            "nom": "Démarche",
+            "lemme": "démarche"
         },
         {
-            "mot": "telles",
-            "id": "10055284"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "réactions",
-            "id": "NULL"
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
         },
         {
-            "mot": "axillaires",
-            "id": "464757"
+            "nom": "étiologique",
+            "lemme": "étiologique"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "Causes",
+            "lemme": "cause"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "Hémopathies",
+            "lemme": "Hémopathies"
         },
         {
-            "mot": "signalées",
-            "id": "NULL"
+            "nom": "malignes",
+            "lemme": "malin"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "Maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "vaccins",
-            "id": "143330271"
+            "nom": "Hodgkin",
+            "lemme": "Hodgkin"
         },
         {
-            "mot": "contre",
-            "id": "426382"
+            "nom": "b",
+            "lemme": "b"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "Covid",
-            "id": "15190401"
+            "nom": "Lymphomes",
+            "lemme": "Lymphomes"
         },
         {
-            "mot": "",
-            "id": "15910085"
+            "nom": "malins",
+            "lemme": "malin"
+        },
+        {
+            "nom": "non",
+            "lemme": "non"
+        },
+        {
+            "nom": "hodgkiniens",
+            "lemme": "hodgkinien"
+        },
+        {
+            "nom": "c",
+            "lemme": "c"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Leucémie",
+            "lemme": "Leucémie"
+        },
+        {
+            "nom": "lymphoïde",
+            "lemme": "lymphoïde"
+        },
+        {
+            "nom": "chronique",
+            "lemme": "chronique"
+        },
+        {
+            "nom": "ganglionnaire",
+            "lemme": "ganglionnaire"
+        },
+        {
+            "nom": "d",
+            "lemme": "d"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Leucémies",
+            "lemme": "leucémie"
+        },
+        {
+            "nom": "aiguës",
+            "lemme": "aiguë"
+        },
+        {
+            "nom": "tumorales",
+            "lemme": "tumoral"
+        },
+        {
+            "nom": "e",
+            "lemme": "e"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Leucémie",
+            "lemme": "Leucémie"
+        },
+        {
+            "nom": "myéloïde",
+            "lemme": "myéloïde"
+        },
+        {
+            "nom": "chronique",
+            "lemme": "chronique"
+        },
+        {
+            "nom": "Métastases",
+            "lemme": "métastase"
+        },
+        {
+            "nom": "ganglionnaires",
+            "lemme": "ganglionnaire"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cancers",
+            "lemme": "cancer"
+        },
+        {
+            "nom": "solides",
+            "lemme": "solide"
+        },
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "où",
+            "lemme": "où"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "recherche",
+            "lemme": "recherche"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "cancer",
+            "lemme": "cancer"
+        },
+        {
+            "nom": "primitif",
+            "lemme": "primitif"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "négative",
+            "lemme": "négatif"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "inutile",
+            "lemme": "inutile"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "poursuivre",
+            "lemme": "poursuivre"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "adénopathies",
+            "lemme": "adénopathie"
+        },
+        {
+            "nom": "indiquent",
+            "lemme": "indiquer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "tumeur",
+            "lemme": "tumeur"
+        },
+        {
+            "nom": "métastasée",
+            "lemme": "métastasé"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Situations",
-            "id": "400152"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "chimiothérapie",
+            "lemme": "chimiothérapie"
         },
         {
-            "mot": "adénopathies",
-            "id": "NULL"
+            "nom": "sera",
+            "lemme": "être"
         },
         {
-            "mot": "palpables",
-            "id": "2072522"
+            "nom": "orientée",
+            "lemme": "orienter"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "situent",
-            "id": "2096002"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "type",
+            "lemme": "type"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "histologique",
+            "lemme": "histologique"
         },
         {
-            "mot": "sites",
-            "id": "429318"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "spécifiques",
-            "id": "NULL"
+            "nom": "épidermolyse",
+            "lemme": "épidermolyse"
         },
         {
-            "mot": "régions",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "cervicales",
-            "id": "64520"
+            "nom": "glandulaire",
+            "lemme": "glandulaire"
         },
         {
-            "mot": "antérieures",
-            "id": "NULL"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "postérieures",
-            "id": "NULL"
+            "nom": "indifférencié",
+            "lemme": "indifférencier"
         },
         {
-            "mot": "sous",
-            "id": "16089533"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "mandibulaires",
-            "id": "1854097"
-        },
-        {
-            "mot": "régions",
-            "id": "NULL"
-        },
-        {
-            "mot": "inguinales",
-            "id": "2056831"
-        },
-        {
-            "mot": "droites",
-            "id": "10519254"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "gauches",
-            "id": "15039805"
-        },
-        {
-            "mot": "régions",
-            "id": "NULL"
-        },
-        {
-            "mot": "axillaires",
-            "id": "464757"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "sus",
-            "id": "11008364"
-        },
-        {
-            "mot": "claviculaires",
-            "id": "2148267"
-        },
-        {
-            "mot": "droites",
-            "id": "10519254"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "gauches",
-            "id": "15039805"
-        },
-        {
-            "mot": "Caractéristiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "Dures",
-            "id": "400825"
-        },
-        {
-            "mot": "lignieuses",
-            "id": "NULL"
-        },
-        {
-            "mot": "Molles",
-            "id": "2537979"
-        },
-        {
-            "mot": "élastiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "Pénitentes",
-            "id": "NULL"
-        },
-        {
-            "mot": "Mobiles",
-            "id": "10442659"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "fixées",
-            "id": "NULL"
-        },
-        {
-            "mot": "aux",
-            "id": "15504815"
-        },
-        {
-            "mot": "plans",
-            "id": "428096"
-        },
-        {
-            "mot": "profonds",
-            "id": "3228386"
-        },
-        {
-            "mot": "Douloureuses",
-            "id": "418515"
-        },
-        {
-            "mot": "spontanément",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "lors",
-            "id": "15562521"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "leur",
-            "id": "15633114"
-        },
-        {
-            "mot": "palpation",
-            "id": "100162752"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Symptômes",
-            "id": "NULL"
+            "nom": "Quand",
+            "lemme": "quand"
         },
         {
-            "mot": "associés",
-            "id": "NULL"
+            "nom": "on",
+            "lemme": "on"
         },
         {
-            "mot": "Érythème",
-            "id": "NULL"
+            "nom": "retrouve",
+            "lemme": "retrouver"
         },
         {
-            "mot": "localisé",
-            "id": "NULL"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "Hépatomégalie",
-            "id": "NULL"
+            "nom": "tissu",
+            "lemme": "tissu"
         },
         {
-            "mot": "Splénomégalie",
-            "id": "NULL"
+            "nom": "thyroïdien",
+            "lemme": "thyroïdien"
         },
         {
-            "mot": "Altération",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "état",
-            "id": "NULL"
+            "nom": "explorations",
+            "lemme": "exploration"
         },
         {
-            "mot": "général",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "glande",
+            "lemme": "glande"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "négatives",
+            "lemme": "négatif"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "thyroïdectomie",
+            "lemme": "thyroïdectomie"
+        },
+        {
+            "nom": "totale",
+            "lemme": "total"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "toujours",
+            "lemme": "toujours"
+        },
+        {
+            "nom": "indiquée",
+            "lemme": "indiquer"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "adénopathie",
+            "lemme": "adénopathie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "relation",
+            "lemme": "relation"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "cancer",
+            "lemme": "cancer"
+        },
+        {
+            "nom": "thyroïdien",
+            "lemme": "thyroïdien"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Traitement",
-            "id": "16090024"
+            "nom": "Infections",
+            "lemme": "infection"
         },
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Une",
+            "lemme": "un"
         },
         {
-            "mot": "traitement",
-            "id": "16090024"
+            "nom": "adénopathie",
+            "lemme": "adénopathie"
         },
         {
-            "mot": "consiste",
-            "id": "2156146"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "généralement",
-            "id": "NULL"
+            "nom": "participer",
+            "lemme": "participer"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "traiter",
-            "id": "99270"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "description",
+            "lemme": "description"
         },
         {
-            "mot": "trouble",
-            "id": "159719"
+            "nom": "clinique",
+            "lemme": "clinique"
         },
         {
-            "mot": "initial",
-            "id": "573326"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "certaines",
+            "lemme": "certain"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "infections",
+            "lemme": "infection"
         },
         {
-            "mot": "origine",
-            "id": "273472"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "adénopathie",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Concernant",
-            "id": "428757"
+            "nom": "infection",
+            "lemme": "infection"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "effets",
-            "id": "425012"
+            "nom": "VIH",
+            "lemme": "vih"
         },
         {
-            "mot": "secondaires",
-            "id": "14486756"
-        },
-        {
-            "mot": "vaccinaux",
-            "id": "2084850"
-        },
-        {
-            "mot": "ils",
-            "id": "427503"
-        },
-        {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "nécessiter",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "drainage",
-            "id": "11770716"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "tuberculose",
+            "lemme": "tuberculose"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "ganglionnaire",
+            "lemme": "ganglionnaire"
         },
         {
-            "mot": "références",
-            "id": "NULL"
-        },
-        {
-            "mot": "Articles",
-            "id": "408042"
-        },
-        {
-            "mot": "connexes",
-            "id": "403121"
-        },
-        {
-            "mot": "Adénite",
-            "id": "NULL"
-        },
-        {
-            "mot": "Hématologie",
-            "id": "NULL"
-        },
-        {
-            "mot": "Maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "infectieuse",
-            "id": "17052231"
-        },
-        {
-            "mot": "Oncologie",
-            "id": "3114195"
-        },
-        {
-            "mot": "Adénolymphite",
-            "id": "NULL"
-        },
-        {
-            "mot": "Liens",
-            "id": "409339"
-        },
-        {
-            "mot": "externes",
-            "id": "16087769"
-        },
-        {
-            "mot": "Ressources",
-            "id": "5570515"
-        },
-        {
-            "mot": "relatives",
-            "id": "400525"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "santé",
-            "id": "NULL"
-        },
-        {
-            "mot": "Classification",
-            "id": "273455"
-        },
-        {
-            "mot": "internationale",
-            "id": "16161703"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "soins",
-            "id": "10057510"
-        },
-        {
-            "mot": "primaires",
-            "id": "4325887"
-        },
-        {
-            "mot": "DiseasesDB",
-            "id": "14677438"
-        },
-        {
-            "mot": "ICD",
-            "id": "12113031"
-        },
-        {
-            "mot": "Version",
-            "id": "5534183"
-        },
-        {
-            "mot": "ICD9Data",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "com",
-            "id": "434111"
+            "nom": "tularémie",
+            "lemme": "tularémie"
         },
         {
-            "mot": "Medical",
-            "id": "16936280"
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "brucellose",
+            "lemme": "brucellose"
         },
         {
-            "mot": "Dictionary",
-            "id": "249972817"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "for",
-            "id": "92816862"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Regulatory",
-            "id": "5534311"
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
         },
         {
-            "mot": "Activities",
-            "id": "5524688"
+            "nom": "sérologique",
+            "lemme": "sérologique"
         },
         {
-            "mot": "Terminology",
-            "id": "16985879"
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syphilis",
+            "lemme": "syphilis"
         },
         {
-            "mot": "Medical",
-            "id": "16936280"
+            "nom": "secondaire",
+            "lemme": "secondaire"
         },
         {
-            "mot": "Subject",
-            "id": "16942003"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Headings",
-            "id": "403195"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "MedlinePlus",
-            "id": "9944495"
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
         },
         {
-            "mot": "NCI",
-            "id": "16871633"
+            "nom": "sérologique",
+            "lemme": "sérologique"
         },
         {
-            "mot": "Thesaurus",
-            "id": "429968"
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "certaines",
+            "lemme": "certain"
         },
         {
-            "mot": "PatientLikeMe",
-            "id": "NULL"
+            "nom": "rickettsioses",
+            "lemme": "rickettsiose"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "TIBOLA",
+            "lemme": "TIBOLA"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "Tick",
+            "lemme": "Tick"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "borne",
+            "lemme": "borne"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "lymphadenopathy",
+            "lemme": "lymphadenopathy"
         },
         {
-            "mot": "hématologie",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "infectieuses",
-            "id": "410700"
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "griffes",
+            "lemme": "griffe"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "chat",
+            "lemme": "chat"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lyme",
+            "lemme": "Lyme"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "lymphadénopathie",
+            "lemme": "lymphadénopathie"
+        },
+        {
+            "nom": "induite",
+            "lemme": "induire"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "activation",
+            "lemme": "activation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lymphocytes",
+            "lemme": "lymphocyte"
+        },
+        {
+            "nom": "B",
+            "lemme": "b"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "pieds-mains-bouche",
+            "lemme": "pieds-mains-bouch"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Covid-19",
+            "lemme": "covid-19"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "adénopathie",
+            "lemme": "adénopathie"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": "non-infectieuse",
+            "lemme": "non-infectieus"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "sarcoïdose",
+            "lemme": "sarcoïdose"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "auto-immunes",
+            "lemme": "auto-immune"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "lupus",
+            "lemme": "lupus"
+        },
+        {
+            "nom": "érythémateux",
+            "lemme": "érythémateux"
+        },
+        {
+            "nom": "disséminé",
+            "lemme": "disséminé"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "polyarthrite",
+            "lemme": "polyarthrite"
+        },
+        {
+            "nom": "rhumatoïde",
+            "lemme": "rhumatoïde"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "lesquelles",
+            "lemme": "lequel"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "existe",
+            "lemme": "exister"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "évocateurs",
+            "lemme": "évocateur"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "adénopathies",
+            "lemme": "adénopathie"
+        },
+        {
+            "nom": "dues",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hydantoïne",
+            "lemme": "hydantoïne"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "arrêt",
+            "lemme": "arrêt"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "fait",
+            "lemme": "faire"
+        },
+        {
+            "nom": "régresser",
+            "lemme": "régresser"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "doit",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "jamais",
+            "lemme": "jamais"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "réintroduit",
+            "lemme": "réintroduire"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "suite",
+            "lemme": "suite"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "torticolis",
+            "lemme": "torticolis"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "négligence",
+            "lemme": "négligence"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certains"
+        },
+        {
+            "nom": "dents",
+            "lemme": "dent"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "réaction",
+            "lemme": "réaction"
+        },
+        {
+            "nom": "vaccinale",
+            "lemme": "vaccinal"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "adjuvants",
+            "lemme": "adjuvant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "immédiate",
+            "lemme": "immédiat"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "composants",
+            "lemme": "composant"
+        },
+        {
+            "nom": "actifs",
+            "lemme": "actif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "De",
+            "lemme": "de"
+        },
+        {
+            "nom": "telles",
+            "lemme": "tel"
+        },
+        {
+            "nom": "réactions",
+            "lemme": "réaction"
+        },
+        {
+            "nom": "axillaires",
+            "lemme": "axillaire"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "signalées",
+            "lemme": "signaler"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaccins",
+            "lemme": "vaccin"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Covid",
+            "lemme": "Covid"
+        },
+        {
+            "nom": "19",
+            "lemme": "19"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Situations",
+            "lemme": "situation"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "adénopathies",
+            "lemme": "adénopathie"
+        },
+        {
+            "nom": "palpables",
+            "lemme": "palpable"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "situent",
+            "lemme": "situer"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "sites",
+            "lemme": "site"
+        },
+        {
+            "nom": "spécifiques",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "régions",
+            "lemme": "région"
+        },
+        {
+            "nom": "cervicales",
+            "lemme": "cervical"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "antérieures",
+            "lemme": "antérieure"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "postérieures",
+            "lemme": "postérieur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "mandibulaires",
+            "lemme": "mandibulaire"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "régions",
+            "lemme": "région"
+        },
+        {
+            "nom": "inguinales",
+            "lemme": "inguinal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "droites",
+            "lemme": "droite"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "gauches",
+            "lemme": "gauche"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "régions",
+            "lemme": "région"
+        },
+        {
+            "nom": "axillaires",
+            "lemme": "axillaire"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "sus",
+            "lemme": "savoir"
+        },
+        {
+            "nom": "claviculaires",
+            "lemme": "claviculaire"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "droites",
+            "lemme": "droite"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "gauches",
+            "lemme": "gauche"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Caractéristiques",
+            "lemme": "caractéristique"
+        },
+        {
+            "nom": "Dures",
+            "lemme": "dur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lignieuses",
+            "lemme": "lignieuse"
+        },
+        {
+            "nom": "Molles",
+            "lemme": "mou"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "élastiques",
+            "lemme": "élastique"
+        },
+        {
+            "nom": "Pénitentes",
+            "lemme": "Pénitentes"
+        },
+        {
+            "nom": "Mobiles",
+            "lemme": "Mobiles"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "fixées",
+            "lemme": "fixer"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "plans",
+            "lemme": "plan"
+        },
+        {
+            "nom": "profonds",
+            "lemme": "profond"
+        },
+        {
+            "nom": "Douloureuses",
+            "lemme": "douloureux"
+        },
+        {
+            "nom": "spontanément",
+            "lemme": "spontanément"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "palpation",
+            "lemme": "palpation"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "associés",
+            "lemme": "associer"
+        },
+        {
+            "nom": "Érythème",
+            "lemme": "Érythème"
+        },
+        {
+            "nom": "localisé",
+            "lemme": "localisé"
+        },
+        {
+            "nom": "Hépatomégalie",
+            "lemme": "hépatomégalie"
+        },
+        {
+            "nom": "Splénomégalie",
+            "lemme": "Splénomégalie"
+        },
+        {
+            "nom": "Altération",
+            "lemme": "altération"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "état",
+            "lemme": "état"
+        },
+        {
+            "nom": "général",
+            "lemme": "général"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "consiste",
+            "lemme": "consister"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "traiter",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "initial",
+            "lemme": "initial"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "adénopathie",
+            "lemme": "adénopathie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Concernant",
+            "lemme": "concerner"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "effets",
+            "lemme": "effet"
+        },
+        {
+            "nom": "secondaires",
+            "lemme": "secondaire"
+        },
+        {
+            "nom": "vaccinaux",
+            "lemme": "vaccinal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "nécessiter",
+            "lemme": "nécessiter"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "drainage",
+            "lemme": "drainage"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Adénite",
+            "lemme": "adénite"
+        },
+        {
+            "nom": "Hématologie",
+            "lemme": "hématologie"
+        },
+        {
+            "nom": "Maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "infectieuse",
+            "lemme": "infectieux"
+        },
+        {
+            "nom": "Oncologie",
+            "lemme": "oncologie"
+        },
+        {
+            "nom": "Adénolymphite",
+            "lemme": "Adénolymphite"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "Ressources",
+            "lemme": "ressource"
+        },
+        {
+            "nom": "relatives",
+            "lemme": "relatif"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Classification",
+            "lemme": "classification"
+        },
+        {
+            "nom": "internationale",
+            "lemme": "international"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "soins",
+            "lemme": "soin"
+        },
+        {
+            "nom": "primaires",
+            "lemme": "primaire"
+        },
+        {
+            "nom": "DiseasesDB",
+            "lemme": "diseasesdb"
+        },
+        {
+            "nom": "ICD-10",
+            "lemme": "icd-10"
+        },
+        {
+            "nom": "Version:2016",
+            "lemme": "version:2016"
+        },
+        {
+            "nom": "ICD9Data.com",
+            "lemme": "icd9data.com"
+        },
+        {
+            "nom": "Medical",
+            "lemme": "Medical"
+        },
+        {
+            "nom": "Dictionary",
+            "lemme": "Dictionary"
+        },
+        {
+            "nom": "for",
+            "lemme": "for"
+        },
+        {
+            "nom": "Regulatory",
+            "lemme": "Regulatory"
+        },
+        {
+            "nom": "Activities",
+            "lemme": "Activities"
+        },
+        {
+            "nom": "Terminology",
+            "lemme": "Terminology"
+        },
+        {
+            "nom": "Medical",
+            "lemme": "Medical"
+        },
+        {
+            "nom": "Subject",
+            "lemme": "Subject"
+        },
+        {
+            "nom": "Headings",
+            "lemme": "Headings"
+        },
+        {
+            "nom": "MedlinePlus",
+            "lemme": "medlineplu"
+        },
+        {
+            "nom": "NCI",
+            "lemme": "NCI"
+        },
+        {
+            "nom": "Thesaurus",
+            "lemme": "Thesaurus"
+        },
+        {
+            "nom": "PatientLikeMe",
+            "lemme": "patientlikeme"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hématologie",
+            "lemme": "hématologie"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "infectieuses",
+            "lemme": "infectieuser"
         }
     ]
 ]

@@ -1,0 +1,7 @@
+niveau;biopsie;r_has_symptomes.txt;lemme
+activité;protéine;r_has_symptomes.txt;lemme
+intérêt;examen;r_has_symptomes.txt;lemme
+biopsie;examen;r_has_symptomes.txt;lemme
+procédure;biopsie;r_has_symptomes.txt;lemme
+biopsie;procédure;r_has_symptomes.txt;lemme
+cerveau;zone;r_has_symptomes.txt;lemme

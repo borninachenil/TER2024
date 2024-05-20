@@ -1,0 +1,1798 @@
+[
+    [
+        {
+            "nom": "Un",
+            "lemme": "un"
+        },
+        {
+            "nom": "agent",
+            "lemme": "agent"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "appelé",
+            "lemme": "appeler"
+        },
+        {
+            "nom": "courtier",
+            "lemme": "courtier"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "message",
+            "lemme": "message"
+        },
+        {
+            "nom": "broker",
+            "lemme": "broker"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "module",
+            "lemme": "module"
+        },
+        {
+            "nom": "logiciel",
+            "lemme": "logiciel"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "convertit",
+            "lemme": "convertir"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "protocole",
+            "lemme": "protocole"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "message",
+            "lemme": "message"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Utilisation",
+            "lemme": "utilisation"
+        },
+        {
+            "nom": "Un",
+            "lemme": "un"
+        },
+        {
+            "nom": "agent",
+            "lemme": "agent"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "valider",
+            "lemme": "valider"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "transformer",
+            "lemme": "transformer"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "rediriger",
+            "lemme": "rediriger"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "agit",
+            "lemme": "agir"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "médiateur",
+            "lemme": "médiateur"
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "émetteurs",
+            "lemme": "émetteur"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "récepteurs",
+            "lemme": "récepteur"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "permettant",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "communiquer",
+            "lemme": "communiquer"
+        },
+        {
+            "nom": "efficacement",
+            "lemme": "efficacement"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "couplage",
+            "lemme": "couplage"
+        },
+        {
+            "nom": "minimum",
+            "lemme": "minimum"
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "eux",
+            "lemme": "lui"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "communication",
+            "lemme": "communication"
+        },
+        {
+            "nom": "asynchrone",
+            "lemme": "asynchrone"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "faire",
+            "lemme": "faire"
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "présence",
+            "lemme": "présence"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "MOM",
+            "lemme": "mom"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Oriented",
+            "lemme": "Oriented"
+        },
+        {
+            "nom": "Middleware",
+            "lemme": "Middleware"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "client",
+            "lemme": "client"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "serveur",
+            "lemme": "serveur"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "middleware",
+            "lemme": "middleware"
+        },
+        {
+            "nom": "va",
+            "lemme": "aller"
+        },
+        {
+            "nom": "permettre",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "mettre",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "attente",
+            "lemme": "attente"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "envoyés",
+            "lemme": "envoyer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "client",
+            "lemme": "client"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "direction",
+            "lemme": "direction"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "serveur",
+            "lemme": "serveur"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "inversement",
+            "lemme": "inversemer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "stockage",
+            "lemme": "stockage"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "routage",
+            "lemme": "routage"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "principales",
+            "lemme": "principale"
+        },
+        {
+            "nom": "fonctionnalités",
+            "lemme": "fonctionnaliter"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "MOM",
+            "lemme": "mom"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "C'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "rôle",
+            "lemme": "rôle"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "MOM",
+            "lemme": "MOM"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "vont",
+            "lemme": "aller"
+        },
+        {
+            "nom": "remplir",
+            "lemme": "remplir"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "brokers",
+            "lemme": "broker"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "existe",
+            "lemme": "exister"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "grands",
+            "lemme": "grand"
+        },
+        {
+            "nom": "types",
+            "lemme": "type"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "brokers",
+            "lemme": "broker"
+        },
+        {
+            "nom": "utilisent",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "implémentation",
+            "lemme": "implémentation"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "base",
+            "lemme": "base"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "queues",
+            "lemme": "queue"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "quand",
+            "lemme": "quand"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "privilégient",
+            "lemme": "privilégier"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Publish",
+            "lemme": "Publish"
+        },
+        {
+            "nom": "Subscribe",
+            "lemme": "Subscribe"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Exemples",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "utilisation",
+            "lemme": "utilisation"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "agent",
+            "lemme": "agent"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "Routage",
+            "lemme": "Routage"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "vers",
+            "lemme": "vers"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "destinations",
+            "lemme": "destination"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Transformation",
+            "lemme": "transformation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "représentation",
+            "lemme": "représentation"
+        },
+        {
+            "nom": "alternative",
+            "lemme": "alternatif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Agrégation",
+            "lemme": "agrégation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "décomposition",
+            "lemme": "décomposition"
+        },
+        {
+            "nom": "préalable",
+            "lemme": "préalable"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "plusieurs",
+            "lemme": "plusieurs"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "envoi",
+            "lemme": "envoi"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "destination",
+            "lemme": "destination"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "puis",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "recomposition",
+            "lemme": "recomposition"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "réponses",
+            "lemme": "réponse"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "seul",
+            "lemme": "seul"
+        },
+        {
+            "nom": "message",
+            "lemme": "message"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Interaction",
+            "lemme": "interaction"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "dépôt",
+            "lemme": "dépôt"
+        },
+        {
+            "nom": "externe",
+            "lemme": "externe"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "augmenter",
+            "lemme": "augmenter"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "message",
+            "lemme": "message"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "enregistrer",
+            "lemme": "enregistrer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Récupération",
+            "lemme": "récupération"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "données",
+            "lemme": "donnée"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "services",
+            "lemme": "service"
+        },
+        {
+            "nom": "web",
+            "lemme": "web"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Permet",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "routage",
+            "lemme": "routage"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "utilisant",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "patron",
+            "lemme": "patron"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "publication",
+            "lemme": "publication"
+        },
+        {
+            "nom": "souscription",
+            "lemme": "souscription"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "agents",
+            "lemme": "agent"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "messages",
+            "lemme": "message"
+        },
+        {
+            "nom": "Apache",
+            "lemme": "apache"
+        },
+        {
+            "nom": "ActiveMQ",
+            "lemme": "activemq"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Apache",
+            "lemme": "apache"
+        },
+        {
+            "nom": "Kafka",
+            "lemme": "Kafka"
+        },
+        {
+            "nom": "Apache",
+            "lemme": "apache"
+        },
+        {
+            "nom": "Qpid",
+            "lemme": "Qpid"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Celery",
+            "lemme": "Celery"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "software",
+            "lemme": "software"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Comverse",
+            "lemme": "comverse"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Broker",
+            "lemme": "Broker"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Comverse",
+            "lemme": "Comverse"
+        },
+        {
+            "nom": "Technology",
+            "lemme": "Technology"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Financial",
+            "lemme": "Financial"
+        },
+        {
+            "nom": "Fusion",
+            "lemme": "fusion"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Broker",
+            "lemme": "Broker"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Sybase",
+            "lemme": "Sybase"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Fuse",
+            "lemme": "Fuse"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Broker",
+            "lemme": "Broker"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "enterprise",
+            "lemme": "enterprise"
+        },
+        {
+            "nom": "ActiveMQ",
+            "lemme": "activemq"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Gearman",
+            "lemme": "Gearman"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "HornetQ",
+            "lemme": "hornetq"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Red",
+            "lemme": "Red"
+        },
+        {
+            "nom": "Hat",
+            "lemme": "Hat"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "IBM",
+            "lemme": "ibm"
+        },
+        {
+            "nom": "Integration",
+            "lemme": "integration"
+        },
+        {
+            "nom": "Bus",
+            "lemme": "Bus"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "JBoss",
+            "lemme": "JBoss"
+        },
+        {
+            "nom": "Messaging",
+            "lemme": "Messaging"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "JBoss",
+            "lemme": "JBoss"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "JORAM",
+            "lemme": "joram"
+        },
+        {
+            "nom": "Microsoft",
+            "lemme": "Microsoft"
+        },
+        {
+            "nom": "BizTalk",
+            "lemme": "BizTalk"
+        },
+        {
+            "nom": "Server",
+            "lemme": "Server"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Microsoft",
+            "lemme": "Microsoft"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Microsoft",
+            "lemme": "Microsoft"
+        },
+        {
+            "nom": "Azure",
+            "lemme": "Azure"
+        },
+        {
+            "nom": "Service",
+            "lemme": "Service"
+        },
+        {
+            "nom": "Bus",
+            "lemme": "Bus"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Microsoft",
+            "lemme": "Microsoft"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "NATS",
+            "lemme": "nat"
+        },
+        {
+            "nom": "Messaging",
+            "lemme": "Messaging"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "MIT",
+            "lemme": "mit"
+        },
+        {
+            "nom": "Open",
+            "lemme": "Open"
+        },
+        {
+            "nom": "Source",
+            "lemme": "source"
+        },
+        {
+            "nom": "License",
+            "lemme": "License"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "programmé",
+            "lemme": "programmer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "Go",
+            "lemme": "Go"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Open",
+            "lemme": "Open"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Queue",
+            "lemme": "Queue"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Oracle",
+            "lemme": "Oracle"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Broker",
+            "lemme": "Broker"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Oracle",
+            "lemme": "Oracle"
+        },
+        {
+            "nom": "Corporation",
+            "lemme": "Corporation"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "RabbitMQ",
+            "lemme": "RabbitMQ"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Mozilla",
+            "lemme": "Mozilla"
+        },
+        {
+            "nom": "Public",
+            "lemme": "Public"
+        },
+        {
+            "nom": "License",
+            "lemme": "License"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "programmé",
+            "lemme": "programmer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "Erlang",
+            "lemme": "Erlang"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Redis",
+            "lemme": "Redis"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "licence",
+            "lemme": "licence"
+        },
+        {
+            "nom": "BSD",
+            "lemme": "BSD"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "SAP",
+            "lemme": "SAP"
+        },
+        {
+            "nom": "NetWeaver",
+            "lemme": "netweaver"
+        },
+        {
+            "nom": "Process",
+            "lemme": "Process"
+        },
+        {
+            "nom": "Integration",
+            "lemme": "integration"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "SAP",
+            "lemme": "SAP"
+        },
+        {
+            "nom": "AG",
+            "lemme": "AG"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Spread",
+            "lemme": "Spread"
+        },
+        {
+            "nom": "Toolkit",
+            "lemme": "Toolkit"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Tarantool",
+            "lemme": "Tarantool"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "base",
+            "lemme": "base"
+        },
+        {
+            "nom": "NoSQL",
+            "lemme": "nosql"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "procédures",
+            "lemme": "procédure"
+        },
+        {
+            "nom": "stockées",
+            "lemme": "stocker"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "queues",
+            "lemme": "queue"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "message",
+            "lemme": "message"
+        },
+        {
+            "nom": "WSO2",
+            "lemme": "WSO2"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Enduro",
+            "lemme": "Enduro"
+        },
+        {
+            "nom": "X",
+            "lemme": "x"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Transactional",
+            "lemme": "transactional"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "Queue",
+            "lemme": "Queue"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "TMQ",
+            "lemme": "tmq"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Patron",
+            "lemme": "patron"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "publication",
+            "lemme": "publication"
+        },
+        {
+            "nom": "souscription",
+            "lemme": "souscription"
+        },
+        {
+            "nom": "Message",
+            "lemme": "Message"
+        },
+        {
+            "nom": "oriented",
+            "lemme": "oriented"
+        },
+        {
+            "nom": "middleware",
+            "lemme": "middleware"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "informatique",
+            "lemme": "informatique"
+        }
+    ]
+]

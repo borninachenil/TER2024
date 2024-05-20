@@ -1,2768 +1,3244 @@
 [
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "ostéochondrite",
-            "id": "NULL"
+            "nom": "ostéochondrite",
+            "lemme": "ostéochondrite"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "ostéochondrose",
-            "id": "NULL"
+            "nom": "ostéochondrose",
+            "lemme": "ostéochondrose"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "anomalie",
-            "id": "414422"
+            "nom": "anomalie",
+            "lemme": "anomalie"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "croissance",
-            "id": "2931711"
+            "nom": "croissance",
+            "lemme": "croissance"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "os",
-            "id": "152006"
+            "nom": "os",
+            "lemme": "os"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "cartilage",
-            "id": "17050384"
+            "nom": "cartilage",
+            "lemme": "cartilage"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "touche",
-            "id": "16090019"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "touche",
+            "lemme": "toucher"
         },
         {
-            "mot": "enfants",
-            "id": "402139"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "enfants",
+            "lemme": "enfant"
         },
         {
-            "mot": "ans",
-            "id": "408844"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "majoritairement",
-            "id": "8885852"
+            "nom": "5",
+            "lemme": "5"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "12",
+            "lemme": "12"
         },
         {
-            "mot": "jeunes",
-            "id": "425333"
+            "nom": "ans",
+            "lemme": "an"
         },
         {
-            "mot": "animaux",
-            "id": "5636021"
+            "nom": "majoritairement",
+            "lemme": "majoritairement"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "jeunes",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "animaux",
+            "lemme": "animal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "C'",
-            "id": "2140163"
+            "nom": "C'",
+            "lemme": "ce"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "groupe",
-            "id": "15625673"
+            "nom": "groupe",
+            "lemme": "groupe"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": "maladies",
+            "lemme": "maladie"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "causes",
-            "id": "193336232"
+            "nom": "causes",
+            "lemme": "cause"
         },
         {
-            "mot": "inconnues",
-            "id": "2048424"
+            "nom": "inconnues",
+            "lemme": "inconnu"
         },
         {
-            "mot": "caractérisées",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "caractérisées",
+            "lemme": "caractériser"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "interruption",
-            "id": "15483186"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "interruption",
+            "lemme": "interruption"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "vascularisation",
-            "id": "101438255"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "vascularisation",
+            "lemme": "vascularisation"
         },
         {
-            "mot": "noyau",
-            "id": "407371"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "noyau",
+            "lemme": "noyau"
         },
         {
-            "mot": "ossification",
-            "id": "254041992"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "primaire",
-            "id": "2570606"
+            "nom": "ossification",
+            "lemme": "ossification"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "primaire",
+            "lemme": "primaire"
         },
         {
-            "mot": "secondaire",
-            "id": "2517701"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "secondaire",
+            "lemme": "secondaire"
         },
         {
-            "mot": "os",
-            "id": "152006"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "concernés",
-            "id": "NULL"
+            "nom": "os",
+            "lemme": "os"
+        },
+        {
+            "nom": "concernés",
+            "lemme": "concerner"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "À",
-            "id": "NULL"
+            "nom": "À",
+            "lemme": "à"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "naissance",
-            "id": "155441"
+            "nom": "naissance",
+            "lemme": "naissance"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "structures",
-            "id": "11083355"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "osseuses",
-            "id": "227712"
+            "nom": "structures",
+            "lemme": "structure"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "osseuses",
+            "lemme": "osseux"
         },
         {
-            "mot": "majoritairement",
-            "id": "8885852"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "constituées",
-            "id": "NULL"
+            "nom": "majoritairement",
+            "lemme": "majoritairement"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "constituées",
+            "lemme": "constituer"
         },
         {
-            "mot": "cartilage",
-            "id": "17050384"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "tissu",
-            "id": "413277"
+            "nom": "cartilage",
+            "lemme": "cartilage"
         },
         {
-            "mot": "très",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "mou",
-            "id": "25600746"
+            "nom": "tissu",
+            "lemme": "tissu"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "très",
+            "lemme": "très"
         },
         {
-            "mot": "va",
-            "id": "1847302"
+            "nom": "mou",
+            "lemme": "mou"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "remplacé",
-            "id": "NULL"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "progressivement",
-            "id": "24254"
+            "nom": "va",
+            "lemme": "aller"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "remplacé",
+            "lemme": "remplacer"
         },
         {
-            "mot": "os",
-            "id": "152006"
+            "nom": "progressivement",
+            "lemme": "progressivement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "os",
+            "lemme": "os"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ce",
-            "id": "138967"
+            "nom": "Ce",
+            "lemme": "ce"
         },
         {
-            "mot": "remplacement",
-            "id": "16074147"
+            "nom": "remplacement",
+            "lemme": "remplacement"
         },
         {
-            "mot": "débute",
-            "id": "NULL"
+            "nom": "débute",
+            "lemme": "débuter"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "endroits",
-            "id": "106080437"
+            "nom": "endroits",
+            "lemme": "endroit"
         },
         {
-            "mot": "spécifiques",
-            "id": "NULL"
+            "nom": "spécifiques",
+            "lemme": "spécifique"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "sein",
-            "id": "137512"
+            "nom": "sein",
+            "lemme": "sein"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "chaque",
-            "id": "431220"
+            "nom": "chaque",
+            "lemme": "chaque"
         },
         {
-            "mot": "os",
-            "id": "152006"
+            "nom": "os",
+            "lemme": "os"
         },
         {
-            "mot": "appelés",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "noyaux",
-            "id": "2951759"
+            "nom": "appelés",
+            "lemme": "appeler"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "noyaux",
+            "lemme": "noyau"
         },
         {
-            "mot": "ossification",
-            "id": "254041992"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "ossification",
+            "lemme": "ossification"
         },
         {
-            "mot": "s",
-            "id": "163464"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "étend",
-            "id": "NULL"
+            "nom": "s'",
+            "lemme": "se"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "étend",
+            "lemme": "étendre"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "croissance",
-            "id": "2931711"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "croissance",
+            "lemme": "croissance"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "ensemble",
-            "id": "16133193"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "ensemble",
+            "lemme": "ensemble"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "os",
-            "id": "152006"
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "os",
+            "lemme": "os"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L",
-            "id": "138915"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "ostéochondrite",
-            "id": "NULL"
+            "nom": "ostéochondrite",
+            "lemme": "ostéochondrite"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "conséquence",
-            "id": "NULL"
+            "nom": "conséquence",
+            "lemme": "conséquence"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "perturbation",
-            "id": "14887735"
+            "nom": "perturbation",
+            "lemme": "perturbation"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "vascularisation",
-            "id": "101438255"
+            "nom": "vascularisation",
+            "lemme": "vascularisation"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "noyau",
-            "id": "407371"
+            "nom": "noyau",
+            "lemme": "noyau"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "ossification",
-            "id": "254041992"
+            "nom": "ossification",
+            "lemme": "ossification"
         },
         {
-            "mot": "primaire",
-            "id": "2570606"
+            "nom": "primaire",
+            "lemme": "primaire"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "secondaire",
-            "id": "2517701"
+            "nom": "secondaire",
+            "lemme": "secondaire"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "os",
-            "id": "152006"
+            "nom": "os",
+            "lemme": "os"
         },
         {
-            "mot": "suivie",
-            "id": "154842"
+            "nom": "suivie",
+            "lemme": "suivie"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "revascularisation",
-            "id": "42495"
+            "nom": "revascularisation",
+            "lemme": "revascularisation"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "avec",
+            "lemme": "avec"
         },
         {
-            "mot": "reconstitution",
-            "id": "429924"
+            "nom": "reconstitution",
+            "lemme": "reconstitution"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "tissu",
-            "id": "413277"
+            "nom": "tissu",
+            "lemme": "tissu"
         },
         {
-            "mot": "osseux",
-            "id": "253652816"
+            "nom": "osseux",
+            "lemme": "osseux"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "réparation",
-            "id": "NULL"
+            "nom": "réparation",
+            "lemme": "réparation"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "L'",
+            "lemme": "le"
         },
         {
-            "mot": "hérédité",
-            "id": "NULL"
+            "nom": "hérédité",
+            "lemme": "hérédité"
         },
         {
-            "mot": "n'",
-            "id": "2233812"
+            "nom": "n'",
+            "lemme": "ne"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "pas",
+            "lemme": "pas"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "été",
+            "lemme": "être"
         },
         {
-            "mot": "formellement",
-            "id": "134610"
+            "nom": "formellement",
+            "lemme": "formellement"
         },
         {
-            "mot": "éliminée",
-            "id": "NULL"
+            "nom": "éliminée",
+            "lemme": "éliminer"
         },
         {
-            "mot": "ni",
-            "id": "186648183"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "ni",
+            "lemme": "ni"
         },
         {
-            "mot": "rôle",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "rôle",
+            "lemme": "rôle"
         },
         {
-            "mot": "microtraumatismes",
-            "id": "4277486"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "répétés",
-            "id": "NULL"
+            "nom": "microtraumatismes",
+            "lemme": "microtraumatisme"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "répétés",
+            "lemme": "répéter"
         },
         {
-            "mot": "particulier",
-            "id": "2932560"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "lors",
-            "id": "15562521"
+            "nom": "particulier",
+            "lemme": "particulier"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "lors",
+            "lemme": "lors"
         },
         {
-            "mot": "certaines",
-            "id": "9987968"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "activités",
-            "id": "NULL"
+            "nom": "certaines",
+            "lemme": "certain"
         },
         {
-            "mot": "sportives",
-            "id": "3227976"
+            "nom": "activités",
+            "lemme": "activité"
+        },
+        {
+            "nom": "sportives",
+            "lemme": "sportif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Une",
-            "id": "15606674"
+            "nom": "Une",
+            "lemme": "un"
         },
         {
-            "mot": "fragilité",
-            "id": "NULL"
+            "nom": "fragilité",
+            "lemme": "fragilité"
         },
         {
-            "mot": "constitutionnelle",
-            "id": "8878784"
+            "nom": "constitutionnelle",
+            "lemme": "constitutionnel"
         },
         {
-            "mot": "pourrait",
-            "id": "421721"
+            "nom": "pourrait",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "expliquer",
-            "id": "89042"
+            "nom": "expliquer",
+            "lemme": "expliquer"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "localisations",
-            "id": "400221"
+            "nom": "localisations",
+            "lemme": "localisation"
         },
         {
-            "mot": "multiples",
-            "id": "15519166"
+            "nom": "multiples",
+            "lemme": "multiple"
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "même",
-            "id": "NULL"
+            "nom": "même",
+            "lemme": "même"
         },
         {
-            "mot": "enfant",
-            "id": "405825"
+            "nom": "enfant.[réf",
+            "lemme": "enfant.[réf"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "réf",
-            "id": "NULL"
+            "nom": "nécessaire]Chez",
+            "lemme": "nécessaire]chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "animaux",
+            "lemme": "animal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ostéochondrose",
+            "lemme": "ostéochondrose"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "toucher",
+            "lemme": "toucher"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "cheval",
+            "lemme": "cheval"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sport",
+            "lemme": "sport"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "course",
+            "lemme": "course"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "compromettre",
+            "lemme": "compromettre"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "carrière",
+            "lemme": "carrière"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "nécessaire",
-            "id": "NULL"
+            "nom": "Localisation",
+            "lemme": "localisation"
         },
         {
-            "mot": "Chez",
-            "id": "420868"
+            "nom": "articulaire",
+            "lemme": "articulaire"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "animaux",
-            "id": "5636021"
+            "nom": "terme",
+            "lemme": "terme"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "ostéochondrose",
-            "id": "NULL"
+            "nom": "ostéochondrose",
+            "lemme": "ostéochondrose"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "regroupe",
+            "lemme": "regrouper"
         },
         {
-            "mot": "toucher",
-            "id": "14581242"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "multiples",
+            "lemme": "multiple"
         },
         {
-            "mot": "jeune",
-            "id": "407924"
+            "nom": "entités",
+            "lemme": "entité"
         },
         {
-            "mot": "cheval",
-            "id": "145246"
+            "nom": "définies",
+            "lemme": "définir"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "sport",
-            "id": "16084320"
+            "nom": "fonction",
+            "lemme": "fonction"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "course",
-            "id": "416884"
+            "nom": "topographie",
+            "lemme": "topographie"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "compromettre",
-            "id": "132867"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "sa",
-            "id": "187135358"
+            "nom": "atteinte",
+            "lemme": "atteinte"
         },
         {
-            "mot": "carrière",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Localisation",
-            "id": "413332"
+            "nom": "Atteinte",
+            "lemme": "atteinte"
         },
         {
-            "mot": "articulaire",
-            "id": "16921401"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "plateaux",
+            "lemme": "plateau"
         },
         {
-            "mot": "terme",
-            "id": "217273921"
+            "nom": "vertébraux",
+            "lemme": "vertébrau"
         },
         {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "ostéochondrose",
-            "id": "NULL"
-        },
-        {
-            "mot": "regroupe",
-            "id": "462688"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "multiples",
-            "id": "15519166"
-        },
-        {
-            "mot": "entités",
-            "id": "NULL"
-        },
-        {
-            "mot": "définies",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "fonction",
-            "id": "15633113"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "topographie",
-            "id": "92953299"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "atteinte",
-            "id": "16075753"
-        },
-        {
-            "mot": "Atteinte",
-            "id": "16075753"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "plateaux",
-            "id": "404217"
-        },
-        {
-            "mot": "vertébraux",
-            "id": "NULL"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Scheuermann",
-            "id": "71087"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Atteinte",
-            "id": "16075753"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "membre",
-            "id": "412460"
+            "nom": "Scheuermann",
+            "lemme": "Scheuermann"
         },
         {
-            "mot": "supérieur",
-            "id": "NULL"
-        },
-        {
-            "mot": "Tête",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "humérus",
-            "id": "NULL"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Haas",
-            "id": "430100"
-        },
-        {
-            "mot": "Condyle",
-            "id": "156515982"
-        },
-        {
-            "mot": "externe",
-            "id": "409051"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "extrémité",
-            "id": "NULL"
-        },
-        {
-            "mot": "inférieure",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "humérus",
-            "id": "NULL"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Panner",
-            "id": "1853186"
-        },
-        {
-            "mot": "Tête",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "radius",
-            "id": "10130086"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Brailsford",
-            "id": "17347501"
-        },
-        {
-            "mot": "Atteinte",
-            "id": "16075753"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "membre",
-            "id": "412460"
-        },
-        {
-            "mot": "inférieur",
-            "id": "NULL"
-        },
-        {
-            "mot": "Hanche",
-            "id": "111295453"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Legg",
-            "id": "464633"
-        },
-        {
-            "mot": "Calve",
-            "id": "464614"
-        },
-        {
-            "mot": "Perthes",
-            "id": "464635"
-        },
-        {
-            "mot": "Tubérosité",
-            "id": "NULL"
-        },
-        {
-            "mot": "tibiale",
-            "id": "396812"
-        },
-        {
-            "mot": "antérieure",
-            "id": "NULL"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "Osgood",
-            "id": "17389898"
-        },
-        {
-            "mot": "Schlatter",
-            "id": "17389899"
-        },
-        {
-            "mot": "Corps",
-            "id": "404381"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "patella",
-            "id": "3278980"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Köhler",
-            "id": "NULL"
-        },
-        {
-            "mot": "patellaire",
-            "id": "134341"
-        },
-        {
-            "mot": "Apex",
-            "id": "120667647"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "patella",
-            "id": "3278980"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Sinding",
-            "id": "17347084"
-        },
-        {
-            "mot": "Larsen",
-            "id": "143747"
-        },
-        {
-            "mot": "Johanson",
-            "id": "17399468"
-        },
-        {
-            "mot": "Calcanéum",
-            "id": "NULL"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Sever",
-            "id": "434776"
-        },
-        {
-            "mot": "Naviculaire",
-            "id": "118253"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Köhler",
-            "id": "NULL"
-        },
-        {
-            "mot": "Mouchet",
-            "id": "193783"
-        },
-        {
-            "mot": "Tête",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "deuxième",
-            "id": "NULL"
-        },
-        {
-            "mot": "métatarsien",
-            "id": "NULL"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Freiberg",
-            "id": "122466"
-        },
-        {
-            "mot": "Sésamoïdes",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "hallux",
-            "id": "156509783"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Renander",
-            "id": "1854950"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Chez",
-            "id": "420868"
+            "nom": "Atteinte",
+            "lemme": "atteinte"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "cheval",
-            "id": "145246"
+            "nom": "membre",
+            "lemme": "membre"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "supérieur",
+            "lemme": "supérieur"
         },
         {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "touche",
-            "id": "16090019"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "fréquemment",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "articulations",
-            "id": "16784808"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "membres",
-            "id": "426006"
-        },
-        {
-            "mot": "genoux",
-            "id": "10444408"
-        },
-        {
-            "mot": "boulets",
-            "id": "1575184"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "jarrets",
-            "id": "2050560"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Diagnostic",
-            "id": "426024"
+            "nom": "Tête",
+            "lemme": "tête"
         },
         {
-            "mot": "Chez",
-            "id": "420868"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "humérus",
+            "lemme": "humérus"
         },
         {
-            "mot": "humain",
-            "id": "435764"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "ostéochondrite",
-            "id": "NULL"
-        },
-        {
-            "mot": "apparaît",
-            "id": "NULL"
-        },
-        {
-            "mot": "entre",
-            "id": "15585076"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "ans",
-            "id": "408844"
-        },
-        {
-            "mot": "selon",
-            "id": "2577623"
-        },
-        {
-            "mot": "sa",
-            "id": "187135358"
-        },
-        {
-            "mot": "localisation",
-            "id": "413332"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "concerne",
-            "id": "425070"
-        },
-        {
-            "mot": "principalement",
-            "id": "65756"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "individus",
-            "id": "276294"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sexe",
-            "id": "414685"
-        },
-        {
-            "mot": "masculin",
-            "id": "277450"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "moins",
-            "id": "15660263"
-        },
-        {
-            "mot": "sportifs",
-            "id": "10578849"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "dépendent",
-            "id": "NULL"
+            "nom": "Haas",
+            "lemme": "Haas"
         },
         {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "variété",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "ostéochondrite",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "Condyle",
+            "lemme": "condyle"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "externe",
+            "lemme": "externe"
         },
         {
-            "mot": "s'",
-            "id": "2282608"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "agir",
-            "id": "1873633"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "extrémité",
+            "lemme": "extrémité"
         },
         {
-            "mot": "douleurs",
-            "id": "5832806"
+            "nom": "inférieure",
+            "lemme": "inférieur"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "boiterie",
-            "id": "88692"
+            "nom": "humérus",
+            "lemme": "humérus"
         },
         {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "blocage",
-            "id": "94627510"
-        },
-        {
-            "mot": "articulaire",
-            "id": "16921401"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "diagnostic",
-            "id": "426024"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "repose",
-            "id": "3226772"
+            "nom": "Panner",
+            "lemme": "panner"
         },
         {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "cadre",
-            "id": "11009201"
-        },
-        {
-            "mot": "clinique",
-            "id": "430177"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "surtout",
-            "id": "16089966"
-        },
-        {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "imagerie",
-            "id": "407973"
-        },
-        {
-            "mot": "médicale",
-            "id": "NULL"
-        },
-        {
-            "mot": "radiographie",
-            "id": "100279708"
-        },
-        {
-            "mot": "standard",
-            "id": "402477"
-        },
-        {
-            "mot": "IRM",
-            "id": "17342433"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "souvent",
-            "id": "3382915"
-        },
-        {
-            "mot": "normale",
-            "id": "405840"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "début",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "mais",
-            "id": "397741"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "devient",
-            "id": "136339443"
-        },
-        {
-            "mot": "ensuite",
-            "id": "15518959"
-        },
-        {
-            "mot": "assez",
-            "id": "10175426"
-        },
-        {
-            "mot": "spécifique",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "pathologie",
-            "id": "416178"
-        },
-        {
-            "mot": "seule",
-            "id": "15606675"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "scintigraphie",
-            "id": "99410528"
-        },
-        {
-            "mot": "osseuse",
-            "id": "164025"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "montrer",
-            "id": "3385228"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "signes",
-            "id": "425465"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "stade",
-            "id": "419061"
-        },
-        {
-            "mot": "précoce",
-            "id": "NULL"
-        },
-        {
-            "mot": "réf",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "nécessaire",
-            "id": "NULL"
+            "nom": "Tête",
+            "lemme": "tête"
         },
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "ostéochondrite",
-            "id": "NULL"
+            "nom": "radius",
+            "lemme": "radius"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "donc",
-            "id": "10897693"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "classée",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "fonction",
-            "id": "15633113"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sa",
-            "id": "187135358"
-        },
-        {
-            "mot": "gravité",
-            "id": "NULL"
-        },
-        {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "simple",
-            "id": "17341162"
-        },
-        {
-            "mot": "radiographie",
-            "id": "100279708"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "grade",
-            "id": "5558031"
-        },
-        {
-            "mot": "I",
-            "id": "140119"
-        },
-        {
-            "mot": "où",
-            "id": "NULL"
-        },
-        {
-            "mot": "il",
-            "id": "1836399"
-        },
-        {
-            "mot": "apparaît",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "petite",
-            "id": "141683"
-        },
-        {
-            "mot": "zone",
-            "id": "13397228"
-        },
-        {
-            "mot": "osseuse",
-            "id": "164025"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "différencie",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "reste",
-            "id": "5998567"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l",
-            "id": "138915"
-        },
-        {
-            "mot": "os",
-            "id": "152006"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "modification",
-            "id": "143155"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sa",
-            "id": "187135358"
-        },
-        {
-            "mot": "densité",
-            "id": "NULL"
-        },
-        {
-            "mot": "couleur",
-            "id": "402223"
-        },
-        {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "radiographie",
-            "id": "100279708"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "aspect",
-            "id": "573629"
-        },
-        {
-            "mot": "irrégulier",
-            "id": "NULL"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "remarque",
-            "id": "146641"
-        },
-        {
-            "mot": "aussi",
-            "id": "14890874"
-        },
-        {
-            "mot": "jusqu'",
-            "id": "2216063"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "grade",
-            "id": "5558031"
-        },
-        {
-            "mot": "IV",
-            "id": "2957043"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "grave",
-            "id": "138917"
-        },
-        {
-            "mot": "défini",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "dissection",
-            "id": "5680300"
-        },
-        {
-            "mot": "complète",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "fragment",
-            "id": "5720675"
-        },
-        {
-            "mot": "ostéochondral",
-            "id": "NULL"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "va",
-            "id": "1847302"
-        },
-        {
-            "mot": "alors",
-            "id": "15412652"
-        },
-        {
-            "mot": "tomber",
-            "id": "274996"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "l",
-            "id": "138915"
-        },
-        {
-            "mot": "articulation",
-            "id": "14586139"
-        },
-        {
-            "mot": "devenant",
-            "id": "2063012"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "véritable",
-            "id": "NULL"
-        },
-        {
-            "mot": "corps",
-            "id": "404381"
-        },
-        {
-            "mot": "étranger",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Évolution",
-            "id": "NULL"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "évolution",
-            "id": "NULL"
+            "nom": "Brailsford",
+            "lemme": "brailsford"
         },
         {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "souvent",
-            "id": "3382915"
-        },
-        {
-            "mot": "favorable",
-            "id": "119133"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "soulageant",
-            "id": "2100900"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "articulation",
-            "id": "14586139"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "ses",
-            "id": "11254312"
-        },
-        {
-            "mot": "efforts",
-            "id": "243323148"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "charge",
-            "id": "416622"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "poids",
-            "id": "2574098"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "corps",
-            "id": "404381"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Cependant",
-            "id": "101535"
+            "nom": "Atteinte",
+            "lemme": "atteinte"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "chirurgie",
-            "id": "151903"
+            "nom": "membre",
+            "lemme": "membre"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "inférieur",
+            "lemme": "inférieur"
         },
         {
-            "mot": "parfois",
-            "id": "14886690"
-        },
-        {
-            "mot": "indiquée",
-            "id": "NULL"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "réparer",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "articulation",
-            "id": "14586139"
-        },
-        {
-            "mot": "atteinte",
-            "id": "16075753"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Traitement",
-            "id": "16090024"
+            "nom": "Hanche",
+            "lemme": "hanche"
         },
         {
-            "mot": "Cette",
-            "id": "419981"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "traiter",
-            "id": "99270"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "arrêt",
-            "id": "NULL"
-        },
-        {
-            "mot": "sportif",
-            "id": "9929089"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "quelques",
-            "id": "16308420"
-        },
-        {
-            "mot": "mois",
-            "id": "416784"
-        },
-        {
-            "mot": "ainsi",
-            "id": "15404421"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "décharge",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sac",
-            "id": "10557416"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "cours",
-            "id": "78667606"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "douleur",
-            "id": "417682"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "Legg",
+            "lemme": "Legg"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "Calve",
+            "lemme": "Calve"
         },
         {
-            "mot": "soulagée",
-            "id": "NULL"
+            "nom": "Perthes",
+            "lemme": "Perthes"
         },
         {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "médicamenteux",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "Tubérosité",
+            "lemme": "tubérosité"
         },
         {
-            "mot": "revanche",
-            "id": "410660"
+            "nom": "tibiale",
+            "lemme": "tibial"
         },
         {
-            "mot": "si",
-            "id": "184281"
+            "nom": "antérieure",
+            "lemme": "antérieur"
         },
         {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "corps",
-            "id": "404381"
-        },
-        {
-            "mot": "étranger",
-            "id": "NULL"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "détecté",
-            "id": "NULL"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "chirurgical",
-            "id": "20827"
-        },
-        {
-            "mot": "telle",
-            "id": "87628272"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "ablation",
-            "id": "100162786"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "fragment",
-            "id": "5720675"
-        },
-        {
-            "mot": "osseux",
-            "id": "253652816"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sa",
-            "id": "187135358"
-        },
-        {
-            "mot": "refixation",
-            "id": "2267225"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "utilisé",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Épidémiologie",
-            "id": "NULL"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "Osgood",
+            "lemme": "Osgood"
         },
         {
-            "mot": "cheval",
-            "id": "145246"
+            "nom": "Schlatter",
+            "lemme": "schlatter"
         },
         {
-            "mot": "Chez",
-            "id": "420868"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "cheval",
-            "id": "145246"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "ostéochondrite",
-            "id": "NULL"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "pathologies",
-            "id": "3229339"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "communes",
-            "id": "415669"
-        },
-        {
-            "mot": "chez",
-            "id": "420868"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "jeune",
-            "id": "407924"
-        },
-        {
-            "mot": "animal",
-            "id": "152685"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "croissance",
-            "id": "2931711"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Corps",
+            "lemme": "corps"
         },
         {
-            "mot": "maladie",
-            "id": "16512576"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "touche",
-            "id": "16090019"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "patella",
+            "lemme": "patella"
         },
         {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "chevaux",
-            "id": "425601"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sport",
-            "id": "16084320"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "trotteurs",
-            "id": "2105586"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "composante",
-            "id": "6014970"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "génétique",
-            "id": "NULL"
+            "nom": "Köhler",
+            "lemme": "Köhler"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "patellaire",
+            "lemme": "patellaire"
         },
         {
-            "mot": "très",
-            "id": "NULL"
-        },
-        {
-            "mot": "importante",
-            "id": "161295"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "déterminer",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "héritabilité",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "Apex",
+            "lemme": "apex"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "Bibliographie",
-            "id": "249394043"
+            "nom": "patella",
+            "lemme": "patella"
         },
         {
-            "mot": "Distl",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "Ottmar",
-            "id": "426104"
-        },
-        {
-            "mot": "Distl",
-            "id": "NULL"
-        },
-        {
-            "mot": "Equine",
-            "id": "17023036"
-        },
-        {
-            "mot": "osteochondrosis",
-            "id": "NULL"
-        },
-        {
-            "mot": "what",
-            "id": "2572771"
-        },
-        {
-            "mot": "can",
-            "id": "2469345"
-        },
-        {
-            "mot": "genetics",
-            "id": "196478117"
-        },
-        {
-            "mot": "tell",
-            "id": "143250"
-        },
-        {
-            "mot": "the",
-            "id": "171040515"
-        },
-        {
-            "mot": "breeder",
-            "id": "11926186"
-        },
-        {
-            "mot": "and",
-            "id": "5538562"
-        },
-        {
-            "mot": "rider",
-            "id": "433119"
-        },
-        {
-            "mot": "CESMAS",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "Performance",
-            "id": "423459"
-        },
-        {
-            "mot": "Diagnosis",
-            "id": "17129441"
-        },
-        {
-            "mot": "and",
-            "id": "5538562"
-        },
-        {
-            "mot": "Purchase",
-            "id": "2936709"
-        },
-        {
-            "mot": "Examination",
-            "id": "5785942"
-        },
-        {
-            "mot": "of",
-            "id": "12862803"
-        },
-        {
-            "mot": "Elite",
-            "id": "14412890"
-        },
-        {
-            "mot": "Sport",
-            "id": "16084320"
-        },
-        {
-            "mot": "Horses",
-            "id": "5905112"
-        },
-        {
-            "mot": "Wageningen",
-            "id": "2575942"
-        },
-        {
-            "mot": "Academic",
-            "id": "10076424"
-        },
-        {
-            "mot": "Pub",
-            "id": "5680966"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "p",
-            "id": "137760"
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Sinding",
+            "lemme": "Sinding"
+        },
+        {
+            "nom": "Larsen",
+            "lemme": "Larsen"
+        },
+        {
+            "nom": "Johanson",
+            "lemme": "Johanson"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "ISBN",
-            "id": "142939"
+            "nom": "Calcanéum",
+            "lemme": "calcanéum"
         },
         {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "lire",
-            "id": "415369"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "ligne",
-            "id": "180680858"
-        },
-        {
-            "mot": "p",
-            "id": "137760"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "Sever",
+            "lemme": "Sever"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Naviculaire",
+            "lemme": "naviculaire"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "Köhler",
+            "lemme": "Köhler"
         },
         {
-            "mot": "enfance",
-            "id": "143336"
+            "nom": "Mouchet",
+            "lemme": "Mouchet"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Tête",
+            "lemme": "tête"
         },
         {
-            "mot": "équestre",
-            "id": "NULL"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "deuxième",
+            "lemme": "deuxième"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "métatarsien",
+            "lemme": "métatarsien"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "vétérinaire",
-            "id": "NULL"
+            "nom": "Freiberg",
+            "lemme": "freiberg"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Sésamoïdes",
+            "lemme": "sésamoïde"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hallux",
+            "lemme": "hallux"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Renander",
+            "lemme": "Renander"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cheval",
+            "lemme": "cheval"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "touche",
+            "lemme": "touch"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "fréquemment",
+            "lemme": "fréquemment"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "articulations",
+            "lemme": "articulation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "membres",
+            "lemme": "membre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "genoux",
+            "lemme": "genou"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "boulets",
+            "lemme": "boulet"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "jarrets",
+            "lemme": "jarret"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Diagnostic",
+            "lemme": "diagnostic"
+        },
+        {
+            "nom": "Chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "humain",
+            "lemme": "humain"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ostéochondrite",
+            "lemme": "ostéochondrite"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "apparaît",
+            "lemme": "apparaître"
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "5",
+            "lemme": "5"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "12",
+            "lemme": "12"
+        },
+        {
+            "nom": "ans",
+            "lemme": "an"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "localisation",
+            "lemme": "localisation"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "concerne",
+            "lemme": "concerner"
+        },
+        {
+            "nom": "principalement",
+            "lemme": "principalement"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "individus",
+            "lemme": "individu"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sexe",
+            "lemme": "sexe"
+        },
+        {
+            "nom": "masculin",
+            "lemme": "masculin"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "moins",
+            "lemme": "moins"
+        },
+        {
+            "nom": "sportifs",
+            "lemme": "sportif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "dépendent",
+            "lemme": "dépendre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "variété",
+            "lemme": "variété"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "ostéochondrite",
+            "lemme": "ostéochondrite"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "agir",
+            "lemme": "agir"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "douleurs",
+            "lemme": "douleur"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "boiterie",
+            "lemme": "boiterie"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "blocage",
+            "lemme": "blocage"
+        },
+        {
+            "nom": "articulaire",
+            "lemme": "articulaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
+        },
+        {
+            "nom": "repose",
+            "lemme": "repose"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cadre",
+            "lemme": "cadre"
+        },
+        {
+            "nom": "clinique",
+            "lemme": "clinique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "surtout",
+            "lemme": "surtout"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "imagerie",
+            "lemme": "imagerie"
+        },
+        {
+            "nom": "médicale",
+            "lemme": "médical"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "radiographie",
+            "lemme": "radiographie"
+        },
+        {
+            "nom": "standard",
+            "lemme": "standard"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "IRM",
+            "lemme": "IRM"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "normale",
+            "lemme": "normal"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "début",
+            "lemme": "début"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "devient",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "ensuite",
+            "lemme": "ensuite"
+        },
+        {
+            "nom": "assez",
+            "lemme": "assez"
+        },
+        {
+            "nom": "spécifique",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pathologie",
+            "lemme": "pathologie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "seule",
+            "lemme": "seul"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "scintigraphie",
+            "lemme": "scintigraphie"
+        },
+        {
+            "nom": "osseuse",
+            "lemme": "osseux"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "montrer",
+            "lemme": "montrer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "signes",
+            "lemme": "signe"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "stade",
+            "lemme": "stade"
+        },
+        {
+            "nom": "précoce[réf",
+            "lemme": "précoce[réf"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "nécessaire].",
+            "lemme": "nécessaire]."
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ostéochondrite",
+            "lemme": "ostéochondrite"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "donc",
+            "lemme": "donc"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "classée",
+            "lemme": "classer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "fonction",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "gravité",
+            "lemme": "gravité"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "simple",
+            "lemme": "simple"
+        },
+        {
+            "nom": "radiographie",
+            "lemme": "radiographie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "grade",
+            "lemme": "grade"
+        },
+        {
+            "nom": "I",
+            "lemme": "i"
+        },
+        {
+            "nom": "où",
+            "lemme": "où"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "apparaît",
+            "lemme": "apparaître"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "petite",
+            "lemme": "petit"
+        },
+        {
+            "nom": "zone",
+            "lemme": "zone"
+        },
+        {
+            "nom": "osseuse",
+            "lemme": "osseux"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "différencie",
+            "lemme": "différencier"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "reste",
+            "lemme": "reste"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "os",
+            "lemme": "os"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "modification",
+            "lemme": "modification"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "densité",
+            "lemme": "densité"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "couleur",
+            "lemme": "couleur"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "radiographie",
+            "lemme": "radiographie"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "aspect",
+            "lemme": "aspect"
+        },
+        {
+            "nom": "irrégulier",
+            "lemme": "irrégulier"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "remarque",
+            "lemme": "remarque"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "jusqu'",
+            "lemme": "jusque"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "grade",
+            "lemme": "grade"
+        },
+        {
+            "nom": "IV",
+            "lemme": "iv"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "grave",
+            "lemme": "grave"
+        },
+        {
+            "nom": "défini",
+            "lemme": "définir"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dissection",
+            "lemme": "dissection"
+        },
+        {
+            "nom": "complète",
+            "lemme": "complet"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "fragment",
+            "lemme": "fragment"
+        },
+        {
+            "nom": "ostéochondral",
+            "lemme": "ostéochondral"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "va",
+            "lemme": "aller"
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "tomber",
+            "lemme": "tomber"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "articulation",
+            "lemme": "articulation"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "devenant",
+            "lemme": "devenir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "véritable",
+            "lemme": "véritable"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": "étranger",
+            "lemme": "étranger"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Évolution",
+            "lemme": "évolution"
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "évolution",
+            "lemme": "évolution"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "favorable",
+            "lemme": "favorable"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "soulageant",
+            "lemme": "soulager"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "articulation",
+            "lemme": "articulation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ses",
+            "lemme": "son"
+        },
+        {
+            "nom": "efforts",
+            "lemme": "effort"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "charge",
+            "lemme": "charge"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "poids",
+            "lemme": "poids"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "chirurgie",
+            "lemme": "chirurgie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "indiquée",
+            "lemme": "indiquer"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "réparer",
+            "lemme": "réparer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "articulation",
+            "lemme": "articulation"
+        },
+        {
+            "nom": "atteinte",
+            "lemme": "atteint"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "Cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "traiter",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "arrêt",
+            "lemme": "arrêt"
+        },
+        {
+            "nom": "sportif",
+            "lemme": "sportif"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "quelques",
+            "lemme": "quelque"
+        },
+        {
+            "nom": "mois",
+            "lemme": "mois"
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "décharge",
+            "lemme": "décharge"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sac",
+            "lemme": "sac"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cours",
+            "lemme": "cours"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "douleur",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "soulagée",
+            "lemme": "soulager"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "médicamenteux",
+            "lemme": "médicamenteux"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "revanche",
+            "lemme": "revanche"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": "étranger",
+            "lemme": "étranger"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "détecté",
+            "lemme": "détecter"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "chirurgical",
+            "lemme": "chirurgical"
+        },
+        {
+            "nom": "telle",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ablation",
+            "lemme": "ablation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "fragment",
+            "lemme": "fragment"
+        },
+        {
+            "nom": "osseux",
+            "lemme": "osseux"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "refixation",
+            "lemme": "refixation"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Épidémiologie",
+            "lemme": "Épidémiologie"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cheval",
+            "lemme": "cheval"
+        },
+        {
+            "nom": "Chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cheval",
+            "lemme": "cheval"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ostéochondrite",
+            "lemme": "ostéochondrite"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "pathologies",
+            "lemme": "pathologie"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "communes",
+            "lemme": "commune"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "jeune",
+            "lemme": "jeune"
+        },
+        {
+            "nom": "animal",
+            "lemme": "animal"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "croissance",
+            "lemme": "croissance"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "touche",
+            "lemme": "touch"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "64",
+            "lemme": "64"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "chevaux",
+            "lemme": "cheval"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sport",
+            "lemme": "sport"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "trotteurs",
+            "lemme": "trotteur"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "composante",
+            "lemme": "composant"
+        },
+        {
+            "nom": "génétique",
+            "lemme": "génétique"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "très",
+            "lemme": "très"
+        },
+        {
+            "nom": "importante",
+            "lemme": "important"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "déterminer",
+            "lemme": "déterminer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "héritabilité",
+            "lemme": "héritabilité"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
+        },
+        {
+            "nom": "Distl",
+            "lemme": "Distl"
+        },
+        {
+            "nom": "2010",
+            "lemme": "2010"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Ottmar",
+            "lemme": "Ottmar"
+        },
+        {
+            "nom": "Distl",
+            "lemme": "Distl"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Equine",
+            "lemme": "Equine"
+        },
+        {
+            "nom": "osteochondrosis",
+            "lemme": "osteochondrosi"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "what",
+            "lemme": "what"
+        },
+        {
+            "nom": "can",
+            "lemme": "can"
+        },
+        {
+            "nom": "genetics",
+            "lemme": "genetic"
+        },
+        {
+            "nom": "tell",
+            "lemme": "tell"
+        },
+        {
+            "nom": "the",
+            "lemme": "the"
+        },
+        {
+            "nom": "breeder",
+            "lemme": "breeder"
+        },
+        {
+            "nom": "and",
+            "lemme": "and"
+        },
+        {
+            "nom": "rider",
+            "lemme": "rider"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "CESMAS",
+            "lemme": "CESMAS"
+        },
+        {
+            "nom": "2010",
+            "lemme": "2010"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "Performance",
+            "lemme": "Performance"
+        },
+        {
+            "nom": "Diagnosis",
+            "lemme": "Diagnosis"
+        },
+        {
+            "nom": "and",
+            "lemme": "and"
+        },
+        {
+            "nom": "Purchase",
+            "lemme": "Purchase"
+        },
+        {
+            "nom": "Examination",
+            "lemme": "examination"
+        },
+        {
+            "nom": "of",
+            "lemme": "of"
+        },
+        {
+            "nom": "Elite",
+            "lemme": "Elite"
+        },
+        {
+            "nom": "Sport",
+            "lemme": "Sport"
+        },
+        {
+            "nom": "Horses",
+            "lemme": "Horses"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Wageningen",
+            "lemme": "Wageningen"
+        },
+        {
+            "nom": "Academic",
+            "lemme": "Academic"
+        },
+        {
+            "nom": "Pub",
+            "lemme": "Pub"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "2010",
+            "lemme": "2010"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "190",
+            "lemme": "190"
+        },
+        {
+            "nom": "p.",
+            "lemme": "p."
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ISBN",
+            "lemme": "isbn"
+        },
+        {
+            "nom": "9086861474",
+            "lemme": "9086861474"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "9789086861477",
+            "lemme": "9789086861477"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "lire",
+            "lemme": "lire"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "ligne",
+            "lemme": "ligne"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "p.",
+            "lemme": "p."
+        },
+        {
+            "nom": "21",
+            "lemme": "21"
+        },
+        {
+            "nom": "33",
+            "lemme": "33"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "enfance",
+            "lemme": "enfance"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "équestre",
+            "lemme": "équestre"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": "vétérinaire",
+            "lemme": "vétérinaire"
         }
     ]
 ]

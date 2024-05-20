@@ -1,0 +1,4 @@
+gastro-entérite;inflammation;r_has_symptomes.txt;lemme;être un
+pathogène;amibien;r_processus_vers_agent.txt;lemme;provoquer le dysenterie
+symptôme;perte;r_has_symptomes.txt;lemme;être un
+résultat;baisse;r_has_symptomes.txt;lemme;être un

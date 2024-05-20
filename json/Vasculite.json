@@ -1,4504 +1,5264 @@
 [
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "médecine",
+            "lemme": "médecine"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "vascularite",
+            "lemme": "vascularite"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "maladie",
-            "id": "16512576"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "impliquant",
-            "id": "2042466"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "impliquant",
+            "lemme": "impliquer"
         },
         {
-            "mot": "inflammation",
-            "id": "111273369"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "inflammation",
+            "lemme": "inflammation"
         },
         {
-            "mot": "parois",
-            "id": "1855466"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "parois",
+            "lemme": "paroi"
         },
         {
-            "mot": "vaisseaux",
-            "id": "430128"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "sanguins",
-            "id": "163253"
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "sanguins",
+            "lemme": "sanguin"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Elle",
-            "id": "9986297"
+            "nom": "Elle",
+            "lemme": "lui"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "principalement",
-            "id": "65756"
+            "nom": "principalement",
+            "lemme": "principalement"
         },
         {
-            "mot": "due",
-            "id": "10911053"
+            "nom": "due",
+            "lemme": "devoir"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "migration",
-            "id": "416327"
+            "nom": "migration",
+            "lemme": "migration"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "attaque",
-            "id": "403820"
+            "nom": "attaque",
+            "lemme": "attaque"
         },
         {
-            "mot": "anormale",
-            "id": "254752153"
+            "nom": "anormale",
+            "lemme": "anormal"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "leucocytes",
-            "id": "16785877"
+            "nom": "leucocytes",
+            "lemme": "leucocyte"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "aux",
+            "lemme": "à"
         },
         {
-            "mot": "dommages",
-            "id": "415904"
+            "nom": "dommages",
+            "lemme": "dommage"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "résultent",
-            "id": "NULL"
+            "nom": "résultent",
+            "lemme": "résulter"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "plupart",
-            "id": "429767"
+            "nom": "plupart",
+            "lemme": "plupart"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": "vascularites",
+            "lemme": "vascularite"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": "maladies",
+            "lemme": "maladie"
         },
         {
-            "mot": "rares",
-            "id": "414488"
+            "nom": "rares",
+            "lemme": "rare"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "émergentes",
-            "id": "NULL"
+            "nom": "émergentes",
+            "lemme": "émergente"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "maladie",
-            "id": "16512576"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "maladie",
+            "lemme": "maladie"
         },
         {
-            "mot": "Kawazaki",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Elles",
-            "id": "3181199"
+            "nom": "Kawazaki",
+            "lemme": "Kawazaki"
         },
         {
-            "mot": "s'",
-            "id": "2282608"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "prennent",
-            "id": "2251249"
-        },
-        {
-            "mot": "généralement",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "divers",
-            "id": "3031547"
-        },
-        {
-            "mot": "groupes",
-            "id": "276293"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "organes",
-            "id": "411819"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "provoquer",
-            "id": "12134"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "handicap",
-            "id": "404317"
-        },
-        {
-            "mot": "grave",
-            "id": "138917"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "Elles",
+            "lemme": "lui"
         },
         {
-            "mot": "causes",
-            "id": "193336232"
+            "nom": "s'",
+            "lemme": "se"
         },
         {
-            "mot": "principales",
-            "id": "17638177"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "prennent",
+            "lemme": "prendre"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "généralement",
+            "lemme": "généralement"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": "divers",
+            "lemme": "divers"
         },
         {
-            "mot": "auto",
-            "id": "15652031"
+            "nom": "groupes",
+            "lemme": "groupe"
         },
         {
-            "mot": "immunes",
-            "id": "414001"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "organes",
+            "lemme": "organe"
         },
         {
-            "mot": "occasionnellement",
-            "id": "87923"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "infections",
-            "id": "3296077"
+            "nom": "provoquer",
+            "lemme": "provoquer"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "handicap",
+            "lemme": "handicap"
         },
         {
-            "mot": "exposition",
-            "id": "419796"
+            "nom": "grave",
+            "lemme": "grave"
         },
         {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "certains",
-            "id": "425463"
-        },
-        {
-            "mot": "produits",
-            "id": "414121"
-        },
-        {
-            "mot": "chimiques",
-            "id": "10996640"
-        },
-        {
-            "mot": "médicaments",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "drogues",
-            "id": "410668"
-        },
-        {
-            "mot": "tels",
-            "id": "53063"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "amphétamines",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "cocaïne",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "vaccins",
-            "id": "143330271"
-        },
-        {
-            "mot": "contre",
-            "id": "426382"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "anthrax",
-            "id": "250927"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Bien",
-            "id": "15532334"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "qu'",
-            "id": "14718918"
+            "nom": "causes",
+            "lemme": "cause"
         },
         {
-            "mot": "elles",
-            "id": "3181199"
+            "nom": "principales",
+            "lemme": "principal"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "produisent",
-            "id": "2252297"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "maladies",
+            "lemme": "maladie"
         },
         {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": "auto-immunes",
+            "lemme": "auto-immune"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "inflammations",
-            "id": "16785662"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "occasionnellement",
+            "lemme": "occasionnellemer"
         },
         {
-            "mot": "veines",
-            "id": "16786747"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "seules",
-            "id": "165320"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "phlébites",
-            "id": "NULL"
+            "nom": "infections",
+            "lemme": "infection"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "artères",
-            "id": "NULL"
+            "nom": "exposition",
+            "lemme": "exposition"
         },
         {
-            "mot": "seules",
-            "id": "165320"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "artérites",
-            "id": "NULL"
+            "nom": "certains",
+            "lemme": "certain"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "produits",
+            "lemme": "produit"
         },
         {
-            "mot": "traitées",
-            "id": "NULL"
+            "nom": "chimiques",
+            "lemme": "chimique"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "médicaments",
+            "lemme": "médicament"
         },
         {
-            "mot": "entités",
-            "id": "NULL"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "drogues",
+            "lemme": "drogue"
         },
         {
-            "mot": "part",
-            "id": "396844"
+            "nom": "tels",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "amphétamines",
+            "lemme": "amphétamine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cocaïne",
+            "lemme": "cocaïne"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vaccins",
+            "lemme": "vaccin"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "anthrax",
+            "lemme": "anthrax"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "Bien",
+            "lemme": "bien"
         },
         {
-            "mot": "termes",
-            "id": "2390704"
+            "nom": "qu'",
+            "lemme": "que"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "elles",
+            "lemme": "lui"
         },
         {
-            "mot": "vasculite",
-            "id": "464209"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "produisent",
+            "lemme": "produire"
         },
         {
-            "mot": "angéite",
-            "id": "NULL"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "vascularite",
+            "lemme": "vascularite"
         },
         {
-            "mot": "français",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "synonymes",
-            "id": "2956008"
+            "nom": "inflammations",
+            "lemme": "inflammation"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": "veines",
+            "lemme": "veine"
+        },
+        {
+            "nom": "seules",
+            "lemme": "seul"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "phlébites",
+            "lemme": "phlébite"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "artères",
+            "lemme": "artère"
+        },
+        {
+            "nom": "seules",
+            "lemme": "seul"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "artérites",
+            "lemme": "artérite"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "traitées",
+            "lemme": "traiter"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "entités",
+            "lemme": "entité"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "part",
+            "lemme": "part"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "lymphangite",
-            "id": "50015"
+            "nom": "termes",
+            "lemme": "terme"
         },
         {
-            "mot": "inflammation",
-            "id": "111273369"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "vasculite",
+            "lemme": "vasculite"
         },
         {
-            "mot": "vaisseaux",
-            "id": "430128"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "lymphatiques",
-            "id": "400375"
+            "nom": "angéite",
+            "lemme": "angéite"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "parfois",
-            "id": "14886690"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "considérée",
-            "id": "NULL"
+            "nom": "français",
+            "lemme": "français"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "synonymes",
+            "lemme": "synonyme"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "différentes",
-            "id": "NULL"
+            "nom": "vascularite",
+            "lemme": "vascularite"
         },
         {
-            "mot": "formes",
-            "id": "406188"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Symptômes",
-            "id": "NULL"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "lymphangite",
+            "lemme": "lymphangite"
         },
         {
-            "mot": "diagnostic",
-            "id": "426024"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "inflammation",
+            "lemme": "inflammation"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
         },
         {
-            "mot": "notamment",
-            "id": "4240"
+            "nom": "lymphatiques",
+            "lemme": "lymphatique"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "généraux",
-            "id": "NULL"
+            "nom": "parfois",
+            "lemme": "parfois"
         },
         {
-            "mot": "fièvre",
-            "id": "NULL"
+            "nom": "considérée",
+            "lemme": "considérer"
         },
         {
-            "mot": "perte",
-            "id": "121534633"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "poids",
-            "id": "2574098"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "différentes",
+            "lemme": "différent"
         },
         {
-            "mot": "dermatologiques",
-            "id": "2167546"
+            "nom": "formes",
+            "lemme": "forme"
         },
         {
-            "mot": "purpura",
-            "id": "111273423"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "livedo",
-            "id": "59016"
+            "nom": "vascularite",
+            "lemme": "vascularite"
         },
         {
-            "mot": "reticularis",
-            "id": "415065"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "musculaires",
-            "id": "156594985"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "articulaires",
-            "id": "464604"
-        },
-        {
-            "mot": "myalgie",
-            "id": "99882475"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "myosite",
-            "id": "143655858"
-        },
-        {
-            "mot": "arthralgie",
-            "id": "99882476"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "arthrite",
-            "id": "5832805"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "nerveux",
-            "id": "17341686"
-        },
-        {
-            "mot": "neuropathie",
-            "id": "17052326"
-        },
-        {
-            "mot": "multiple",
-            "id": "15519163"
-        },
-        {
-            "mot": "maux",
-            "id": "2530847"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "tête",
-            "id": "NULL"
-        },
-        {
-            "mot": "accident",
-            "id": "143577"
-        },
-        {
-            "mot": "vasculaire",
-            "id": "17052869"
-        },
-        {
-            "mot": "cérébral",
-            "id": "NULL"
-        },
-        {
-            "mot": "acouphènes",
-            "id": "NULL"
-        },
-        {
-            "mot": "perte",
-            "id": "121534633"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "acuité",
-            "id": "NULL"
-        },
-        {
-            "mot": "visuelle",
-            "id": "6529533"
-        },
-        {
-            "mot": "voire",
-            "id": "2603254"
-        },
-        {
-            "mot": "déficience",
-            "id": "NULL"
-        },
-        {
-            "mot": "visuelle",
-            "id": "6529533"
-        },
-        {
-            "mot": "sévère",
-            "id": "NULL"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "cardiaques",
-            "id": "398858"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "artériels",
-            "id": "NULL"
-        },
-        {
-            "mot": "infarctus",
-            "id": "3695717"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "myocarde",
-            "id": "143229016"
-        },
-        {
-            "mot": "hypertension",
-            "id": "17051327"
-        },
-        {
-            "mot": "gangrène",
-            "id": "NULL"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "respiratoires",
-            "id": "398669"
-        },
-        {
-            "mot": "saignements",
-            "id": "2077772"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "nez",
-            "id": "414081"
-        },
-        {
-            "mot": "toux",
-            "id": "17051775"
-        },
-        {
-            "mot": "sanglante",
-            "id": "5563505"
-        },
-        {
-            "mot": "poumon",
-            "id": "15472548"
-        },
-        {
-            "mot": "infiltré",
-            "id": "NULL"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "gastro",
-            "id": "5629068"
-        },
-        {
-            "mot": "intestinaux",
-            "id": "412088"
-        },
-        {
-            "mot": "douleur",
-            "id": "417682"
-        },
-        {
-            "mot": "abdominale",
-            "id": "391665"
-        },
-        {
-            "mot": "selles",
-            "id": "435193"
-        },
-        {
-            "mot": "sanglantes",
-            "id": "5563518"
-        },
-        {
-            "mot": "perforations",
-            "id": "3229171"
-        },
-        {
-            "mot": "intestinales",
-            "id": "402767"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "rénaux",
-            "id": "NULL"
-        },
-        {
-            "mot": "glomérulonéphrite",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "Symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "diagnostic",
-            "id": "426024"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
         },
         {
-            "mot": "confirmé",
-            "id": "NULL"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "analyses",
-            "id": "6564706"
+            "nom": "notamment",
+            "lemme": "notamment"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "sang",
-            "id": "397221"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "liquides",
-            "id": "154708"
-        },
-        {
-            "mot": "corporels",
-            "id": "399191"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "laboratoire",
-            "id": "407934"
-        },
-        {
-            "mot": "pour",
-            "id": "409376"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "patients",
-            "id": "248701277"
-        },
-        {
-            "mot": "apparemment",
-            "id": "15532328"
-        },
-        {
-            "mot": "touchés",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "active",
-            "id": "419168"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "résultats",
-            "id": "NULL"
+            "nom": "généraux",
+            "lemme": "général"
         },
         {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "analyse",
-            "id": "402333"
-        },
-        {
-            "mot": "montrent",
-            "id": "2228599"
-        },
-        {
-            "mot": "alors",
-            "id": "15412652"
-        },
-        {
-            "mot": "généralement",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "marqueurs",
-            "id": "9211356"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "inflammation",
-            "id": "111273369"
-        },
-        {
-            "mot": "dont",
-            "id": "461256"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "augmentation",
-            "id": "6015574"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "vitesse",
-            "id": "15647074"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sédimentation",
-            "id": "NULL"
-        },
-        {
-            "mot": "VS",
-            "id": "1848385"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "élévation",
-            "id": "NULL"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "taux",
-            "id": "2572830"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "protéine",
-            "id": "NULL"
-        },
-        {
-            "mot": "C",
-            "id": "142716"
-        },
-        {
-            "mot": "réactive",
-            "id": "NULL"
-        },
-        {
-            "mot": "CRP",
-            "id": "1853669"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "anémie",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "leucocytose",
-            "id": "102271653"
-        },
-        {
-            "mot": "nombre",
-            "id": "402302"
-        },
-        {
-            "mot": "accru",
-            "id": "31456"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "globules",
-            "id": "16785475"
-        },
-        {
-            "mot": "blancs",
-            "id": "159315"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "éosinophilie",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "résultats",
-            "id": "NULL"
-        },
-        {
-            "mot": "possibles",
-            "id": "160889"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "taux",
-            "id": "2572830"
-        },
-        {
-            "mot": "élevé",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "anticorps",
-            "id": "105788554"
-        },
-        {
-            "mot": "antineutrophiles",
-            "id": "403615"
-        },
-        {
-            "mot": "cytoplasmatiques",
-            "id": "403616"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "hématurie",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "tests",
-            "id": "5560972"
-        },
-        {
-            "mot": "portant",
-            "id": "23540"
-        },
-        {
-            "mot": "sur",
-            "id": "409373"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "organes",
-            "id": "411819"
-        },
-        {
-            "mot": "fonctionnels",
-            "id": "405357"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "sang",
-            "id": "397221"
-        },
-        {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "aussi",
-            "id": "14890874"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "anormaux",
-            "id": "418001"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "anomalies",
-            "id": "15562522"
-        },
-        {
-            "mot": "spécifiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "type",
-            "id": "5813161"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "organe",
-            "id": "5570573"
-        },
-        {
-            "mot": "touché",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "selon",
-            "id": "2577623"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "gravité",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "affection",
-            "id": "183332182"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "fièvre",
+            "lemme": "fièvre"
         },
         {
-            "mot": "diagnostic",
-            "id": "426024"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "définitif",
-            "id": "NULL"
+            "nom": "perte",
+            "lemme": "perte"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": "poids",
+            "lemme": "poids"
         },
         {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "établi",
-            "id": "NULL"
-        },
-        {
-            "mot": "après",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "biopsie",
-            "id": "16089016"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "organes",
-            "id": "411819"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "tissus",
-            "id": "5933763"
-        },
-        {
-            "mot": "impliqués",
-            "id": "NULL"
-        },
-        {
-            "mot": "tels",
-            "id": "53063"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "peau",
-            "id": "145091"
-        },
-        {
-            "mot": "sinus",
-            "id": "6015651"
-        },
-        {
-            "mot": "poumon",
-            "id": "15472548"
-        },
-        {
-            "mot": "nerf",
-            "id": "10845747"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "rein",
-            "id": "6261396"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "biopsie",
-            "id": "16089016"
+            "nom": "dermatologiques",
+            "lemme": "dermatologique"
         },
         {
-            "mot": "met",
-            "id": "129649248"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "évidence",
-            "id": "NULL"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "type",
-            "id": "5813161"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "inflammation",
-            "id": "111273369"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "sanguins",
-            "id": "163253"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Une",
-            "id": "15606674"
+            "nom": "purpura",
+            "lemme": "purpura"
         },
         {
-            "mot": "alternative",
-            "id": "406029"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "livedo",
+            "lemme": "livedo"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "reticularis",
+            "lemme": "reticulari"
         },
         {
-            "mot": "biopsie",
-            "id": "16089016"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "angiographie",
-            "id": "156505569"
-        },
-        {
-            "mot": "observation",
-            "id": "462735"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "sanguins",
-            "id": "163253"
-        },
-        {
-            "mot": "aux",
-            "id": "15504815"
-        },
-        {
-            "mot": "rayons",
-            "id": "429559"
-        },
-        {
-            "mot": "X",
-            "id": "144726"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "montrer",
-            "id": "3385228"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "motifs",
-            "id": "432467"
-        },
-        {
-            "mot": "caractéristiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "associés",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "inflammation",
-            "id": "111273369"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "sanguins",
-            "id": "163253"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Classification",
-            "id": "273455"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "musculaires",
+            "lemme": "musculaire"
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "articulaires",
+            "lemme": "articulaire"
         },
         {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "inflammatoires",
-            "id": "17052054"
-        },
-        {
-            "mot": "dégradant",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "paroi",
-            "id": "5720886"
-        },
-        {
-            "mot": "vasculaire",
-            "id": "17052869"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Elles",
-            "id": "3181199"
+            "nom": "myalgie",
+            "lemme": "myalgie"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "myosite",
+            "lemme": "myosite"
         },
         {
-            "mot": "primitives",
-            "id": "124715905"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "arthralgie",
+            "lemme": "arthralgie"
         },
         {
-            "mot": "secondaires",
-            "id": "14486756"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "arthrite",
+            "lemme": "arthrite"
         },
         {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "affections",
-            "id": "183332172"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "exemple",
-            "id": "15532284"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "lupus",
-            "id": "6260731"
-        },
-        {
-            "mot": "érythémateux",
-            "id": "NULL"
-        },
-        {
-            "mot": "disséminé",
-            "id": "NULL"
-        },
-        {
-            "mot": "LED",
-            "id": "2388510"
-        },
-        {
-            "mot": "Plusieurs",
-            "id": "412067"
-        },
-        {
-            "mot": "systèmes",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "classification",
-            "id": "273455"
-        },
-        {
-            "mot": "existent",
-            "id": "2196971"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "classement",
-            "id": "410798"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "causes",
-            "id": "193336232"
-        },
-        {
-            "mot": "sous",
-            "id": "16089533"
-        },
-        {
-            "mot": "jacentes",
-            "id": "2049056"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Par",
-            "id": "409087"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "nerveux",
+            "lemme": "nerveux"
         },
         {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "aortite",
-            "id": "21183"
-        },
-        {
-            "mot": "syphilitique",
-            "id": "121399"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "aortite",
-            "id": "21183"
-        },
-        {
-            "mot": "infectieuse",
-            "id": "17052231"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "référant",
-            "id": "NULL"
-        },
-        {
-            "mot": "simplement",
-            "id": "10368864"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "artérite",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "aorte",
-            "id": "111398242"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Cependant",
-            "id": "101535"
+            "nom": "neuropathie",
+            "lemme": "neuropathie"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "multiple",
+            "lemme": "multiple"
         },
         {
-            "mot": "causes",
-            "id": "193336232"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "maux",
+            "lemme": "mal"
         },
         {
-            "mot": "nombreuses",
-            "id": "16088588"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "formes",
-            "id": "406188"
+            "nom": "tête",
+            "lemme": "tête"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": "accident",
+            "lemme": "accident"
         },
         {
-            "mot": "restent",
-            "id": "2116573"
+            "nom": "vasculaire",
+            "lemme": "vasculaire"
         },
         {
-            "mot": "mal",
-            "id": "235591213"
+            "nom": "cérébral",
+            "lemme": "cérébral"
         },
         {
-            "mot": "comprises",
-            "id": "421255"
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "acouphènes",
+            "lemme": "acouphène"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "perte",
+            "lemme": "perte"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "acuité",
+            "lemme": "acuité"
+        },
+        {
+            "nom": "visuelle",
+            "lemme": "visuel"
+        },
+        {
+            "nom": "voire",
+            "lemme": "voir"
+        },
+        {
+            "nom": "déficience",
+            "lemme": "déficience"
+        },
+        {
+            "nom": "visuelle",
+            "lemme": "visuel"
+        },
+        {
+            "nom": "sévère",
+            "lemme": "sévère"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Elles",
-            "id": "3181199"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "cardiaques",
+            "lemme": "cardiaque"
         },
         {
-            "mot": "habituellement",
-            "id": "15627245"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "artériels",
+            "lemme": "artériel"
         },
         {
-            "mot": "composante",
-            "id": "6014970"
-        },
-        {
-            "mot": "immunitaire",
-            "id": "3825"
-        },
-        {
-            "mot": "mais",
-            "id": "397741"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "déclencheur",
-            "id": "NULL"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "souvent",
-            "id": "3382915"
-        },
-        {
-            "mot": "non",
-            "id": "2409585"
-        },
-        {
-            "mot": "identifié",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "infarctus",
+            "lemme": "infarctus"
         },
         {
-            "mot": "ces",
-            "id": "2446001"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "myocarde",
+            "lemme": "myocarde"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "anticorps",
-            "id": "105788554"
+            "nom": "hypertension",
+            "lemme": "hypertension"
         },
         {
-            "mot": "trouvés",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "gangrène",
+            "lemme": "gangrène"
         },
         {
-            "mot": "parfois",
-            "id": "14886690"
-        },
-        {
-            "mot": "utilisé",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "classification",
-            "id": "273455"
-        },
-        {
-            "mot": "comme",
-            "id": "186744723"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "ANCA",
-            "id": "13798131"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "classement",
-            "id": "410798"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "zone",
-            "id": "13397228"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "organe",
-            "id": "5570573"
-        },
-        {
-            "mot": "touchés",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Par",
-            "id": "409087"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "exemple",
-            "id": "15532284"
+            "nom": "respiratoires",
+            "lemme": "respiratoire"
         },
         {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "classification",
-            "id": "273455"
-        },
-        {
-            "mot": "internationale",
-            "id": "16161703"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "Liste",
-            "id": "15943735"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "codes",
-            "id": "410855"
-        },
-        {
-            "mot": "CIM",
-            "id": "2928579"
-        },
-        {
-            "mot": "classe",
-            "id": "413245"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "limitée",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "peau",
-            "id": "145091"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "affections",
-            "id": "183332172"
-        },
-        {
-            "mot": "cutanées",
-            "id": "NULL"
-        },
-        {
-            "mot": "sous",
-            "id": "16089533"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "rubrique",
-            "id": "429801"
-        },
-        {
-            "mot": "L",
-            "id": "138915"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "vasculopathies",
-            "id": "6280553"
-        },
-        {
-            "mot": "nécrosantes",
-            "id": "NULL"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "système",
-            "id": "NULL"
-        },
-        {
-            "mot": "musculosquelettique",
-            "id": "457845"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "tissu",
-            "id": "413277"
-        },
-        {
-            "mot": "conjonctif",
-            "id": "25857"
-        },
-        {
-            "mot": "sous",
-            "id": "16089533"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "rubrique",
-            "id": "429801"
-        },
-        {
-            "mot": "M",
-            "id": "138590"
-        },
-        {
-            "mot": "Artérite",
-            "id": "NULL"
-        },
-        {
-            "mot": "phlébites",
-            "id": "NULL"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "individuellement",
-            "id": "61626"
-        },
-        {
-            "mot": "classées",
-            "id": "NULL"
-        },
-        {
-            "mot": "avec",
-            "id": "15404438"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "circulation",
-            "id": "5710204"
-        },
-        {
-            "mot": "rubrique",
-            "id": "429801"
-        },
-        {
-            "mot": "I",
-            "id": "140119"
-        },
-        {
-            "mot": "classement",
-            "id": "410798"
-        },
-        {
-            "mot": "selon",
-            "id": "2577623"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "type",
-            "id": "5813161"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "taille",
-            "id": "416191"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "sanguins",
-            "id": "163253"
-        },
-        {
-            "mot": "principalement",
-            "id": "65756"
-        },
-        {
-            "mot": "affectés",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "saignements",
+            "lemme": "saignement"
         },
         {
-            "mot": "dehors",
-            "id": "13637940"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "nez",
+            "lemme": "nez"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "artérite",
-            "id": "NULL"
+            "nom": "toux",
+            "lemme": "toux"
         },
         {
-            "mot": "phlébite",
-            "id": "NULL"
+            "nom": "sanglante",
+            "lemme": "sanglante"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "distinctions",
-            "id": "10506725"
+            "nom": "poumon",
+            "lemme": "poumon"
         },
         {
-            "mot": "mentionnée",
-            "id": "NULL"
+            "nom": "infiltré",
+            "lemme": "infiltrer"
         },
         {
-            "mot": "ci",
-            "id": "1830223"
-        },
-        {
-            "mot": "dessus",
-            "id": "2575378"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "souvent",
-            "id": "3382915"
-        },
-        {
-            "mot": "classée",
-            "id": "NULL"
-        },
-        {
-            "mot": "selon",
-            "id": "2577623"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "calibre",
-            "id": "413242"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "vaisseau",
-            "id": "426510"
-        },
-        {
-            "mot": "touché",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Cependant",
-            "id": "101535"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "il",
-            "id": "1836399"
+            "nom": "gastro-intestinaux",
+            "lemme": "gastro-intestinal"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "y",
-            "id": "144184"
-        },
-        {
-            "mot": "avoir",
-            "id": "402552"
-        },
-        {
-            "mot": "quelques",
-            "id": "16308420"
-        },
-        {
-            "mot": "variations",
-            "id": "413170"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "taille",
-            "id": "416191"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "atteints",
-            "id": "1992801"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Type",
-            "id": "5813161"
+            "nom": "douleur",
+            "lemme": "douleur"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "abdominale",
+            "lemme": "abdominal"
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "selon",
-            "id": "2577623"
+            "nom": "selles",
+            "lemme": "selle"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "sanglantes",
+            "lemme": "sanglant"
         },
         {
-            "mot": "nomenclature",
-            "id": "413137"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "perforations",
+            "lemme": "perforation"
         },
         {
-            "mot": "Chapel",
-            "id": "2573565"
+            "nom": "intestinales",
+            "lemme": "intestinal"
         },
         {
-            "mot": "Hill",
-            "id": "417769"
-        },
-        {
-            "mot": "révisée",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "Vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "aorte",
-            "id": "111398242"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "gros",
-            "id": "142912"
-        },
-        {
-            "mot": "troncs",
-            "id": "164194"
-        },
-        {
-            "mot": "Maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Horton",
-            "id": "17399193"
-        },
-        {
-            "mot": "Artérite",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Takayasu",
-            "id": "404015"
-        },
-        {
-            "mot": "Vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "artères",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "moyen",
-            "id": "217273920"
-        },
-        {
-            "mot": "calibre",
-            "id": "413242"
-        },
-        {
-            "mot": "Périartérite",
-            "id": "NULL"
-        },
-        {
-            "mot": "noueuse",
-            "id": "398871"
-        },
-        {
-            "mot": "Maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Kawasaki",
-            "id": "464640"
-        },
-        {
-            "mot": "Vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "petits",
-            "id": "402119"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "Microvascularites",
-            "id": "NULL"
-        },
-        {
-            "mot": "associées",
-            "id": "NULL"
-        },
-        {
-            "mot": "aux",
-            "id": "15504815"
-        },
-        {
-            "mot": "ANCA",
-            "id": "13798131"
-        },
-        {
-            "mot": "Granulomatose",
-            "id": "14735110"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Wegener",
-            "id": "118854"
-        },
-        {
-            "mot": "Micropolyangéite",
-            "id": "NULL"
-        },
-        {
-            "mot": "Angéite",
-            "id": "NULL"
-        },
-        {
-            "mot": "granulomateuse",
-            "id": "403595"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Churg",
-            "id": "424152"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "Strauss",
-            "id": "2315200"
-        },
-        {
-            "mot": "Microvascularites",
-            "id": "NULL"
-        },
-        {
-            "mot": "liées",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "dépôts",
-            "id": "NULL"
-        },
-        {
-            "mot": "complexes",
-            "id": "431331"
-        },
-        {
-            "mot": "immuns",
-            "id": "434969"
-        },
-        {
-            "mot": "sans",
-            "id": "16089511"
-        },
-        {
-            "mot": "ANCA",
-            "id": "13798131"
-        },
-        {
-            "mot": "Purpura",
-            "id": "111273423"
-        },
-        {
-            "mot": "rhumatoide",
-            "id": "17390446"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "immunoglobulines",
-            "id": "16785657"
-        },
-        {
-            "mot": "A",
-            "id": "143768"
-        },
-        {
-            "mot": "Vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "cryoglobulinémique",
-            "id": "NULL"
-        },
-        {
-            "mot": "mixte",
-            "id": "11105839"
-        },
-        {
-            "mot": "essentielle",
-            "id": "87615"
-        },
-        {
-            "mot": "Vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "glomérulaire",
-            "id": "NULL"
-        },
-        {
-            "mot": "médiée",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "anticorps",
-            "id": "105788554"
-        },
-        {
-            "mot": "antimembrane",
-            "id": "6083923"
-        },
-        {
-            "mot": "basale",
-            "id": "147487"
-        },
-        {
-            "mot": "glomérulaire",
-            "id": "NULL"
-        },
-        {
-            "mot": "anti",
-            "id": "15404674"
-        },
-        {
-            "mot": "MBG",
-            "id": "16513564"
-        },
-        {
-            "mot": "Vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "urticairienne",
-            "id": "NULL"
-        },
-        {
-            "mot": "hypocomplémentémique",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "anti",
-            "id": "15404674"
-        },
-        {
-            "mot": "C1q",
-            "id": "12114819"
-        },
-        {
-            "mot": "Vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "taille",
-            "id": "416191"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "vaisseaux",
-            "id": "430128"
-        },
-        {
-            "mot": "variable",
-            "id": "426543"
-        },
-        {
-            "mot": "Maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Behçet",
-            "id": "NULL"
-        },
-        {
-            "mot": "Vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Cogan",
-            "id": "17399191"
-        },
-        {
-            "mot": "Polychondrite",
-            "id": "464769"
-        },
-        {
-            "mot": "chronique",
-            "id": "402275"
-        },
-        {
-            "mot": "atrophianteDivers",
-            "id": "NULL"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "ont",
-            "id": "16512778"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "comme",
-            "id": "186744723"
-        },
-        {
-            "mot": "principale",
-            "id": "2932073"
-        },
-        {
-            "mot": "caractéristique",
-            "id": "NULL"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "principaux",
-            "id": "573271"
+            "nom": "rénaux",
+            "lemme": "rénal"
         },
         {
-            "mot": "types",
-            "id": "417517"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "L'",
-            "id": "263030"
-        },
-        {
-            "mot": "artérite",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Takayasu",
-            "id": "404015"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "périartérite",
-            "id": "NULL"
-        },
-        {
-            "mot": "noueuse",
-            "id": "398871"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "Horton",
-            "id": "17399193"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "parfois",
-            "id": "14886690"
-        },
-        {
-            "mot": "classées",
-            "id": "NULL"
-        },
-        {
-            "mot": "parmi",
-            "id": "2931856"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "mais",
-            "id": "397741"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "souvent",
-            "id": "3382915"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "artérites",
-            "id": "NULL"
-        },
-        {
-            "mot": "car",
-            "id": "11494787"
-        },
-        {
-            "mot": "impliquant",
-            "id": "2042466"
-        },
-        {
-            "mot": "surtout",
-            "id": "16089966"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "inflammation",
-            "id": "111273369"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "artères",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "glomérulonéphrite",
+            "lemme": "glomérulonéphrite"
         },
         {
-            "mot": "outre",
-            "id": "415019"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "accompagnement",
-            "id": "16075743"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "atypiques",
-            "id": "252775"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "Maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "rhumatismales",
-            "id": "2118736"
-        },
-        {
-            "mot": "dont",
-            "id": "461256"
-        },
-        {
-            "mot": "polyarthrite",
-            "id": "83051"
-        },
-        {
-            "mot": "rhumatoïde",
-            "id": "NULL"
-        },
-        {
-            "mot": "érythème",
-            "id": "NULL"
-        },
-        {
-            "mot": "systémique",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "dermatomyosite",
-            "id": "113364400"
-        },
-        {
-            "mot": "Cancer",
-            "id": "140121"
-        },
-        {
-            "mot": "dont",
-            "id": "461256"
-        },
-        {
-            "mot": "lymphomes",
-            "id": "568694"
-        },
-        {
-            "mot": "Infections",
-            "id": "3296077"
-        },
-        {
-            "mot": "dont",
-            "id": "461256"
-        },
-        {
-            "mot": "hépatite",
-            "id": "NULL"
-        },
-        {
-            "mot": "C",
-            "id": "142716"
-        },
-        {
-            "mot": "Traitements",
-            "id": "156583671"
-        },
-        {
-            "mot": "Ils",
-            "id": "427503"
-        },
-        {
-            "mot": "dépendent",
-            "id": "NULL"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "causes",
-            "id": "193336232"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "gravité",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "inflammation",
-            "id": "111273369"
-        },
-        {
-            "mot": "ils",
-            "id": "427503"
-        },
-        {
-            "mot": "visent",
-            "id": "2096421"
-        },
-        {
-            "mot": "généralement",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "abord",
-            "id": "12738326"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "stopper",
-            "id": "17683980"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "inflammation",
-            "id": "111273369"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "inhiber",
-            "id": "251949158"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "système",
-            "id": "NULL"
-        },
-        {
-            "mot": "immunitaire",
-            "id": "3825"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Des",
-            "id": "314234"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "base",
-            "id": "409360"
+            "nom": "confirmé",
+            "lemme": "confirmer"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "cortisone",
-            "id": "113364415"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "analyses",
+            "lemme": "analyse"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "dérivant",
-            "id": "NULL"
+            "nom": "sang",
+            "lemme": "sang"
         },
         {
-            "mot": "tels",
-            "id": "53063"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "Prednisone",
-            "id": "14094419"
+            "nom": "autres",
+            "lemme": "autre"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "liquides",
+            "lemme": "liquide"
         },
         {
-            "mot": "Cortancyl",
-            "id": "6275151"
+            "nom": "corporels",
+            "lemme": "corporel"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "utilisés",
-            "id": "NULL"
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "laboratoire",
+            "lemme": "laboratoire"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "patients",
+            "lemme": "patient"
+        },
+        {
+            "nom": "apparemment",
+            "lemme": "apparemment"
+        },
+        {
+            "nom": "touchés",
+            "lemme": "toucher"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "active",
+            "lemme": "actif"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "D'",
-            "id": "263032"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "autres",
-            "id": "402129"
+            "nom": "résultats",
+            "lemme": "résultat"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "provoquant",
-            "id": "26527"
+            "nom": "analyse",
+            "lemme": "analyse"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "montrent",
+            "lemme": "montrer"
         },
         {
-            "mot": "suppression",
-            "id": "2886289"
+            "nom": "alors",
+            "lemme": "alors"
         },
         {
-            "mot": "immunitaire",
-            "id": "3825"
+            "nom": "généralement",
+            "lemme": "généralement"
         },
         {
-            "mot": "tels",
-            "id": "53063"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "marqueurs",
+            "lemme": "marqueur"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "cyclophosphamide",
-            "id": "156581902"
+            "nom": "inflammation",
+            "lemme": "inflammation"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "autres",
-            "id": "402129"
+            "nom": "dont",
+            "lemme": "dont"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
-        },
-        {
-            "mot": "éventuellement",
-            "id": "NULL"
-        },
-        {
-            "mot": "utilisés",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Dans",
-            "id": "17638136"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "augmentation",
+            "lemme": "augmentation"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "vitesse",
+            "lemme": "vitesse"
         },
         {
-            "mot": "infection",
-            "id": "17051343"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "sédimentation",
+            "lemme": "sédimentation"
         },
         {
-            "mot": "antimicrobiens",
-            "id": "2771289"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "céfalexine",
-            "id": "NULL"
+            "nom": "VS",
+            "lemme": "v"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "prescrits",
-            "id": "2251277"
+            "nom": "élévation",
+            "lemme": "élévation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "taux",
+            "lemme": "taux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "protéine",
+            "lemme": "protéine"
+        },
+        {
+            "nom": "C",
+            "lemme": "c"
+        },
+        {
+            "nom": "réactive",
+            "lemme": "réactif"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "CRP",
+            "lemme": "CRP"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "anémie",
+            "lemme": "anémie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "leucocytose",
+            "lemme": "leucocytose"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "nombre",
+            "lemme": "nombre"
+        },
+        {
+            "nom": "accru",
+            "lemme": "accroître"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "globules",
+            "lemme": "globule"
+        },
+        {
+            "nom": "blancs",
+            "lemme": "blanc"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "éosinophilie",
+            "lemme": "éosinophilie"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Certains",
-            "id": "425463"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "organes",
-            "id": "411819"
+            "nom": "autres",
+            "lemme": "autre"
         },
         {
-            "mot": "affectés",
-            "id": "NULL"
+            "nom": "résultats",
+            "lemme": "résultat"
         },
         {
-            "mot": "cœur",
-            "id": "NULL"
+            "nom": "possibles",
+            "lemme": "possible"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "poumons",
-            "id": "16786302"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "taux",
+            "lemme": "taux"
         },
         {
-            "mot": "particulier",
-            "id": "2932560"
+            "nom": "élevé",
+            "lemme": "élevé"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "imposer",
-            "id": "257083437"
+            "nom": "anticorps",
+            "lemme": "anticorps"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "antineutrophiles",
+            "lemme": "antineutrophile"
         },
         {
-            "mot": "traitement",
-            "id": "16090024"
+            "nom": "cytoplasmatiques",
+            "lemme": "cytoplasmatique"
         },
         {
-            "mot": "médical",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "spécifique",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "destiné",
-            "id": "NULL"
+            "nom": "hématurie",
+            "lemme": "hématurie"
         },
         {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "améliorer",
-            "id": "NULL"
-        },
-        {
-            "mot": "leur",
-            "id": "15633114"
-        },
-        {
-            "mot": "fonction",
-            "id": "15633113"
-        },
-        {
-            "mot": "lors",
-            "id": "15562521"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "phase",
-            "id": "17638137"
-        },
-        {
-            "mot": "active",
-            "id": "419168"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "maladie",
-            "id": "16512576"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Exemple",
-            "id": "15532284"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "illustré",
-            "id": "NULL"
+            "nom": "tests",
+            "lemme": "test"
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": "portant",
+            "lemme": "porter"
         },
         {
-            "mot": "leucocytoclastiques",
-            "id": "6264232"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "Vascularites",
-            "id": "16513342"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "autres",
+            "lemme": "autre"
         },
         {
-            "mot": "vaccinations",
-            "id": "16786731"
+            "nom": "organes",
+            "lemme": "organe"
         },
         {
-            "mot": "L",
-            "id": "138915"
+            "nom": "fonctionnels",
+            "lemme": "fonctionnel"
         },
         {
-            "mot": "existence",
-            "id": "427721"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": "sang",
+            "lemme": "sang"
         },
         {
-            "mot": "postvaccinales",
-            "id": "6086060"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "reste",
-            "id": "5998567"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "toujours",
-            "id": "3170371"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "anormaux",
+            "lemme": "anormal"
         },
         {
-            "mot": "démontrer",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "anomalies",
+            "lemme": "anomalie"
+        },
+        {
+            "nom": "spécifiques",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": "touché",
+            "lemme": "toucher"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "gravité",
+            "lemme": "gravité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "affection",
+            "lemme": "affection"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Cependant",
-            "id": "101535"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "diagnostic",
+            "lemme": "diagnostic"
         },
         {
-            "mot": "littérature",
-            "id": "NULL"
+            "nom": "définitif",
+            "lemme": "définitif"
         },
         {
-            "mot": "rapporte",
-            "id": "425092"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "vascularite",
+            "lemme": "vascularite"
         },
         {
-            "mot": "observations",
-            "id": "5535680"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "suggérant",
-            "id": "NULL"
+            "nom": "établi",
+            "lemme": "établir"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "après",
+            "lemme": "après"
         },
         {
-            "mot": "responsabilité",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "éventuelle",
-            "id": "NULL"
+            "nom": "biopsie",
+            "lemme": "biopsie"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "organes",
+            "lemme": "organe"
         },
         {
-            "mot": "vaccination",
-            "id": "140248"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "tissus",
+            "lemme": "tissu"
         },
         {
-            "mot": "déclenchement",
-            "id": "NULL"
+            "nom": "impliqués",
+            "lemme": "impliquer"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "tels",
+            "lemme": "tel"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "réactivation",
-            "id": "NULL"
+            "nom": "peau",
+            "lemme": "peau"
         },
         {
-            "mot": "d",
-            "id": "142231"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "sinus",
+            "lemme": "sinus"
         },
         {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "systémique",
-            "id": "NULL"
+            "nom": "poumon",
+            "lemme": "poumon"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "nerf",
+            "lemme": "nerf"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "rein",
+            "lemme": "rein"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "deux",
-            "id": "14665637"
+            "nom": "biopsie",
+            "lemme": "biopsie"
         },
         {
-            "mot": "vaccins",
-            "id": "143330271"
+            "nom": "met",
+            "lemme": "mettre"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "évidence",
+            "lemme": "évidence"
         },
         {
-            "mot": "souvent",
-            "id": "3382915"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "incriminés",
-            "id": "NULL"
+            "nom": "type",
+            "lemme": "type"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "inflammation",
+            "lemme": "inflammation"
         },
         {
-            "mot": "anti",
-            "id": "15404674"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "VHB",
-            "id": "267101"
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "sanguins",
+            "lemme": "sanguin"
         },
         {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "antigrippal",
-            "id": "105118"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "Une",
+            "lemme": "un"
         },
         {
-            "mot": "faut",
-            "id": "420502"
+            "nom": "alternative",
+            "lemme": "alternative"
         },
         {
-            "mot": "savoir",
-            "id": "420780"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "évoquer",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "biopsie",
+            "lemme": "biopsie"
         },
         {
-            "mot": "hypothèse",
-            "id": "NULL"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "vaccinale",
-            "id": "398413"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "devant",
-            "id": "2576352"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "angiographie",
+            "lemme": "angiographie"
         },
         {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "cutanée",
-            "id": "NULL"
+            "nom": "observation",
+            "lemme": "observation"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "saison",
-            "id": "11373193"
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
         },
         {
-            "mot": "automnale",
-            "id": "155642"
+            "nom": "sanguins",
+            "lemme": "sanguin"
         },
         {
-            "mot": "vaccinale",
-            "id": "398413"
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "rayons",
+            "lemme": "rayon"
+        },
+        {
+            "nom": "X",
+            "lemme": "x"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "montrer",
+            "lemme": "montrer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "motifs",
+            "lemme": "motif"
+        },
+        {
+            "nom": "caractéristiques",
+            "lemme": "caractéristique"
+        },
+        {
+            "nom": "associés",
+            "lemme": "associer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "sanguins",
+            "lemme": "sanguin"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Classification",
+            "lemme": "classification"
         },
         {
-            "mot": "vaccination",
-            "id": "140248"
+            "nom": "Les",
+            "lemme": "le"
         },
         {
-            "mot": "antigrippale",
-            "id": "398795"
+            "nom": "vascularites",
+            "lemme": "vascularite"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "donc",
-            "id": "10897693"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "contre",
-            "id": "426382"
+            "nom": "maladies",
+            "lemme": "maladie"
         },
         {
-            "mot": "indiquée",
-            "id": "NULL"
+            "nom": "inflammatoires",
+            "lemme": "inflammatoire"
         },
         {
-            "mot": "formellement",
-            "id": "134610"
+            "nom": "dégradant",
+            "lemme": "dégrader"
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "paroi",
+            "lemme": "paroi"
         },
         {
-            "mot": "sujets",
-            "id": "55668689"
+            "nom": "vasculaire",
+            "lemme": "vasculaire"
         },
         {
-            "mot": "ayant",
-            "id": "255259909"
-        },
-        {
-            "mot": "fait",
-            "id": "46933112"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
-        },
-        {
-            "mot": "après",
-            "id": "NULL"
-        },
-        {
-            "mot": "vaccination",
-            "id": "140248"
-        },
-        {
-            "mot": "antigrippale",
-            "id": "398795"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "fortement",
-            "id": "43958"
-        },
-        {
-            "mot": "déconseillée",
-            "id": "NULL"
-        },
-        {
-            "mot": "chez",
-            "id": "420868"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "sujets",
-            "id": "55668689"
-        },
-        {
-            "mot": "ayant",
-            "id": "255259909"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "antécédents",
-            "id": "NULL"
-        },
-        {
-            "mot": "même",
-            "id": "NULL"
-        },
-        {
-            "mot": "lointains",
-            "id": "399393"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "vascularite",
-            "id": "16513341"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Les",
-            "id": "15021325"
+            "nom": "Elles",
+            "lemme": "lui"
         },
         {
-            "mot": "imputations",
-            "id": "2045045"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "vaccin",
-            "id": "14096749"
+            "nom": "primitives",
+            "lemme": "primitif"
         },
         {
-            "mot": "antihépatite",
-            "id": "NULL"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "B",
-            "id": "143220"
+            "nom": "secondaires",
+            "lemme": "secondaire"
         },
         {
-            "mot": "doivent",
-            "id": "2077013"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "mises",
-            "id": "415263"
+            "nom": "autres",
+            "lemme": "autre"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "affections",
+            "lemme": "affection"
         },
         {
-            "mot": "regard",
-            "id": "10191815"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "avec",
-            "id": "15404438"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "cas",
-            "id": "1010733"
+            "nom": "lupus",
+            "lemme": "lupus"
         },
         {
-            "mot": "imputés",
-            "id": "NULL"
+            "nom": "érythémateux",
+            "lemme": "érythémateux"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "disséminé",
+            "lemme": "disséminé"
         },
         {
-            "mot": "virus",
-            "id": "320893"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "lui",
-            "id": "14773174"
+            "nom": "LED",
+            "lemme": "led"
         },
         {
-            "mot": "même",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "avant",
-            "id": "5987039"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "mise",
-            "id": "16089537"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "point",
-            "id": "15504812"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "vaccin",
-            "id": "14096749"
-        },
-        {
-            "mot": "contre",
-            "id": "426382"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "infection",
-            "id": "17051343"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "virus",
-            "id": "320893"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "hépatite",
-            "id": "NULL"
-        },
-        {
-            "mot": "B",
-            "id": "143220"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "cas",
-            "id": "1010733"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "périartérites",
-            "id": "NULL"
-        },
-        {
-            "mot": "noueuses",
-            "id": "400157"
-        },
-        {
-            "mot": "étaient",
-            "id": "NULL"
-        },
-        {
-            "mot": "liés",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "infection",
-            "id": "17051343"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "VHB",
-            "id": "267101"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "Plusieurs",
+            "lemme": "plusieurs"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "systèmes",
+            "lemme": "système"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Voir",
-            "id": "14772243"
+            "nom": "classification",
+            "lemme": "classification"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "existent",
+            "lemme": "exister"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
-        },
-        {
-            "mot": "connexes",
-            "id": "403121"
-        },
-        {
-            "mot": "Réseau",
-            "id": "NULL"
-        },
-        {
-            "mot": "sanguin",
-            "id": "5563419"
-        },
-        {
-            "mot": "Maladies",
-            "id": "1763365"
-        },
-        {
-            "mot": "auto",
-            "id": "15652031"
-        },
-        {
-            "mot": "immunes",
-            "id": "414001"
-        },
-        {
-            "mot": "Liens",
-            "id": "409339"
-        },
-        {
-            "mot": "externes",
-            "id": "16087769"
-        },
-        {
-            "mot": "fr",
-            "id": "256517200"
-        },
-        {
-            "mot": "Les",
-            "id": "15021325"
-        },
-        {
-            "mot": "vascularites",
-            "id": "16513342"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "nerfs",
-            "id": "427659"
-        },
-        {
-            "mot": "Archive",
-            "id": "462272"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "org",
-            "id": "10911541"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "Wikiwix",
-            "id": "204074007"
+            "nom": "classement",
+            "lemme": "classement"
         },
         {
-            "mot": "Archive",
-            "id": "462272"
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "sous-jacentes",
+            "lemme": "sous-jacent"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "is",
-            "id": "2524893"
+            "nom": "Par",
+            "lemme": "par"
         },
         {
-            "mot": "Google",
-            "id": "225795"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "Que",
-            "id": "14890876"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "faire",
-            "id": "14890873"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "fr",
-            "id": "256517200"
+            "nom": "aortite",
+            "lemme": "aortite"
         },
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "syphilitique",
+            "lemme": "syphilitique"
         },
         {
-            "mot": "site",
-            "id": "201975238"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "vascularites",
-            "id": "16513342"
+            "nom": "aortite",
+            "lemme": "aortite"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "infectieuse",
+            "lemme": "infectieux"
         },
         {
-            "mot": "France",
-            "id": "10914926"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "Bibliographie",
-            "id": "249394043"
+            "nom": "référant",
+            "lemme": "référer"
         },
         {
-            "mot": "Jenette",
-            "id": "10326697"
+            "nom": "simplement",
+            "lemme": "simplement"
         },
         {
-            "mot": "JC",
-            "id": "12204844"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "Falk",
-            "id": "25180"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "RJ",
-            "id": "NULL"
+            "nom": "artérite",
+            "lemme": "artérite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "aorte",
+            "lemme": "aorte"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Small",
-            "id": "462091"
+            "nom": "Cependant",
+            "lemme": "cependant"
         },
         {
-            "mot": "vessel",
-            "id": "16316776"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "vasculitis",
-            "id": "1858351"
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "nombreuses",
+            "lemme": "nombreux"
+        },
+        {
+            "nom": "formes",
+            "lemme": "forme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "restent",
+            "lemme": "rester"
+        },
+        {
+            "nom": "mal",
+            "lemme": "mal"
+        },
+        {
+            "nom": "comprises",
+            "lemme": "compris"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "N",
-            "id": "138276"
+            "nom": "Elles",
+            "lemme": "lui"
         },
         {
-            "mot": "Engl",
-            "id": "5896270"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "J",
-            "id": "139695"
+            "nom": "habituellement",
+            "lemme": "habituellement"
         },
         {
-            "mot": "Med",
-            "id": "5880862"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "",
-            "id": "15910085"
+            "nom": "composante",
+            "lemme": "composante"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "déclencheur",
+            "lemme": "déclencheur"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "non-identifié",
+            "lemme": "non-identifier"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Résumé",
-            "id": "NULL"
+            "nom": "Dans",
+            "lemme": "dans"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "ces",
+            "lemme": "ce"
         },
         {
-            "mot": "anglais",
-            "id": "172944"
+            "nom": "cas",
+            "lemme": "cas"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "anticorps",
+            "lemme": "anticorps"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "trouvés",
+            "lemme": "trouver"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "utilisé",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "classification",
+            "lemme": "classification"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "ANCA",
+            "lemme": "ANCA"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "classement",
+            "lemme": "classement"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "zone",
+            "lemme": "zone"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": "touchés",
+            "lemme": "toucher"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "classification",
+            "lemme": "classification"
+        },
+        {
+            "nom": "internationale",
+            "lemme": "international"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Liste",
+            "lemme": "liste"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "codes",
+            "lemme": "code"
+        },
+        {
+            "nom": "CIM-10",
+            "lemme": "cim-10"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "classe",
+            "lemme": "classe"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "limitée",
+            "lemme": "limité"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "peau",
+            "lemme": "peau"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "affections",
+            "lemme": "affection"
+        },
+        {
+            "nom": "cutanées",
+            "lemme": "cutané"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "rubrique",
+            "lemme": "rubrique"
+        },
+        {
+            "nom": "L",
+            "lemme": "l"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vasculopathies",
+            "lemme": "vasculopathie"
+        },
+        {
+            "nom": "nécrosantes",
+            "lemme": "nécrosante"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "musculosquelettique",
+            "lemme": "musculosquelettiqu"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "conjonctif",
+            "lemme": "conjonctif"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "rubrique",
+            "lemme": "rubrique"
+        },
+        {
+            "nom": "M",
+            "lemme": "m"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Artérite",
+            "lemme": "Artérite"
+        },
+        {
+            "nom": "phlébites",
+            "lemme": "phlébite"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "individuellement",
+            "lemme": "individuellement"
+        },
+        {
+            "nom": "classées",
+            "lemme": "classer"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "circulation",
+            "lemme": "circulation"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "rubrique",
+            "lemme": "rubrique"
+        },
+        {
+            "nom": "I",
+            "lemme": "i"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "classement",
+            "lemme": "classemer"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "taille",
+            "lemme": "taille"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "sanguins",
+            "lemme": "sanguin"
+        },
+        {
+            "nom": "principalement",
+            "lemme": "principalement"
+        },
+        {
+            "nom": "affectés",
+            "lemme": "affecté"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "dehors",
+            "lemme": "dehors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "artérite",
+            "lemme": "artérite"
+        },
+        {
+            "nom": "phlébite",
+            "lemme": "phlébite"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "distinctions",
+            "lemme": "distinction"
+        },
+        {
+            "nom": "mentionnée",
+            "lemme": "mentionner"
+        },
+        {
+            "nom": "ci",
+            "lemme": "ci"
+        },
+        {
+            "nom": "dessus",
+            "lemme": "dessus"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "classée",
+            "lemme": "classer"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "calibre",
+            "lemme": "calibre"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaisseau",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "touché",
+            "lemme": "toucher"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "y",
+            "lemme": "y"
+        },
+        {
+            "nom": "avoir",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "quelques",
+            "lemme": "quelque"
+        },
+        {
+            "nom": "variations",
+            "lemme": "variation"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "taille",
+            "lemme": "taille"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "atteints",
+            "lemme": "atteindre"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Type",
+            "lemme": "type"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "nomenclature",
+            "lemme": "nomenclature"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Chapel",
+            "lemme": "chapel"
+        },
+        {
+            "nom": "Hill",
+            "lemme": "Hill"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "1994",
+            "lemme": "1994"
+        },
+        {
+            "nom": "révisée",
+            "lemme": "réviser"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "2012",
+            "lemme": "2012"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "aorte",
+            "lemme": "aorte"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "gros",
+            "lemme": "gros"
+        },
+        {
+            "nom": "troncs",
+            "lemme": "tronc"
+        },
+        {
+            "nom": "Maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Horton",
+            "lemme": "Horton"
+        },
+        {
+            "nom": "Artérite",
+            "lemme": "Artérite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Takayasu",
+            "lemme": "Takayasu"
+        },
+        {
+            "nom": "Vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "artères",
+            "lemme": "artère"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "moyen",
+            "lemme": "moyen"
+        },
+        {
+            "nom": "calibre",
+            "lemme": "calibre"
+        },
+        {
+            "nom": "Périartérite",
+            "lemme": "Périartérite"
+        },
+        {
+            "nom": "noueuse",
+            "lemme": "noueux"
+        },
+        {
+            "nom": "Maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Kawasaki",
+            "lemme": "Kawasaki"
+        },
+        {
+            "nom": "Vascularites",
+            "lemme": "Vascularites"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "petits",
+            "lemme": "petit"
+        },
+        {
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "Microvascularites",
+            "lemme": "Microvascularites"
+        },
+        {
+            "nom": "associées",
+            "lemme": "associer"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "ANCA",
+            "lemme": "ANCA"
+        },
+        {
+            "nom": "Granulomatose",
+            "lemme": "Granulomatose"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Wegener",
+            "lemme": "Wegener"
+        },
+        {
+            "nom": "Micropolyangéite",
+            "lemme": "Micropolyangéite"
+        },
+        {
+            "nom": "Angéite",
+            "lemme": "Angéite"
+        },
+        {
+            "nom": "granulomateuse",
+            "lemme": "granulomateux"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Churg",
+            "lemme": "Churg"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Strauss",
+            "lemme": "straus"
+        },
+        {
+            "nom": "Microvascularites",
+            "lemme": "Microvascularites"
+        },
+        {
+            "nom": "liées",
+            "lemme": "lier"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "dépôts",
+            "lemme": "dépôt"
+        },
+        {
+            "nom": "complexes",
+            "lemme": "complexe"
+        },
+        {
+            "nom": "immuns",
+            "lemme": "immun"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "ANCA",
+            "lemme": "ANCA"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Purpura",
+            "lemme": "Purpura"
+        },
+        {
+            "nom": "rhumatoide",
+            "lemme": "rhumatoid"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "immunoglobulines",
+            "lemme": "immunoglobuline"
+        },
+        {
+            "nom": "A",
+            "lemme": "a"
+        },
+        {
+            "nom": "Vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "cryoglobulinémique",
+            "lemme": "cryoglobulinémiqu"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "mixte",
+            "lemme": "mixte"
+        },
+        {
+            "nom": "essentielle",
+            "lemme": "essentiel"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "glomérulaire",
+            "lemme": "glomérulaire"
+        },
+        {
+            "nom": "médiée",
+            "lemme": "médier"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "anticorps",
+            "lemme": "anticorps"
+        },
+        {
+            "nom": "antimembrane",
+            "lemme": "antimembran"
+        },
+        {
+            "nom": "basale",
+            "lemme": "basal"
+        },
+        {
+            "nom": "glomérulaire",
+            "lemme": "glomérulaire"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "anti-MBG",
+            "lemme": "anti-mbg"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "urticairienne",
+            "lemme": "urticairienn"
+        },
+        {
+            "nom": "hypocomplémentémique",
+            "lemme": "hypocomplémentémique"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularit"
+        },
+        {
+            "nom": "anti",
+            "lemme": "anti"
+        },
+        {
+            "nom": "C1q",
+            "lemme": "C1q"
+        },
+        {
+            "nom": "Vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "taille",
+            "lemme": "taille"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaisseaux",
+            "lemme": "vaisseau"
+        },
+        {
+            "nom": "variable",
+            "lemme": "variable"
+        },
+        {
+            "nom": "Maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Behçet",
+            "lemme": "Behçet"
+        },
+        {
+            "nom": "Vascularite",
+            "lemme": "Vascularite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Cogan",
+            "lemme": "Cogan"
+        },
+        {
+            "nom": "Polychondrite",
+            "lemme": "polychondrite"
+        },
+        {
+            "nom": "chronique",
+            "lemme": "chronique"
+        },
+        {
+            "nom": "atrophianteDivers",
+            "lemme": "atrophiantediver"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "principale",
+            "lemme": "principal"
+        },
+        {
+            "nom": "caractéristique",
+            "lemme": "caractéristique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "principaux",
+            "lemme": "principal"
+        },
+        {
+            "nom": "types",
+            "lemme": "type"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "artérite",
+            "lemme": "artérite"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Takayasu",
+            "lemme": "Takayasu"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "périartérite",
+            "lemme": "périartérite"
+        },
+        {
+            "nom": "noueuse",
+            "lemme": "noueux"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Horton",
+            "lemme": "Horton"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "classées",
+            "lemme": "classer"
+        },
+        {
+            "nom": "parmi",
+            "lemme": "parmi"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "artérites",
+            "lemme": "artérite"
+        },
+        {
+            "nom": "car",
+            "lemme": "car"
+        },
+        {
+            "nom": "impliquant",
+            "lemme": "impliquer"
+        },
+        {
+            "nom": "surtout",
+            "lemme": "surtout"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "artères",
+            "lemme": "artère"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "outre",
+            "lemme": "outre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "accompagnement",
+            "lemme": "accompagnement"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "atypiques",
+            "lemme": "atypique"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "Maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "rhumatismales",
+            "lemme": "rhumatismal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "polyarthrite",
+            "lemme": "polyarthrite"
+        },
+        {
+            "nom": "rhumatoïde",
+            "lemme": "rhumatoïde"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "érythème",
+            "lemme": "érythèm"
+        },
+        {
+            "nom": "systémique",
+            "lemme": "systémique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "dermatomyosite",
+            "lemme": "dermatomyosite"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Cancer",
+            "lemme": "cancer"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "lymphomes",
+            "lemme": "lymphomer"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Infections",
+            "lemme": "infection"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "hépatite",
+            "lemme": "hépatite"
+        },
+        {
+            "nom": "C",
+            "lemme": "c"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "Traitements",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "Ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "dépendent",
+            "lemme": "dépendre"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "gravité",
+            "lemme": "gravité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "visent",
+            "lemme": "viser"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "abord",
+            "lemme": "abord"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "stopper",
+            "lemme": "stopper"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "inflammation",
+            "lemme": "inflammation"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "inhiber",
+            "lemme": "inhiber"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Des",
+            "lemme": "un"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "base",
+            "lemme": "base"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "cortisone",
+            "lemme": "cortisone"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "dérivant",
+            "lemme": "dérivant"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "tels",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Prednisone",
+            "lemme": "Prednisone"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Cortancyl",
+            "lemme": "Cortancyl"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "utilisés",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "D'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "provoquant",
+            "lemme": "provoquer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "suppression",
+            "lemme": "suppression"
+        },
+        {
+            "nom": "immunitaire",
+            "lemme": "immunitaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "tels",
+            "lemme": "tel"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cyclophosphamide",
+            "lemme": "cyclophosphamide"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "éventuellement",
+            "lemme": "éventuellement"
+        },
+        {
+            "nom": "utilisés",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "antimicrobiens",
+            "lemme": "antimicrobien"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "céfalexine",
+            "lemme": "céfalexine"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "prescrits",
+            "lemme": "prescrire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "organes",
+            "lemme": "organe"
+        },
+        {
+            "nom": "affectés",
+            "lemme": "affecté"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "cœur",
+            "lemme": "cœur"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "poumons",
+            "lemme": "poumon"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "particulier",
+            "lemme": "particulier"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "imposer",
+            "lemme": "imposer"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "médical",
+            "lemme": "médical"
+        },
+        {
+            "nom": "spécifique",
+            "lemme": "spécifique"
+        },
+        {
+            "nom": "destiné",
+            "lemme": "destiner"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "améliorer",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "fonction",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "phase",
+            "lemme": "phase"
+        },
+        {
+            "nom": "active",
+            "lemme": "actif"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "illustré",
+            "lemme": "illustrer"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "leucocytoclastiques",
+            "lemme": "leucocytoclastique"
+        },
+        {
+            "nom": "Vascularites",
+            "lemme": "Vascularites"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "vaccinations",
+            "lemme": "vaccination"
+        },
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "existence",
+            "lemme": "existence"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "postvaccinales",
+            "lemme": "postvaccinale"
+        },
+        {
+            "nom": "reste",
+            "lemme": "reste"
+        },
+        {
+            "nom": "toujours",
+            "lemme": "toujours"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "démontrer",
+            "lemme": "démontrer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "littérature",
+            "lemme": "littérature"
+        },
+        {
+            "nom": "rapporte",
+            "lemme": "rapporte"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "observations",
+            "lemme": "observation"
+        },
+        {
+            "nom": "suggérant",
+            "lemme": "suggérer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "responsabilité",
+            "lemme": "responsabilité"
+        },
+        {
+            "nom": "éventuelle",
+            "lemme": "éventuel"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "vaccination",
+            "lemme": "vaccination"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "déclenchement",
+            "lemme": "déclenchement"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réactivation",
+            "lemme": "réactivation"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "systémique",
+            "lemme": "systémique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "deux",
+            "lemme": "deux"
+        },
+        {
+            "nom": "vaccins",
+            "lemme": "vaccin"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "incriminés",
+            "lemme": "incriminé"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "anti-VHB",
+            "lemme": "anti-vhb"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "antigrippal",
+            "lemme": "antigrippal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "faut",
+            "lemme": "falloir"
+        },
+        {
+            "nom": "savoir",
+            "lemme": "savoir"
+        },
+        {
+            "nom": "évoquer",
+            "lemme": "évoquer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hypothèse",
+            "lemme": "hypothèse"
+        },
+        {
+            "nom": "vaccinale",
+            "lemme": "vaccinal"
+        },
+        {
+            "nom": "devant",
+            "lemme": "devant"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "cutanée",
+            "lemme": "cutané"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "saison",
+            "lemme": "saison"
+        },
+        {
+            "nom": "automnale",
+            "lemme": "automnal"
+        },
+        {
+            "nom": "vaccinale",
+            "lemme": "vaccinal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "vaccination",
+            "lemme": "vaccination"
+        },
+        {
+            "nom": "antigrippale",
+            "lemme": "antigrippal"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "donc",
+            "lemme": "donc"
+        },
+        {
+            "nom": "contre-indiquée",
+            "lemme": "contre-indiqué"
+        },
+        {
+            "nom": "formellement",
+            "lemme": "formellement"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "sujets",
+            "lemme": "sujet"
+        },
+        {
+            "nom": "ayant",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "fait",
+            "lemme": "faire"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "vaccination",
+            "lemme": "vaccination"
+        },
+        {
+            "nom": "antigrippale",
+            "lemme": "antigrippal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "fortement",
+            "lemme": "fortement"
+        },
+        {
+            "nom": "déconseillée",
+            "lemme": "déconseiller"
+        },
+        {
+            "nom": "chez",
+            "lemme": "chez"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "sujets",
+            "lemme": "sujet"
+        },
+        {
+            "nom": "ayant",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "antécédents",
+            "lemme": "antécédent"
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "lointains",
+            "lemme": "lointain"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vascularite",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "imputations",
+            "lemme": "imputation"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "vaccin",
+            "lemme": "vaccin"
+        },
+        {
+            "nom": "antihépatite",
+            "lemme": "antihépatite"
+        },
+        {
+            "nom": "B",
+            "lemme": "b"
+        },
+        {
+            "nom": "doivent",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "mises",
+            "lemme": "mettre"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "regard",
+            "lemme": "regard"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "imputés",
+            "lemme": "imputer"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "virus",
+            "lemme": "virus"
+        },
+        {
+            "nom": "lui-même",
+            "lemme": "lui-même"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "avant",
+            "lemme": "avant"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mise",
+            "lemme": "mise"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "point",
+            "lemme": "point"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "vaccin",
+            "lemme": "vaccin"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "virus",
+            "lemme": "virus"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "hépatite",
+            "lemme": "hépatite"
+        },
+        {
+            "nom": "B",
+            "lemme": "b"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "50",
+            "lemme": "50"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "périartérites",
+            "lemme": "périartérite"
+        },
+        {
+            "nom": "noueuses",
+            "lemme": "noueuse"
+        },
+        {
+            "nom": "étaient",
+            "lemme": "être"
+        },
+        {
+            "nom": "liés",
+            "lemme": "lier"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "infection",
+            "lemme": "infection"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "VHB",
+            "lemme": "vhb"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Réseau",
+            "lemme": "réseau"
+        },
+        {
+            "nom": "sanguin",
+            "lemme": "sanguin"
+        },
+        {
+            "nom": "Maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "auto-immunes",
+            "lemme": "auto-immune"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "externes",
+            "lemme": "externe"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "fr",
+            "lemme": "fr"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "nerfs",
+            "lemme": "nerf"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Archive.org",
+            "lemme": "archive.org"
+        },
+        {
+            "nom": "Wikiwix",
+            "lemme": "Wikiwix"
+        },
+        {
+            "nom": "Archive.is",
+            "lemme": "archive.is"
+        },
+        {
+            "nom": "Google",
+            "lemme": "Google"
+        },
+        {
+            "nom": "Que",
+            "lemme": "que"
+        },
+        {
+            "nom": "faire",
+            "lemme": "faire"
+        },
+        {
+            "nom": "?",
+            "lemme": "?"
+        }
+    ],
+    [
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "fr",
+            "lemme": "fr"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "site",
+            "lemme": "site"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "vascularites",
+            "lemme": "vascularite"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "France",
+            "lemme": "France"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
+        },
+        {
+            "nom": "Jenette",
+            "lemme": "Jenette"
+        },
+        {
+            "nom": "JC",
+            "lemme": "JC"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Falk",
+            "lemme": "Falk"
+        },
+        {
+            "nom": "RJ",
+            "lemme": "rj"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Small",
+            "lemme": "small"
+        },
+        {
+            "nom": "vessel",
+            "lemme": "vessel"
+        },
+        {
+            "nom": "vasculitis",
+            "lemme": "vasculiti"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "N",
+            "lemme": "n"
+        },
+        {
+            "nom": "Engl",
+            "lemme": "Engl"
+        },
+        {
+            "nom": "J",
+            "lemme": "j"
+        },
+        {
+            "nom": "Med",
+            "lemme": "med"
+        },
+        {
+            "nom": "1997",
+            "lemme": "1997"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "337(21):1512",
+            "lemme": "337(21):1512"
+        },
+        {
+            "nom": "23",
+            "lemme": "23"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Résumé",
+            "lemme": "Résumé"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "anglais",
+            "lemme": "anglais"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Portail",
+            "lemme": "portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
         }
     ]
 ]

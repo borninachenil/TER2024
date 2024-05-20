@@ -1,0 +1,10 @@
+cirrhose;maladie;r_has_symptomes.txt;lemme;être un
+transfusions;virus;r_has_symptomes.txt;nom;où le
+transfusion;virus;r_has_symptomes.txt;lemme;où le
+signe;ascite;r_has_symptomes.txt;lemme;être un
+communication;circulation;r_has_causatif.txt;lemme;le système porte
+fait;veines;r_has_causatif.txt;nom;le système porte
+fait;veine;r_has_causatif.txt;lemme;le système porte
+complication;maladie;r_has_symptomes.txt;lemme;être un
+cancer;complication;r_has_symptomes.txt;lemme;être un
+pays;cirrhose;r_has_symptomes.txt;lemme;où le

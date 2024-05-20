@@ -1,0 +1,1256 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "séquence",
+            "lemme": "séquence"
+        },
+        {
+            "nom": "Fluid",
+            "lemme": "Fluid"
+        },
+        {
+            "nom": "attenuated",
+            "lemme": "attenuated"
+        },
+        {
+            "nom": "inversion",
+            "lemme": "inversion"
+        },
+        {
+            "nom": "recovery",
+            "lemme": "recovery"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "FLAIR",
+            "lemme": "flair"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "séquence",
+            "lemme": "séquence"
+        },
+        {
+            "nom": "IRM",
+            "lemme": "irm"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "inversion",
+            "lemme": "inversion"
+        },
+        {
+            "nom": "récupération",
+            "lemme": "récupération"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "annule",
+            "lemme": "annuler"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "fluides",
+            "lemme": "fluide"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Cette",
+            "lemme": "ce"
+        },
+        {
+            "nom": "séquence",
+            "lemme": "séquence"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "utilisée",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "IRM",
+            "lemme": "irm"
+        },
+        {
+            "nom": "cérébrale",
+            "lemme": "cérébral"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "supprimer",
+            "lemme": "supprimer"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "liquide",
+            "lemme": "liquide"
+        },
+        {
+            "nom": "cérébrospinal",
+            "lemme": "cérébrospinal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "permet",
+            "lemme": "permettre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "mieux",
+            "lemme": "mieux"
+        },
+        {
+            "nom": "observer",
+            "lemme": "observer"
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "pathologies",
+            "lemme": "pathologie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "notamment",
+            "lemme": "notamment"
+        },
+        {
+            "nom": "celles",
+            "lemme": "celui"
+        },
+        {
+            "nom": "présentes",
+            "lemme": "présent"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "interface",
+            "lemme": "interface"
+        },
+        {
+            "nom": "parenchyme",
+            "lemme": "parenchyme"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "séquence",
+            "lemme": "séquence"
+        },
+        {
+            "nom": "fut",
+            "lemme": "être"
+        },
+        {
+            "nom": "développée",
+            "lemme": "développer"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "années",
+            "lemme": "année"
+        },
+        {
+            "nom": "1990",
+            "lemme": "1990"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "équipe",
+            "lemme": "équipe"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "recherche",
+            "lemme": "recherche"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Hammersmith",
+            "lemme": "Hammersmith"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "constituée",
+            "lemme": "constituer"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Graeme",
+            "lemme": "Graeme"
+        },
+        {
+            "nom": "Bydder",
+            "lemme": "Bydder"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Joseph",
+            "lemme": "Joseph"
+        },
+        {
+            "nom": "Hajnal",
+            "lemme": "Hajnal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "Ian",
+            "lemme": "Ian"
+        },
+        {
+            "nom": "Young",
+            "lemme": "Young"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Technique",
+            "lemme": "technique"
+        },
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "réglant",
+            "lemme": "régler"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "temps",
+            "lemme": "temps"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "inversion",
+            "lemme": "inversion"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "TI",
+            "lemme": "ti"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "particulier",
+            "lemme": "particulier"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "annulé",
+            "lemme": "annuler"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "TI",
+            "lemme": "TI"
+        },
+        {
+            "nom": "approprié",
+            "lemme": "approprié"
+        },
+        {
+            "nom": "diffère",
+            "lemme": "diffèr"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "fonction",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "On",
+            "lemme": "on"
+        },
+        {
+            "nom": "obtient",
+            "lemme": "obtenir"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "TI",
+            "lemme": "ti"
+        },
+        {
+            "nom": "via",
+            "lemme": "via"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "formule",
+            "lemme": "formule"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "TI",
+            "lemme": "ti"
+        },
+        {
+            "nom": "=",
+            "lemme": "="
+        },
+        {
+            "nom": "ln⁡(2)⋅T1,{\\displaystyle",
+            "lemme": "ln⁡(2)⋅t1,{\\displaystyle"
+        },
+        {
+            "nom": "\\textrm",
+            "lemme": "\\textrm"
+        },
+        {
+            "nom": "TI}}=\\ln(2)\\cdot",
+            "lemme": "TI}}=\\ln(2)\\cdot"
+        },
+        {
+            "nom": "T_{1},\\,}en",
+            "lemme": "t_{1},\\,}en"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "termes",
+            "lemme": "terme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "faut",
+            "lemme": "falloir"
+        },
+        {
+            "nom": "généralement",
+            "lemme": "généralement"
+        },
+        {
+            "nom": "utiliser",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "TI",
+            "lemme": "ti"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "environ",
+            "lemme": "environ"
+        },
+        {
+            "nom": "70",
+            "lemme": "70"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "valeur",
+            "lemme": "valeur"
+        },
+        {
+            "nom": "T1",
+            "lemme": "t1"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "suppression",
+            "lemme": "suppression"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "vise",
+            "lemme": "vise"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "images",
+            "lemme": "image"
+        },
+        {
+            "nom": "pondérées",
+            "lemme": "pondérer"
+        },
+        {
+            "nom": "T1",
+            "lemme": "t1"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "privilégient",
+            "lemme": "privilégier"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "graisse",
+            "lemme": "graisse"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "rapport",
+            "lemme": "rapport"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "celui",
+            "lemme": "celui"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "eau",
+            "lemme": "eau"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ducoup",
+            "lemme": "Ducoup"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "TI",
+            "lemme": "TI"
+        },
+        {
+            "nom": "long",
+            "lemme": "long"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "ajusté",
+            "lemme": "ajusté"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sorte",
+            "lemme": "sorte"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "récupéré",
+            "lemme": "récupérer"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "point",
+            "lemme": "point"
+        },
+        {
+            "nom": "où",
+            "lemme": "où"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "eau",
+            "lemme": "eau"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "nul",
+            "lemme": "nul"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "obtiendra",
+            "lemme": "obtenir"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "image",
+            "lemme": "image"
+        },
+        {
+            "nom": "où",
+            "lemme": "où"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signal",
+            "lemme": "signal"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "LCS",
+            "lemme": "LCS"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "effacé",
+            "lemme": "effacer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Applications",
+            "lemme": "application"
+        },
+        {
+            "nom": "cliniques",
+            "lemme": "clinique"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "séquence",
+            "lemme": "séquence"
+        },
+        {
+            "nom": "FLAIR",
+            "lemme": "flair"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "particulièrement",
+            "lemme": "particulièrement"
+        },
+        {
+            "nom": "utile",
+            "lemme": "utile"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "évaluation",
+            "lemme": "évaluation"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "étude",
+            "lemme": "étude"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "système",
+            "lemme": "système"
+        },
+        {
+            "nom": "nerveux",
+            "lemme": "nerveux"
+        },
+        {
+            "nom": "central",
+            "lemme": "central"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "SNC",
+            "lemme": "snc"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "notamment",
+            "lemme": "notamment"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "accident",
+            "lemme": "accident"
+        },
+        {
+            "nom": "vasculaire",
+            "lemme": "vasculaire"
+        },
+        {
+            "nom": "cérébral",
+            "lemme": "cérébral"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "AVC",
+            "lemme": "AVC"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Sclérose",
+            "lemme": "sclérose"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "plaques",
+            "lemme": "plaque"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "SEP",
+            "lemme": "sep"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Hémorragie",
+            "lemme": "hémorragie"
+        },
+        {
+            "nom": "sous-arachnoïdienne",
+            "lemme": "sous-arachnoïdien"
+        },
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "traumatismes",
+            "lemme": "traumatisme"
+        },
+        {
+            "nom": "crâniens",
+            "lemme": "crânien"
+        },
+        {
+            "nom": "Méningite",
+            "lemme": "Méningite"
+        },
+        {
+            "nom": "Références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Liens",
+            "lemme": "lien"
+        },
+        {
+            "nom": "utiles",
+            "lemme": "utile"
+        },
+        {
+            "nom": "https://www.imaios.com/fr/e-mri/sequences/inversion-recuperation-stir-et-flair",
+            "lemme": "https://www.imaios.com/fr/e-mri/sequences/inversion-recuperation-stir-et-flair"
+        },
+        {
+            "nom": "FLAIR",
+            "lemme": "flair"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "info-radiologie.ch",
+            "lemme": "info-radiologie.ch"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "consulté",
+            "lemme": "consulter"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "25",
+            "lemme": "25"
+        },
+        {
+            "nom": "décembre",
+            "lemme": "décembre"
+        },
+        {
+            "nom": "2023",
+            "lemme": "2023"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Raymond",
+            "lemme": "Raymond"
+        },
+        {
+            "nom": "Chieng",
+            "lemme": "Chieng"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Fluid",
+            "lemme": "Fluid"
+        },
+        {
+            "nom": "attenuated",
+            "lemme": "attenuated"
+        },
+        {
+            "nom": "inversion",
+            "lemme": "inversion"
+        },
+        {
+            "nom": "recovery",
+            "lemme": "recovery"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "radiopaedia.org",
+            "lemme": "radiopaedia.org"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "2",
+            "lemme": "2"
+        },
+        {
+            "nom": "juin",
+            "lemme": "juin"
+        },
+        {
+            "nom": "2023",
+            "lemme": "2023"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "consulté",
+            "lemme": "consulter"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "25",
+            "lemme": "25"
+        },
+        {
+            "nom": "décembre",
+            "lemme": "décembre"
+        },
+        {
+            "nom": "2023",
+            "lemme": "2023"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

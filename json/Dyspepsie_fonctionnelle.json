@@ -1,2328 +1,2698 @@
 [
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
         },
         {
-            "mot": "correspond",
-            "id": "2160577"
+            "nom": "correspond",
+            "lemme": "correspondre"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "ensemble",
-            "id": "16133193"
+            "nom": "ensemble",
+            "lemme": "ensemble"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "symptômes",
+            "lemme": "symptôme"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "douleur",
-            "id": "417682"
+            "nom": "douleur",
+            "lemme": "douleur"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "malaise",
-            "id": "2444239"
+            "nom": "malaise",
+            "lemme": "malaise"
         },
         {
-            "mot": "épigastrique",
-            "id": "NULL"
+            "nom": "épigastrique",
+            "lemme": "épigastrique"
         },
         {
-            "mot": "région",
-            "id": "NULL"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "supérieure",
-            "id": "NULL"
+            "nom": "région",
+            "lemme": "région"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "supérieure",
+            "lemme": "supérieur"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "abdomen",
-            "id": "98484812"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "dont",
-            "id": "461256"
+            "nom": "abdomen",
+            "lemme": "abdomen"
         },
         {
-            "mot": "l",
-            "id": "138915"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "origine",
-            "id": "273472"
+            "nom": "dont",
+            "lemme": "dont"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "situerait",
-            "id": "2096007"
+            "nom": "origine",
+            "lemme": "origine"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "niveau",
-            "id": "4894369"
+            "nom": "situerait",
+            "lemme": "situer"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "niveau",
+            "lemme": "niveau"
         },
         {
-            "mot": "estomac",
-            "id": "426007"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "estomac",
+            "lemme": "estomac"
         },
         {
-            "mot": "structures",
-            "id": "11083355"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "proches",
-            "id": "3400275"
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "structures",
+            "lemme": "structure"
+        },
+        {
+            "nom": "proches",
+            "lemme": "proche"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ces",
-            "id": "2446001"
+            "nom": "Ces",
+            "lemme": "ce"
         },
         {
-            "mot": "troubles",
-            "id": "16090034"
+            "nom": "troubles",
+            "lemme": "trouble"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "sont",
+            "lemme": "être"
         },
         {
-            "mot": "fréquents",
-            "id": "NULL"
+            "nom": "fréquents",
+            "lemme": "fréquent"
         },
         {
-            "mot": "chroniques",
-            "id": "146134"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "chroniques",
+            "lemme": "chronique"
         },
         {
-            "mot": "ponctuels",
-            "id": "2249202"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "ils",
-            "id": "427503"
+            "nom": "ponctuels",
+            "lemme": "ponctuel"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "avoir",
-            "id": "402552"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "causes",
-            "id": "193336232"
-        },
-        {
-            "mot": "variées",
-            "id": "NULL"
-        },
-        {
-            "mot": "organiques",
-            "id": "396825"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "fonctionnelles",
-            "id": "403606"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Des",
-            "id": "314234"
+            "nom": "ils",
+            "lemme": "il"
         },
         {
-            "mot": "problèmes",
-            "id": "NULL"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "infectieux",
-            "id": "94713372"
+            "nom": "avoir",
+            "lemme": "avoir"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "causes",
+            "lemme": "cause"
         },
         {
-            "mot": "malformation",
-            "id": "16254148"
+            "nom": "variées",
+            "lemme": "varier"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "système",
-            "id": "NULL"
+            "nom": "organiques",
+            "lemme": "organique"
         },
         {
-            "mot": "cardia",
-            "id": "433084"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "pylore",
-            "id": "111398233"
+            "nom": "fonctionnelles",
+            "lemme": "fonctionnel"
         },
         {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "exemple",
-            "id": "15532284"
-        },
-        {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "cause",
-            "id": "15550576"
-        },
-        {
-            "mot": "ainsi",
-            "id": "15404421"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "déséquilibres",
-            "id": "NULL"
-        },
-        {
-            "mot": "hormonaux",
-            "id": "2046726"
-        },
-        {
-            "mot": "impliquant",
-            "id": "2042466"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "exemple",
-            "id": "15532284"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "mélatonine",
-            "id": "NULL"
-        },
-        {
-            "mot": "Épidémiologie",
-            "id": "NULL"
-        },
-        {
-            "mot": "prévalence",
-            "id": "NULL"
-        },
-        {
-            "mot": "La",
-            "id": "14424533"
-        },
-        {
-            "mot": "prévalence",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "dyspepsie",
-            "id": "101426526"
-        },
-        {
-            "mot": "chez",
-            "id": "420868"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "adulte",
-            "id": "11773368"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "comprise",
-            "id": "413431"
-        },
-        {
-            "mot": "entre",
-            "id": "15585076"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "Classification",
-            "id": "273455"
-        },
-        {
-            "mot": "simple",
-            "id": "17341162"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "dyspepsies",
-            "id": "2083975"
-        },
-        {
-            "mot": "On",
-            "id": "2529893"
-        },
-        {
-            "mot": "peut",
-            "id": "3577738"
-        },
-        {
-            "mot": "décrire",
-            "id": "NULL"
-        },
-        {
-            "mot": "cinq",
-            "id": "142408"
-        },
-        {
-            "mot": "grands",
-            "id": "160083"
-        },
-        {
-            "mot": "types",
-            "id": "417517"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "dyspepsie",
-            "id": "101426526"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "dyspepsies",
-            "id": "2083975"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "petits",
-            "id": "402119"
-        },
-        {
-            "mot": "estomacs",
-            "id": "2194843"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "patient",
-            "id": "15406494"
-        },
-        {
-            "mot": "a",
-            "id": "143768"
-        },
-        {
-            "mot": "faim",
-            "id": "137452"
-        },
-        {
-            "mot": "mais",
-            "id": "397741"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "vite",
-            "id": "145018"
-        },
-        {
-            "mot": "rassasié",
-            "id": "NULL"
-        },
-        {
-            "mot": "il",
-            "id": "1836399"
-        },
-        {
-            "mot": "ressent",
-            "id": "2116242"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "impression",
-            "id": "420264"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "plénitude",
-            "id": "NULL"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "poids",
-            "id": "2574098"
-        },
-        {
-            "mot": "gastrique",
-            "id": "156516258"
-        },
-        {
-            "mot": "post",
-            "id": "1842001"
-        },
-        {
-            "mot": "prandiale",
-            "id": "418309"
-        },
-        {
-            "mot": "après",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "prise",
-            "id": "414468"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "nourriture",
-            "id": "5570501"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "dyspepsies",
-            "id": "2083975"
-        },
-        {
-            "mot": "borboriques",
-            "id": "NULL"
-        },
-        {
-            "mot": "ballonnement",
-            "id": "208094501"
-        },
-        {
-            "mot": "post",
-            "id": "1842001"
-        },
-        {
-            "mot": "prandial",
-            "id": "206066"
-        },
-        {
-            "mot": "important",
-            "id": "5564630"
-        },
-        {
-            "mot": "éructations",
-            "id": "NULL"
-        },
-        {
-            "mot": "fréquentes",
-            "id": "NULL"
-        },
-        {
-            "mot": "déglutitions",
-            "id": "NULL"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "air",
-            "id": "11010982"
-        },
-        {
-            "mot": "fréquentes",
-            "id": "NULL"
-        },
-        {
-            "mot": "augmentées",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "anxiété",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "dyspepsies",
-            "id": "2083975"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "reflux",
-            "id": "3342343"
-        },
-        {
-            "mot": "gastro",
-            "id": "5629068"
-        },
-        {
-            "mot": "œsophagien",
-            "id": "NULL"
-        },
-        {
-            "mot": "brûlure",
-            "id": "NULL"
-        },
-        {
-            "mot": "rétrosternale",
-            "id": "NULL"
-        },
-        {
-            "mot": "notamment",
-            "id": "4240"
-        },
-        {
-            "mot": "lorsque",
-            "id": "10052624"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "patient",
-            "id": "15406494"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "penche",
-            "id": "2241168"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "avant",
-            "id": "5987039"
-        },
-        {
-            "mot": "qu'",
-            "id": "14718918"
-        },
-        {
-            "mot": "il",
-            "id": "1836399"
-        },
-        {
-            "mot": "a",
-            "id": "143768"
-        },
-        {
-            "mot": "mangé",
-            "id": "NULL"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "coutume",
-            "id": "10603120"
-        },
-        {
-            "mot": "quand",
-            "id": "403311"
-        },
-        {
-            "mot": "il",
-            "id": "1836399"
-        },
-        {
-            "mot": "se",
-            "id": "313787"
-        },
-        {
-            "mot": "repose",
-            "id": "3226772"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "plat",
-            "id": "415256"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "dyspepsies",
-            "id": "2083975"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "ulcérations",
-            "id": "NULL"
-        },
-        {
-            "mot": "gastriques",
-            "id": "424352"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "ulcères",
-            "id": "NULL"
-        },
-        {
-            "mot": "notamment",
-            "id": "4240"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "douleur",
-            "id": "417682"
-        },
-        {
-            "mot": "épigastrique",
-            "id": "NULL"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "réveille",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "nuit",
-            "id": "10870948"
-        },
-        {
-            "mot": "soulagée",
-            "id": "NULL"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "alimentation",
-            "id": "17050565"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "très",
-            "id": "NULL"
-        },
-        {
-            "mot": "bien",
-            "id": "15532334"
-        },
-        {
-            "mot": "localisée",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "dyspepsies",
-            "id": "2083975"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "mobilité",
-            "id": "NULL"
-        },
-        {
-            "mot": "intestinale",
-            "id": "396752"
-        },
-        {
-            "mot": "distension",
-            "id": "254647140"
-        },
-        {
-            "mot": "abdominale",
-            "id": "391665"
-        },
-        {
-            "mot": "satiété",
-            "id": "NULL"
-        },
-        {
-            "mot": "rapide",
-            "id": "416051"
-        },
-        {
-            "mot": "poids",
-            "id": "2574098"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "plénitude",
-            "id": "NULL"
-        },
-        {
-            "mot": "gastrique",
-            "id": "156516258"
-        },
-        {
-            "mot": "intolérances",
-            "id": "NULL"
-        },
-        {
-            "mot": "alimentaires",
-            "id": "1858744"
-        },
-        {
-            "mot": "multiples",
-            "id": "15519166"
-        },
-        {
-            "mot": "douleur",
-            "id": "417682"
-        },
-        {
-            "mot": "diffuse",
-            "id": "17050794"
-        },
-        {
-            "mot": "nausées",
-            "id": "NULL"
-        },
-        {
-            "mot": "fréquentes",
-            "id": "NULL"
-        },
-        {
-            "mot": "pouvant",
-            "id": "1971842"
-        },
-        {
-            "mot": "s'",
-            "id": "2282608"
-        },
-        {
-            "mot": "associer",
-            "id": "34441"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "syndrome",
-            "id": "16089555"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "intestin",
-            "id": "17052055"
-        },
-        {
-            "mot": "irritable",
-            "id": "5665"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Examens",
-            "id": "15519135"
+            "nom": "Des",
+            "lemme": "un"
         },
         {
-            "mot": "complémentaires",
-            "id": "NULL"
+            "nom": "problèmes",
+            "lemme": "problème"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "infectieux",
+            "lemme": "infectieux"
         },
         {
-            "mot": "distinction",
-            "id": "426184"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "entre",
-            "id": "15585076"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": "malformation",
+            "lemme": "malformation"
         },
         {
-            "mot": "organique",
-            "id": "123171906"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "système",
+            "lemme": "système"
         },
         {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": "cardia",
+            "lemme": "cardia"
         },
         {
-            "mot": "fonctionnelle",
-            "id": "49805"
+            "nom": "pylore",
+            "lemme": "pylore"
         },
         {
-            "mot": "repose",
-            "id": "3226772"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "exemple",
+            "lemme": "exemple"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "fibroscopie",
-            "id": "174592103"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "œsogastrique",
-            "id": "NULL"
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ainsi",
+            "lemme": "ainsi"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "déséquilibres",
+            "lemme": "déséquilibre"
+        },
+        {
+            "nom": "hormonaux",
+            "lemme": "hormonal"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "impliquant",
+            "lemme": "impliquer"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "exemple",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mélatonine",
+            "lemme": "mélatonine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "L'",
-            "id": "263030"
+            "nom": "Épidémiologie",
+            "lemme": "Épidémiologie"
         },
         {
-            "mot": "examen",
-            "id": "47928232"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "n'",
-            "id": "2233812"
+            "nom": "prévalence",
+            "lemme": "prévalence"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "cependant",
-            "id": "101535"
+            "nom": "prévalence",
+            "lemme": "prévalence"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "proposé",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "systématiquement",
-            "id": "NULL"
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
         },
         {
-            "mot": "si",
-            "id": "184281"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "adulte",
+            "lemme": "adulte"
         },
         {
-            "mot": "sont",
-            "id": "5558034"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "anciens",
-            "id": "399276"
+            "nom": "comprise",
+            "lemme": "comprendre"
         },
         {
-            "mot": "sans",
-            "id": "16089511"
+            "nom": "entre",
+            "lemme": "entrer"
         },
         {
-            "mot": "critère",
-            "id": "NULL"
+            "nom": "20",
+            "lemme": "20"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "gravité",
-            "id": "NULL"
+            "nom": "40",
+            "lemme": "40"
         },
         {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "répondent",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "médical",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "Classification",
+            "lemme": "classification"
         },
         {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": "simple",
+            "lemme": "simple"
         },
         {
-            "mot": "fonctionnelle",
-            "id": "49805"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "dyspepsies",
+            "lemme": "dyspepsie"
         },
         {
-            "mot": "classée",
-            "id": "NULL"
+            "nom": "On",
+            "lemme": "on"
         },
         {
-            "mot": "parmi",
-            "id": "2931856"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "décrire",
+            "lemme": "décrire"
         },
         {
-            "mot": "troubles",
-            "id": "16090034"
+            "nom": "cinq",
+            "lemme": "cinq"
         },
         {
-            "mot": "fonctionnels",
-            "id": "405357"
+            "nom": "grands",
+            "lemme": "grand"
         },
         {
-            "mot": "gastro",
-            "id": "5629068"
+            "nom": "types",
+            "lemme": "type"
         },
         {
-            "mot": "intestinaux",
-            "id": "412088"
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Traitement",
-            "id": "16090024"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "dyspepsies",
+            "lemme": "dyspepsie"
         },
         {
-            "mot": "prescription",
-            "id": "567655"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "petits",
+            "lemme": "petit"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "estomacs",
+            "lemme": "estomac"
         },
         {
-            "mot": "médicament",
-            "id": "NULL"
-        },
-        {
-            "mot": "faisant",
-            "id": "15519218"
-        },
-        {
-            "mot": "baisser",
-            "id": "91711"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "acidité",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "estomac",
-            "id": "426007"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "bien",
-            "id": "15532334"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "siméticone",
-            "id": "NULL"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "recommandée",
-            "id": "NULL"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "absence",
-            "id": "584580"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "Helicobacter",
-            "id": "1857770"
-        },
-        {
-            "mot": "Pylori",
-            "id": "17051227"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "maladies",
-            "id": "1763365"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "existe",
-            "id": "45446"
+            "nom": "patient",
+            "lemme": "patient"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "amylodiastase",
-            "id": "NULL"
+            "nom": "faim",
+            "lemme": "faim"
         },
         {
-            "mot": "disponible",
-            "id": "100702"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "mais",
+            "lemme": "mais"
         },
         {
-            "mot": "pharmacie",
-            "id": "153107"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "vite",
+            "lemme": "vite"
         },
         {
-            "mot": "raison",
-            "id": "15504811"
+            "nom": "rassasié",
+            "lemme": "rassasier"
         },
         {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "comprimés",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "croquer",
-            "id": "124836"
-        },
-        {
-            "mot": "après",
-            "id": "NULL"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "repas",
-            "id": "427812"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "au",
-            "id": "138621"
-        },
-        {
-            "mot": "moment",
-            "id": "415158"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "troubles",
-            "id": "16090034"
-        },
-        {
-            "mot": "ceci",
-            "id": "405777"
-        },
-        {
-            "mot": "étant",
-            "id": "NULL"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "appoint",
-            "id": "63156"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "il",
+            "lemme": "il"
         },
         {
-            "mot": "Haute",
-            "id": "15519191"
+            "nom": "ressent",
+            "lemme": "ressentir"
         },
         {
-            "mot": "autorité",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "impression",
+            "lemme": "impression"
         },
         {
-            "mot": "santé",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "publie",
-            "id": "2257952"
+            "nom": "plénitude",
+            "lemme": "plénitude"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "avis",
-            "id": "16392801"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "poids",
+            "lemme": "poids"
         },
         {
-            "mot": "amylodiastase",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "gastrique",
+            "lemme": "gastrique"
         },
         {
-            "mot": "concluant",
-            "id": "11958"
+            "nom": "post-prandiale",
+            "lemme": "post-prandial"
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "ce",
-            "id": "138967"
+            "nom": "après",
+            "lemme": "après"
         },
         {
-            "mot": "traitement",
-            "id": "16090024"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "prise",
+            "lemme": "prise"
         },
         {
-            "mot": "inefficace",
-            "id": "78214"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "nourriture",
+            "lemme": "nourriture"
         },
         {
-            "mot": "n'",
-            "id": "2233812"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "a",
-            "id": "143768"
-        },
-        {
-            "mot": "plus",
-            "id": "5721165"
-        },
-        {
-            "mot": "aucune",
-            "id": "426445"
-        },
-        {
-            "mot": "place",
-            "id": "434490"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "prise",
-            "id": "414468"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "charge",
-            "id": "416622"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "dyspepsies",
+            "lemme": "dyspepsie"
         },
         {
-            "mot": "possible",
-            "id": "5965847"
+            "nom": "borboriques",
+            "lemme": "borborique"
         },
         {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "réduire",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "dyspepsie",
-            "id": "101426526"
-        },
-        {
-            "mot": "par",
-            "id": "409087"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "exercices",
-            "id": "171729599"
-        },
-        {
-            "mot": "dont",
-            "id": "461256"
-        },
-        {
-            "mot": "entre",
-            "id": "15585076"
-        },
-        {
-            "mot": "autres",
-            "id": "402129"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "éructations",
-            "id": "NULL"
-        },
-        {
-            "mot": "répétées",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Selon",
-            "id": "2577623"
+            "nom": "ballonnement",
+            "lemme": "ballonnement"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "post-prandial",
+            "lemme": "post-prandial"
         },
         {
-            "mot": "essai",
-            "id": "78667607"
+            "nom": "important",
+            "lemme": "important"
         },
         {
-            "mot": "randomisé",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "éructations",
+            "lemme": "éructation"
         },
         {
-            "mot": "double",
-            "id": "16088763"
+            "nom": "fréquentes",
+            "lemme": "fréquent"
         },
         {
-            "mot": "aveugle",
-            "id": "425238"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "déglutitions",
+            "lemme": "déglutition"
         },
         {
-            "mot": "contrôlé",
-            "id": "NULL"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "air",
+            "lemme": "air"
         },
         {
-            "mot": "placebo",
-            "id": "1367337"
+            "nom": "fréquentes",
+            "lemme": "fréquente"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "curcuma",
-            "id": "3223160"
+            "nom": "augmentées",
+            "lemme": "augmenter"
         },
         {
-            "mot": "longa",
-            "id": "3302909"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "Linn",
-            "id": "10746842"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "anxiété",
+            "lemme": "anxiété"
         },
         {
-            "mot": "améliorer",
-            "id": "NULL"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "dyspeptiques",
-            "id": "2083983"
-        },
-        {
-            "mot": "améliorer",
-            "id": "NULL"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "qualité",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "vie",
-            "id": "431353"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "procurer",
-            "id": "6477"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "satisfaction",
-            "id": "121619498"
-        },
-        {
-            "mot": "équivalente",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "oméprazole",
-            "id": "NULL"
-        },
-        {
-            "mot": "dans",
-            "id": "17638136"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "dyspepsie",
-            "id": "101426526"
-        },
-        {
-            "mot": "fonctionnelle",
-            "id": "49805"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Une",
-            "id": "15606674"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "méta",
-            "id": "NULL"
+            "nom": "dyspepsies",
+            "lemme": "dyspepsier"
         },
         {
-            "mot": "analyse",
-            "id": "402333"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "reflux",
+            "lemme": "reflux"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "gastro-œsophagien",
+            "lemme": "gastro-œsophagien"
         },
         {
-            "mot": "conclu",
-            "id": "117799"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "remèdes",
-            "id": "NULL"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "base",
-            "id": "409360"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "plantes",
-            "id": "415132"
-        },
-        {
-            "mot": "comme",
-            "id": "186744723"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "menthacarine",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "combinaison",
-            "id": "15404412"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "huiles",
-            "id": "5841359"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "menthe",
-            "id": "3161421"
-        },
-        {
-            "mot": "poivrée",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "carvi",
-            "id": "15469357"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "gingembre",
-            "id": "104863687"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "artichaut",
-            "id": "94258923"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "réglisse",
-            "id": "NULL"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "jollab",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "combinaison",
-            "id": "15404412"
-        },
-        {
-            "mot": "d'",
-            "id": "263032"
-        },
-        {
-            "mot": "eau",
-            "id": "15197802"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "rose",
-            "id": "14738938"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "safran",
-            "id": "412269"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "sucre",
-            "id": "142209"
-        },
-        {
-            "mot": "candi",
-            "id": "413612"
-        },
-        {
-            "mot": "peuvent",
-            "id": "409650"
-        },
-        {
-            "mot": "être",
-            "id": "NULL"
-        },
-        {
-            "mot": "aussi",
-            "id": "14890874"
-        },
-        {
-            "mot": "bénéfiques",
-            "id": "NULL"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "thérapies",
-            "id": "NULL"
-        },
-        {
-            "mot": "conventionnelles",
-            "id": "405970"
-        },
-        {
-            "mot": "lors",
-            "id": "15562521"
-        },
-        {
-            "mot": "du",
-            "id": "99918255"
-        },
-        {
-            "mot": "traitement",
-            "id": "16090024"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "symptômes",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "L",
-            "id": "138915"
+            "nom": "brûlure",
+            "lemme": "brûlure"
         },
         {
-            "mot": "acuponcture",
-            "id": "237684376"
+            "nom": "rétrosternale",
+            "lemme": "rétrosternal"
         },
         {
-            "mot": "pourrait",
-            "id": "421721"
+            "nom": "notamment",
+            "lemme": "notamment"
         },
         {
-            "mot": "améliorer",
-            "id": "NULL"
+            "nom": "lorsque",
+            "lemme": "lorsque"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "symptômes",
-            "id": "NULL"
+            "nom": "patient",
+            "lemme": "patient"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "personnes",
-            "id": "1133448"
+            "nom": "penche",
+            "lemme": "pencher"
         },
         {
-            "mot": "souffrant",
-            "id": "29826"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "avant",
+            "lemme": "avant"
         },
         {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "sans",
-            "id": "16089511"
+            "nom": "qu'",
+            "lemme": "que"
         },
         {
-            "mot": "causes",
-            "id": "193336232"
+            "nom": "il",
+            "lemme": "il"
         },
         {
-            "mot": "sous",
-            "id": "16089533"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "jacente",
-            "id": "401363"
+            "nom": "mangé",
+            "lemme": "manger"
         },
         {
-            "mot": "identifiables",
-            "id": "2036554"
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "coutume",
+            "lemme": "coutume"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "quand",
+            "lemme": "quand"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "repose",
+            "lemme": "repose"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "plat",
+            "lemme": "plat"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Origine",
-            "id": "273472"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "dyspepsies",
+            "lemme": "dyspepsier"
         },
         {
-            "mot": "Pepsi",
-            "id": "153367"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "Cola",
-            "id": "401938"
+            "nom": "ulcérations",
+            "lemme": "ulcération"
         },
         {
-            "mot": "C'",
-            "id": "2140163"
+            "nom": "gastriques",
+            "lemme": "gastrique"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "ulcères",
+            "lemme": "ulcère"
         },
         {
-            "mot": "dyspepsie",
-            "id": "101426526"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "notamment",
+            "lemme": "notamment"
         },
         {
-            "mot": "provient",
-            "id": "1355684"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "douleur",
+            "lemme": "douleur"
         },
         {
-            "mot": "nom",
-            "id": "254652531"
+            "nom": "épigastrique",
+            "lemme": "épigastrique"
         },
         {
-            "mot": "Pepsi",
-            "id": "153367"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "Cola",
-            "id": "401938"
+            "nom": "réveille",
+            "lemme": "réveiller"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "était",
-            "id": "NULL"
+            "nom": "nuit",
+            "lemme": "nuit"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "origine",
-            "id": "273472"
+            "nom": "soulagée",
+            "lemme": "soulager"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "médicament",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "destiné",
-            "id": "NULL"
+            "nom": "alimentation",
+            "lemme": "alimentation"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "lutter",
-            "id": "2570607"
+            "nom": "très",
+            "lemme": "très"
         },
         {
-            "mot": "contre",
-            "id": "426382"
+            "nom": "bien",
+            "lemme": "bien"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "localisée",
+            "lemme": "localiser"
         },
         {
-            "mot": "problèmes",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "digestion",
-            "id": "97723952"
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "dyspepsies",
+            "lemme": "dyspepsier"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "Voir",
-            "id": "14772243"
+            "nom": "troubles",
+            "lemme": "trouble"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "mobilité",
+            "lemme": "mobilité"
         },
         {
-            "mot": "Bibliographie",
-            "id": "249394043"
+            "nom": "intestinale",
+            "lemme": "intestinal"
         },
         {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "Bubenik",
-            "id": "NULL"
-        },
-        {
-            "mot": "GA",
-            "id": "179300"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Localization",
-            "id": "17389593"
+            "nom": "distension",
+            "lemme": "distension"
         },
         {
-            "mot": "physiological",
-            "id": "17388752"
+            "nom": "abdominale",
+            "lemme": "abdominal"
         },
         {
-            "mot": "significance",
-            "id": "17048788"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "and",
-            "id": "5538562"
+            "nom": "satiété",
+            "lemme": "satiété"
         },
         {
-            "mot": "possible",
-            "id": "5965847"
+            "nom": "rapide",
+            "lemme": "rapide"
         },
         {
-            "mot": "clinical",
-            "id": "17023954"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "implication",
-            "id": "14677785"
+            "nom": "poids",
+            "lemme": "poids"
         },
         {
-            "mot": "of",
-            "id": "12862803"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "gastrointestinal",
-            "id": "464864"
+            "nom": "plénitude",
+            "lemme": "plénitude"
         },
         {
-            "mot": "melatonin",
-            "id": "16936575"
+            "nom": "gastrique",
+            "lemme": "gastrique"
         },
         {
-            "mot": "Biol",
-            "id": "408945"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Signals",
-            "id": "11651242"
+            "nom": "intolérances",
+            "lemme": "intolérance"
         },
         {
-            "mot": "Recept",
-            "id": "16056250"
+            "nom": "alimentaires",
+            "lemme": "alimentaire"
+        },
+        {
+            "nom": "multiples",
+            "lemme": "multiple"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "douleur",
+            "lemme": "douleur"
+        },
+        {
+            "nom": "diffuse",
+            "lemme": "diffus"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "nausées",
+            "lemme": "nausée"
+        },
+        {
+            "nom": "fréquentes",
+            "lemme": "fréquent"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pouvant",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "associer",
+            "lemme": "associer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "intestin",
+            "lemme": "intestin"
+        },
+        {
+            "nom": "irritable",
+            "lemme": "irritable"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Résumé",
-            "id": "NULL"
+            "nom": "Examens",
+            "lemme": "Examens"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "complémentaires",
+            "lemme": "complémentaire"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "distinction",
+            "lemme": "distinction"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "organique",
+            "lemme": "organique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "fonctionnelle",
+            "lemme": "fonctionnelle"
+        },
+        {
+            "nom": "repose",
+            "lemme": "repose"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "fibroscopie",
+            "lemme": "fibroscopie"
+        },
+        {
+            "nom": "œsogastrique",
+            "lemme": "œsogastriqu"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "examen",
+            "lemme": "examen"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "cependant",
+            "lemme": "cependant"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "proposé",
+            "lemme": "proposer"
+        },
+        {
+            "nom": "systématiquement",
+            "lemme": "systématiquement"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "anciens",
+            "lemme": "ancien"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "critère",
+            "lemme": "critère"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "gravité",
+            "lemme": "gravité"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "répondent",
+            "lemme": "répondre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "médical",
+            "lemme": "médical"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "fonctionnelle",
+            "lemme": "fonctionnelle"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "classée",
+            "lemme": "classer"
+        },
+        {
+            "nom": "parmi",
+            "lemme": "parmi"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "fonctionnels",
+            "lemme": "fonctionnel"
+        },
+        {
+            "nom": "gastro-intestinaux",
+            "lemme": "gastro-intestinal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "prescription",
+            "lemme": "prescription"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "faisant",
+            "lemme": "faire"
+        },
+        {
+            "nom": "baisser",
+            "lemme": "baisser"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "acidité",
+            "lemme": "acidité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "estomac",
+            "lemme": "estomac"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "siméticone",
+            "lemme": "siméticone"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "recommandée",
+            "lemme": "recommander"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "absence",
+            "lemme": "absence"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Helicobacter",
+            "lemme": "Helicobacter"
+        },
+        {
+            "nom": "Pylori",
+            "lemme": "Pylori"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "maladies",
+            "lemme": "maladie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "existe",
+            "lemme": "exister"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "amylodiastase",
+            "lemme": "amylodiastase"
+        },
+        {
+            "nom": "disponible",
+            "lemme": "disponible"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "raison",
+            "lemme": "raison"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "3",
+            "lemme": "3"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "4",
+            "lemme": "4"
+        },
+        {
+            "nom": "comprimés",
+            "lemme": "comprimé"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "croquer",
+            "lemme": "croquer"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "repas",
+            "lemme": "repas"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "moment",
+            "lemme": "moment"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ceci",
+            "lemme": "ceci"
+        },
+        {
+            "nom": "étant",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "appoint",
+            "lemme": "appoint"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "Haute",
+            "lemme": "haute"
+        },
+        {
+            "nom": "autorité",
+            "lemme": "autorité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": "publie",
+            "lemme": "publier"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "avis",
+            "lemme": "avis"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "amylodiastase",
+            "lemme": "amylodiastase"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "2005",
+            "lemme": "2005"
+        },
+        {
+            "nom": "concluant",
+            "lemme": "conclure"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "inefficace",
+            "lemme": "inefficace"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "aucune",
+            "lemme": "aucun"
+        },
+        {
+            "nom": "place",
+            "lemme": "place"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "prise",
+            "lemme": "prise"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "charge",
+            "lemme": "charge"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "possible",
+            "lemme": "possible"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "réduire",
+            "lemme": "réduire"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "exercices",
+            "lemme": "exercice"
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "entre",
+            "lemme": "entrer"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "éructations",
+            "lemme": "éructation"
+        },
+        {
+            "nom": "répétées",
+            "lemme": "répéter"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "essai",
+            "lemme": "essai"
+        },
+        {
+            "nom": "randomisé",
+            "lemme": "randomiser"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "double",
+            "lemme": "double"
+        },
+        {
+            "nom": "aveugle",
+            "lemme": "aveugle"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "contrôlé",
+            "lemme": "contrôler"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "placebo",
+            "lemme": "placebo"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "curcuma",
+            "lemme": "curcumer"
+        },
+        {
+            "nom": "longa",
+            "lemme": "longer"
+        },
+        {
+            "nom": "Linn",
+            "lemme": "linn"
+        },
+        {
+            "nom": "peut",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "améliorer",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "dyspeptiques",
+            "lemme": "dyspeptique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "améliorer",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "qualité",
+            "lemme": "qualité"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "vie",
+            "lemme": "vie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "procurer",
+            "lemme": "procurer"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "satisfaction",
+            "lemme": "satisfaction"
+        },
+        {
+            "nom": "équivalente",
+            "lemme": "équivalent"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "oméprazole",
+            "lemme": "oméprazole"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "fonctionnelle",
+            "lemme": "fonctionnelle"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Une",
+            "lemme": "un"
+        },
+        {
+            "nom": "méta-analyse",
+            "lemme": "méta-analyse"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "2021",
+            "lemme": "2021"
+        },
+        {
+            "nom": "a",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "conclu",
+            "lemme": "conclure"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "remèdes",
+            "lemme": "remède"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "base",
+            "lemme": "base"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "menthacarine",
+            "lemme": "menthacarine"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "combinaison",
+            "lemme": "combinaison"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "huiles",
+            "lemme": "huile"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "menthe",
+            "lemme": "menthe"
+        },
+        {
+            "nom": "poivrée",
+            "lemme": "poivrer"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "carvi",
+            "lemme": "carvi"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "gingembre",
+            "lemme": "gingembre"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "artichaut",
+            "lemme": "artichaut"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réglisse",
+            "lemme": "réglisse"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "jollab",
+            "lemme": "jollab"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "combinaison",
+            "lemme": "combinaison"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "eau",
+            "lemme": "eau"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "rose",
+            "lemme": "rose"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "safran",
+            "lemme": "safran"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sucre",
+            "lemme": "sucre"
+        },
+        {
+            "nom": "candi",
+            "lemme": "candi"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "bénéfiques",
+            "lemme": "bénéfique"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "thérapies",
+            "lemme": "thérapie"
+        },
+        {
+            "nom": "conventionnelles",
+            "lemme": "conventionnel"
+        },
+        {
+            "nom": "lors",
+            "lemme": "lors"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "traitement",
+            "lemme": "traitement"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "L'",
+            "lemme": "le"
+        },
+        {
+            "nom": "acuponcture",
+            "lemme": "acuponcture"
+        },
+        {
+            "nom": "pourrait",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "améliorer",
+            "lemme": "améliorer"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "symptômes",
+            "lemme": "symptôme"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "personnes",
+            "lemme": "personne"
+        },
+        {
+            "nom": "souffrant",
+            "lemme": "souffrir"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "sans",
+            "lemme": "sans"
+        },
+        {
+            "nom": "causes",
+            "lemme": "cause"
+        },
+        {
+            "nom": "sous-jacente",
+            "lemme": "sous-jacent"
+        },
+        {
+            "nom": "identifiables",
+            "lemme": "identifiable"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Pepsi",
+            "lemme": "Pepsi"
+        },
+        {
+            "nom": "Cola",
+            "lemme": "Cola"
+        },
+        {
+            "nom": "C'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dyspepsie",
+            "lemme": "dyspepsie"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "provient",
+            "lemme": "provenir"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "Pepsi",
+            "lemme": "Pepsi"
+        },
+        {
+            "nom": "Cola",
+            "lemme": "Cola"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "était",
+            "lemme": "être"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "médicament",
+            "lemme": "médicament"
+        },
+        {
+            "nom": "destiné",
+            "lemme": "destiner"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "lutter",
+            "lemme": "lutter"
+        },
+        {
+            "nom": "contre",
+            "lemme": "contre"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "problèmes",
+            "lemme": "problème"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "digestion",
+            "lemme": "digestion"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Bibliographie",
+            "lemme": "bibliographie"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Bubenik",
+            "lemme": "Bubenik"
+        },
+        {
+            "nom": "GA",
+            "lemme": "GA"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Localization",
+            "lemme": "Localization"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "physiological",
+            "lemme": "physiological"
+        },
+        {
+            "nom": "significance",
+            "lemme": "significance"
+        },
+        {
+            "nom": "and",
+            "lemme": "and"
+        },
+        {
+            "nom": "possible",
+            "lemme": "possible"
+        },
+        {
+            "nom": "clinical",
+            "lemme": "clinical"
+        },
+        {
+            "nom": "implication",
+            "lemme": "implication"
+        },
+        {
+            "nom": "of",
+            "lemme": "of"
+        },
+        {
+            "nom": "gastrointestinal",
+            "lemme": "gastrointestinal"
+        },
+        {
+            "nom": "melatonin",
+            "lemme": "melatonin"
+        },
+        {
+            "nom": "Biol",
+            "lemme": "Biol"
+        },
+        {
+            "nom": "Signals",
+            "lemme": "Signals"
+        },
+        {
+            "nom": "Recept",
+            "lemme": "Recept"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "2001;10:350–366",
+            "lemme": "2001;10:350–366"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Résumé",
+            "lemme": "Résumé"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
         }
     ]
 ]

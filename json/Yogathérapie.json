@@ -1,442 +1,476 @@
 [
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "yogathérapie",
-            "id": "NULL"
+            "nom": "yogathérapie",
+            "lemme": "yogathérapie"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "pratique",
-            "id": "432472"
+            "nom": "pratique",
+            "lemme": "pratique"
         },
         {
-            "mot": "pseudomédicale",
-            "id": "NULL"
+            "nom": "pseudomédicale",
+            "lemme": "pseudomédical"
         },
         {
-            "mot": "fondée",
-            "id": "NULL"
+            "nom": "fondée",
+            "lemme": "fonder"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "sur",
+            "lemme": "sur"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "usage",
-            "id": "415670"
+            "nom": "usage",
+            "lemme": "usage"
         },
         {
-            "mot": "santé",
-            "id": "NULL"
+            "nom": "santé",
+            "lemme": "santé"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "méthodes",
-            "id": "NULL"
+            "nom": "méthodes",
+            "lemme": "méthode"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "principes",
-            "id": "413136"
+            "nom": "principes",
+            "lemme": "principe"
         },
         {
-            "mot": "issus",
-            "id": "425950"
+            "nom": "issus",
+            "lemme": "issu"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "Yoga",
-            "id": "141748"
+            "nom": "Yoga",
+            "lemme": "yoga"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Historique",
-            "id": "412735"
+            "nom": "Historique",
+            "lemme": "historique"
         },
         {
-            "mot": "Comme",
-            "id": "186744723"
+            "nom": "Comme",
+            "lemme": "comme"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "plupart",
-            "id": "429767"
+            "nom": "plupart",
+            "lemme": "plupart"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "pratiques",
-            "id": "425735"
+            "nom": "pratiques",
+            "lemme": "pratique"
         },
         {
-            "mot": "pseudomédicales",
-            "id": "NULL"
+            "nom": "pseudomédicales",
+            "lemme": "pseudomédicale"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "yogathérapie",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "fait",
-            "id": "46933112"
+            "nom": "yogathérapie",
+            "lemme": "yogathérapie"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "fait",
+            "lemme": "faire"
         },
         {
-            "mot": "objet",
-            "id": "413085"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "objet",
+            "lemme": "objet"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "suivi",
-            "id": "5832960"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "suivi",
+            "lemme": "suivi"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "Miviludes",
-            "id": "135358568"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "Miviludes",
+            "lemme": "mivilude"
         },
         {
-            "mot": "raison",
-            "id": "15504811"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "raison",
+            "lemme": "raison"
         },
         {
-            "mot": "suspicions",
-            "id": "2113176"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "suspicions",
+            "lemme": "suspicion"
         },
         {
-            "mot": "dérives",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "sectaires",
-            "id": "2088733"
+            "nom": "dérives",
+            "lemme": "dérive"
+        },
+        {
+            "nom": "sectaires",
+            "lemme": "sectaire"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Des",
-            "id": "314234"
+            "nom": "Des",
+            "lemme": "un"
         },
         {
-            "mot": "alertes",
-            "id": "1986145"
+            "nom": "alertes",
+            "lemme": "alerte"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "effet",
-            "id": "15519170"
+            "nom": "effet",
+            "lemme": "effet"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "été",
+            "lemme": "être"
         },
         {
-            "mot": "émises",
-            "id": "NULL"
+            "nom": "émises",
+            "lemme": "émettre"
         },
         {
-            "mot": "concernant",
-            "id": "428757"
+            "nom": "concernant",
+            "lemme": "concerner"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "adeptes",
-            "id": "166368"
+            "nom": "adeptes",
+            "lemme": "adepte"
         },
         {
-            "mot": "abandonnant",
-            "id": "1980219"
+            "nom": "abandonnant",
+            "lemme": "abandonner"
         },
         {
-            "mot": "leurs",
-            "id": "413434"
+            "nom": "leurs",
+            "lemme": "leur"
         },
         {
-            "mot": "traitements",
-            "id": "156583671"
+            "nom": "traitements",
+            "lemme": "traitement"
         },
         {
-            "mot": "médicaux",
-            "id": "NULL"
+            "nom": "médicaux",
+            "lemme": "médical"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "subissant",
-            "id": "2107777"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "subissant",
+            "lemme": "subir"
         },
         {
-            "mot": "perte",
-            "id": "121534633"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "perte",
+            "lemme": "perte"
         },
         {
-            "mot": "poids",
-            "id": "2574098"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "très",
-            "id": "NULL"
+            "nom": "poids",
+            "lemme": "poids"
         },
         {
-            "mot": "importante",
-            "id": "161295"
+            "nom": "très",
+            "lemme": "très"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "importante",
+            "lemme": "important"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "suite",
-            "id": "10934677"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "suite",
+            "lemme": "suite"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "régime",
-            "id": "NULL"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "drastique",
-            "id": "124081"
+            "nom": "régime",
+            "lemme": "régime"
+        },
+        {
+            "nom": "drastique",
+            "lemme": "drastique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "outre",
-            "id": "415019"
+            "nom": "outre",
+            "lemme": "outre"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "dérives",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "complotistes",
-            "id": "14606636"
+            "nom": "dérives",
+            "lemme": "dérive"
         },
         {
-            "mot": "ont",
-            "id": "16512778"
+            "nom": "complotistes",
+            "lemme": "complotiste"
         },
         {
-            "mot": "pu",
-            "id": "2532819"
+            "nom": "ont",
+            "lemme": "avoir"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "pu",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "identifiées",
-            "id": "NULL"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "identifiées",
+            "lemme": "identifier"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Notes",
+            "lemme": "note"
         },
         {
-            "mot": "Liens",
-            "id": "409339"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "externes",
-            "id": "16087769"
+            "nom": "références",
+            "lemme": "référence"
         },
         {
-            "mot": "Plan",
-            "id": "14895280"
+            "nom": "Liens",
+            "lemme": "lien"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "externes",
+            "lemme": "externe"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "Plan",
+            "lemme": "plan"
         },
         {
-            "mot": "Thèse",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Prolégomènes",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "Thèse",
+            "lemme": "thèse"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "Prolégomènes",
+            "lemme": "Prolégomènes"
         },
         {
-            "mot": "Yogathérapie",
-            "id": "NULL"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "Groupe",
-            "id": "15625673"
+            "nom": "Yogathérapie",
+            "lemme": "yogathérapie"
         },
         {
-            "mot": "Fédération",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Française",
-            "id": "15517133"
+            "nom": "Groupe",
+            "lemme": "groupe"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Fédération",
+            "lemme": "fédération"
         },
         {
-            "mot": "Yoga",
-            "id": "141748"
+            "nom": "Française",
+            "lemme": "français"
         },
         {
-            "mot": "Thérapie",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "Yoga",
+            "lemme": "Yoga"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "Thérapie",
+            "lemme": "Thérapie"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "Portail",
+            "lemme": "Portail"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "médecine",
+            "lemme": "médecine"
         },
         {
-            "mot": "yoga",
-            "id": "141748"
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "yoga",
+            "lemme": "yoga"
         }
     ]
 ]

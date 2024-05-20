@@ -1,0 +1,3080 @@
+[
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "verte",
+            "lemme": "verte"
+        },
+        {
+            "nom": "sert",
+            "lemme": "sert"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "enseigne",
+            "lemme": "enseigne"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "pharmacies",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "France",
+            "lemme": "France"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "Belgique",
+            "lemme": "Belgique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "autres",
+            "lemme": "autre"
+        },
+        {
+            "nom": "pays",
+            "lemme": "pays"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": "À",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "latine",
+            "lemme": "latin"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "signe",
+            "lemme": "signe"
+        },
+        {
+            "nom": "distinctif",
+            "lemme": "distinctif"
+        },
+        {
+            "nom": "porté",
+            "lemme": "porter"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "soutane",
+            "lemme": "soutane"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "membres",
+            "lemme": "membre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "Clercs",
+            "lemme": "Clercs"
+        },
+        {
+            "nom": "réguliers",
+            "lemme": "régulier"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "malades",
+            "lemme": "malade"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "religieux",
+            "lemme": "religieux"
+        },
+        {
+            "nom": "catholique",
+            "lemme": "catholique"
+        },
+        {
+            "nom": "fondé",
+            "lemme": "fonder"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "Rome",
+            "lemme": "Rome"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "saint",
+            "lemme": "saint"
+        },
+        {
+            "nom": "Camille",
+            "lemme": "Camille"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Lellis",
+            "lemme": "Lellis"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "XVIe",
+            "lemme": "xvi"
+        },
+        {
+            "nom": "siècle",
+            "lemme": "siècle"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "enseignes",
+            "lemme": "enseigne"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pharmaceutique",
+            "lemme": "pharmaceutique"
+        },
+        {
+            "nom": "utilisaient",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "reconnaissance",
+            "lemme": "reconnaissance"
+        },
+        {
+            "nom": "internationale",
+            "lemme": "international"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "symbole",
+            "lemme": "symbole"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "organisation",
+            "lemme": "organisation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "1864",
+            "lemme": "1864"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "verte",
+            "lemme": "verte"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "imposa",
+            "lemme": "imposer"
+        },
+        {
+            "nom": "petit",
+            "lemme": "petit"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "petit",
+            "lemme": "petit"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "1913",
+            "lemme": "1913"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "loi",
+            "lemme": "loi"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "application",
+            "lemme": "application"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "actuel",
+            "lemme": "actuel"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "53",
+            "lemme": "53"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Ire",
+            "lemme": "Ire"
+        },
+        {
+            "nom": "Conventions",
+            "lemme": "Conventions"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "loi",
+            "lemme": "loi"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "24",
+            "lemme": "24"
+        },
+        {
+            "nom": "juillet",
+            "lemme": "juillet"
+        },
+        {
+            "nom": "1913",
+            "lemme": "1913"
+        },
+        {
+            "nom": "modifiée",
+            "lemme": "modifier"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "loi",
+            "lemme": "loi"
+        },
+        {
+            "nom": "4",
+            "lemme": "4"
+        },
+        {
+            "nom": "juillet",
+            "lemme": "juillet"
+        },
+        {
+            "nom": "1939",
+            "lemme": "1939"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "interdit",
+            "lemme": "interdire"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "utilisation",
+            "lemme": "utilisation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "comme",
+            "lemme": "comme"
+        },
+        {
+            "nom": "enseigne",
+            "lemme": "enseigne"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "mais",
+            "lemme": "mais"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "subsistera",
+            "lemme": "subsister"
+        },
+        {
+            "nom": "jusque",
+            "lemme": "jusqu"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "années",
+            "lemme": "année"
+        },
+        {
+            "nom": "1950",
+            "lemme": "1950"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "mêmes",
+            "lemme": "même"
+        },
+        {
+            "nom": "raisons",
+            "lemme": "raison"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "pays",
+            "lemme": "pays"
+        },
+        {
+            "nom": "musulmans",
+            "lemme": "musulman"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "symbole",
+            "lemme": "symbole"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "croissant",
+            "lemme": "croissant"
+        },
+        {
+            "nom": "vert",
+            "lemme": "vert"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Aujourd'hui",
+            "lemme": "aujourd'hui"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "choix",
+            "lemme": "choix"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "couleur",
+            "lemme": "couleur"
+        },
+        {
+            "nom": "verte",
+            "lemme": "vert"
+        },
+        {
+            "nom": "n'",
+            "lemme": "ne"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "vraiment",
+            "lemme": "vraiment"
+        },
+        {
+            "nom": "expliqué",
+            "lemme": "expliquer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Depuis",
+            "lemme": "depuis"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Révolution",
+            "lemme": "révolution"
+        },
+        {
+            "nom": "française",
+            "lemme": "français"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecins",
+            "lemme": "médecin"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmaciens",
+            "lemme": "pharmacien"
+        },
+        {
+            "nom": "militaires",
+            "lemme": "militaire"
+        },
+        {
+            "nom": "français",
+            "lemme": "français"
+        },
+        {
+            "nom": "ont",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "été",
+            "lemme": "être"
+        },
+        {
+            "nom": "distingués",
+            "lemme": "distinguer"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "uniforme",
+            "lemme": "uniforme"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "revers",
+            "lemme": "revers"
+        },
+        {
+            "nom": "bordé",
+            "lemme": "border"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "velours",
+            "lemme": "velours"
+        },
+        {
+            "nom": "cramoisi",
+            "lemme": "cramoisi"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "premiers",
+            "lemme": "premier"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "vert",
+            "lemme": "vert"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "seconds",
+            "lemme": "second"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "couleur",
+            "lemme": "couleur"
+        },
+        {
+            "nom": "verte",
+            "lemme": "vert"
+        },
+        {
+            "nom": "ayant",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "pu",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "choisie",
+            "lemme": "choisir"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "opposition",
+            "lemme": "opposition"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "rappeler",
+            "lemme": "rappeler"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "plantes",
+            "lemme": "plante"
+        },
+        {
+            "nom": "médicinales",
+            "lemme": "médicinal"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "première",
+            "lemme": "premier"
+        },
+        {
+            "nom": "mention",
+            "lemme": "mention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saint-Lazare",
+            "lemme": "saint-lazare"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jérusalem",
+            "lemme": "Jérusalem"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "hospitaliers",
+            "lemme": "hospitalier"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saint-Lazare",
+            "lemme": "saint-lazare"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jérusalem",
+            "lemme": "Jérusalem"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Notre-Dame",
+            "lemme": "Notre-Dame"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Mont-Carmel",
+            "lemme": "Mont-Carmel"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "trouvée",
+            "lemme": "trouvée"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "sources",
+            "lemme": "source"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "date",
+            "lemme": "date"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "1142",
+            "lemme": "1142"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "arbore",
+            "lemme": "arborer"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "verte",
+            "lemme": "vert"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "approuvé",
+            "lemme": "approuver"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1255",
+            "lemme": "1255"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "Alexandre",
+            "lemme": "Alexandre"
+        },
+        {
+            "nom": "IV",
+            "lemme": "iv"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "13",
+            "lemme": "13"
+        },
+        {
+            "nom": "novembre",
+            "lemme": "novembre"
+        },
+        {
+            "nom": "1572",
+            "lemme": "1572"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "pape",
+            "lemme": "pape"
+        },
+        {
+            "nom": "Grégoire",
+            "lemme": "Grégoire"
+        },
+        {
+            "nom": "XIII",
+            "lemme": "xiii"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "bulle",
+            "lemme": "bulle"
+        },
+        {
+            "nom": "Pro",
+            "lemme": "pro"
+        },
+        {
+            "nom": "Comissa",
+            "lemme": "Comissa"
+        },
+        {
+            "nom": "Nobis",
+            "lemme": "Nobis"
+        },
+        {
+            "nom": "réunit",
+            "lemme": "réunit"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saint-Lazare",
+            "lemme": "saint-lazare"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jérusalem",
+            "lemme": "Jérusalem"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "savoyard",
+            "lemme": "savoyard"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saint-Maurice",
+            "lemme": "Saint-Maurice"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "créé",
+            "lemme": "créer"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1434",
+            "lemme": "1434"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "former",
+            "lemme": "former"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "Ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saints-Maurice-et-Lazare",
+            "lemme": "saints-maurice-et-lazare"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1607",
+            "lemme": "1607"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Henri",
+            "lemme": "Henri"
+        },
+        {
+            "nom": "IV",
+            "lemme": "iv"
+        },
+        {
+            "nom": "fonde",
+            "lemme": "fond"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ordre",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Notre-Dame",
+            "lemme": "Notre-Dame"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Mont-Carmel",
+            "lemme": "Mont-Carmel"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "sceller",
+            "lemme": "sceller"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "réconciliation",
+            "lemme": "réconciliation"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "roi",
+            "lemme": "roi"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "France",
+            "lemme": "France"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "converti",
+            "lemme": "converti"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "catholicisme",
+            "lemme": "catholicisme"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1593",
+            "lemme": "1593"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "Saint-Siège",
+            "lemme": "Saint-Siège"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "pape",
+            "lemme": "pape"
+        },
+        {
+            "nom": "Paul",
+            "lemme": "Paul"
+        },
+        {
+            "nom": "V",
+            "lemme": "v"
+        },
+        {
+            "nom": "unit",
+            "lemme": "unir"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "chevaliers",
+            "lemme": "chevalier"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saint-Lazare",
+            "lemme": "Saint-Lazare"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Jérusalem",
+            "lemme": "Jérusalem"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "Chevaliers",
+            "lemme": "chevalier"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Notre-Dame",
+            "lemme": "Notre-Dame"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Mont-Carmel",
+            "lemme": "Mont-Carmel"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "fusion",
+            "lemme": "fusion"
+        },
+        {
+            "nom": "confirmée",
+            "lemme": "confirmer"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "5",
+            "lemme": "5"
+        },
+        {
+            "nom": "juin",
+            "lemme": "juin"
+        },
+        {
+            "nom": "1668",
+            "lemme": "1668"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "bulle",
+            "lemme": "bulle"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Cardinal",
+            "lemme": "Cardinal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Vendôme",
+            "lemme": "Vendôme"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "légat",
+            "lemme": "légat"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "pape",
+            "lemme": "pape"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "France",
+            "lemme": "France"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "pape",
+            "lemme": "pape"
+        },
+        {
+            "nom": "Clément",
+            "lemme": "clément"
+        },
+        {
+            "nom": "XIV",
+            "lemme": "xiv"
+        },
+        {
+            "nom": "fulmine",
+            "lemme": "fulmine"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "10",
+            "lemme": "10"
+        },
+        {
+            "nom": "décembre",
+            "lemme": "décembre"
+        },
+        {
+            "nom": "1772",
+            "lemme": "1772"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "bulle",
+            "lemme": "bulle"
+        },
+        {
+            "nom": "Institutio",
+            "lemme": "Institutio"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Ordinum",
+            "lemme": "Ordinum"
+        },
+        {
+            "nom": "Militarium",
+            "lemme": "militarium"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "laquelle",
+            "lemme": "lequel"
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "déclare",
+            "lemme": "déclarer"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "ordres",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "unis",
+            "lemme": "uni"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Saint-Lazare",
+            "lemme": "Saint-Lazare"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Notre-Dame-du-Mont-Carmel",
+            "lemme": "Notre-Dame-du-Mont-Carmel"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "seront",
+            "lemme": "être"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "qualifiés",
+            "lemme": "qualifié"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "ordres",
+            "lemme": "ordre"
+        },
+        {
+            "nom": "religieux",
+            "lemme": "religieux"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "https://compilhistoire.pagesperso-orange.fr/chevalerie.htm",
+            "lemme": "https://compilhistoire.pagesperso-orange.fr/chevalerie.htm"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Henry",
+            "lemme": "Henry"
+        },
+        {
+            "nom": "Dunant",
+            "lemme": "Dunant"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "fondateur",
+            "lemme": "fondateur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Croix",
+            "lemme": "Croix"
+        },
+        {
+            "nom": "Rouge",
+            "lemme": "Rouge"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "initiateur",
+            "lemme": "initiateur"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Convention",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "avait",
+            "lemme": "avoir"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1899",
+            "lemme": "1899"
+        },
+        {
+            "nom": "fondé",
+            "lemme": "fonder"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "association",
+            "lemme": "association"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Croix",
+            "lemme": "Croix"
+        },
+        {
+            "nom": "verte",
+            "lemme": "verte"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "disparue",
+            "lemme": "disparaître"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "1902",
+            "lemme": "1902"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Selon",
+            "lemme": "selon"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Première",
+            "lemme": "premier"
+        },
+        {
+            "nom": "Convention",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "choix",
+            "lemme": "choix"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "quatre",
+            "lemme": "quatre"
+        },
+        {
+            "nom": "branches",
+            "lemme": "branche"
+        },
+        {
+            "nom": "égales",
+            "lemme": "égal"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "hommage",
+            "lemme": "hommage"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Suisse",
+            "lemme": "Suisse"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "certains",
+            "lemme": "certain"
+        },
+        {
+            "nom": "cas",
+            "lemme": "cas"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "certaines",
+            "lemme": "certain"
+        },
+        {
+            "nom": "pharmacies",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "leurs",
+            "lemme": "leur"
+        },
+        {
+            "nom": "personnels",
+            "lemme": "personnel"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "utiliser",
+            "lemme": "utiliser"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "emblème",
+            "lemme": "emblème"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacies",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "Croix",
+            "lemme": "Croix"
+        },
+        {
+            "nom": "Rouge",
+            "lemme": "Rouge"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Service",
+            "lemme": "service"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "Armées",
+            "lemme": "armée"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "arborer",
+            "lemme": "arborer"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "emblème",
+            "lemme": "emblème"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "première",
+            "lemme": "premier"
+        },
+        {
+            "nom": "Convention",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacies",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "hôpitaux",
+            "lemme": "hôpital"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "unités",
+            "lemme": "unité"
+        },
+        {
+            "nom": "sanitaires",
+            "lemme": "sanitaire"
+        },
+        {
+            "nom": "civils",
+            "lemme": "civil"
+        },
+        {
+            "nom": "situés",
+            "lemme": "situer"
+        },
+        {
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "zone",
+            "lemme": "zone"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "combat",
+            "lemme": "combat"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "signaler",
+            "lemme": "signaler"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "emblème",
+            "lemme": "emblème"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "autorité",
+            "lemme": "autorité"
+        },
+        {
+            "nom": "doit",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "alors",
+            "lemme": "alors"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "remettre",
+            "lemme": "remettre"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "document",
+            "lemme": "document"
+        },
+        {
+            "nom": "attestant",
+            "lemme": "attester"
+        },
+        {
+            "nom": "qu'",
+            "lemme": "que"
+        },
+        {
+            "nom": "ils",
+            "lemme": "il"
+        },
+        {
+            "nom": "ne",
+            "lemme": "ne"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "pas",
+            "lemme": "pas"
+        },
+        {
+            "nom": "employés",
+            "lemme": "employer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "fins",
+            "lemme": "fin"
+        },
+        {
+            "nom": "militaires",
+            "lemme": "militaire"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Quatrième",
+            "lemme": "quatrième"
+        },
+        {
+            "nom": "Convention",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "article",
+            "lemme": "article"
+        },
+        {
+            "nom": "8",
+            "lemme": "8"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "Ier",
+            "lemme": "ier"
+        },
+        {
+            "nom": "protocole",
+            "lemme": "protocole"
+        },
+        {
+            "nom": "additionnel",
+            "lemme": "additionnel"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "Conventions",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": "définit",
+            "lemme": "définir"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "d\"unité",
+            "lemme": "d\"unité"
+        },
+        {
+            "nom": "sanitaire",
+            "lemme": "sanitaire"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "englobe",
+            "lemme": "englober"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacies",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "hôpitaux",
+            "lemme": "hôpital"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "unités",
+            "lemme": "unité"
+        },
+        {
+            "nom": "sanitaires",
+            "lemme": "sanitaire"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacies",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "effectuant",
+            "lemme": "effectuer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "missions",
+            "lemme": "mission"
+        },
+        {
+            "nom": "sous",
+            "lemme": "sou"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "auspices",
+            "lemme": "auspice"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "Nations",
+            "lemme": "nation"
+        },
+        {
+            "nom": "Unies",
+            "lemme": "unie"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "avec",
+            "lemme": "avec"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "accord",
+            "lemme": "accord"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "leur",
+            "lemme": "son"
+        },
+        {
+            "nom": "pays",
+            "lemme": "pays"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "origine",
+            "lemme": "origine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "porter",
+            "lemme": "porter"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "emblème",
+            "lemme": "emblème"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "IIIe",
+            "lemme": "IIIe"
+        },
+        {
+            "nom": "protocole",
+            "lemme": "protocole"
+        },
+        {
+            "nom": "additionnel",
+            "lemme": "additionnel"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "Conventions",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "matériel",
+            "lemme": "matériel"
+        },
+        {
+            "nom": "sanitaire",
+            "lemme": "sanitaire"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "produits",
+            "lemme": "produit"
+        },
+        {
+            "nom": "pharmaceutiques",
+            "lemme": "pharmaceutique"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "service",
+            "lemme": "service"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "santé",
+            "lemme": "santé"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "armées",
+            "lemme": "armée"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "marqués",
+            "lemme": "marquer"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "rouge",
+            "lemme": "rouge"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "Ire",
+            "lemme": "Ire"
+        },
+        {
+            "nom": "Convention",
+            "lemme": "convention"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Genève",
+            "lemme": "Genève"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Industrie",
+            "lemme": "industrie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        },
+        {
+            "nom": "Bien",
+            "lemme": "bien"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "soit",
+            "lemme": "être"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "marché",
+            "lemme": "marché"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "niche",
+            "lemme": "niche"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "fabricants",
+            "lemme": "fabricant"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "vertes",
+            "lemme": "vert"
+        },
+        {
+            "nom": "rivalisent",
+            "lemme": "rivaliser"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "imagination",
+            "lemme": "imagination"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "modèles",
+            "lemme": "modèle"
+        },
+        {
+            "nom": "électroniques",
+            "lemme": "électronique"
+        },
+        {
+            "nom": "donnent",
+            "lemme": "donner"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "heure",
+            "lemme": "heure"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "température",
+            "lemme": "température"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Certaines",
+            "lemme": "certains"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "même",
+            "lemme": "même"
+        },
+        {
+            "nom": "animées",
+            "lemme": "animer"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "peuvent",
+            "lemme": "pouvoir"
+        },
+        {
+            "nom": "être",
+            "lemme": "être"
+        },
+        {
+            "nom": "programmées",
+            "lemme": "programmer"
+        },
+        {
+            "nom": "depuis",
+            "lemme": "depuis"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "ordinateur",
+            "lemme": "ordinateur"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "croix",
+            "lemme": "croix"
+        },
+        {
+            "nom": "verte",
+            "lemme": "verte"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "associée",
+            "lemme": "associer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "coupe",
+            "lemme": "coupe"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Hygie",
+            "lemme": "hygie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "caducée",
+            "lemme": "caducée"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Caducée",
+            "lemme": "caducer"
+        },
+        {
+            "nom": "Coupe",
+            "lemme": "coupe"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "Hygie",
+            "lemme": "hygie"
+        },
+        {
+            "nom": "Croix",
+            "lemme": "Croix"
+        },
+        {
+            "nom": "verte",
+            "lemme": "verte"
+        },
+        {
+            "nom": "Références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "pharmacie",
+            "lemme": "pharmacie"
+        }
+    ]
+]

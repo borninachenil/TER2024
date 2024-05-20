@@ -1,1854 +1,2060 @@
 [
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "liposuccion",
-            "id": "49685"
+            "nom": "liposuccion",
+            "lemme": "liposuccion"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "appelée",
-            "id": "NULL"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "lipoaspiration",
-            "id": "293148"
+            "nom": "appelée",
+            "lemme": "appeler"
         },
         {
-            "mot": "ou",
-            "id": "102563973"
+            "nom": "lipoaspiration",
+            "lemme": "lipoaspiration"
         },
         {
-            "mot": "liposculpture",
-            "id": "293149"
+            "nom": "ou",
+            "lemme": "ou"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "liposculpture",
+            "lemme": "liposculptur"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "opération",
-            "id": "NULL"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "chirurgie",
-            "id": "151903"
+            "nom": "opération",
+            "lemme": "opération"
         },
         {
-            "mot": "esthétique",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "permettant",
-            "id": "2242077"
+            "nom": "chirurgie",
+            "lemme": "chirurgie"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "esthétique",
+            "lemme": "esthétique"
         },
         {
-            "mot": "remodelage",
-            "id": "257435436"
+            "nom": "permettant",
+            "lemme": "permettre"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "remodelage",
+            "lemme": "remodelage"
         },
         {
-            "mot": "silhouette",
-            "id": "144984"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "culotte",
-            "id": "2953869"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "silhouette",
+            "lemme": "silhouette"
         },
         {
-            "mot": "cheval",
-            "id": "145246"
+            "nom": "(",
+            "lemme": "("
         },
         {
-            "mot": "ventre",
-            "id": "402771"
+            "nom": "culotte",
+            "lemme": "culotte"
         },
         {
-            "mot": "flancs",
-            "id": "726836"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "cuisses",
-            "id": "16747252"
+            "nom": "cheval",
+            "lemme": "cheval"
         },
         {
-            "mot": "genoux",
-            "id": "10444408"
+            "nom": "ventre",
+            "lemme": "ventre"
         },
         {
-            "mot": "mollets",
-            "id": "156510"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "bras",
-            "id": "14893015"
+            "nom": "flancs",
+            "lemme": "flanc"
         },
         {
-            "mot": "seins",
-            "id": "397636"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "chez",
-            "id": "420868"
+            "nom": "cuisses",
+            "lemme": "cuisse"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "femmes",
-            "id": "16769719"
+            "nom": "genoux",
+            "lemme": "genou"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "aspiration",
-            "id": "91968382"
+            "nom": "mollets",
+            "lemme": "mollet"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "amas",
-            "id": "6014445"
+            "nom": "bras",
+            "lemme": "bras"
         },
         {
-            "mot": "graisseux",
-            "id": "49247"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "rebelles",
-            "id": "5812935"
+            "nom": "seins",
+            "lemme": "sein"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "profonds",
-            "id": "3228386"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "type",
-            "id": "5813161"
+            "nom": "femmes",
+            "lemme": "femme"
         },
         {
-            "mot": "cellulite",
-            "id": "142969"
+            "nom": ")",
+            "lemme": ")"
         },
         {
-            "mot": "résistants",
-            "id": "NULL"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "aspiration",
+            "lemme": "aspiration"
         },
         {
-            "mot": "régimes",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "amincissants",
-            "id": "1987496"
+            "nom": "amas",
+            "lemme": "amas"
+        },
+        {
+            "nom": "graisseux",
+            "lemme": "graisseux"
+        },
+        {
+            "nom": "rebelles",
+            "lemme": "rebelle"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "profonds",
+            "lemme": "profond"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "type",
+            "lemme": "type"
+        },
+        {
+            "nom": "cellulite",
+            "lemme": "cellulite"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "résistants",
+            "lemme": "résistant"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "régimes",
+            "lemme": "régime"
+        },
+        {
+            "nom": "amincissants",
+            "lemme": "amincissant"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Historique",
-            "id": "412735"
+            "nom": "Historique",
+            "lemme": "historique"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "première",
-            "id": "NULL"
+            "nom": "première",
+            "lemme": "premier"
         },
         {
-            "mot": "tentative",
-            "id": "425539"
+            "nom": "tentative",
+            "lemme": "tentative"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "liposuccion",
-            "id": "49685"
+            "nom": "liposuccion",
+            "lemme": "liposuccion"
         },
         {
-            "mot": "a",
-            "id": "143768"
+            "nom": "a",
+            "lemme": "avoir"
         },
         {
-            "mot": "été",
-            "id": "NULL"
+            "nom": "été",
+            "lemme": "être"
         },
         {
-            "mot": "réalisée",
-            "id": "NULL"
+            "nom": "réalisée",
+            "lemme": "réaliser"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "chirurgien",
-            "id": "5722981"
+            "nom": "chirurgien",
+            "lemme": "chirurgien"
         },
         {
-            "mot": "français",
-            "id": "NULL"
+            "nom": "français",
+            "lemme": "français"
         },
         {
-            "mot": "Charles",
-            "id": "164744"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "Dujarier",
-            "id": "16092044"
+            "nom": "Charles",
+            "lemme": "Charles"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "Dujarier",
+            "lemme": "Dujarier"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "années",
-            "id": "NULL"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "",
-            "id": "15910085"
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "années",
+            "lemme": "année"
+        },
+        {
+            "nom": "1920",
+            "lemme": "1920"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Malheureusement",
-            "id": "3294945"
+            "nom": "Malheureusement",
+            "lemme": "malheureusement"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "patiente",
-            "id": "158527"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "fut",
-            "id": "16094747"
+            "nom": "patiente",
+            "lemme": "patient"
         },
         {
-            "mot": "atteinte",
-            "id": "16075753"
+            "nom": "fut",
+            "lemme": "être"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "atteinte",
+            "lemme": "atteinte"
         },
         {
-            "mot": "gangrène",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "gangrène",
+            "lemme": "gangrène"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "suite",
-            "id": "10934677"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "suite",
+            "lemme": "suite"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "opération",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "opération",
+            "lemme": "opération"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ce",
-            "id": "138967"
+            "nom": "Ce",
+            "lemme": "ce"
         },
         {
-            "mot": "n'",
-            "id": "2233812"
+            "nom": "n'",
+            "lemme": "ne"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "qu'",
-            "id": "14718918"
+            "nom": "qu'",
+            "lemme": "que"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "que",
-            "id": "14890876"
+            "nom": "1974",
+            "lemme": "1974"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "liposuccion",
-            "id": "49685"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "moderne",
-            "id": "5814026"
+            "nom": "liposuccion",
+            "lemme": "liposuccion"
         },
         {
-            "mot": "fut",
-            "id": "16094747"
+            "nom": "moderne",
+            "lemme": "moderne"
         },
         {
-            "mot": "inventée",
-            "id": "NULL"
+            "nom": "fut",
+            "lemme": "être"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "inventée",
+            "lemme": "inventer"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "dermatologue",
-            "id": "143554543"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "italien",
-            "id": "151578"
+            "nom": "dermatologue",
+            "lemme": "dermatologue"
         },
         {
-            "mot": "Giorgio",
-            "id": "404560"
+            "nom": "italien",
+            "lemme": "italien"
         },
         {
-            "mot": "Fischer",
-            "id": "19077159"
+            "nom": "Giorgio",
+            "lemme": "Giorgio"
         },
         {
-            "mot": "grâce",
-            "id": "NULL"
+            "nom": "Fischer",
+            "lemme": "Fischer"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "grâce",
+            "lemme": "grâce"
         },
         {
-            "mot": "technique",
-            "id": "152187"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "technique",
+            "lemme": "technique"
         },
         {
-            "mot": "lipoaspiration",
-            "id": "293148"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "par",
-            "id": "409087"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "tunnelisation",
-            "id": "2372234"
+            "nom": "lipoaspiration",
+            "lemme": "lipoaspiration"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "par",
+            "lemme": "par"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "tunnelisation",
+            "lemme": "tunnelisation"
         },
         {
-            "mot": "devenue",
-            "id": "2063034"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "aujourd'",
-            "id": "NULL"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "hui",
-            "id": "425231"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "devenue",
+            "lemme": "devenir"
         },
         {
-            "mot": "opération",
-            "id": "NULL"
+            "nom": "aujourd'hui",
+            "lemme": "aujourd'hui"
         },
         {
-            "mot": "esthétique",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "opération",
+            "lemme": "opération"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "esthétique",
+            "lemme": "esthétique"
         },
         {
-            "mot": "pratiquée",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "pratiquée",
+            "lemme": "pratiquer"
         },
         {
-            "mot": "monde",
-            "id": "1788249"
+            "nom": "dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "monde.[réf",
+            "lemme": "monde.[réf"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "réf",
-            "id": "NULL"
+            "nom": "souhaitée",
+            "lemme": "souhaiter"
+        },
+        {
+            "nom": "Principe",
+            "lemme": "principe"
+        },
+        {
+            "nom": "C'",
+            "lemme": "ce"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "seule",
+            "lemme": "seul"
+        },
+        {
+            "nom": "technique",
+            "lemme": "technique"
+        },
+        {
+            "nom": "fiable",
+            "lemme": "fiable"
+        },
+        {
+            "nom": "pour",
+            "lemme": "pour"
+        },
+        {
+            "nom": "retirer",
+            "lemme": "retirer"
+        },
+        {
+            "nom": "efficacement",
+            "lemme": "efficacement"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "excès",
+            "lemme": "excès"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "tissu",
+            "lemme": "tissu"
+        },
+        {
+            "nom": "adipeux",
+            "lemme": "adipeux"
+        },
+        {
+            "nom": "résistant",
+            "lemme": "résistant"
+        },
+        {
+            "nom": "aux",
+            "lemme": "à"
+        },
+        {
+            "nom": "régimes",
+            "lemme": "régime"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "souhaitée",
-            "id": "NULL"
+            "nom": "Cette",
+            "lemme": "ce"
         },
         {
-            "mot": "Principe",
-            "id": "418540"
+            "nom": "technique",
+            "lemme": "technique"
         },
         {
-            "mot": "C'",
-            "id": "2140163"
+            "nom": "ne",
+            "lemme": "ne"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "s'",
+            "lemme": "se"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "adresse",
+            "lemme": "adresse"
         },
         {
-            "mot": "seule",
-            "id": "15606675"
+            "nom": "pas",
+            "lemme": "pas"
         },
         {
-            "mot": "technique",
-            "id": "152187"
+            "nom": "aux",
+            "lemme": "à"
         },
         {
-            "mot": "fiable",
-            "id": "15013843"
+            "nom": "obèses",
+            "lemme": "obèse"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "mais",
+            "lemme": "mais"
         },
         {
-            "mot": "retirer",
-            "id": "14530850"
+            "nom": "aux",
+            "lemme": "à"
         },
         {
-            "mot": "efficacement",
-            "id": "47350"
+            "nom": "personnes",
+            "lemme": "personne"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "excès",
-            "id": "NULL"
+            "nom": "souhaitent",
+            "lemme": "souhaiter"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "réduire",
+            "lemme": "réduire"
         },
         {
-            "mot": "tissu",
-            "id": "413277"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "adipeux",
-            "id": "36910"
+            "nom": "zone",
+            "lemme": "zone"
         },
         {
-            "mot": "résistant",
-            "id": "NULL"
+            "nom": "spécifique",
+            "lemme": "spécifique"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "régimes",
-            "id": "NULL"
+            "nom": "accumulation",
+            "lemme": "accumulation"
+        },
+        {
+            "nom": "adipeuse",
+            "lemme": "adipeux"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Cette",
-            "id": "419981"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "technique",
-            "id": "152187"
+            "nom": "principe",
+            "lemme": "principe"
         },
         {
-            "mot": "ne",
-            "id": "2447781"
+            "nom": "essentiel",
+            "lemme": "essentiel"
         },
         {
-            "mot": "s'",
-            "id": "2282608"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "adresse",
-            "id": "15953627"
+            "nom": "retenir",
+            "lemme": "retenir"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "que",
+            "lemme": "que"
         },
         {
-            "mot": "obèses",
-            "id": "NULL"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "mais",
-            "id": "397741"
+            "nom": "cellule",
+            "lemme": "cellule"
         },
         {
-            "mot": "aux",
-            "id": "15504815"
+            "nom": "graisseuse",
+            "lemme": "graisseux"
         },
         {
-            "mot": "personnes",
-            "id": "1133448"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "souhaitent",
-            "id": "2100780"
+            "nom": "adipocyte",
+            "lemme": "adipocyte"
         },
         {
-            "mot": "réduire",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "zone",
-            "id": "13397228"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "spécifique",
-            "id": "NULL"
+            "nom": "nombre",
+            "lemme": "nombre"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "fixe",
+            "lemme": "fixe"
         },
         {
-            "mot": "accumulation",
-            "id": "430192"
+            "nom": "chez",
+            "lemme": "chez"
         },
         {
-            "mot": "adipeuse",
-            "id": "404177"
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "individu",
+            "lemme": "individu"
+        },
+        {
+            "nom": "après",
+            "lemme": "après"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "puberté",
+            "lemme": "puberter"
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "signifie",
+            "lemme": "signifier"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "si",
+            "lemme": "si"
+        },
+        {
+            "nom": "on",
+            "lemme": "on"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "aspire",
+            "lemme": "aspire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "disparaît",
+            "lemme": "disparaître"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "c'",
+            "lemme": "ce"
         },
         {
-            "mot": "principe",
-            "id": "418540"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "essentiel",
-            "id": "10514891"
+            "nom": "définitif",
+            "lemme": "définitif"
         },
         {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "retenir",
-            "id": "99889"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "la",
-            "id": "14424533"
-        },
-        {
-            "mot": "cellule",
-            "id": "15404422"
-        },
-        {
-            "mot": "graisseuse",
-            "id": "157053"
-        },
-        {
-            "mot": "l",
-            "id": "138915"
-        },
-        {
-            "mot": "adipocyte",
-            "id": "17391764"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "nombre",
-            "id": "402302"
-        },
-        {
-            "mot": "fixe",
-            "id": "420916"
-        },
-        {
-            "mot": "chez",
-            "id": "420868"
-        },
-        {
-            "mot": "un",
-            "id": "256126039"
-        },
-        {
-            "mot": "individu",
-            "id": "425525"
-        },
-        {
-            "mot": "après",
-            "id": "NULL"
-        },
-        {
-            "mot": "sa",
-            "id": "187135358"
-        },
-        {
-            "mot": "puberté",
-            "id": "NULL"
-        },
-        {
-            "mot": "ce",
-            "id": "138967"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "signifie",
-            "id": "15513604"
-        },
-        {
-            "mot": "que",
-            "id": "14890876"
-        },
-        {
-            "mot": "si",
-            "id": "184281"
-        },
-        {
-            "mot": "on",
-            "id": "2529893"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "aspire",
-            "id": "11104708"
-        },
-        {
-            "mot": "elle",
-            "id": "9986297"
-        },
-        {
-            "mot": "disparaît",
-            "id": "NULL"
-        },
-        {
-            "mot": "c'",
-            "id": "2140163"
-        },
-        {
-            "mot": "est",
-            "id": "14424442"
-        },
-        {
-            "mot": "définitif",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ainsi",
-            "id": "15404421"
+            "nom": "Ainsi",
+            "lemme": "ainsi"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "lipoaspiration",
-            "id": "293148"
+            "nom": "lipoaspiration",
+            "lemme": "lipoaspiration"
         },
         {
-            "mot": "permet",
-            "id": "308648"
+            "nom": "permet",
+            "lemme": "permettre"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "ne",
-            "id": "2447781"
+            "nom": "ne",
+            "lemme": "ne"
         },
         {
-            "mot": "plus",
-            "id": "5721165"
+            "nom": "plus",
+            "lemme": "plus"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "tout",
-            "id": "429875"
+            "nom": "tout",
+            "lemme": "tout"
         },
         {
-            "mot": "grossir",
-            "id": "171024130"
+            "nom": "grossir",
+            "lemme": "grossir"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "zones",
-            "id": "2934163"
+            "nom": "zones",
+            "lemme": "zone"
         },
         {
-            "mot": "où",
-            "id": "NULL"
+            "nom": "où",
+            "lemme": "où"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "chirurgien",
-            "id": "5722981"
+            "nom": "chirurgien",
+            "lemme": "chirurgien"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "passé",
-            "id": "NULL"
+            "nom": "passé",
+            "lemme": "passer"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Cependant",
-            "id": "101535"
+            "nom": "Cependant",
+            "lemme": "cependant"
         },
         {
-            "mot": "il",
-            "id": "1836399"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "faut",
-            "id": "420502"
+            "nom": "il",
+            "lemme": "il"
         },
         {
-            "mot": "veiller",
-            "id": "10157247"
+            "nom": "faut",
+            "lemme": "falloir"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "veiller",
+            "lemme": "veiller"
         },
         {
-            "mot": "ne",
-            "id": "2447781"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "pas",
-            "id": "1853062"
+            "nom": "ne",
+            "lemme": "ne"
         },
         {
-            "mot": "prendre",
-            "id": "3158889"
+            "nom": "pas",
+            "lemme": "pas"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "prendre",
+            "lemme": "prendre"
         },
         {
-            "mot": "kilogrammes",
-            "id": "271758"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "ailleurs",
-            "id": "419159"
+            "nom": "kilogrammes",
+            "lemme": "kilogramme"
         },
         {
-            "mot": "car",
-            "id": "11494787"
+            "nom": "ailleurs",
+            "lemme": "ailleurs"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "cellules",
-            "id": "1858797"
+            "nom": "car",
+            "lemme": "car"
         },
         {
-            "mot": "graisseuses",
-            "id": "2051885"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "peuvent",
-            "id": "409650"
+            "nom": "cellules",
+            "lemme": "cellule"
         },
         {
-            "mot": "comme",
-            "id": "186744723"
+            "nom": "graisseuses",
+            "lemme": "graisseur"
         },
         {
-            "mot": "toute",
-            "id": "413455"
+            "nom": "peuvent",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "cellule",
-            "id": "15404422"
+            "nom": "comme",
+            "lemme": "comme"
         },
         {
-            "mot": "se",
-            "id": "313787"
+            "nom": "toute",
+            "lemme": "tout"
         },
         {
-            "mot": "multiplier",
-            "id": "21367"
+            "nom": "cellule",
+            "lemme": "cellule"
         },
         {
-            "mot": "ainsi",
-            "id": "15404421"
+            "nom": "se",
+            "lemme": "se"
         },
         {
-            "mot": "restocker",
-            "id": "2360457"
+            "nom": "multiplier",
+            "lemme": "multiplier"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "lipides",
-            "id": "251523411"
+            "nom": "ainsi",
+            "lemme": "ainsi"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "restocker",
+            "lemme": "restocker"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "cellulite",
-            "id": "142969"
+            "nom": "lipides",
+            "lemme": "lipide"
         },
         {
-            "mot": "revient",
-            "id": "117476"
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cellulite",
+            "lemme": "cellulite"
+        },
+        {
+            "nom": "revient",
+            "lemme": "revenir"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "lipoaspiration",
-            "id": "293148"
+            "nom": "lipoaspiration",
+            "lemme": "lipoaspiration"
         },
         {
-            "mot": "permet",
-            "id": "308648"
+            "nom": "permet",
+            "lemme": "permettre"
         },
         {
-            "mot": "donc",
-            "id": "10897693"
+            "nom": "donc",
+            "lemme": "donc"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "compléter",
-            "id": "NULL"
+            "nom": "compléter",
+            "lemme": "compléter"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "régime",
-            "id": "NULL"
+            "nom": "régime",
+            "lemme": "régime"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "liposuccion",
-            "id": "49685"
+            "nom": "liposuccion",
+            "lemme": "liposuccion"
         },
         {
-            "mot": "peut",
-            "id": "3577738"
+            "nom": "peut",
+            "lemme": "pouvoir"
         },
         {
-            "mot": "entraîner",
-            "id": "NULL"
+            "nom": "entraîner",
+            "lemme": "entraîner"
         },
         {
-            "mot": "deux",
-            "id": "14665637"
+            "nom": "deux",
+            "lemme": "deux"
         },
         {
-            "mot": "complications",
-            "id": "16785054"
+            "nom": "complications",
+            "lemme": "complication"
         },
         {
-            "mot": "graves",
-            "id": "148372"
+            "nom": "graves",
+            "lemme": "grave"
         },
         {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "embolie",
-            "id": "113976683"
-        },
-        {
-            "mot": "graisseuse",
-            "id": "157053"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "infection",
-            "id": "17051343"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "tissus",
-            "id": "5933763"
-        },
-        {
-            "mot": "provoquant",
-            "id": "26527"
-        },
-        {
-            "mot": "des",
-            "id": "314234"
-        },
-        {
-            "mot": "délabrements",
-            "id": "NULL"
-        },
-        {
-            "mot": "tissulaires",
-            "id": "426530"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "augmentant",
-            "id": "13246"
-        },
-        {
-            "mot": "le",
-            "id": "14488905"
-        },
-        {
-            "mot": "risque",
-            "id": "433840"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "septicémie",
-            "id": "NULL"
+            "nom": ":",
+            "lemme": ":"
         }
     ],
     [
         {
-            "mot": "Récupération",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "embolie",
+            "lemme": "embolie"
         },
         {
-            "mot": "Soins",
-            "id": "10057510"
+            "nom": "graisseuse",
+            "lemme": "graisseux"
         },
         {
-            "mot": "Post",
-            "id": "1842001"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "Opératoires",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "La",
-            "id": "14424533"
+            "nom": "infection",
+            "lemme": "infection"
         },
         {
-            "mot": "période",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "tissus",
+            "lemme": "tissu"
         },
         {
-            "mot": "convalescence",
-            "id": "22891"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "provoquant",
+            "lemme": "provoquer"
         },
         {
-            "mot": "suit",
-            "id": "5680865"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "une",
-            "id": "15606674"
+            "nom": "délabrements",
+            "lemme": "délabrement"
         },
         {
-            "mot": "liposuccion",
-            "id": "49685"
+            "nom": "tissulaires",
+            "lemme": "tissulaire"
         },
         {
-            "mot": "joue",
-            "id": "10663110"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "augmentant",
+            "lemme": "augmenter"
         },
         {
-            "mot": "rôle",
-            "id": "NULL"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "déterminant",
-            "id": "NULL"
+            "nom": "risque",
+            "lemme": "risque"
         },
         {
-            "mot": "dans",
-            "id": "17638136"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "septicémie",
+            "lemme": "septicémie"
         },
         {
-            "mot": "succès",
-            "id": "NULL"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "opération",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Juste",
-            "id": "146544"
+            "nom": "Récupération",
+            "lemme": "récupération"
         },
         {
-            "mot": "après",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "Soins",
+            "lemme": "soin"
         },
         {
-            "mot": "intervention",
-            "id": "415283"
+            "nom": "Post-Opératoires",
+            "lemme": "Post-Opératoires"
         },
         {
-            "mot": "durant",
-            "id": "143649"
+            "nom": "La",
+            "lemme": "le"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "période",
+            "lemme": "période"
         },
         {
-            "mot": "premières",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "heures",
-            "id": "143494"
+            "nom": "convalescence",
+            "lemme": "convalescence"
         },
         {
-            "mot": "il",
-            "id": "1836399"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "suit",
+            "lemme": "suivre"
         },
         {
-            "mot": "fréquent",
-            "id": "NULL"
+            "nom": "une",
+            "lemme": "un"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "liposuccion",
+            "lemme": "liposuccion"
         },
         {
-            "mot": "ressentir",
-            "id": "256159728"
+            "nom": "joue",
+            "lemme": "joue"
         },
         {
-            "mot": "un",
-            "id": "256126039"
+            "nom": "un",
+            "lemme": "un"
         },
         {
-            "mot": "certain",
-            "id": "414263"
+            "nom": "rôle",
+            "lemme": "rôle"
         },
         {
-            "mot": "inconfort",
-            "id": "250660993"
+            "nom": "déterminant",
+            "lemme": "déterminer"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "dans",
+            "lemme": "dans"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "remarquer",
-            "id": "98571"
+            "nom": "succès",
+            "lemme": "succès"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "bleus",
-            "id": "145108"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "sur",
-            "id": "409373"
+            "nom": "opération",
+            "lemme": "opération"
         },
         {
-            "mot": "les",
-            "id": "15021325"
-        },
-        {
-            "mot": "zones",
-            "id": "2934163"
-        },
-        {
-            "mot": "traitées",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Pour",
-            "id": "409376"
+            "nom": "Juste",
+            "lemme": "juste"
         },
         {
-            "mot": "gérer",
-            "id": "NULL"
+            "nom": "après",
+            "lemme": "après"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "douleur",
-            "id": "417682"
+            "nom": "intervention",
+            "lemme": "intervention"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "chirurgien",
-            "id": "5722981"
+            "nom": "durant",
+            "lemme": "durer"
         },
         {
-            "mot": "prescrit",
-            "id": "130332"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "premières",
+            "lemme": "premier"
         },
         {
-            "mot": "médicaments",
-            "id": "NULL"
+            "nom": "24",
+            "lemme": "24"
+        },
+        {
+            "nom": "heures",
+            "lemme": "heure"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "fréquent",
+            "lemme": "fréquent"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "ressentir",
+            "lemme": "ressentir"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "certain",
+            "lemme": "certain"
+        },
+        {
+            "nom": "inconfort",
+            "lemme": "inconfort"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "remarquer",
+            "lemme": "remarquer"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "bleus",
+            "lemme": "bleu"
+        },
+        {
+            "nom": "sur",
+            "lemme": "sur"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "zones",
+            "lemme": "zone"
+        },
+        {
+            "nom": "traitées",
+            "lemme": "traiter"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "Pour",
+            "lemme": "pour"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "gérer",
+            "lemme": "gérer"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "la",
+            "lemme": "le"
         },
         {
-            "mot": "souvent",
-            "id": "3382915"
+            "nom": "douleur",
+            "lemme": "douleur"
         },
         {
-            "mot": "conseillé",
-            "id": "NULL"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "porter",
-            "id": "146339"
+            "nom": "chirurgien",
+            "lemme": "chirurgien"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "prescrit",
+            "lemme": "prescrire"
         },
         {
-            "mot": "vêtements",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "compressifs",
-            "id": "2153190"
+            "nom": "médicaments",
+            "lemme": "médicament"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Ces",
-            "id": "2446001"
+            "nom": "Il",
+            "lemme": "il"
         },
         {
-            "mot": "derniers",
-            "id": "427910"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "aident",
-            "id": "1985531"
+            "nom": "aussi",
+            "lemme": "aussi"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "souvent",
+            "lemme": "souvent"
         },
         {
-            "mot": "diminuer",
-            "id": "113326"
+            "nom": "conseillé",
+            "lemme": "conseiller"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "enflure",
-            "id": "253222185"
+            "nom": "porter",
+            "lemme": "porter"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "des",
+            "lemme": "un"
         },
         {
-            "mot": "soutiennent",
-            "id": "2103511"
+            "nom": "vêtements",
+            "lemme": "vêtement"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "compressifs",
+            "lemme": "compressif"
         },
         {
-            "mot": "tissus",
-            "id": "5933763"
-        },
-        {
-            "mot": "en",
-            "id": "93554597"
-        },
-        {
-            "mot": "cours",
-            "id": "78667606"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "guérison",
-            "id": "NULL"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Prendre",
-            "id": "3158889"
+            "nom": "Ces",
+            "lemme": "ce"
         },
         {
-            "mot": "soin",
-            "id": "16089844"
+            "nom": "derniers",
+            "lemme": "dernier"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "aident",
+            "lemme": "aider"
         },
         {
-            "mot": "sa",
-            "id": "187135358"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "peau",
-            "id": "145091"
+            "nom": "diminuer",
+            "lemme": "diminuer"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "essentiel",
-            "id": "10514891"
+            "nom": "enflure",
+            "lemme": "enflure"
         },
         {
-            "mot": "pour",
-            "id": "409376"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "réduire",
-            "id": "NULL"
+            "nom": "soutiennent",
+            "lemme": "soutenir"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "risque",
-            "id": "433840"
+            "nom": "tissus",
+            "lemme": "tissu"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "cicatrices",
-            "id": "2146496"
+            "nom": "cours",
+            "lemme": "cours"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "guérison",
+            "lemme": "guérison"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Il",
-            "id": "1836399"
+            "nom": "Prendre",
+            "lemme": "prendre"
         },
         {
-            "mot": "est",
-            "id": "14424442"
+            "nom": "soin",
+            "lemme": "soin"
         },
         {
-            "mot": "important",
-            "id": "5564630"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "sa",
+            "lemme": "son"
         },
         {
-            "mot": "suivre",
-            "id": "157592088"
+            "nom": "peau",
+            "lemme": "peau"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "instructions",
-            "id": "405148"
+            "nom": "essentiel",
+            "lemme": "essentiel"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "pour",
+            "lemme": "pour"
         },
         {
-            "mot": "chirurgien",
-            "id": "5722981"
+            "nom": "réduire",
+            "lemme": "réduire"
         },
         {
-            "mot": "concernant",
-            "id": "428757"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "le",
-            "id": "14488905"
+            "nom": "risque",
+            "lemme": "risque"
         },
         {
-            "mot": "nettoyage",
-            "id": "3310094"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "cicatrices",
+            "lemme": "cicatrice"
         },
         {
-            "mot": "incisions",
-            "id": "3224600"
-        },
-        {
-            "mot": "et",
-            "id": "159139"
-        },
-        {
-            "mot": "l'",
-            "id": "263030"
-        },
-        {
-            "mot": "utilisation",
-            "id": "5998994"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "pommades",
-            "id": "2248951"
-        },
-        {
-            "mot": "ou",
-            "id": "102563973"
-        },
-        {
-            "mot": "de",
-            "id": "3320102"
-        },
-        {
-            "mot": "crèmes",
-            "id": "NULL"
-        },
-        {
-            "mot": "ce",
-            "id": "138967"
-        },
-        {
-            "mot": "qui",
-            "id": "14890871"
-        },
-        {
-            "mot": "contribue",
-            "id": "2158681"
-        },
-        {
-            "mot": "à",
-            "id": "NULL"
-        },
-        {
-            "mot": "une",
-            "id": "15606674"
-        },
-        {
-            "mot": "meilleure",
-            "id": "430444"
-        },
-        {
-            "mot": "cicatrisation",
-            "id": "156493759"
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "En",
-            "id": "93554597"
+            "nom": "Il",
+            "lemme": "il"
         },
         {
-            "mot": "ce",
-            "id": "138967"
+            "nom": "est",
+            "lemme": "être"
         },
         {
-            "mot": "qui",
-            "id": "14890871"
+            "nom": "important",
+            "lemme": "important"
         },
         {
-            "mot": "concerne",
-            "id": "425070"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "suivre",
+            "lemme": "suivre"
         },
         {
-            "mot": "exercice",
-            "id": "425502"
+            "nom": "les",
+            "lemme": "le"
         },
         {
-            "mot": "physique",
-            "id": "16089538"
+            "nom": "instructions",
+            "lemme": "instruction"
         },
         {
-            "mot": "il",
-            "id": "1836399"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "doit",
-            "id": "461257"
+            "nom": "chirurgien",
+            "lemme": "chirurgien"
         },
         {
-            "mot": "être",
-            "id": "NULL"
+            "nom": "concernant",
+            "lemme": "concerner"
         },
         {
-            "mot": "repris",
-            "id": "21576"
+            "nom": "le",
+            "lemme": "le"
         },
         {
-            "mot": "petit",
-            "id": "16512829"
+            "nom": "nettoyage",
+            "lemme": "nettoyage"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "des",
+            "lemme": "de"
         },
         {
-            "mot": "petit",
-            "id": "16512829"
+            "nom": "incisions",
+            "lemme": "incision"
         },
         {
-            "mot": "en",
-            "id": "93554597"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "respectant",
-            "id": "2115962"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "les",
-            "id": "15021325"
+            "nom": "utilisation",
+            "lemme": "utilisation"
         },
         {
-            "mot": "conseils",
-            "id": "416213"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "médicaux",
-            "id": "NULL"
+            "nom": "pommades",
+            "lemme": "pommade"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "crèmes",
+            "lemme": "crème"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "ce",
+            "lemme": "ce"
+        },
+        {
+            "nom": "qui",
+            "lemme": "qui"
+        },
+        {
+            "nom": "contribue",
+            "lemme": "contribuer"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "meilleure",
+            "lemme": "meilleur"
+        },
+        {
+            "nom": "cicatrisation",
+            "lemme": "cicatrisation"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Le",
-            "id": "14488905"
+            "nom": "En",
+            "lemme": "en"
         },
         {
-            "mot": "retour",
-            "id": "16242867"
+            "nom": "ce",
+            "lemme": "ce"
         },
         {
-            "mot": "au",
-            "id": "138621"
+            "nom": "qui",
+            "lemme": "qui"
         },
         {
-            "mot": "travail",
-            "id": "17638133"
+            "nom": "concerne",
+            "lemme": "concerner"
         },
         {
-            "mot": "dépend",
-            "id": "NULL"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "quant",
-            "id": "5933792"
+            "nom": "exercice",
+            "lemme": "exercice"
         },
         {
-            "mot": "à",
-            "id": "NULL"
+            "nom": "physique",
+            "lemme": "physique"
         },
         {
-            "mot": "lui",
-            "id": "14773174"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "il",
+            "lemme": "il"
         },
         {
-            "mot": "type",
-            "id": "5813161"
+            "nom": "doit",
+            "lemme": "devoir"
         },
         {
-            "mot": "d'",
-            "id": "263032"
+            "nom": "être",
+            "lemme": "être"
         },
         {
-            "mot": "emploi",
-            "id": "411618"
+            "nom": "repris",
+            "lemme": "reprendre"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "petit",
+            "lemme": "petit"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "petit",
+            "lemme": "petit"
         },
         {
-            "mot": "ampleur",
-            "id": "71631"
+            "nom": ",",
+            "lemme": ","
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "en",
+            "lemme": "en"
         },
         {
-            "mot": "l'",
-            "id": "263030"
+            "nom": "respectant",
+            "lemme": "respecter"
         },
         {
-            "mot": "intervention",
-            "id": "415283"
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "conseils",
+            "lemme": "conseil"
+        },
+        {
+            "nom": "médicaux",
+            "lemme": "médical"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
         }
     ],
     [
         {
-            "mot": "Voir",
-            "id": "14772243"
+            "nom": "Le",
+            "lemme": "le"
         },
         {
-            "mot": "aussi",
-            "id": "14890874"
+            "nom": "retour",
+            "lemme": "retour"
         },
         {
-            "mot": "Articles",
-            "id": "408042"
+            "nom": "au",
+            "lemme": "au"
         },
         {
-            "mot": "connexes",
-            "id": "403121"
+            "nom": "travail",
+            "lemme": "travail"
         },
         {
-            "mot": "Lipodissolution",
-            "id": "NULL"
+            "nom": "dépend",
+            "lemme": "dépendre"
         },
         {
-            "mot": "Troubles",
-            "id": "16090034"
+            "nom": "quant",
+            "lemme": "quant"
         },
         {
-            "mot": "du",
-            "id": "99918255"
+            "nom": "à",
+            "lemme": "à"
         },
         {
-            "mot": "stockage",
-            "id": "14482867"
+            "nom": "lui",
+            "lemme": "luire"
         },
         {
-            "mot": "des",
-            "id": "314234"
+            "nom": "du",
+            "lemme": "de"
         },
         {
-            "mot": "lipides",
-            "id": "251523411"
+            "nom": "type",
+            "lemme": "type"
         },
         {
-            "mot": "Notes",
-            "id": "1840051"
+            "nom": "d'",
+            "lemme": "de"
         },
         {
-            "mot": "et",
-            "id": "159139"
+            "nom": "emploi",
+            "lemme": "emploi"
         },
         {
-            "mot": "références",
-            "id": "NULL"
+            "nom": "et",
+            "lemme": "et"
         },
         {
-            "mot": "Portail",
-            "id": "2585567"
+            "nom": "de",
+            "lemme": "de"
         },
         {
-            "mot": "de",
-            "id": "3320102"
+            "nom": "l'",
+            "lemme": "le"
         },
         {
-            "mot": "la",
-            "id": "14424533"
+            "nom": "ampleur",
+            "lemme": "ampleur"
         },
         {
-            "mot": "médecine",
-            "id": "NULL"
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "intervention",
+            "lemme": "intervention"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Voir",
+            "lemme": "voir"
+        },
+        {
+            "nom": "aussi",
+            "lemme": "aussi"
+        },
+        {
+            "nom": "Articles",
+            "lemme": "article"
+        },
+        {
+            "nom": "connexes",
+            "lemme": "connexe"
+        },
+        {
+            "nom": "Lipodissolution",
+            "lemme": "lipodissolution"
+        },
+        {
+            "nom": "Troubles",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "stockage",
+            "lemme": "stockage"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lipides",
+            "lemme": "lipide"
+        },
+        {
+            "nom": "Notes",
+            "lemme": "note"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "références",
+            "lemme": "référence"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
         }
     ]
 ]

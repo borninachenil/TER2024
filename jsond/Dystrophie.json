@@ -1,0 +1,1818 @@
+[
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "biologie",
+            "lemme": "biologie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "particulier",
+            "lemme": "particulier"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": ":",
+            "lemme": ":"
+        }
+    ],
+    [
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "nutrition",
+            "lemme": "nutrition"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "donc",
+            "lemme": "donc"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "sa",
+            "lemme": "son"
+        },
+        {
+            "nom": "croissance",
+            "lemme": "croissance"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dégénérescence",
+            "lemme": "dégénérescence"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "développement",
+            "lemme": "développement"
+        },
+        {
+            "nom": "défectueux",
+            "lemme": "défectueux"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "partie",
+            "lemme": "partie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "corps",
+            "lemme": "corps"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "En",
+            "lemme": "en"
+        },
+        {
+            "nom": "écologie",
+            "lemme": "écologie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "écosystème",
+            "lemme": "écosystème"
+        },
+        {
+            "nom": "lacustre",
+            "lemme": "lacustre"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "caractérise",
+            "lemme": "caractériser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "eaux",
+            "lemme": "eau"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "fois",
+            "lemme": "fois"
+        },
+        {
+            "nom": "riches",
+            "lemme": "riche"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "matière",
+            "lemme": "matière"
+        },
+        {
+            "nom": "organique",
+            "lemme": "organique"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "acides",
+            "lemme": "acide"
+        },
+        {
+            "nom": ";",
+            "lemme": ";"
+        }
+    ],
+    [
+        {
+            "nom": "il",
+            "lemme": "il"
+        },
+        {
+            "nom": "s'",
+            "lemme": "se"
+        },
+        {
+            "nom": "agit",
+            "lemme": "agir"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "milieu",
+            "lemme": "milieu"
+        },
+        {
+            "nom": "défavorable",
+            "lemme": "défavorable"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "décomposition",
+            "lemme": "décomposition"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "matière",
+            "lemme": "matière"
+        },
+        {
+            "nom": "organique",
+            "lemme": "organique"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Biologie",
+            "lemme": "biologie"
+        },
+        {
+            "nom": "La",
+            "lemme": "le"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "désigne",
+            "lemme": "désigner"
+        },
+        {
+            "nom": "toute",
+            "lemme": "tout"
+        },
+        {
+            "nom": "altération",
+            "lemme": "altération"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "tissulaire",
+            "lemme": "tissulaire"
+        },
+        {
+            "nom": "acquise",
+            "lemme": "acquise"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "liée",
+            "lemme": "lier"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "un",
+            "lemme": "un"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "nutritionnel",
+            "lemme": "nutritionnel"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "vasculaire",
+            "lemme": "vasculaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "hormonal",
+            "lemme": "hormonal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "nerveux",
+            "lemme": "nerveux"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "métabolique",
+            "lemme": "métabolique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Elle",
+            "lemme": "lui"
+        },
+        {
+            "nom": "correspond",
+            "lemme": "correspondre"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "phénomènes",
+            "lemme": "phénomène"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "adaptation",
+            "lemme": "adaptation"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "transformations",
+            "lemme": "transformation"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "structure",
+            "lemme": "structure"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": "correspondent",
+            "lemme": "correspondent"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "ajustement",
+            "lemme": "ajustement"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "activité",
+            "lemme": "activité"
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "fonction",
+            "lemme": "fonction"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "modifications",
+            "lemme": "modification"
+        },
+        {
+            "nom": "durables",
+            "lemme": "durable"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "lui",
+            "lemme": "luire"
+        },
+        {
+            "nom": "impose",
+            "lemme": "imposer"
+        },
+        {
+            "nom": "son",
+            "lemme": "son"
+        },
+        {
+            "nom": "environnement",
+            "lemme": "environnement"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Ces",
+            "lemme": "ce"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "réversibles",
+            "lemme": "réversible"
+        },
+        {
+            "nom": "lorsque",
+            "lemme": "lorsque"
+        },
+        {
+            "nom": "cesse",
+            "lemme": "cesser"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "cause",
+            "lemme": "cause"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Il",
+            "lemme": "il"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "rare",
+            "lemme": "rare"
+        },
+        {
+            "nom": "que",
+            "lemme": "que"
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "dues",
+            "lemme": "devoir"
+        },
+        {
+            "nom": "au",
+            "lemme": "au"
+        },
+        {
+            "nom": "trouble",
+            "lemme": "trouble"
+        },
+        {
+            "nom": "nutritionnel",
+            "lemme": "nutritionnel"
+        },
+        {
+            "nom": "soient",
+            "lemme": "être"
+        },
+        {
+            "nom": "homogènes",
+            "lemme": "homogène"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Le",
+            "lemme": "le"
+        },
+        {
+            "nom": "plus",
+            "lemme": "plus"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "en",
+            "lemme": "en"
+        },
+        {
+            "nom": "raison",
+            "lemme": "raison"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "phénomènes",
+            "lemme": "phénomène"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "compensation",
+            "lemme": "compensation"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "essais",
+            "lemme": "essai"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "régénération",
+            "lemme": "régénération"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "les",
+            "lemme": "le"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "atrophie",
+            "lemme": "atrophie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hypertrophie",
+            "lemme": "hypertrophie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hyperplasie",
+            "lemme": "hyperplasie"
+        },
+        {
+            "nom": "cellulaire",
+            "lemme": "cellulaire"
+        },
+        {
+            "nom": "sont",
+            "lemme": "être"
+        },
+        {
+            "nom": "associées",
+            "lemme": "associer"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "créent",
+            "lemme": "créer"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "aspects",
+            "lemme": "aspect"
+        },
+        {
+            "nom": "histologiques",
+            "lemme": "histologique"
+        },
+        {
+            "nom": "complexes",
+            "lemme": "complexe"
+        },
+        {
+            "nom": "dont",
+            "lemme": "dont"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "analyse",
+            "lemme": "analyse"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "difficile",
+            "lemme": "difficile"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Exemples",
+            "lemme": "exemple"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "dystrophies",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "Dans",
+            "lemme": "dans"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "mastose",
+            "lemme": "mastose"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "fibrokystique",
+            "lemme": "fibrokystique"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "sein",
+            "lemme": "sein"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "architecture",
+            "lemme": "architecture"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "organe",
+            "lemme": "organe"
+        },
+        {
+            "nom": "lobulaire",
+            "lemme": "lobulaire"
+        },
+        {
+            "nom": "est",
+            "lemme": "être"
+        },
+        {
+            "nom": "globalement",
+            "lemme": "globalement"
+        },
+        {
+            "nom": "préservée",
+            "lemme": "préserver"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "On",
+            "lemme": "on"
+        },
+        {
+            "nom": "trouve",
+            "lemme": "trouver"
+        },
+        {
+            "nom": "côte",
+            "lemme": "côte"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "côte",
+            "lemme": "côte"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "lésions",
+            "lemme": "lésion"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "atrophie",
+            "lemme": "atrophie"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "kystique",
+            "lemme": "kystique"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "canaux",
+            "lemme": "canal"
+        },
+        {
+            "nom": "galactophores",
+            "lemme": "galactophore"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "territoires",
+            "lemme": "territoire"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "régénération",
+            "lemme": "régénération"
+        },
+        {
+            "nom": "épithéliale",
+            "lemme": "épithélial"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "parfois",
+            "lemme": "parfois"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "métaplasie",
+            "lemme": "métaplasie"
+        },
+        {
+            "nom": "idrosadénoïde",
+            "lemme": "idrosadénoïd"
+        },
+        {
+            "nom": "canalaire",
+            "lemme": "canalair"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "fibrose",
+            "lemme": "fibrose"
+        },
+        {
+            "nom": "interstitielle",
+            "lemme": "interstitiel"
+        },
+        {
+            "nom": "souvent",
+            "lemme": "souvent"
+        },
+        {
+            "nom": "dense",
+            "lemme": "dense"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Les",
+            "lemme": "le"
+        },
+        {
+            "nom": "altérations",
+            "lemme": "altération"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "veines",
+            "lemme": "veine"
+        },
+        {
+            "nom": "varices",
+            "lemme": "varice"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "membres",
+            "lemme": "membre"
+        },
+        {
+            "nom": "inférieurs",
+            "lemme": "inférieur"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "varices",
+            "lemme": "varice"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "combinent",
+            "lemme": "combiner"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "phénomènes",
+            "lemme": "phénomène"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "atrophie",
+            "lemme": "atrophie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "hypertrophie",
+            "lemme": "hypertrophie"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "fibrose",
+            "lemme": "fibrose"
+        },
+        {
+            "nom": "interstitielle",
+            "lemme": "interstitiel"
+        },
+        {
+            "nom": ".",
+            "lemme": "."
+        }
+    ],
+    [
+        {
+            "nom": "Noms",
+            "lemme": "nom"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "comportant",
+            "lemme": "comporter"
+        },
+        {
+            "nom": "le",
+            "lemme": "le"
+        },
+        {
+            "nom": "terme",
+            "lemme": "terme"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "adiposogenitalis",
+            "lemme": "adiposogenitali"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Fröhlich",
+            "lemme": "Fröhlich"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "bullosa",
+            "lemme": "bullosa"
+        },
+        {
+            "nom": "hereditaria",
+            "lemme": "hereditaria"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "forme",
+            "lemme": "forme"
+        },
+        {
+            "nom": "rare",
+            "lemme": "rare"
+        },
+        {
+            "nom": "d'",
+            "lemme": "de"
+        },
+        {
+            "nom": "épidermolyse",
+            "lemme": "épidermolyse"
+        },
+        {
+            "nom": "héréditaire",
+            "lemme": "héréditaire"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "mesodermalis",
+            "lemme": "mesodermali"
+        },
+        {
+            "nom": "congenita",
+            "lemme": "congenita"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Marfan",
+            "lemme": "Marfan"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "muscularia",
+            "lemme": "muscularia"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "musculaire",
+            "lemme": "musculaire"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "myodystrophie",
+            "lemme": "myodystrophie"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "nom",
+            "lemme": "nom"
+        },
+        {
+            "nom": "collectif",
+            "lemme": "collectif"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "myopathies",
+            "lemme": "myopathie"
+        },
+        {
+            "nom": "héréditaires",
+            "lemme": "héréditaire"
+        },
+        {
+            "nom": "Maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Becker",
+            "lemme": "Becker"
+        },
+        {
+            "nom": "Maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Duchenne",
+            "lemme": "duchenne"
+        },
+        {
+            "nom": "Dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "facio",
+            "lemme": "facio"
+        },
+        {
+            "nom": "scapulo",
+            "lemme": "scapulo"
+        },
+        {
+            "nom": "humérale",
+            "lemme": "huméral"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Landouzy",
+            "lemme": "Landouzy"
+        },
+        {
+            "nom": "Dejerine",
+            "lemme": "Dejerine"
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "myotonica",
+            "lemme": "myotonica"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "maladie",
+            "lemme": "maladie"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Curschmann",
+            "lemme": "Curschmann"
+        },
+        {
+            "nom": "Steinert",
+            "lemme": "Steinert"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "myotonia",
+            "lemme": "myotonia"
+        },
+        {
+            "nom": "dystrophicans",
+            "lemme": "dystrophicans"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "myopathie",
+            "lemme": "myopathie"
+        },
+        {
+            "nom": "héréditaire",
+            "lemme": "héréditaire"
+        },
+        {
+            "nom": "dominante",
+            "lemme": "dominant"
+        },
+        {
+            "nom": "autosomale",
+            "lemme": "autosomal"
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "ophthalmoplegica",
+            "lemme": "ophthalmoplegica"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "héréditaire",
+            "lemme": "héréditaire"
+        },
+        {
+            "nom": "dominante",
+            "lemme": "dominant"
+        },
+        {
+            "nom": "autosomale",
+            "lemme": "autosomal"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œil",
+            "lemme": "œil"
+        },
+        {
+            "nom": "externe",
+            "lemme": "externe"
+        },
+        {
+            "nom": "et",
+            "lemme": "et"
+        },
+        {
+            "nom": "des",
+            "lemme": "un"
+        },
+        {
+            "nom": "muscles",
+            "lemme": "muscle"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "pharynx",
+            "lemme": "pharynx"
+        },
+        {
+            "nom": "à",
+            "lemme": "à"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "âge",
+            "lemme": "âge"
+        },
+        {
+            "nom": "adulte",
+            "lemme": "adulte"
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "oedematosa",
+            "lemme": "oedematosa"
+        },
+        {
+            "nom": "hereditaria",
+            "lemme": "hereditaria"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "lymphoedema",
+            "lemme": "lymphoedema"
+        },
+        {
+            "nom": "praecox",
+            "lemme": "praecox"
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "osteoplegica",
+            "lemme": "osteoplegicer"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "ostéodystrophie",
+            "lemme": "ostéodystrophie"
+        },
+        {
+            "nom": "Dystrophie",
+            "lemme": "Dystrophie"
+        },
+        {
+            "nom": "post-traumatique",
+            "lemme": "post-traumatiqu"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Südeck",
+            "lemme": "Südeck"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "algodystrophie",
+            "lemme": "algodystrophie"
+        },
+        {
+            "nom": "Dystrophia",
+            "lemme": "Dystrophia"
+        },
+        {
+            "nom": "retinae",
+            "lemme": "retinae"
+        },
+        {
+            "nom": "pigmentosa",
+            "lemme": "pigmentosa"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "retinitis",
+            "lemme": "retiniti"
+        },
+        {
+            "nom": "pigmentosa",
+            "lemme": "pigmentosa"
+        },
+        {
+            "nom": "Dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "sympathique",
+            "lemme": "sympathique"
+        },
+        {
+            "nom": "réflexe",
+            "lemme": "réflexe"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "Südeck",
+            "lemme": "Südeck"
+        },
+        {
+            "nom": "Dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "tapétorétinale",
+            "lemme": "tapétorétinal"
+        },
+        {
+            "nom": ",",
+            "lemme": ","
+        },
+        {
+            "nom": "syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "héréditaire",
+            "lemme": "héréditaire"
+        },
+        {
+            "nom": "se",
+            "lemme": "se"
+        },
+        {
+            "nom": "caractérisant",
+            "lemme": "caractériser"
+        },
+        {
+            "nom": "par",
+            "lemme": "par"
+        },
+        {
+            "nom": "une",
+            "lemme": "un"
+        },
+        {
+            "nom": "dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "du",
+            "lemme": "de"
+        },
+        {
+            "nom": "tapetum",
+            "lemme": "tapetum"
+        },
+        {
+            "nom": "nigrum",
+            "lemme": "nigrum"
+        },
+        {
+            "nom": "(",
+            "lemme": "("
+        },
+        {
+            "nom": "couche",
+            "lemme": "couche"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "pigment",
+            "lemme": "pigment"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "l'",
+            "lemme": "le"
+        },
+        {
+            "nom": "œil",
+            "lemme": "œil"
+        },
+        {
+            "nom": ")",
+            "lemme": ")"
+        },
+        {
+            "nom": "Dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "cornéenne",
+            "lemme": "cornéenne"
+        },
+        {
+            "nom": "Dystrophie",
+            "lemme": "dystrophie"
+        },
+        {
+            "nom": "ovarienne",
+            "lemme": "ovarien"
+        },
+        {
+            "nom": "ou",
+            "lemme": "ou"
+        },
+        {
+            "nom": "Syndrome",
+            "lemme": "syndrome"
+        },
+        {
+            "nom": "des",
+            "lemme": "de"
+        },
+        {
+            "nom": "ovaires",
+            "lemme": "ovaire"
+        },
+        {
+            "nom": "polykystiques",
+            "lemme": "polykystique"
+        },
+        {
+            "nom": "Portail",
+            "lemme": "Portail"
+        },
+        {
+            "nom": "de",
+            "lemme": "de"
+        },
+        {
+            "nom": "la",
+            "lemme": "le"
+        },
+        {
+            "nom": "médecine",
+            "lemme": "médecine"
+        }
+    ]
+]

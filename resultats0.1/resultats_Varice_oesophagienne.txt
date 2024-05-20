@@ -1,0 +1,4 @@
+augmentation;hypertension;r_has_causatif.txt;nom;le système porte
+augmentation;hypertension;r_has_causatif.txt;lemme;le système porte
+rupture;cause;r_has_symptomes.txt;lemme;être un
+traitement;urgence;r_has_symptomes.txt;lemme;être un
